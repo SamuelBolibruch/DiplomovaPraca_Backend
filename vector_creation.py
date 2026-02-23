@@ -21,6 +21,15 @@ IMU_RESAMPLE_HZ = 50.0      # uniform resampling freq pre FFT (Hz)
 IMU_MIN_FFT_SAMPLES = 64    # minimum sample count pre spectral entropy (po resamplingu)
 
 # -----------------------------
+# Cross-modal config (keystrokes <-> ACC)
+# -----------------------------
+ACC_KEY_PRE_MS = 100      # okno pred insertom
+ACC_KEY_POST_MS = 150     # okno po inserte
+ACC_LAG_MAX_MS = 150      # hľadaj peak po inserte max do 150ms
+FAST_DD_MS = 300          # fast vs slow threshold pre fast_slow_acc_ratio
+EPS = 1e-9
+
+# -----------------------------
 # Helpers: keystroke stats
 # -----------------------------
 def filter_intervals_ms(s: pd.Series, min_ms: float, max_ms: float) -> pd.Series:
@@ -433,6 +442,137 @@ def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -
     }
 
 # -----------------------------
+# Helpers: CROSS-MODAL ACC x KEYSTROKES (6 new features)
+# -----------------------------
+def compute_cross_acc_keystroke_features(
+    acc_round_df_clean: pd.DataFrame,
+    insert_times_ns: np.ndarray,
+) -> dict:
+    """
+    Cross-modal črty viazané na Insert timestampty (TimestampBeforeNs).
+    Očakáva: acc_round_df_clean už je pause-removed (g_clean), timestamp v ns.
+    """
+    out = {
+        "acc_peak_per_char_mean": 0.0,
+        "acc_jerk_peak_per_char_mean": 0.0,
+        "corr_dd_acc_energy": 0.0,
+        "acc_energy_per_char": 0.0,
+        "acc_peak_lag_mean_ms": 0.0,
+        "fast_slow_acc_ratio": 0.0,
+    }
+
+    if acc_round_df_clean is None or len(acc_round_df_clean) == 0:
+        return out
+    if insert_times_ns is None or len(insert_times_ns) == 0:
+        return out
+
+    g = acc_round_df_clean.sort_values("timestamp").copy()
+    for c in ["timestamp", "x", "y", "z"]:
+        g[c] = pd.to_numeric(g[c], errors="coerce")
+    g = g.dropna(subset=["timestamp", "x", "y", "z"])
+    if len(g) == 0:
+        return out
+
+    ts = g["timestamp"].astype(np.int64).to_numpy()
+    t_sec = (ts - ts[0]).astype(np.float64) / 1_000_000_000.0
+
+    x = g["x"].to_numpy(dtype=np.float64)
+    y = g["y"].to_numpy(dtype=np.float64)
+    z = g["z"].to_numpy(dtype=np.float64)
+
+    # rovnaká normalizácia ako ACC v global features
+    x, y, z = gravity_remove_ema(x, y, z, t_sec, tau=IMU_GRAVITY_TAU_SEC)
+    mag = np.sqrt(x*x + y*y + z*z)
+
+    # (1) acc_energy_per_char: sum(mag^2) / number of inserted chars
+    n_chars = int(len(insert_times_ns))
+    out["acc_energy_per_char"] = float(np.sum(mag * mag) / max(n_chars, 1))
+
+    pre_ns = int(ACC_KEY_PRE_MS * 1_000_000)
+    post_ns = int(ACC_KEY_POST_MS * 1_000_000)
+    lag_max_ns = int(ACC_LAG_MAX_MS * 1_000_000)
+
+    peaks = []
+    jerk_peaks = []
+    lags_ms = []
+
+    # (2) per-char peaks + jerk peaks + lag
+    for tk in insert_times_ns:
+        a = tk - pre_ns
+        b = tk + post_ns
+        m = (ts >= a) & (ts <= b)
+        if not np.any(m):
+            continue
+
+        mag_w = mag[m]
+        ts_w = ts[m]
+        tsec_w = (ts_w - ts_w[0]).astype(np.float64) / 1_000_000_000.0
+
+        peaks.append(float(np.max(mag_w)))
+
+        jerk_peak = 0.0
+        if len(mag_w) >= 3:
+            dm = np.diff(mag_w)
+            dt = np.diff(tsec_w)
+            valid = (dt > 0) & np.isfinite(dt) & np.isfinite(dm)
+            if np.any(valid):
+                jerk = np.abs(dm[valid] / dt[valid])
+                jerk_peak = float(np.max(jerk)) if len(jerk) > 0 else 0.0
+        jerk_peaks.append(jerk_peak)
+
+        mlag = (ts >= tk) & (ts <= tk + lag_max_ns)
+        if np.any(mlag):
+            idxs = np.where(mlag)[0]
+            local = mag[idxs]
+            j = int(idxs[int(np.argmax(local))])
+            lags_ms.append(float((ts[j] - tk) / 1_000_000.0))
+
+    out["acc_peak_per_char_mean"] = float(np.mean(peaks)) if len(peaks) > 0 else 0.0
+    out["acc_jerk_peak_per_char_mean"] = float(np.mean(jerk_peaks)) if len(jerk_peaks) > 0 else 0.0
+    out["acc_peak_lag_mean_ms"] = float(np.mean(lags_ms)) if len(lags_ms) > 0 else 0.0
+
+    # (3) interval energy + corr_dd_acc_energy + fast_slow_acc_ratio
+    if len(insert_times_ns) >= 2:
+        dd_ms = (insert_times_ns[1:] - insert_times_ns[:-1]) / 1_000_000.0
+        valid_dd = (dd_ms > MIN_INTERVAL_MS) & (dd_ms <= MAX_INTERVAL_MS) & np.isfinite(dd_ms)
+
+        dd_list = []
+        e_list = []
+        fast_e = 0.0
+        slow_e = 0.0
+
+        for i in range(1, len(insert_times_ns)):
+            if not valid_dd[i - 1]:
+                continue
+            t0 = int(insert_times_ns[i - 1])
+            t1 = int(insert_times_ns[i])
+
+            mi = (ts >= t0) & (ts <= t1)
+            if not np.any(mi):
+                continue
+
+            e = float(np.sum(mag[mi] * mag[mi]))  # energy in interval
+            d = float(dd_ms[i - 1])
+
+            dd_list.append(d)
+            e_list.append(e)
+
+            if d < FAST_DD_MS:
+                fast_e += e
+            else:
+                slow_e += e
+
+        if len(dd_list) >= 3:
+            c = float(np.corrcoef(np.array(dd_list), np.array(e_list))[0, 1])
+            out["corr_dd_acc_energy"] = 0.0 if np.isnan(c) else c
+        else:
+            out["corr_dd_acc_energy"] = 0.0
+
+        out["fast_slow_acc_ratio"] = float(fast_e / (slow_e + EPS)) if (fast_e > 0 or slow_e > 0) else 0.0
+
+    return out
+
+# -----------------------------
 # 1) Load keystrokes
 # -----------------------------
 df = pd.read_csv(KEYSTROKES_PATH)
@@ -446,6 +586,9 @@ master = []
 
 segments_by_round: dict[int, list[tuple[int, int]]] = {}
 round_bounds_list: list[dict] = []
+
+# NEW: store insert times for each round for cross-modal features
+insert_times_by_round: dict[int, np.ndarray] = {}
 
 print(
     f"{'RoundId':<8} | "
@@ -536,6 +679,15 @@ for round_id, group in df.groupby("RoundId", sort=True):
 
     insert_mask = (action_l == "insert")
     delete_mask = (action_l == "delete")
+
+    # NEW: store insert timestamps for cross-modal features (TimestampBeforeNs of inserts)
+    if "TimestampBeforeNs" in veta.columns and len(action_l) > 0:
+        ins_times = veta.loc[insert_mask, "TimestampBeforeNs"]
+        ins_times = pd.to_numeric(ins_times, errors="coerce").dropna().astype(np.int64).to_numpy()
+        ins_times = np.sort(ins_times)
+    else:
+        ins_times = np.array([], dtype=np.int64)
+    insert_times_by_round[int(round_id)] = ins_times
 
     insert_count = int(insert_mask.sum()) if len(action_l) > 0 else 0
     backspace_count = int(delete_mask.sum()) if len(action_l) > 0 else 0
@@ -776,8 +928,14 @@ try:
     for rid, g in acc_df.groupby("RoundId", sort=True):
         segs = segments_by_round.get(int(rid), [])
         g_clean = filter_sensor_by_segments(g, segs)  # pause-removal here
+
         row = {"RoundId": int(rid)}
         row.update(compute_global_sensor_features(g_clean, prefix="acc"))
+
+        # NEW: add 6 cross-modal features (ACC <-> keystrokes) based on insert timestamps
+        ins_times = insert_times_by_round.get(int(rid), np.array([], dtype=np.int64))
+        row.update(compute_cross_acc_keystroke_features(g_clean, ins_times))
+
         acc_rows.append(row)
 
     acc_global_df = pd.DataFrame(acc_rows) if len(acc_rows) > 0 else acc_global_df
@@ -839,6 +997,13 @@ ordered_cols = (
         "gyro_mag_median","gyro_mag_iqr","gyro_axis_corr_xy","gyro_axis_corr_xz","gyro_axis_corr_yz",
         "gyro_mag_p95","gyro_mag_p99","gyro_mag_mad","gyro_mag_trend_slope","gyro_mag_spectral_entropy","gyro_planarity","gyro_cv",
         "gyro_n_samples","gyro_duration_sec","gyro_dt_mean","gyro_dt_std","gyro_fs_hz",
+        # --- NEW cross-modal ACC features (append at end)
+        "acc_peak_per_char_mean",
+        "acc_jerk_peak_per_char_mean",
+        "corr_dd_acc_energy",
+        "acc_energy_per_char",
+        "acc_peak_lag_mean_ms",
+        "fast_slow_acc_ratio",
     ]
 )
 
@@ -854,3 +1019,4 @@ print(f"Filter FT/DD/UU: (0, {MAX_INTERVAL_MS}] ms")
 print("CPS/WPM: computed using effective typing time = sum(cleaned DD) (long pauses excluded).")
 print("Senzorové črty: computed from typing-only samples (pauzy odstránené pomocou segments_by_round).")
 print(f"IMU normalization: ACC gravity removal (tau={IMU_GRAVITY_TAU_SEC}s), FFT resample={IMU_RESAMPLE_HZ}Hz (min {IMU_MIN_FFT_SAMPLES} samples).")
+print(f"Cross-modal ACC: per-char window [-{ACC_KEY_PRE_MS}ms, +{ACC_KEY_POST_MS}ms], lag<= {ACC_LAG_MAX_MS}ms, FAST_DD_MS={FAST_DD_MS}ms.")
