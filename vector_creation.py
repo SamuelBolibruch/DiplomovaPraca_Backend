@@ -33,6 +33,7 @@ EPS = 1e-9
 XCORR_MAX_LAG_MS = 300    # hľadaj maximum korelácie v +/- 300ms
 RISE_FRAC = 0.8           # rise time: prvé prekročenie 80% peaku v post okne
 
+
 # -----------------------------
 # Helpers: keystroke stats
 # -----------------------------
@@ -70,6 +71,7 @@ def series_stats(prefix: str, s: pd.Series) -> dict:
         f"{prefix}_skew": safe_skew(s),
         f"{prefix}_kurt": safe_kurt(s),
     }
+
 
 # -----------------------------
 # Helpers: active typing segments + mapping sensors -> rounds + filtering sensors by segments
@@ -172,6 +174,7 @@ def load_sensor_csv(path: str) -> pd.DataFrame:
     s = s.dropna(subset=["timestamp", "x", "y", "z"])
     s["timestamp"] = s["timestamp"].astype(np.int64)
     return s
+
 
 # -----------------------------
 # Helpers: IMU normalization + resampling
@@ -301,10 +304,10 @@ def _integral_mag2_dt(mag: np.ndarray, t_sec: np.ndarray) -> float:
     valid = np.isfinite(dt) & (dt > 0) & np.isfinite(mag[:-1]) & np.isfinite(mag[1:])
     if not np.any(valid):
         return 0.0
-    # trapezoid na mag^2
     m2 = mag * mag
     area = 0.5 * (m2[:-1] + m2[1:]) * dt
     return float(np.sum(area[valid]))
+
 
 # -----------------------------
 # Helpers: GLOBAL sensor features (computed AFTER pause-removal, i.e., typing-only)
@@ -333,7 +336,6 @@ def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -
             f"{prefix}_mag_spectral_entropy": 0.0,
             f"{prefix}_planarity": 0.0,
             f"{prefix}_cv": 0.0,
-            # sampling-rate features
             f"{prefix}_n_samples": 0,
             f"{prefix}_duration_sec": 0.0,
             f"{prefix}_dt_mean": 0.0,
@@ -456,6 +458,7 @@ def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -
         f"{prefix}_fs_hz": float(samp["fs_hz"]),
     }
 
+
 # -----------------------------
 # Cross-modal: generic IMU <-> keystrokes (recommended set)
 # -----------------------------
@@ -470,29 +473,21 @@ def compute_cross_imu_keystroke_features(
 ) -> tuple[dict, np.ndarray]:
     """
     Vráti (features, per_char_peaks_array).
-
-    Cross-modal črty viazané na Insert timestampty (TimestampBeforeNs).
-    Očakáva: sensor_round_df_clean už je pause-removed, timestamp v ns.
-
-    prefix: "acc" alebo "gyro"
-    is_acc: True -> gravity_remove_ema, False -> gyro debias
     """
     out = {
-        # "top set" (modality-specific)
-        f"{prefix}_auc_per_char_mean": 0.0,                 # ∫ mag^2 dt v okne / char (mean cez inserty)
-        f"{prefix}_peak_to_rms_ratio_mean": 0.0,            # peak / rms v okne (mean)
-        f"{prefix}_post_pre_energy_ratio_mean": 0.0,        # Epost / Epre (mean)
-        f"{prefix}_rise_time_ms_mean": 0.0,                 # čas do prekročenia 0.8*peak v post okne (mean)
-        f"{prefix}_keystroke_xcorr_lag_ms": 0.0,            # lag maxima korelácie event-train vs IMU proxy
-        f"{prefix}_keystroke_xcorr_peak": 0.0,              # max korelácia (normalizovaná)
-        f"{prefix}_peak_space_minus_letter": 0.0,           # mean peak(space) - mean peak(letters)
-        # kompatibilné s tým, čo si už mal (teraz robustnejšie cez dt)
+        f"{prefix}_auc_per_char_mean": 0.0,
+        f"{prefix}_peak_to_rms_ratio_mean": 0.0,
+        f"{prefix}_post_pre_energy_ratio_mean": 0.0,
+        f"{prefix}_rise_time_ms_mean": 0.0,
+        f"{prefix}_keystroke_xcorr_lag_ms": 0.0,
+        f"{prefix}_keystroke_xcorr_peak": 0.0,
+        f"{prefix}_peak_space_minus_letter": 0.0,
         f"{prefix}_peak_per_char_mean": 0.0,
         f"{prefix}_jerk_peak_per_char_mean": 0.0,
-        f"{prefix}_energy_per_char": 0.0,                   # ∫ mag^2 dt / n_chars (typing-only)
+        f"{prefix}_energy_per_char": 0.0,
         f"{prefix}_peak_lag_mean_ms": 0.0,
-        f"corr_dd_{prefix}_energy": 0.0,                    # korelácia DD vs interval energy (integrál)
-        f"fast_slow_{prefix}_ratio": 0.0,                   # ratio fast vs slow interval energy
+        f"corr_dd_{prefix}_energy": 0.0,
+        f"fast_slow_{prefix}_ratio": 0.0,
     }
 
     if sensor_round_df_clean is None or len(sensor_round_df_clean) == 0:
@@ -523,7 +518,6 @@ def compute_cross_imu_keystroke_features(
 
     mag = np.sqrt(x*x + y*y + z*z)
 
-    # typing-only energy per char (robust integrál)
     n_chars = int(len(insert_times_ns))
     E_total = _integral_mag2_dt(mag, t_sec)
     out[f"{prefix}_energy_per_char"] = float(E_total / max(n_chars, 1))
@@ -540,7 +534,6 @@ def compute_cross_imu_keystroke_features(
     post_pre_ratio = []
     rise_times_ms = []
 
-    # per-char peaks and other window features
     for tk in insert_times_ns:
         a = tk - pre_ns
         b = tk + post_ns
@@ -555,14 +548,11 @@ def compute_cross_imu_keystroke_features(
         pk = float(np.max(mag_w))
         peaks.append(pk)
 
-        # window RMS
         rms_w = float(np.sqrt(np.mean(mag_w * mag_w))) if len(mag_w) > 0 else 0.0
         peak_to_rms.append(float(pk / (rms_w + EPS)))
 
-        # AUC (integrál mag^2 dt) v okne
         aucs.append(_integral_mag2_dt(mag_w, tsec_w))
 
-        # jerk peak (abs dmag/dt)
         jpk = 0.0
         if len(mag_w) >= 3:
             dm = np.diff(mag_w)
@@ -573,7 +563,6 @@ def compute_cross_imu_keystroke_features(
                 jpk = float(np.max(jerk)) if len(jerk) > 0 else 0.0
         jerk_peaks.append(jpk)
 
-        # peak lag (search [tk, tk + lag_max])
         mlag = (ts >= tk) & (ts <= tk + lag_max_ns)
         if np.any(mlag):
             idxs = np.where(mlag)[0]
@@ -581,14 +570,19 @@ def compute_cross_imu_keystroke_features(
             j = int(idxs[int(np.argmax(local))])
             lags_ms.append(float((ts[j] - tk) / 1_000_000.0))
 
-        # post/pre energy ratio
         pre_mask = (ts_w >= tk - pre_ns) & (ts_w < tk)
         post_mask = (ts_w >= tk) & (ts_w <= tk + post_ns)
-        Epre = _integral_mag2_dt(mag_w[pre_mask], (ts_w[pre_mask] - ts_w[pre_mask][0]).astype(np.float64)/1e9) if np.any(pre_mask) and np.sum(pre_mask) >= 2 else 0.0
-        Epost = _integral_mag2_dt(mag_w[post_mask], (ts_w[post_mask] - ts_w[post_mask][0]).astype(np.float64)/1e9) if np.any(post_mask) and np.sum(post_mask) >= 2 else 0.0
+
+        Epre = 0.0
+        if np.any(pre_mask) and np.sum(pre_mask) >= 2:
+            tpre = (ts_w[pre_mask] - ts_w[pre_mask][0]).astype(np.float64) / 1e9
+            Epre = _integral_mag2_dt(mag_w[pre_mask], tpre)
+        Epost = 0.0
+        if np.any(post_mask) and np.sum(post_mask) >= 2:
+            tpost = (ts_w[post_mask] - ts_w[post_mask][0]).astype(np.float64) / 1e9
+            Epost = _integral_mag2_dt(mag_w[post_mask], tpost)
         post_pre_ratio.append(float(Epost / (Epre + EPS)))
 
-        # rise time: first time in post window when mag >= RISE_FRAC * peak
         rt = 0.0
         if np.any(post_mask):
             ts_post = ts_w[post_mask]
@@ -610,7 +604,6 @@ def compute_cross_imu_keystroke_features(
     out[f"{prefix}_post_pre_energy_ratio_mean"] = float(np.mean(post_pre_ratio)) if len(post_pre_ratio) > 0 else 0.0
     out[f"{prefix}_rise_time_ms_mean"] = float(np.mean(rise_times_ms)) if len(rise_times_ms) > 0 else 0.0
 
-    # space vs letter peak difference
     def _mean_peak_for_times(times_ns: np.ndarray) -> float:
         if times_ns is None or len(times_ns) == 0:
             return 0.0
@@ -627,7 +620,6 @@ def compute_cross_imu_keystroke_features(
     letter_mean = _mean_peak_for_times(insert_letter_times_ns)
     out[f"{prefix}_peak_space_minus_letter"] = float(space_mean - letter_mean)
 
-    # interval features: corr DD vs energy, fast/slow ratio (energy = integrál mag^2 dt v intervale)
     if len(insert_times_ns) >= 2:
         dd_ms = (insert_times_ns[1:] - insert_times_ns[:-1]) / 1_000_000.0
         valid_dd = (dd_ms > MIN_INTERVAL_MS) & (dd_ms <= MAX_INTERVAL_MS) & np.isfinite(dd_ms)
@@ -670,40 +662,31 @@ def compute_cross_imu_keystroke_features(
 
         out[f"fast_slow_{prefix}_ratio"] = float(fast_e / (slow_e + EPS)) if (fast_e > 0 or slow_e > 0) else 0.0
 
-    # xcorr event train vs IMU proxy (abs dmag/dt) on uniform resample grid
-    # - build proxy on uniform t_u
     if len(ts) >= 8 and (ts[-1] > ts[0]):
         t_u, mag_u = resample_uniform(t_sec, mag, target_hz=IMU_RESAMPLE_HZ)
         if len(mag_u) >= max(32, IMU_MIN_FFT_SAMPLES // 2):
-            # proxy = abs derivative
             dm = np.diff(mag_u, prepend=mag_u[0])
             proxy = np.abs(dm) * float(IMU_RESAMPLE_HZ)
 
-            # event train on same grid: impulses at nearest indices (using insert times converted to seconds from start)
             ins_sec = (insert_times_ns.astype(np.int64) - ts[0]) / 1_000_000_000.0
             ins_sec = ins_sec[np.isfinite(ins_sec)]
             ev = np.zeros(len(t_u), dtype=np.float64)
             if len(ins_sec) > 0:
-                # nearest indices
                 idx = np.searchsorted(t_u, ins_sec)
                 idx = np.clip(idx, 0, len(t_u) - 1)
                 ev[idx] = 1.0
 
-            # zscore for normalized xcorr
             ev_z = _zscore(ev)
             pr_z = _zscore(proxy)
 
             max_lag = int(np.round((XCORR_MAX_LAG_MS / 1000.0) * IMU_RESAMPLE_HZ))
             if max_lag >= 1 and len(ev_z) > (2 * max_lag + 3):
-                # compute xcorr around zero-lag (full correlate then slice)
                 xc = np.correlate(pr_z, ev_z, mode="full")
-                # lags: -(n-1)..+(n-1), where xc center at n-1
                 center = len(ev_z) - 1
                 lo = center - max_lag
                 hi = center + max_lag + 1
                 xc_slice = xc[lo:hi]
 
-                # normalize by length (approx) to keep scale sane
                 denom = float(len(ev_z))
                 xc_slice = xc_slice / max(denom, 1.0)
 
@@ -714,6 +697,7 @@ def compute_cross_imu_keystroke_features(
 
     return out, peaks_arr
 
+
 # -----------------------------
 # Cross-modal: ACC <-> GYRO coupling (plus keystrokes)
 # -----------------------------
@@ -722,11 +706,6 @@ def compute_acc_gyro_coupling_features(
     gyro_clean: pd.DataFrame,
     insert_times_ns: np.ndarray,
 ) -> dict:
-    """
-    Vypočíta črty, ktoré potrebujú naraz ACC aj GYRO (a sú viazané na inserty):
-      - corr_acc_gyro_peak_per_char
-      - gyro_to_acc_energy_ratio_per_char_mean (∫mag^2 dt ratio / char)
-    """
     out = {
         "corr_acc_gyro_peak_per_char": 0.0,
         "gyro_to_acc_energy_ratio_per_char_mean": 0.0,
@@ -739,7 +718,6 @@ def compute_acc_gyro_coupling_features(
     if insert_times_ns is None or len(insert_times_ns) == 0:
         return out
 
-    # prepare acc mag
     a = acc_clean.sort_values("timestamp").copy()
     for c in ["timestamp", "x", "y", "z"]:
         a[c] = pd.to_numeric(a[c], errors="coerce")
@@ -754,7 +732,6 @@ def compute_acc_gyro_coupling_features(
     ax, ay, az = gravity_remove_ema(ax, ay, az, at_sec, tau=IMU_GRAVITY_TAU_SEC)
     amag = np.sqrt(ax*ax + ay*ay + az*az)
 
-    # prepare gyro mag
     g = gyro_clean.sort_values("timestamp").copy()
     for c in ["timestamp", "x", "y", "z"]:
         g[c] = pd.to_numeric(g[c], errors="coerce")
@@ -768,13 +745,13 @@ def compute_acc_gyro_coupling_features(
     gz = g["z"].to_numpy(dtype=np.float64) - float(np.mean(g["z"].to_numpy(dtype=np.float64)))
     gmag = np.sqrt(gx*gx + gy*gy + gz*gz)
 
-    # energy ratio per char (using robust integrals)
     n_chars = int(len(insert_times_ns))
     Eacc = _integral_mag2_dt(amag, at_sec)
     Egyro = _integral_mag2_dt(gmag, gt_sec)
-    out["gyro_to_acc_energy_ratio_per_char_mean"] = float((Egyro / max(n_chars, 1)) / ((Eacc / max(n_chars, 1)) + EPS))
+    out["gyro_to_acc_energy_ratio_per_char_mean"] = float(
+        (Egyro / max(n_chars, 1)) / ((Eacc / max(n_chars, 1)) + EPS)
+    )
 
-    # per-char peaks correlation
     pre_ns = int(ACC_KEY_PRE_MS * 1_000_000)
     post_ns = int(ACC_KEY_POST_MS * 1_000_000)
 
@@ -782,7 +759,6 @@ def compute_acc_gyro_coupling_features(
     gyro_peaks = []
 
     for tk in insert_times_ns:
-        # acc peak in window
         ma = (ats >= tk - pre_ns) & (ats <= tk + post_ns)
         mg = (gts >= tk - pre_ns) & (gts <= tk + post_ns)
         if np.any(ma) and np.any(mg):
@@ -795,12 +771,14 @@ def compute_acc_gyro_coupling_features(
 
     return out
 
+
 # -----------------------------
 # 1) Load keystrokes
 # -----------------------------
 df = pd.read_csv(KEYSTROKES_PATH)
 for col in ["TimestampBeforeNs", "TimestampAfterNs"]:
-    df[col] = pd.to_numeric(df[col], errors="coerce")
+    if col in df.columns:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
 
 # -----------------------------
 # 2) Build feature vectors (keystrokes) + prepare segments/bounds for sensors
@@ -810,7 +788,6 @@ master = []
 segments_by_round: dict[int, list[tuple[int, int]]] = {}
 round_bounds_list: list[dict] = []
 
-# store insert times for cross-modal features
 insert_times_by_round: dict[int, np.ndarray] = {}
 insert_space_times_by_round: dict[int, np.ndarray] = {}
 insert_letter_times_by_round: dict[int, np.ndarray] = {}
@@ -890,7 +867,7 @@ for round_id, group in df.groupby("RoundId", sort=True):
     insert_mask = (action_l == "insert")
     delete_mask = (action_l == "delete")
 
-    # Store insert times for this round
+    # Insert times (pre cross-modal)
     if "TimestampBeforeNs" in veta.columns and len(action_l) > 0:
         ins_times = veta.loc[insert_mask, "TimestampBeforeNs"]
         ins_times = pd.to_numeric(ins_times, errors="coerce").dropna().astype(np.int64).to_numpy()
@@ -899,7 +876,7 @@ for round_id, group in df.groupby("RoundId", sort=True):
         ins_times = np.array([], dtype=np.int64)
     insert_times_by_round[int(round_id)] = ins_times
 
-    # Also store space vs letter insert times (for cross-modal class features)
+    # space vs letter insert times
     keychar = veta["KeyChar"].astype(str) if "KeyChar" in veta.columns else pd.Series([""] * len(veta), dtype=str)
     keychar_l = keychar.str.lower()
 
@@ -908,13 +885,11 @@ for round_id, group in df.groupby("RoundId", sort=True):
         ins_keychar = keychar.iloc[ins_idx].astype(str).to_numpy()
 
         ins_before_ns = pd.to_numeric(veta["TimestampBeforeNs"].iloc[ins_idx], errors="coerce").dropna().astype(np.int64).to_numpy()
-        # align lengths safely
         mlen = min(len(ins_before_ns), len(ins_keychar))
         ins_before_ns = ins_before_ns[:mlen]
         ins_keychar = ins_keychar[:mlen]
 
         space_ns = ins_before_ns[ins_keychar == " "]
-        # letters: single char a-z
         kc = np.array([str(x).lower() for x in ins_keychar], dtype=object)
         letter_mask = np.array([(len(x) == 1 and x.isalpha()) for x in kc], dtype=bool)
         letter_ns = ins_before_ns[letter_mask]
@@ -1069,19 +1044,58 @@ for round_id, group in df.groupby("RoundId", sort=True):
     dd_ls = pd.Series(dd_ls, dtype=float)
     dd_sl = pd.Series(dd_sl, dtype=float)
 
+    # -----------------------------
+    # NEW: quality + length-normalized features (autentifikácia na passphrase)
+    # -----------------------------
+    n_inserts = int(insert_count)
+    n_dd_valid = int(dd_after)               # po filtrovaní (0, MAX]
+    n_ft_valid = int(ft_after)
+    n_uu_valid = int(uu_after)
+
+    backspace_per_char = float(backspace_count / max(n_inserts, 1))
+    burst_count_per_char = float(burst_count / max(n_inserts, 1))
+    long_pause_per_char = float(long_pause_count / max(n_inserts, 1))
+    micro_pause_per_char = float(micro_pause_count / max(n_inserts, 1))
+
+    # "quality ratios" (nevyhadzuješ vzorky, len dáš modelu info)
+    dd_valid_ratio = float(n_dd_valid / max(dd_before, 1))
+    ft_valid_ratio = float(n_ft_valid / max(ft_before, 1))
+    uu_valid_ratio = float(n_uu_valid / max(uu_before, 1))
+
     features = {
         "UserId": veta["UserId"].iloc[0] if "UserId" in veta.columns and len(veta) > 0 else None,
         "RoundId": int(round_id),
+
+        # core
         "cps": float(cps),
         "wpm": float(wpm),
         "total_duration": float(total_duration),
         "typing_efficiency": float(typing_efficiency),
+
+        # raw editing
         "error_rate": float(error_rate),
         "backspace_count": int(backspace_count),
         "mean_corr_time": float(mean_corr_time),
         "mean_burst_size": float(mean_burst_size),
         "burst_count": int(burst_count),
         "max_burst_size": int(max_burst_size),
+
+        # NEW: quality/length metrics
+        "n_inserts": int(n_inserts),
+        "n_dd_valid": int(n_dd_valid),
+        "n_ft_valid": int(n_ft_valid),
+        "n_uu_valid": int(n_uu_valid),
+        "dd_valid_ratio": float(dd_valid_ratio),
+        "ft_valid_ratio": float(ft_valid_ratio),
+        "uu_valid_ratio": float(uu_valid_ratio),
+
+        # NEW: per-char normalization (stabilné pri +/- pár znakoch)
+        "backspace_per_char": float(backspace_per_char),
+        "burst_count_per_char": float(burst_count_per_char),
+        "long_pause_per_char": float(long_pause_per_char),
+        "micro_pause_per_char": float(micro_pause_per_char),
+
+        # classic extras
         "space_pd": float(space_pd),
         "space_ft": float(space_ft),
         "vowel_pd": float(vowel_pd),
@@ -1093,22 +1107,27 @@ for round_id, group in df.groupby("RoundId", sort=True):
         "dd_iqr": float(dd_iqr),
         "micro_pause_count": int(micro_pause_count),
         "dd_trend_slope": float(dd_trend_slope),
+
         "dd_vc_mean": float(dd_vc.mean()) if len(dd_vc) > 0 else 0.0,
         "dd_vc_std": float(dd_vc.std(ddof=1)) if len(dd_vc) >= 2 else 0.0,
         "dd_vc_median": float(dd_vc.median()) if len(dd_vc) > 0 else 0.0,
         "dd_vc_count": int(len(dd_vc)),
+
         "dd_cv_mean": float(dd_cv.mean()) if len(dd_cv) > 0 else 0.0,
         "dd_cv_std": float(dd_cv.std(ddof=1)) if len(dd_cv) >= 2 else 0.0,
         "dd_cv_median": float(dd_cv.median()) if len(dd_cv) > 0 else 0.0,
         "dd_cv_count": int(len(dd_cv)),
+
         "dd_cc_mean": float(dd_cc.mean()) if len(dd_cc) > 0 else 0.0,
         "dd_cc_std": float(dd_cc.std(ddof=1)) if len(dd_cc) >= 2 else 0.0,
         "dd_cc_median": float(dd_cc.median()) if len(dd_cc) > 0 else 0.0,
         "dd_cc_count": int(len(dd_cc)),
+
         "dd_ls_mean": float(dd_ls.mean()) if len(dd_ls) > 0 else 0.0,
         "dd_ls_std": float(dd_ls.std(ddof=1)) if len(dd_ls) >= 2 else 0.0,
         "dd_ls_median": float(dd_ls.median()) if len(dd_ls) > 0 else 0.0,
         "dd_ls_count": int(len(dd_ls)),
+
         "dd_sl_mean": float(dd_sl.mean()) if len(dd_sl) > 0 else 0.0,
         "dd_sl_std": float(dd_sl.std(ddof=1)) if len(dd_sl) >= 2 else 0.0,
         "dd_sl_median": float(dd_sl.median()) if len(dd_sl) > 0 else 0.0,
@@ -1136,6 +1155,36 @@ for round_id, group in df.groupby("RoundId", sort=True):
 master_df = pd.DataFrame(master)
 
 # -----------------------------
+# NEW: per-user baselines + ratios (len_ratio, dd_ratio)
+# - pre autentifikáciu: porovnáva vzorku so "zvykom" usera (z registrácie)
+# -----------------------------
+if "UserId" in master_df.columns and len(master_df) > 0:
+    # medians per user (robust)
+    user_medians = (
+        master_df.groupby("UserId", dropna=False)[["n_inserts", "n_dd_valid"]]
+        .median(numeric_only=True)
+        .rename(columns={"n_inserts": "median_n_inserts_user", "n_dd_valid": "median_n_dd_valid_user"})
+        .reset_index()
+    )
+    master_df = master_df.merge(user_medians, on="UserId", how="left")
+
+    master_df["len_ratio"] = master_df["n_inserts"] / (master_df["median_n_inserts_user"].replace(0, np.nan))
+    master_df["dd_ratio"] = master_df["n_dd_valid"] / (master_df["median_n_dd_valid_user"].replace(0, np.nan))
+
+    master_df["len_ratio"] = pd.to_numeric(master_df["len_ratio"], errors="coerce").fillna(0.0)
+    master_df["dd_ratio"] = pd.to_numeric(master_df["dd_ratio"], errors="coerce").fillna(0.0)
+
+    master_df["median_n_inserts_user"] = pd.to_numeric(master_df["median_n_inserts_user"], errors="coerce").fillna(0.0)
+    master_df["median_n_dd_valid_user"] = pd.to_numeric(master_df["median_n_dd_valid_user"], errors="coerce").fillna(0.0)
+else:
+    # fallback columns (keď nemáš UserId)
+    master_df["median_n_inserts_user"] = 0.0
+    master_df["median_n_dd_valid_user"] = 0.0
+    master_df["len_ratio"] = 0.0
+    master_df["dd_ratio"] = 0.0
+
+
+# -----------------------------
 # 4) Load acc/gyro -> assign RoundId -> FILTER by segments -> compute features -> merge -> save ONE CSV
 # -----------------------------
 round_bounds_df = pd.DataFrame(round_bounds_list).sort_values("RoundId").reset_index(drop=True)
@@ -1144,7 +1193,6 @@ acc_global_df = pd.DataFrame(columns=["RoundId"])
 gyro_global_df = pd.DataFrame(columns=["RoundId"])
 coupling_df = pd.DataFrame(columns=["RoundId"])
 
-# store clean signals per round for acc<->gyro coupling
 acc_clean_by_round: dict[int, pd.DataFrame] = {}
 gyro_clean_by_round: dict[int, pd.DataFrame] = {}
 
@@ -1159,14 +1207,17 @@ try:
         g_clean = filter_sensor_by_segments(g, segs)
         acc_clean_by_round[int(rid)] = g_clean
 
-        row = {"RoundId": int(rid)}
+        # NEW: coverage info (koľko IMU ostalo po pauze)
+        acc_cov = float(len(g_clean) / max(len(g), 1))
+
+        row = {"RoundId": int(rid), "acc_cov": acc_cov}
         row.update(compute_global_sensor_features(g_clean, prefix="acc"))
 
         ins_times = insert_times_by_round.get(int(rid), np.array([], dtype=np.int64))
         ins_space = insert_space_times_by_round.get(int(rid), np.array([], dtype=np.int64))
         ins_letter = insert_letter_times_by_round.get(int(rid), np.array([], dtype=np.int64))
 
-        cross_acc, _acc_peaks = compute_cross_imu_keystroke_features(
+        cross_acc, _ = compute_cross_imu_keystroke_features(
             g_clean, ins_times, ins_space, ins_letter,
             prefix="acc", is_acc=True
         )
@@ -1189,14 +1240,17 @@ try:
         g_clean = filter_sensor_by_segments(g, segs)
         gyro_clean_by_round[int(rid)] = g_clean
 
-        row = {"RoundId": int(rid)}
+        # NEW: coverage info
+        gyro_cov = float(len(g_clean) / max(len(g), 1))
+
+        row = {"RoundId": int(rid), "gyro_cov": gyro_cov}
         row.update(compute_global_sensor_features(g_clean, prefix="gyro"))
 
         ins_times = insert_times_by_round.get(int(rid), np.array([], dtype=np.int64))
         ins_space = insert_space_times_by_round.get(int(rid), np.array([], dtype=np.int64))
         ins_letter = insert_letter_times_by_round.get(int(rid), np.array([], dtype=np.int64))
 
-        cross_gyro, _gyro_peaks = compute_cross_imu_keystroke_features(
+        cross_gyro, _ = compute_cross_imu_keystroke_features(
             g_clean, ins_times, ins_space, ins_letter,
             prefix="gyro", is_acc=False
         )
@@ -1227,40 +1281,65 @@ master_df = master_df.merge(acc_global_df, on="RoundId", how="left")
 master_df = master_df.merge(gyro_global_df, on="RoundId", how="left")
 master_df = master_df.merge(coupling_df, on="RoundId", how="left")
 
-# NaN -> 0 pre senzorové črty
-sensor_cols = [c for c in master_df.columns if c.startswith("acc_") or c.startswith("gyro_") or c.startswith("corr_") or c.startswith("fast_slow_") or c.startswith("gyro_to_acc_") or c.startswith("corr_acc_gyro_")]
+# NaN -> 0 pre senzorové črty + coverage
+sensor_cols = [
+    c for c in master_df.columns
+    if c.startswith("acc_") or c.startswith("gyro_") or c.startswith("corr_")
+    or c.startswith("fast_slow_") or c.startswith("gyro_to_acc_") or c.startswith("corr_acc_gyro_")
+    or c in ["acc_cov", "gyro_cov"]
+]
 for c in sensor_cols:
     master_df[c] = pd.to_numeric(master_df[c], errors="coerce").fillna(0.0)
+
 
 # -----------------------------
 # 5) FINAL column order + save ONE file
 # -----------------------------
 ordered_cols = (
-    ["UserId", "RoundId", "cps", "wpm", "total_duration", "typing_efficiency",
-     "error_rate", "backspace_count", "mean_corr_time", "mean_burst_size",
-     "burst_count", "max_burst_size",
-     "space_pd", "space_ft", "vowel_pd", "consonant_pd",
-     "special_pd", "capital_pd", "long_pause_count"]
+    [
+        "UserId", "RoundId",
+
+        # NEW: baselines + ratios
+        "median_n_inserts_user", "median_n_dd_valid_user", "len_ratio", "dd_ratio",
+
+        # NEW: quality/length
+        "n_inserts", "n_dd_valid", "n_ft_valid", "n_uu_valid",
+        "dd_valid_ratio", "ft_valid_ratio", "uu_valid_ratio",
+        "backspace_per_char", "burst_count_per_char", "long_pause_per_char", "micro_pause_per_char",
+
+        # old core
+        "cps", "wpm", "total_duration", "typing_efficiency",
+        "error_rate", "backspace_count", "mean_corr_time", "mean_burst_size",
+        "burst_count", "max_burst_size",
+        "space_pd", "space_ft", "vowel_pd", "consonant_pd",
+        "special_pd", "capital_pd", "long_pause_count",
+    ]
     + [f"pd_{x}" for x in ["mean", "std", "median", "min", "max", "skew", "kurt"]]
     + [f"ft_{x}" for x in ["mean", "std", "median", "min", "max", "skew", "kurt"]]
     + [f"dd_{x}" for x in ["mean", "std", "median", "min", "max", "skew", "kurt"]]
     + ["dd_cv_ratio", "dd_iqr", "micro_pause_count", "dd_trend_slope"]
-    + ["dd_vc_mean", "dd_vc_std", "dd_vc_median", "dd_vc_count",
-       "dd_cv_mean", "dd_cv_std", "dd_cv_median", "dd_cv_count",
-       "dd_cc_mean", "dd_cc_std", "dd_cc_median", "dd_cc_count",
-       "dd_ls_mean", "dd_ls_std", "dd_ls_median", "dd_ls_count",
-       "dd_sl_mean", "dd_sl_std", "dd_sl_median", "dd_sl_count"]
+    + [
+        "dd_vc_mean", "dd_vc_std", "dd_vc_median", "dd_vc_count",
+        "dd_cv_mean", "dd_cv_std", "dd_cv_median", "dd_cv_count",
+        "dd_cc_mean", "dd_cc_std", "dd_cc_median", "dd_cc_count",
+        "dd_ls_mean", "dd_ls_std", "dd_ls_median", "dd_ls_count",
+        "dd_sl_mean", "dd_sl_std", "dd_sl_median", "dd_sl_count",
+    ]
     + [f"uu_{x}" for x in ["mean", "std", "median", "min", "max", "skew", "kurt"]]
+    # --- NEW: sensor coverage
+    + ["acc_cov", "gyro_cov"]
     # --- sensor global features (typing-only, pauses removed)
     + [
         "acc_mag_mean","acc_mag_std","acc_energy","acc_rms","acc_jerk_std",
         "acc_mag_median","acc_mag_iqr","acc_axis_corr_xy","acc_axis_corr_xz","acc_axis_corr_yz",
         "acc_mag_p95","acc_mag_p99","acc_mag_mad","acc_mag_trend_slope","acc_mag_spectral_entropy","acc_planarity","acc_cv",
         "acc_n_samples","acc_duration_sec","acc_dt_mean","acc_dt_std","acc_fs_hz",
+
         "gyro_mag_mean","gyro_mag_std","gyro_energy","gyro_rms","gyro_jerk_std",
         "gyro_mag_median","gyro_mag_iqr","gyro_axis_corr_xy","gyro_axis_corr_xz","gyro_axis_corr_yz",
         "gyro_mag_p95","gyro_mag_p99","gyro_mag_mad","gyro_mag_trend_slope","gyro_mag_spectral_entropy","gyro_planarity","gyro_cv",
         "gyro_n_samples","gyro_duration_sec","gyro_dt_mean","gyro_dt_std","gyro_fs_hz",
+
         # --- cross-modal (ACC)
         "acc_auc_per_char_mean",
         "acc_peak_to_rms_ratio_mean",
@@ -1275,6 +1354,7 @@ ordered_cols = (
         "acc_energy_per_char",
         "acc_peak_lag_mean_ms",
         "fast_slow_acc_ratio",
+
         # --- cross-modal (GYRO)
         "gyro_auc_per_char_mean",
         "gyro_peak_to_rms_ratio_mean",
@@ -1289,6 +1369,7 @@ ordered_cols = (
         "gyro_energy_per_char",
         "gyro_peak_lag_mean_ms",
         "fast_slow_gyro_ratio",
+
         # --- ACC <-> GYRO coupling
         "corr_acc_gyro_peak_per_char",
         "gyro_to_acc_energy_ratio_per_char_mean",
@@ -1302,9 +1383,11 @@ master_df = master_df[ordered_cols + rest]
 master_df.to_csv("master_vektor.csv", index=False)
 
 print(f"\nHotovo: master_vektor.csv")
-print(f"Počet čŕt (bez RoundId/UserId): {len(master_df.columns) - (2 if 'UserId' in master_df.columns else 1)}")
+base_cols = ["UserId", "RoundId"] if "UserId" in master_df.columns else ["RoundId"]
+print(f"Počet čŕt (bez {', '.join(base_cols)}): {len(master_df.columns) - len(base_cols)}")
 print(f"Filter FT/DD/UU: (0, {MAX_INTERVAL_MS}] ms")
 print("CPS/WPM: computed using effective typing time = sum(cleaned DD) (long pauses excluded).")
 print("Senzorové črty: computed from typing-only samples (pauzy odstránené pomocou segments_by_round).")
+print("Coverage: acc_cov/gyro_cov = podiel sampleov po odstránení pauz.")
 print(f"IMU normalization: ACC gravity removal (tau={IMU_GRAVITY_TAU_SEC}s), resample={IMU_RESAMPLE_HZ}Hz.")
 print(f"Cross-modal windows: [-{ACC_KEY_PRE_MS}ms, +{ACC_KEY_POST_MS}ms], lag<= {ACC_LAG_MAX_MS}ms, XCORR±{XCORR_MAX_LAG_MS}ms, FAST_DD_MS={FAST_DD_MS}ms.")
