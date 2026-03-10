@@ -10,11 +10,21 @@ import fix_data
 # -----------------------------
 SERVICE_ACCOUNT_KEY = "serviceAccountKey.json"
 STORAGE_BUCKET = "dp-project-4970a.firebasestorage.app"
-OUTPUT_DIR = "data/common_training"
-TRAINING_TYPE = "common_training"  # zmeň na "personal_training" ak budeš sťahovať osobné
 
-FILES_TO_DOWNLOAD = [
-    "keystrokes_common.csv",
+TRAINING_CONFIGS = [
+    {
+        "training_type": "common_training",
+        "output_dir": "data/common_training",
+        "keystrokes_file": "keystrokes_common.csv",
+    },
+    {
+        "training_type": "personal_training",
+        "output_dir": "data/personal_training",
+        "keystrokes_file": "keystrokes_personal.csv",
+    },
+]
+
+SENSOR_FILES = [
     "sensor_accelerometer.csv",
     "sensor_gyroscope.csv",
 ]
@@ -41,59 +51,63 @@ while page:
 print(f"Nájdených {len(users)} používateľov.\n")
 
 # -----------------------------
-# Pre každého používateľa stiahni súbory
+# Pre každý typ tréningu
 # -----------------------------
-for user in users:
-    uid = user["uid"]
-    email = user["email"]
+for config in TRAINING_CONFIGS:
+    training_type = config["training_type"]
+    output_dir = config["output_dir"]
+    keystrokes_file = config["keystrokes_file"]
+    files_to_download = [keystrokes_file] + SENSOR_FILES
 
-    # Nájdi všetky session foldery v csv_uploads/{uid}/common_training/
-    prefix = f"csv_uploads/{uid}/{TRAINING_TYPE}/"
-    blobs = list(bucket.list_blobs(prefix=prefix))
+    print(f"\n{'='*50}")
+    print(f"Sťahujem: {training_type} -> {output_dir}")
+    print(f"{'='*50}\n")
 
-    if not blobs:
-        print(f"[SKIP] {email} — žiadne dáta v {prefix}")
-        continue
+    for user in users:
+        uid = user["uid"]
+        email = user["email"]
 
-    # Získaj unikátne session foldery (timestampy)
-    sessions = set()
-    for blob in blobs:
-        # csv_uploads/{uid}/common_training/{session_id}/file.csv
-        parts = blob.name.replace(prefix, "").split("/")
-        if len(parts) >= 2:
-            sessions.add(parts[0])
+        prefix = f"csv_uploads/{uid}/{training_type}/"
+        blobs = list(bucket.list_blobs(prefix=prefix))
 
-    if not sessions:
-        print(f"[SKIP] {email} — nenašli sa session foldery")
-        continue
+        if not blobs:
+            print(f"[SKIP] {email} — žiadne dáta v {prefix}")
+            continue
 
-    # Vyber najnovší session folder (najväčší timestamp)
-    latest_session = sorted(sessions)[-1]
-    print(f"[{email}] session: {latest_session}")
+        sessions = set()
+        for blob in blobs:
+            parts = blob.name.replace(prefix, "").split("/")
+            if len(parts) >= 2:
+                sessions.add(parts[0])
 
-    # Vytvor output priečinok
-    out_dir = os.path.join(OUTPUT_DIR, uid)
-    os.makedirs(out_dir, exist_ok=True)
+        if not sessions:
+            print(f"[SKIP] {email} — nenašli sa session foldery")
+            continue
 
-    # Stiahni každý súbor
-    for filename in FILES_TO_DOWNLOAD:
-        blob_path = f"csv_uploads/{uid}/{TRAINING_TYPE}/{latest_session}/{filename}"
-        blob = bucket.blob(blob_path)
+        latest_session = sorted(sessions)[-1]
+        print(f"[{email}] session: {latest_session}")
 
-        out_path = os.path.join(out_dir, filename)
+        out_dir = os.path.join(output_dir, uid)
+        os.makedirs(out_dir, exist_ok=True)
 
-        try:
-            blob.download_to_filename(out_path)
-            print(f"  ✓ {filename}")
-            if filename == "keystrokes_common.csv":
-                fix_data.fix_biometry_csv(out_path)
-                df = pd.read_csv(out_path)
-                if "UserId" in df.columns:
-                    df["UserId"] = uid
-                    df.to_csv(out_path, index=False)
-        except Exception as e:
-            print(f"  ✗ {filename} — chyba: {e}")
+        for filename in files_to_download:
+            blob_path = f"csv_uploads/{uid}/{training_type}/{latest_session}/{filename}"
+            blob = bucket.blob(blob_path)
 
-    print()
+            out_path = os.path.join(out_dir, filename)
 
-print(f"Hotovo! Dáta uložené v: {OUTPUT_DIR}/")
+            try:
+                blob.download_to_filename(out_path)
+                print(f"  ✓ {filename}")
+                if filename == keystrokes_file:
+                    fix_data.fix_biometry_csv(out_path)
+                    df = pd.read_csv(out_path)
+                    if "UserId" in df.columns:
+                        df["UserId"] = uid
+                        df.to_csv(out_path, index=False)
+            except Exception as e:
+                print(f"  ✗ {filename} — chyba: {e}")
+
+        print()
+
+print(f"\nHotovo!")
