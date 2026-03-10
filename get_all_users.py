@@ -1,6 +1,9 @@
 import os
+import pandas as pd
 import firebase_admin
 from firebase_admin import credentials, auth, storage
+
+import fix_data
 
 # -----------------------------
 # Config
@@ -82,8 +85,14 @@ for user in users:
         try:
             blob.download_to_filename(out_path)
             print(f"  ✓ {filename}")
-        except Exception:
-            print(f"  ✗ {filename} — nenašiel sa")
+            if filename == "keystrokes_common.csv":
+                fix_data.fix_biometry_csv(out_path)
+                df = pd.read_csv(out_path)
+                if "UserId" in df.columns:
+                    df["UserId"] = uid
+                    df.to_csv(out_path, index=False)
+        except Exception as e:
+            print(f"  ✗ {filename} — chyba: {e}")
 
     print()
 
