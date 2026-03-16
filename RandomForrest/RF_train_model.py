@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 
 from sklearn.model_selection import StratifiedShuffleSplit
-from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix, accuracy_score
 
@@ -13,11 +12,11 @@ RANDOM_STATE = 42
 N_SPLITS = 20
 
 # finálne vybrané nastavenia
-TEST_SIZE = 0.2
-N_ESTIMATORS = 600
-MAX_DEPTH = 20
+TEST_SIZE = 0.20
+N_ESTIMATORS = 100
+MAX_DEPTH = None
 CLASS_WEIGHT = "balanced"
-THRESHOLD = 0.2
+THRESHOLD = 0.20
 
 
 def compute_metrics(y_true, y_pred):
@@ -60,12 +59,7 @@ for split_idx, (train_idx, test_idx) in enumerate(sss.split(X, y), start=1):
     X_test = X.iloc[test_idx].copy()
     y_test = y.iloc[test_idx].copy()
 
-    # scaling
-    scaler = StandardScaler()
-    X_train_scaled = scaler.fit_transform(X_train)
-    X_test_scaled = scaler.transform(X_test)
-
-    # model with selected best settings
+    # finálny RF model s najlepšími nastaveniami
     model = RandomForestClassifier(
         n_estimators=N_ESTIMATORS,
         max_depth=MAX_DEPTH,
@@ -74,9 +68,9 @@ for split_idx, (train_idx, test_idx) in enumerate(sss.split(X, y), start=1):
         n_jobs=-1
     )
 
-    model.fit(X_train_scaled, y_train)
+    model.fit(X_train, y_train)
 
-    probs = model.predict_proba(X_test_scaled)[:, 1]
+    probs = model.predict_proba(X_test)[:, 1]
 
     # fixed selected threshold
     y_pred = (probs >= THRESHOLD).astype(int)

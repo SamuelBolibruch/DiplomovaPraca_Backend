@@ -2,9 +2,8 @@ import pandas as pd
 import numpy as np
 
 from sklearn.model_selection import StratifiedShuffleSplit
-from sklearn.preprocessing import StandardScaler
-from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix, accuracy_score
+from xgboost import XGBClassifier
 
 
 # =========================================================
@@ -74,10 +73,10 @@ X = X.replace([np.inf, -np.inf], np.nan).fillna(0)
 # PARAMETER GRID
 # =========================================================
 
-kernels = ["linear", "rbf"]
-c_values = [ 1, 10, 100]
-gamma_values = ["scale", 0.1, 0.01, 0.001]
-weights = [None, "balanced"]
+n_estimators_list = [100, 300, 600]
+max_depth_list = [3, 6, 10]
+learning_rates = [0.01, 0.05, 0.1]
+scale_pos_weight_modes = ["none", "balanced"]
 undersampling_options = [False, True]
 
 thresholds = [0.10, 0.15, 0.20, 0.30, 0.50]
@@ -102,18 +101,13 @@ results = []
 
 scenario_id = 0
 
-for kernel in kernels:
-    for c_val in c_values:
-        for weight in weights:
-            for use_under in undersampling_options:
-
-                if kernel == "linear":
-                    gamma_list = [None]
-                else:
-                    gamma_list = gamma_values
-
-                for gamma_val in gamma_list:
+for n_estimators in n_estimators_list:
+    for max_depth in max_depth_list:
+        for learning_rate in learning_rates:
+            for spw_mode in scale_pos_weight_modes:
+                for use_under in undersampling_options:
                     for threshold in thresholds:
+
                         scenario_id += 1
                         print(f"\nRunning scenario {scenario_id}")
 
@@ -132,22 +126,28 @@ for kernel in kernels:
                             if use_under:
                                 X_train, y_train = undersample(X_train, y_train)
 
-                            scaler = StandardScaler()
-                            X_train_scaled = scaler.fit_transform(X_train)
-                            X_test_scaled = scaler.transform(X_test)
+                            n_pos = int((y_train == 1).sum())
+                            n_neg = int((y_train == 0).sum())
 
-                            model = SVC(
-                                kernel=kernel,
-                                C=c_val,
-                                gamma=gamma_val if gamma_val is not None else "scale",
-                                class_weight=weight,
-                                probability=True,
-                                random_state=RANDOM_STATE + split_idx
+                            if spw_mode == "balanced":
+                                scale_pos_weight = n_neg / n_pos if n_pos > 0 else 1.0
+                            else:
+                                scale_pos_weight = 1.0
+
+                            model = XGBClassifier(
+                                n_estimators=n_estimators,
+                                max_depth=max_depth,
+                                learning_rate=learning_rate,
+                                objective="binary:logistic",
+                                eval_metric="logloss",
+                                scale_pos_weight=scale_pos_weight,
+                                random_state=RANDOM_STATE + split_idx,
+                                n_jobs=-1
                             )
 
-                            model.fit(X_train_scaled, y_train)
+                            model.fit(X_train, y_train)
 
-                            probs = model.predict_proba(X_test_scaled)[:, 1]
+                            probs = model.predict_proba(X_test)[:, 1]
                             preds = (probs >= threshold).astype(int)
 
                             tn, fp, fn, tp, far, frr, acc = compute_metrics(y_test, preds)
@@ -157,10 +157,10 @@ for kernel in kernels:
                             frr_list.append(frr)
 
                         results.append({
-                            "kernel": kernel,
-                            "C": c_val,
-                            "gamma": gamma_val,
-                            "class_weight": weight,
+                            "n_estimators": n_estimators,
+                            "max_depth": max_depth,
+                            "learning_rate": learning_rate,
+                            "scale_pos_weight_mode": spw_mode,
                             "undersampling": use_under,
                             "threshold": threshold,
                             "accuracy_mean": np.mean(acc_list),
@@ -178,7 +178,6 @@ for kernel in kernels:
 
 results_df = pd.DataFrame(results)
 
-# zoradenie podľa kompromisu: vysoká accuracy, nízky FAR, nízky FRR
 results_df = results_df.sort_values(
     by=["accuracy_mean", "FAR_mean", "FRR_mean"],
     ascending=[False, True, True]
@@ -187,6 +186,6 @@ results_df = results_df.sort_values(
 print("\n================ BEST SCENARIOS =================")
 print(results_df.head(20).to_string(index=False))
 
-results_df.to_csv("svm_params_threshold_results.csv", index=False)
+results_df.to_csv("xgb_params_threshold_results.csv", index=False)
 
-print("\nSaved to svm_params_threshold_results.csv")
+print("\nSaved to xgb_params_threshold_results.csv")

@@ -2,9 +2,8 @@ import pandas as pd
 import numpy as np
 
 from sklearn.model_selection import StratifiedShuffleSplit
-from sklearn.preprocessing import StandardScaler
-from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix, accuracy_score
+from xgboost import XGBClassifier
 
 
 CSV_PATH = "data/training/training_05TW8Ljp5AOArnLclD8e8LIHgwg2.csv"
@@ -12,14 +11,12 @@ CSV_PATH = "data/training/training_05TW8Ljp5AOArnLclD8e8LIHgwg2.csv"
 RANDOM_STATE = 42
 N_SPLITS = 20
 
-# finálne vybrané nastavenia experimentu
+# finálne vybrané nastavenia
 TEST_SIZE = 0.20
-CLASS_WEIGHT = None
-THRESHOLD = 0.20
-
-# SVM parametre (optimalizované)
-KERNEL = "linear"
-C_VALUE = 1.0
+N_ESTIMATORS = 100
+MAX_DEPTH = 3
+LEARNING_RATE = 0.10
+THRESHOLD = 0.15
 
 
 def compute_metrics(y_true, y_pred):
@@ -56,32 +53,31 @@ sss = StratifiedShuffleSplit(
 results = []
 
 for split_idx, (train_idx, test_idx) in enumerate(sss.split(X, y), start=1):
-
     X_train = X.iloc[train_idx].copy()
     y_train = y.iloc[train_idx].copy()
 
     X_test = X.iloc[test_idx].copy()
     y_test = y.iloc[test_idx].copy()
 
-    # scaling (veľmi dôležité pre SVM)
-    scaler = StandardScaler()
-    X_train_scaled = scaler.fit_transform(X_train)
-    X_test_scaled = scaler.transform(X_test)
+    # podľa optimalizácie: scale_pos_weight_mode = "none"
+    scale_pos_weight = 1.0
 
-    # finálny SVM model
-    model = SVC(
-        kernel=KERNEL,
-        C=C_VALUE,
-        class_weight=CLASS_WEIGHT,
-        probability=True,
-        random_state=RANDOM_STATE + split_idx
+    model = XGBClassifier(
+        n_estimators=N_ESTIMATORS,
+        max_depth=MAX_DEPTH,
+        learning_rate=LEARNING_RATE,
+        objective="binary:logistic",
+        eval_metric="logloss",
+        scale_pos_weight=scale_pos_weight,
+        random_state=RANDOM_STATE + split_idx,
+        n_jobs=-1
     )
 
-    model.fit(X_train_scaled, y_train)
+    model.fit(X_train, y_train)
 
-    probs = model.predict_proba(X_test_scaled)[:, 1]
+    probs = model.predict_proba(X_test)[:, 1]
 
-    # threshold decision
+    # fixed selected threshold
     y_pred = (probs >= THRESHOLD).astype(int)
 
     tn, fp, fn, tp, far, frr, acc = compute_metrics(y_test, y_pred)
@@ -99,7 +95,8 @@ for split_idx, (train_idx, test_idx) in enumerate(sss.split(X, y), start=1):
         "n_train_pos": int((y_train == 1).sum()),
         "n_train_neg": int((y_train == 0).sum()),
         "n_test_pos": int((y_test == 1).sum()),
-        "n_test_neg": int((y_test == 0).sum())
+        "n_test_neg": int((y_test == 0).sum()),
+        "scale_pos_weight": scale_pos_weight
     })
 
 results_df = pd.DataFrame(results)
