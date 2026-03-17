@@ -40,7 +40,3 @@ def fix_biometry_csv(input_path):
     
     print(f"✅ Hotovo! Pôvodný súbor bol aktualizovaný: {output_path}")
     return output_path
-
-# --- TU ZADAJ SVOJU CESTU ---
-moja_cesta = 'data/samuelbolibruch/keystrokes_common.csv'
-fix_biometry_csv(moja_cesta)
