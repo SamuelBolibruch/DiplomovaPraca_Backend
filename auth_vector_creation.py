@@ -1,18 +1,23 @@
 import os
+import argparse
 import pandas as pd
 import numpy as np
 
 # -----------------------------
 # Config: filtering
 # -----------------------------
-MAX_INTERVAL_MS = 2750  # hranica na "dlhé pauzy" (ms) medzi znakmi
-MIN_INTERVAL_MS = 0     # vyhadzujeme <= 0 (glitche)
-MICRO_PAUSE_MS = 700    # hranica na "mikropauzy" (ms)
+MAX_INTERVAL_MS = 2750
+MIN_INTERVAL_MS = 0
+MICRO_PAUSE_MS = 700
 
-CONFIGS = [
-    {"data_dir": "data/common_training", "output_dir": "data/vectors", "keystrokes_file": "keystrokes_common.csv"},
-    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal", "keystrokes_file": "keystrokes_personal.csv"},
-]
+# -----------------------------
+# Auth paths config
+# -----------------------------
+AUTH_BASE_DIR = "data/authentification"
+AUTH_KEYSTROKES_FILE = "keystrokes_authentication.csv"
+AUTH_ACCELEROMETER_FILE = "sensor_accelerometer.csv"
+AUTH_GYROSCOPE_FILE = "sensor_gyroscope.csv"
+AUTH_VECTOR_FILE = "vector_authentication.csv"
 
 # -----------------------------
 # IMU normalization / resampling config
@@ -34,9 +39,6 @@ XCORR_MAX_LAG_MS = 300
 RISE_FRAC = 0.8
 
 
-# -----------------------------
-# Helpers: keystroke stats
-# -----------------------------
 def filter_intervals_ms(s: pd.Series, min_ms: float, max_ms: float) -> pd.Series:
     s = s.dropna()
     return s[(s > min_ms) & (s <= max_ms)]
@@ -72,10 +74,6 @@ def series_stats(prefix: str, s: pd.Series) -> dict:
         f"{prefix}_kurt": safe_kurt(s),
     }
 
-
-# -----------------------------
-# Helpers: active typing segments + mapping sensors -> rounds + filtering sensors by segments
-# -----------------------------
 def build_active_segments_from_keystrokes(veta: pd.DataFrame, *, max_gap_ms: int) -> list[tuple[int, int]]:
     if "ActionType" not in veta.columns or "TimestampBeforeNs" not in veta.columns:
         return []
@@ -159,10 +157,6 @@ def load_sensor_csv(path: str) -> pd.DataFrame:
     s["timestamp"] = s["timestamp"].astype(np.int64)
     return s
 
-
-# -----------------------------
-# Helpers: IMU normalization + resampling
-# -----------------------------
 def estimate_sampling_stats(t_sec: np.ndarray) -> dict:
     if t_sec is None or len(t_sec) < 2:
         return {"n": 0, "duration": 0.0, "dt_mean": 0.0, "dt_std": 0.0, "fs_hz": 0.0}
@@ -280,10 +274,6 @@ def _integral_mag2_dt(mag: np.ndarray, t_sec: np.ndarray) -> float:
     area = 0.5 * (m2[:-1] + m2[1:]) * dt
     return float(np.sum(area[valid]))
 
-
-# -----------------------------
-# Helpers: GLOBAL sensor features
-# -----------------------------
 def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -> dict:
     def _empty():
         return {
@@ -323,7 +313,6 @@ def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -
 
     ts_ns = g["timestamp"].astype(np.int64).to_numpy()
     t_sec = (ts_ns - ts_ns[0]).astype(np.float64) / 1_000_000_000.0
-
     samp = estimate_sampling_stats(t_sec)
 
     x = g["x"].to_numpy(dtype=np.float64)
@@ -344,7 +333,6 @@ def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -
     mag_std = float(mag_s.std(ddof=1)) if len(mag_s) >= 2 else 0.0
     mag_median = float(mag_s.median())
     mag_iqr = float(mag_s.quantile(0.75) - mag_s.quantile(0.25)) if len(mag_s) > 0 else 0.0
-
     energy = float(np.mean(mag * mag)) if len(mag) > 0 else 0.0
     rms = float(np.sqrt(energy)) if energy > 0 else 0.0
 
@@ -369,7 +357,6 @@ def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -
 
     mag_p95 = float(mag_s.quantile(0.95)) if len(mag_s) > 0 else 0.0
     mag_p99 = float(mag_s.quantile(0.99)) if len(mag_s) > 0 else 0.0
-
     mag_mad = float(np.median(np.abs(mag - mag_median))) if len(mag) > 0 else 0.0
 
     mag_trend_slope = 0.0
@@ -426,19 +413,7 @@ def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -
         f"{prefix}_fs_hz": float(samp["fs_hz"]),
     }
 
-
-# -----------------------------
-# Cross-modal: generic IMU <-> keystrokes
-# -----------------------------
-def compute_cross_imu_keystroke_features(
-    sensor_round_df_clean: pd.DataFrame,
-    insert_times_ns: np.ndarray,
-    insert_space_times_ns: np.ndarray,
-    insert_letter_times_ns: np.ndarray,
-    *,
-    prefix: str,
-    is_acc: bool,
-) -> tuple[dict, np.ndarray]:
+def compute_cross_imu_keystroke_features(sensor_round_df_clean, insert_times_ns, insert_space_times_ns, insert_letter_times_ns, *, prefix, is_acc):
     out = {
         f"{prefix}_auc_per_char_mean": 0.0,
         f"{prefix}_peak_to_rms_ratio_mean": 0.0,
@@ -491,13 +466,7 @@ def compute_cross_imu_keystroke_features(
     post_ns = int(ACC_KEY_POST_MS * 1_000_000)
     lag_max_ns = int(ACC_LAG_MAX_MS * 1_000_000)
 
-    peaks = []
-    jerk_peaks = []
-    lags_ms = []
-    aucs = []
-    peak_to_rms = []
-    post_pre_ratio = []
-    rise_times_ms = []
+    peaks, jerk_peaks, lags_ms, aucs, peak_to_rms, post_pre_ratio, rise_times_ms = [], [], [], [], [], [], []
 
     for tk in insert_times_ns:
         a = tk - pre_ns
@@ -515,7 +484,6 @@ def compute_cross_imu_keystroke_features(
 
         rms_w = float(np.sqrt(np.mean(mag_w * mag_w))) if len(mag_w) > 0 else 0.0
         peak_to_rms.append(float(pk / (rms_w + EPS)))
-
         aucs.append(_integral_mag2_dt(mag_w, tsec_w))
 
         jpk = 0.0
@@ -542,10 +510,12 @@ def compute_cross_imu_keystroke_features(
         if np.any(pre_mask) and np.sum(pre_mask) >= 2:
             tpre = (ts_w[pre_mask] - ts_w[pre_mask][0]).astype(np.float64) / 1e9
             Epre = _integral_mag2_dt(mag_w[pre_mask], tpre)
+
         Epost = 0.0
         if np.any(post_mask) and np.sum(post_mask) >= 2:
             tpost = (ts_w[post_mask] - ts_w[post_mask][0]).astype(np.float64) / 1e9
             Epost = _integral_mag2_dt(mag_w[post_mask], tpost)
+
         post_pre_ratio.append(float(Epost / (Epre + EPS)))
 
         rt = 0.0
@@ -563,13 +533,12 @@ def compute_cross_imu_keystroke_features(
     out[f"{prefix}_peak_per_char_mean"] = float(np.mean(peaks)) if len(peaks) > 0 else 0.0
     out[f"{prefix}_jerk_peak_per_char_mean"] = float(np.mean(jerk_peaks)) if len(jerk_peaks) > 0 else 0.0
     out[f"{prefix}_peak_lag_mean_ms"] = float(np.mean(lags_ms)) if len(lags_ms) > 0 else 0.0
-
     out[f"{prefix}_auc_per_char_mean"] = float(np.mean(aucs)) if len(aucs) > 0 else 0.0
     out[f"{prefix}_peak_to_rms_ratio_mean"] = float(np.mean(peak_to_rms)) if len(peak_to_rms) > 0 else 0.0
     out[f"{prefix}_post_pre_energy_ratio_mean"] = float(np.mean(post_pre_ratio)) if len(post_pre_ratio) > 0 else 0.0
     out[f"{prefix}_rise_time_ms_mean"] = float(np.mean(rise_times_ms)) if len(rise_times_ms) > 0 else 0.0
 
-    def _mean_peak_for_times(times_ns: np.ndarray) -> float:
+    def _mean_peak_for_times(times_ns):
         if times_ns is None or len(times_ns) == 0:
             return 0.0
         vals = []
@@ -589,10 +558,8 @@ def compute_cross_imu_keystroke_features(
         dd_ms = (insert_times_ns[1:] - insert_times_ns[:-1]) / 1_000_000.0
         valid_dd = (dd_ms > MIN_INTERVAL_MS) & (dd_ms <= MAX_INTERVAL_MS) & np.isfinite(dd_ms)
 
-        dd_list = []
-        e_list = []
-        fast_e = 0.0
-        slow_e = 0.0
+        dd_list, e_list = [], []
+        fast_e, slow_e = 0.0, 0.0
 
         for i in range(1, len(insert_times_ns)):
             if not valid_dd[i - 1]:
@@ -622,8 +589,6 @@ def compute_cross_imu_keystroke_features(
         if len(dd_list) >= 3:
             c = float(np.corrcoef(np.array(dd_list), np.array(e_list))[0, 1])
             out[f"corr_dd_{prefix}_energy"] = 0.0 if np.isnan(c) else c
-        else:
-            out[f"corr_dd_{prefix}_energy"] = 0.0
 
         out[f"fast_slow_{prefix}_ratio"] = float(fast_e / (slow_e + EPS)) if (fast_e > 0 or slow_e > 0) else 0.0
 
@@ -651,9 +616,7 @@ def compute_cross_imu_keystroke_features(
                 lo = center - max_lag
                 hi = center + max_lag + 1
                 xc_slice = xc[lo:hi]
-
-                denom = float(len(ev_z))
-                xc_slice = xc_slice / max(denom, 1.0)
+                xc_slice = xc_slice / max(float(len(ev_z)), 1.0)
 
                 k = int(np.argmax(np.abs(xc_slice)))
                 lag_samp = k - max_lag
@@ -662,15 +625,7 @@ def compute_cross_imu_keystroke_features(
 
     return out, peaks_arr
 
-
-# -----------------------------
-# Cross-modal: ACC <-> GYRO coupling
-# -----------------------------
-def compute_acc_gyro_coupling_features(
-    acc_clean: pd.DataFrame,
-    gyro_clean: pd.DataFrame,
-    insert_times_ns: np.ndarray,
-) -> dict:
+def compute_acc_gyro_coupling_features(acc_clean: pd.DataFrame, gyro_clean: pd.DataFrame, insert_times_ns: np.ndarray) -> dict:
     out = {
         "corr_acc_gyro_peak_per_char": 0.0,
         "gyro_to_acc_energy_ratio_per_char_mean": 0.0,
@@ -689,13 +644,14 @@ def compute_acc_gyro_coupling_features(
     a = a.dropna(subset=["timestamp", "x", "y", "z"])
     if len(a) == 0:
         return out
+
     ats = a["timestamp"].astype(np.int64).to_numpy()
     at_sec = (ats - ats[0]).astype(np.float64) / 1e9
     ax = a["x"].to_numpy(dtype=np.float64)
     ay = a["y"].to_numpy(dtype=np.float64)
     az = a["z"].to_numpy(dtype=np.float64)
     ax, ay, az = gravity_remove_ema(ax, ay, az, at_sec, tau=IMU_GRAVITY_TAU_SEC)
-    amag = np.sqrt(ax*ax + ay*ay + az*az)
+    amag = np.sqrt(ax * ax + ay * ay + az * az)
 
     g = gyro_clean.sort_values("timestamp").copy()
     for c in ["timestamp", "x", "y", "z"]:
@@ -703,25 +659,23 @@ def compute_acc_gyro_coupling_features(
     g = g.dropna(subset=["timestamp", "x", "y", "z"])
     if len(g) == 0:
         return out
+
     gts = g["timestamp"].astype(np.int64).to_numpy()
     gt_sec = (gts - gts[0]).astype(np.float64) / 1e9
     gx = g["x"].to_numpy(dtype=np.float64) - float(np.mean(g["x"].to_numpy(dtype=np.float64)))
     gy = g["y"].to_numpy(dtype=np.float64) - float(np.mean(g["y"].to_numpy(dtype=np.float64)))
     gz = g["z"].to_numpy(dtype=np.float64) - float(np.mean(g["z"].to_numpy(dtype=np.float64)))
-    gmag = np.sqrt(gx*gx + gy*gy + gz*gz)
+    gmag = np.sqrt(gx * gx + gy * gy + gz * gz)
 
     n_chars = int(len(insert_times_ns))
     Eacc = _integral_mag2_dt(amag, at_sec)
     Egyro = _integral_mag2_dt(gmag, gt_sec)
-    out["gyro_to_acc_energy_ratio_per_char_mean"] = float(
-        (Egyro / max(n_chars, 1)) / ((Eacc / max(n_chars, 1)) + EPS)
-    )
+    out["gyro_to_acc_energy_ratio_per_char_mean"] = float((Egyro / max(n_chars, 1)) / ((Eacc / max(n_chars, 1)) + EPS))
 
     pre_ns = int(ACC_KEY_PRE_MS * 1_000_000)
     post_ns = int(ACC_KEY_POST_MS * 1_000_000)
 
-    acc_peaks = []
-    gyro_peaks = []
+    acc_peaks, gyro_peaks = [], []
 
     for tk in insert_times_ns:
         ma = (ats >= tk - pre_ns) & (ats <= tk + post_ns)
@@ -736,35 +690,6 @@ def compute_acc_gyro_coupling_features(
 
     return out
 
-import os
-import argparse
-import pandas as pd
-import numpy as np
-
-# =========================================================
-# SEM NECHAJ ÚPLNE BEZ ZMENY:
-# - všetky config konštanty
-# - filter_intervals_ms
-# - safe_skew
-# - safe_kurt
-# - series_stats
-# - build_active_segments_from_keystrokes
-# - assign_round_ids_by_bounds
-# - filter_sensor_by_segments
-# - load_sensor_csv
-# - estimate_sampling_stats
-# - gravity_remove_ema
-# - resample_uniform
-# - spectral_entropy_from_signal
-# - _zscore
-# - _integral_mag2_dt
-# - compute_global_sensor_features
-# - compute_cross_imu_keystroke_features
-# - compute_acc_gyro_coupling_features
-#
-# Tieto funkcie MUSIA zostať identické s pôvodným skriptom,
-# ak chceš identický výsledný vektor.
-# =========================================================
 
 VOWELS = set(list("aeiouy"))
 
@@ -775,11 +700,7 @@ def build_single_vector(
     acc_path: str,
     gyro_path: str,
     output_path: str,
-    round_id: int | None = None,
 ) -> pd.DataFrame:
-    # -----------------------------
-    # 1) Load keystrokes
-    # -----------------------------
     if not os.path.exists(keystrokes_path):
         raise FileNotFoundError(f"Chýba keystrokes súbor: {keystrokes_path}")
 
@@ -795,23 +716,13 @@ def build_single_vector(
     if len(available_rounds) == 0:
         raise ValueError("V keystrokes CSV nie sú žiadne validné RoundId.")
 
-    # Ak round_id nie je zadané, zoberieme posledné / najnovšie round
-    selected_round_id = int(round_id) if round_id is not None else int(max(available_rounds))
-
-    if selected_round_id not in available_rounds:
-        raise ValueError(
-            f"RoundId={selected_round_id} sa v súbore nenachádza. Dostupné RoundId: {available_rounds}"
-        )
-
+    selected_round_id = int(max(available_rounds))
     df = df[df["RoundId"] == selected_round_id].copy()
+
     if len(df) == 0:
         raise ValueError(f"Po odfiltrovaní RoundId={selected_round_id} nezostali žiadne riadky.")
 
-    # -----------------------------
-    # 2) Build single keystroke vector
-    # -----------------------------
     master = []
-
     segments_by_round: dict[int, list[tuple[int, int]]] = {}
     round_bounds_list: list[dict] = []
 
@@ -822,12 +733,9 @@ def build_single_vector(
     for rid, group in df.groupby("RoundId", sort=True):
         veta = group.sort_values("TimestampBeforeNs").reset_index(drop=True)
 
-        if len(veta) > 0:
-            start_ns = int(pd.to_numeric(veta["TimestampBeforeNs"], errors="coerce").dropna().min())
-            end_ns = int(pd.to_numeric(veta["TimestampAfterNs"], errors="coerce").dropna().max())
-            round_bounds_list.append({"RoundId": int(rid), "start_ns": start_ns, "end_ns": end_ns})
-        else:
-            continue
+        start_ns = int(pd.to_numeric(veta["TimestampBeforeNs"], errors="coerce").dropna().min())
+        end_ns = int(pd.to_numeric(veta["TimestampAfterNs"], errors="coerce").dropna().max())
+        round_bounds_list.append({"RoundId": int(rid), "start_ns": start_ns, "end_ns": end_ns})
 
         segments_by_round[int(rid)] = build_active_segments_from_keystrokes(veta, max_gap_ms=MAX_INTERVAL_MS)
 
@@ -878,6 +786,7 @@ def build_single_vector(
             ins_times = np.sort(ins_times)
         else:
             ins_times = np.array([], dtype=np.int64)
+
         insert_times_by_round[int(rid)] = ins_times
 
         keychar = veta["KeyChar"].astype(str) if "KeyChar" in veta.columns else pd.Series([""] * len(veta), dtype=str)
@@ -923,6 +832,7 @@ def build_single_vector(
                     dt_ms = (before_ns[d] - after_ns[i]) / 1_000_000
                     if (dt_ms > MIN_INTERVAL_MS) and (dt_ms <= MAX_INTERVAL_MS):
                         corr_times_ms.append(float(dt_ms))
+
         mean_corr_time = float(np.mean(corr_times_ms)) if len(corr_times_ms) > 0 else 0.0
 
         burst_sizes = []
@@ -998,8 +908,8 @@ def build_single_vector(
                 ch_ins_l = ch_ins.str.lower()
 
                 dd_ins = (before_ins[1:] - before_ins[:-1]) / 1_000_000
-
                 dd_ins_cleaned = []
+
                 for k in range(len(dd_ins)):
                     dt = float(dd_ins[k])
                     if not ((dt > MIN_INTERVAL_MS) and (dt <= MAX_INTERVAL_MS)):
@@ -1060,19 +970,16 @@ def build_single_vector(
         features = {
             "UserId": uid,
             "RoundId": int(rid),
-
             "cps": float(cps),
             "wpm": float(wpm),
             "total_duration": float(total_duration),
             "typing_efficiency": float(typing_efficiency),
-
             "error_rate": float(error_rate),
             "backspace_count": int(backspace_count),
             "mean_corr_time": float(mean_corr_time),
             "mean_burst_size": float(mean_burst_size),
             "burst_count": int(burst_count),
             "max_burst_size": int(max_burst_size),
-
             "n_inserts": int(n_inserts),
             "n_dd_valid": int(n_dd_valid),
             "n_ft_valid": int(n_ft_valid),
@@ -1080,12 +987,10 @@ def build_single_vector(
             "dd_valid_ratio": float(dd_valid_ratio),
             "ft_valid_ratio": float(ft_valid_ratio),
             "uu_valid_ratio": float(uu_valid_ratio),
-
             "backspace_per_char": float(backspace_per_char),
             "burst_count_per_char": float(burst_count_per_char),
             "long_pause_per_char": float(long_pause_per_char),
             "micro_pause_per_char": float(micro_pause_per_char),
-
             "space_pd": float(space_pd),
             "space_ft": float(space_ft),
             "vowel_pd": float(vowel_pd),
@@ -1097,27 +1002,22 @@ def build_single_vector(
             "dd_iqr": float(dd_iqr),
             "micro_pause_count": int(micro_pause_count),
             "dd_trend_slope": float(dd_trend_slope),
-
             "dd_vc_mean": float(dd_vc.mean()) if len(dd_vc) > 0 else 0.0,
             "dd_vc_std": float(dd_vc.std(ddof=1)) if len(dd_vc) >= 2 else 0.0,
             "dd_vc_median": float(dd_vc.median()) if len(dd_vc) > 0 else 0.0,
             "dd_vc_count": int(len(dd_vc)),
-
             "dd_cv_mean": float(dd_cv.mean()) if len(dd_cv) > 0 else 0.0,
             "dd_cv_std": float(dd_cv.std(ddof=1)) if len(dd_cv) >= 2 else 0.0,
             "dd_cv_median": float(dd_cv.median()) if len(dd_cv) > 0 else 0.0,
             "dd_cv_count": int(len(dd_cv)),
-
             "dd_cc_mean": float(dd_cc.mean()) if len(dd_cc) > 0 else 0.0,
             "dd_cc_std": float(dd_cc.std(ddof=1)) if len(dd_cc) >= 2 else 0.0,
             "dd_cc_median": float(dd_cc.median()) if len(dd_cc) > 0 else 0.0,
             "dd_cc_count": int(len(dd_cc)),
-
             "dd_ls_mean": float(dd_ls.mean()) if len(dd_ls) > 0 else 0.0,
             "dd_ls_std": float(dd_ls.std(ddof=1)) if len(dd_ls) >= 2 else 0.0,
             "dd_ls_median": float(dd_ls.median()) if len(dd_ls) > 0 else 0.0,
             "dd_ls_count": int(len(dd_ls)),
-
             "dd_sl_mean": float(dd_sl.mean()) if len(dd_sl) > 0 else 0.0,
             "dd_sl_std": float(dd_sl.std(ddof=1)) if len(dd_sl) >= 2 else 0.0,
             "dd_sl_median": float(dd_sl.median()) if len(dd_sl) > 0 else 0.0,
@@ -1135,17 +1035,14 @@ def build_single_vector(
     if len(master_df) == 0:
         raise ValueError("Nevznikol žiadny keystroke vektor.")
 
-    # -----------------------------
-    # 3) Load acc/gyro -> assign RoundId -> FILTER -> compute -> merge
-    # -----------------------------
     round_bounds_df = pd.DataFrame(round_bounds_list).sort_values("RoundId").reset_index(drop=True)
 
     acc_global_df = pd.DataFrame(columns=["RoundId"])
     gyro_global_df = pd.DataFrame(columns=["RoundId"])
     coupling_df = pd.DataFrame(columns=["RoundId"])
 
-    acc_clean_by_round: dict[int, pd.DataFrame] = {}
-    gyro_clean_by_round: dict[int, pd.DataFrame] = {}
+    acc_clean_by_round = {}
+    gyro_clean_by_round = {}
 
     if os.path.exists(acc_path):
         acc_df = load_sensor_csv(acc_path)
@@ -1166,8 +1063,7 @@ def build_single_vector(
             ins_letter = insert_letter_times_by_round.get(int(rid), np.array([], dtype=np.int64))
 
             cross_acc, _ = compute_cross_imu_keystroke_features(
-                g_clean, ins_times, ins_space, ins_letter,
-                prefix="acc", is_acc=True
+                g_clean, ins_times, ins_space, ins_letter, prefix="acc", is_acc=True
             )
             row.update(cross_acc)
             acc_rows.append(row)
@@ -1194,8 +1090,7 @@ def build_single_vector(
             ins_letter = insert_letter_times_by_round.get(int(rid), np.array([], dtype=np.int64))
 
             cross_gyro, _ = compute_cross_imu_keystroke_features(
-                g_clean, ins_times, ins_space, ins_letter,
-                prefix="gyro", is_acc=False
+                g_clean, ins_times, ins_space, ins_letter, prefix="gyro", is_acc=False
             )
             row.update(cross_gyro)
             gyro_rows.append(row)
@@ -1208,11 +1103,13 @@ def build_single_vector(
     for rid in common_rids:
         ins_times = insert_times_by_round.get(int(rid), np.array([], dtype=np.int64))
         row = {"RoundId": int(rid)}
-        row.update(compute_acc_gyro_coupling_features(
-            acc_clean_by_round[int(rid)],
-            gyro_clean_by_round[int(rid)],
-            ins_times
-        ))
+        row.update(
+            compute_acc_gyro_coupling_features(
+                acc_clean_by_round[int(rid)],
+                gyro_clean_by_round[int(rid)],
+                ins_times
+            )
+        )
         coupling_rows.append(row)
 
     if len(coupling_rows) > 0:
@@ -1231,11 +1128,9 @@ def build_single_vector(
     for c in sensor_cols:
         master_df[c] = pd.to_numeric(master_df[c], errors="coerce").fillna(0.0)
 
-    # Tu očakávame práve 1 riadok
     if len(master_df) != 1:
         raise ValueError(
-            f"Očakával som 1 výsledný vektor, ale vzniklo {len(master_df)} riadkov. "
-            f"Skontroluj RoundId v keystrokes súbore."
+            f"Očakával som 1 výsledný vektor, ale vzniklo {len(master_df)} riadkov."
         )
 
     os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
@@ -1244,28 +1139,40 @@ def build_single_vector(
     return master_df
 
 
+def build_auth_vector_for_user(uid: str) -> pd.DataFrame:
+    user_dir = os.path.join(AUTH_BASE_DIR, uid)
+
+    keystrokes_path = os.path.join(user_dir, AUTH_KEYSTROKES_FILE)
+    acc_path = os.path.join(user_dir, AUTH_ACCELEROMETER_FILE)
+    gyro_path = os.path.join(user_dir, AUTH_GYROSCOPE_FILE)
+    output_path = os.path.join(user_dir, AUTH_VECTOR_FILE)
+
+    if not os.path.exists(user_dir):
+        raise FileNotFoundError(f"Priečinok používateľa neexistuje: {user_dir}")
+
+    return build_single_vector(
+        uid=uid,
+        keystrokes_path=keystrokes_path,
+        acc_path=acc_path,
+        gyro_path=gyro_path,
+        output_path=output_path,
+    )
+
+
 def main():
-    parser = argparse.ArgumentParser(description="Build single authentication feature vector from 3 CSV files.")
-    parser.add_argument("--uid", required=True, help="User ID, ktorý sa zapíše do výsledného vektora.")
-    parser.add_argument("--keystrokes", required=True, help="Path to keystrokes CSV")
-    parser.add_argument("--accelerometer", required=True, help="Path to accelerometer CSV")
-    parser.add_argument("--gyroscope", required=True, help="Path to gyroscope CSV")
-    parser.add_argument("--output", required=True, help="Path to output vector CSV")
-    parser.add_argument("--round-id", type=int, default=None, help="Optional RoundId. Ak nie je zadané, použije sa posledné RoundId.")
+    parser = argparse.ArgumentParser(
+        description="Build single authentication vector for one user from data/authentification/<uid>/"
+    )
+    parser.add_argument("--uid", required=True, help="User ID")
 
     args = parser.parse_args()
 
-    df_out = build_single_vector(
-        uid=args.uid,
-        keystrokes_path=args.keystrokes,
-        acc_path=args.accelerometer,
-        gyro_path=args.gyroscope,
-        output_path=args.output,
-        round_id=args.round_id,
-    )
+    df_out = build_auth_vector_for_user(args.uid)
+
+    out_path = os.path.join(AUTH_BASE_DIR, args.uid, AUTH_VECTOR_FILE)
 
     print(f"✓ Hotovo. Výsledný vektor má tvar: {df_out.shape}")
-    print(f"✓ Uložené do: {args.output}")
+    print(f"✓ Uložené do: {out_path}")
 
 
 if __name__ == "__main__":
