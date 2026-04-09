@@ -12,6 +12,16 @@ MICRO_PAUSE_MS = 700    # hranica na "mikropauzy" (ms)
 CONFIGS = [
     {"data_dir": "data/common_training", "output_dir": "data/vectors", "keystrokes_file": "keystrokes_common.csv"},
     {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal", "keystrokes_file": "keystrokes_personal.csv"},
+    # Orezané verzie — common
+    {"data_dir": "data/common_training", "output_dir": "data/vectors_10", "keystrokes_file": "keystrokes_10_common.csv"},
+    {"data_dir": "data/common_training", "output_dir": "data/vectors_20", "keystrokes_file": "keystrokes_20_common.csv"},
+    {"data_dir": "data/common_training", "output_dir": "data/vectors_50", "keystrokes_file": "keystrokes_50_common.csv"},
+    {"data_dir": "data/common_training", "output_dir": "data/vectors_75", "keystrokes_file": "keystrokes_75_common.csv"},
+    # Orezané verzie — personal
+    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_10", "keystrokes_file": "keystrokes_10_personal.csv"},
+    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_20", "keystrokes_file": "keystrokes_20_personal.csv"},
+    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_50", "keystrokes_file": "keystrokes_50_personal.csv"},
+    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_75", "keystrokes_file": "keystrokes_75_personal.csv"},
 ]
 
 # -----------------------------

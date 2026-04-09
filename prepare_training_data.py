@@ -6,14 +6,18 @@ import pandas as pd
 # ===============================
 
 VECTOR_SOURCES = [
-    {
-        "input_dir": "data/vectors",
-        "output_dir": "data/training"
-    },
-    {
-        "input_dir": "data/vectors_personal",
-        "output_dir": "data/training_personal"
-    }
+    {"input_dir": "data/vectors",            "output_dir": "data/training"},
+    {"input_dir": "data/vectors_personal",    "output_dir": "data/training_personal"},
+    # Orezané verzie — common
+    {"input_dir": "data/vectors_10",          "output_dir": "data/training_10"},
+    {"input_dir": "data/vectors_20",          "output_dir": "data/training_20"},
+    {"input_dir": "data/vectors_50",          "output_dir": "data/training_50"},
+    {"input_dir": "data/vectors_75",          "output_dir": "data/training_75"},
+    # Orezané verzie — personal
+    {"input_dir": "data/vectors_personal_10", "output_dir": "data/training_personal_10"},
+    {"input_dir": "data/vectors_personal_20", "output_dir": "data/training_personal_20"},
+    {"input_dir": "data/vectors_personal_50", "output_dir": "data/training_personal_50"},
+    {"input_dir": "data/vectors_personal_75", "output_dir": "data/training_personal_75"},
 ]
 
 # ===============================
