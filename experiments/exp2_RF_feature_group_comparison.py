@@ -253,13 +253,14 @@ def compute_metrics(y_true, y_pred, probs):
     return {"accuracy": acc, "far": far, "frr": frr, "eer": eer}
 
 
-def train_and_evaluate(group_name: str, X_train, X_test, y_train, y_test):
+def train_and_evaluate(group_name: str, X_train, X_test, y_train, y_test, feature_cols: list):
     """
     OOF threshold → natrénuj RF na celom train sete → vyhodnoť na test sete.
+    Vracia metriky aj feature importances (pole rovnakej dĺžky ako feature_cols).
     """
     oof_probs = get_oof_probabilities(X_train, y_train, n_splits=5, group_name=group_name)
     if oof_probs is None:
-        return None
+        return None, None
 
     threshold = find_best_threshold_from_scores(oof_probs, y_train)
 
@@ -273,8 +274,10 @@ def train_and_evaluate(group_name: str, X_train, X_test, y_train, y_test):
 
     metrics = compute_metrics(y_test, y_pred_test, probs_test)
     metrics["threshold"] = threshold
-    return metrics
+    return metrics, model.feature_importances_
 
+
+TOP_N_FEATURES = 20  # koľko top čŕt vypísať / uložiť na skupinu
 
 # ---------------------------------------------------------------------------
 # Hlavná logika
@@ -294,6 +297,8 @@ def main():
     print()
 
     per_user_records = []
+    # importance_accum[group_name] = list of 1-D arrays (one per user)
+    importance_accum: dict[str, list] = {g: [] for g in group_names}
 
     for csv_file in csv_files:
         uid = csv_file.replace("training_", "").replace(".csv", "")
@@ -325,13 +330,18 @@ def main():
 
             X_train, X_test, y_train, y_test = split
 
-            metrics = train_and_evaluate(group_name, X_train, X_test, y_train, y_test)
+            metrics, importances = train_and_evaluate(
+                group_name, X_train, X_test, y_train, y_test, feature_cols
+            )
 
             if metrics is None:
                 warnings.warn(
                     f"[SKIP] User {uid}, skupina {group_name}: OOF zlyhalo, výsledky preskočené."
                 )
                 continue
+
+            if importances is not None:
+                importance_accum[group_name].append(importances)
 
             record = {
                 "user_id": uid,
@@ -405,6 +415,81 @@ def main():
             f" {row['avg_eer']:>8.4f} {row['std_eer']:>6.4f}"
         )
     print("=" * 90)
+
+    # -----------------------------------------------------------------------
+    # Feature importances – priemer cez všetkých používateľov pre každú skupinu
+    # -----------------------------------------------------------------------
+    print("\n" + "=" * 90)
+    print(f"TOP {TOP_N_FEATURES} NAJDÔLEŽITEJŠIE ČRTY (priemerná dôležitosť cez všetkých používateľov)")
+    print("=" * 90)
+
+    importance_summary_records = []
+    for group_name in group_names:
+        arrays = importance_accum[group_name]
+        if not arrays:
+            print(f"\n{group_name}: žiadne výsledky.")
+            continue
+
+        mean_imp = np.mean(np.stack(arrays, axis=0), axis=0)
+        std_imp  = np.std( np.stack(arrays, axis=0), axis=0)
+        feature_cols = FEATURE_GROUPS[group_name]
+
+        order = np.argsort(mean_imp)[::-1]
+        top_idx = order[:TOP_N_FEATURES]
+
+        print(f"\n{group_name} ({len(feature_cols)} čŕt, {len(arrays)} používateľov):")
+        print(f"  {'#':>3}  {'Črta':<45}  {'Priemer':>9}  {'Std':>9}")
+        print(f"  {'-'*3}  {'-'*45}  {'-'*9}  {'-'*9}")
+        for rank, idx in enumerate(top_idx, start=1):
+            fname = feature_cols[idx]
+            print(f"  {rank:>3}. {fname:<45}  {mean_imp[idx]:>9.5f}  {std_imp[idx]:>9.5f}")
+
+        # uloženie do CSV
+        imp_df = pd.DataFrame({
+            "rank":       range(1, len(feature_cols) + 1),
+            "feature":    [feature_cols[i] for i in order],
+            "mean_importance": mean_imp[order],
+            "std_importance":  std_imp[order],
+        })
+        imp_csv = os.path.join(RESULTS_DIR, f"feature_importance_{group_name}.csv")
+        imp_df.to_csv(imp_csv, index=False)
+        importance_summary_records.append((group_name, imp_df))
+
+        # graf top-N
+        top_names = [feature_cols[i] for i in top_idx]
+        top_means = mean_imp[top_idx]
+        top_stds  = std_imp[top_idx]
+
+        fig_h = max(5, TOP_N_FEATURES * 0.35)
+        fig, ax = plt.subplots(figsize=(9, fig_h))
+        y_pos = np.arange(TOP_N_FEATURES)
+        ax.barh(y_pos, top_means[::-1], xerr=top_stds[::-1], align="center",
+                color="#4C72B0", capsize=3)
+        ax.set_yticks(y_pos)
+        ax.set_yticklabels(top_names[::-1], fontsize=8)
+        ax.set_xlabel("Priemerná dôležitosť (Gini)")
+        ax.set_title(
+            f"Exp2 RF – Top {TOP_N_FEATURES} čŕt  [{group_name}]"
+        )
+        ax.xaxis.grid(True, linestyle="--", alpha=0.7)
+        ax.set_axisbelow(True)
+        plt.tight_layout()
+        imp_plot = os.path.join(RESULTS_DIR, f"feature_importance_{group_name}.png")
+        plt.savefig(imp_plot, dpi=150)
+        plt.close()
+        print(f"  → Graf uložený do: {imp_plot}")
+        print(f"  → CSV  uložené do: {imp_csv}")
+
+        # bottom-N
+        bot_idx = order[-TOP_N_FEATURES:][::-1]  # najmenej dôležité, od najhoršej
+        print(f"\n  NAJMENEJ DÔLEŽITÉ črty ({group_name}):")
+        print(f"  {'#':>3}  {'Črta':<45}  {'Priemer':>9}  {'Std':>9}")
+        print(f"  {'-'*3}  {'-'*45}  {'-'*9}  {'-'*9}")
+        for rank, idx in enumerate(bot_idx, start=1):
+            fname = feature_cols[idx]
+            print(f"  {rank:>3}. {fname:<45}  {mean_imp[idx]:>9.5f}  {std_imp[idx]:>9.5f}")
+
+    print("\n" + "=" * 90)
 
     # -----------------------------------------------------------------------
     # Graf – grouped bar chart (rovnaký štýl ako experiment 1)
