@@ -23,8 +23,7 @@ from xgboost import XGBClassifier
 # Konfigurácia
 # ---------------------------------------------------------------------------
 
-TRAINING_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "training")
-RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results", "exp1_model_comparison")
+BASE_RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results", "exp1_model_comparison")
 RANDOM_STATE = 42
 
 # Počet legitímnych vzoriek pre train / test
@@ -33,7 +32,12 @@ LEGIT_TEST = 5
 
 EXCLUDE_COLS = {"UserId", "RoundId", "label"}
 
-os.makedirs(RESULTS_DIR, exist_ok=True)
+DATASET_RUNS = [
+    ("general", os.path.join(os.path.dirname(__file__), "..", "data", "training")),
+    ("personal", os.path.join(os.path.dirname(__file__), "..", "data", "training_personal")),
+]
+
+os.makedirs(BASE_RESULTS_DIR, exist_ok=True)
 
 
 # ---------------------------------------------------------------------------
@@ -272,25 +276,123 @@ def train_and_evaluate_model(model_name: str, X_train, X_test, y_train, y_test):
     return metrics
 
 
-# ---------------------------------------------------------------------------
-# Hlavná logika
-# ---------------------------------------------------------------------------
+def print_dataset_summary(
+    dataset_name: str,
+    all_user_ids,
+    per_user_df,
+    final_table,
+    summary_df,
+    ranking_df,
+    skipped_for_samples,
+    skipped_oof_records,
+    combined_plot,
+):
+    print("\n" + "=" * 80)
+    print(f"DATASET: {dataset_name.upper()}")
+    print("=" * 80)
+    print("SÚHRN – priemery a smerodajné odchýlky cez všetkých používateľov")
+    print("=" * 80)
+    header = f"{'Model':<16} {'Acc':>8} {'±':>6} {'FAR':>8} {'±':>6} {'FRR':>8} {'±':>6} {'EER':>8} {'±':>6}"
+    print(header)
+    print("-" * 80)
+    for _, row in summary_df.iterrows():
+        print(
+            f"{row['model']:<16}"
+            f" {row['avg_accuracy']:>8.4f} {row['std_accuracy']:>6.4f}"
+            f" {row['avg_far']:>8.4f} {row['std_far']:>6.4f}"
+            f" {row['avg_frr']:>8.4f} {row['std_frr']:>6.4f}"
+            f" {row['avg_eer']:>8.4f} {row['std_eer']:>6.4f}"
+        )
+    print("=" * 80)
 
-def main():
+    print("\nA) Hlavná súhrnná tabuľka po modeloch")
+    print("-" * 80)
+    print(final_table.to_string(index=False, float_format=lambda x: f"{x:.4f}"))
+
+    print("\nB) Poradie modelov podľa EER (najlepší -> najhorší)")
+    print("-" * 80)
+    print(ranking_df.to_string(index=False, float_format=lambda x: f"{x:.4f}"))
+
+    print("\nC) Počet hodnotených používateľov")
+    print("-" * 80)
+    evaluated_users = sorted(per_user_df["user_id"].unique().tolist())
+    excluded_users = sorted(set(all_user_ids) - set(evaluated_users))
+    print(f"Nájdených training súborov: {len(all_user_ids)}")
+    print(f"Reálne zahrnutých používateľov: {len(evaluated_users)}")
+    print(f"Vyradených používateľov: {len(excluded_users)}")
+
+    if skipped_for_samples:
+        print("Používatelia vyradení pre nedostatok legitímnych vzoriek:")
+        for rec in skipped_for_samples:
+            print(f"  - {rec['user_id']}: legit={rec['n_legit']}")
+    else:
+        print("Nikto nebol vyradený pre nedostatok legitímnych vzoriek.")
+
+    if skipped_oof_records:
+        print("Preskočené kombinácie user/model pre OOF:")
+        for rec in skipped_oof_records:
+            print(f"  - {rec['user_id']} | {rec['model']}")
+    else:
+        print("Žiadna kombinácia user/model nebola preskočená kvôli OOF.")
+
+    print("\nD) Potvrdenie metodiky")
+    print("-" * 80)
+    print("- Model sa trénuje samostatne pre každého používateľa.")
+    print("- Výsledky sa agregujú priemerom a smerodajnou odchýlkou cez používateľov.")
+    print("- Threshold sa určuje user-specific z OOF predikcií na train množine.")
+
+    print("\nE) Grafy vhodné do diplomovej práce")
+    print("-" * 80)
+    print(f"- metrics_comparison_{dataset_name}.png: {combined_plot}")
+
+    print("\nF) Krátke textové zhrnutie")
+    print("-" * 80)
+    best_model = ranking_df.iloc[0]["Model"]
+    best_eer = ranking_df.iloc[0]["EER_avg"]
+    second_model = ranking_df.iloc[1]["Model"]
+    second_eer = ranking_df.iloc[1]["EER_avg"]
+    worst_model = ranking_df.iloc[-1]["Model"]
+    worst_eer = ranking_df.iloc[-1]["EER_avg"]
+    print(
+        f"Najlepší model podľa EER je {best_model} (EER={best_eer:.4f}). "
+        f"Druhý je {second_model} (EER={second_eer:.4f}) a najhorší je {worst_model} "
+        f"(EER={worst_eer:.4f})."
+    )
+    print(
+        "Rozdiely medzi modelmi sú priamo viditeľné v tabuľke aj v grafe "
+        "AAR/FAR/FRR/EER s error bars."
+    )
+    print(
+        "V texte diplomovej práce je možné uviesť poradie modelov podľa EER a "
+        "zdôrazniť, že hodnotenie bolo robené user-specific spôsobom."
+    )
+
+
+def run_experiment(dataset_name: str, training_dir: str):
+    results_dir = os.path.join(BASE_RESULTS_DIR, dataset_name)
+    os.makedirs(results_dir, exist_ok=True)
+
     model_names = ["RandomForest", "SVM", "XGBoost"]
 
     csv_files = sorted(
-        f for f in os.listdir(TRAINING_DIR)
+        f for f in os.listdir(training_dir)
         if f.startswith("training_") and f.endswith(".csv")
     )
 
+    all_user_ids = [f.replace("training_", "").replace(".csv", "") for f in csv_files]
+    skipped_for_samples = []
+    skipped_oof_records = []
+
+    print("\n" + "#" * 80)
+    print(f"Experiment 1 | dataset: {dataset_name} | directory: {training_dir}")
+    print("#" * 80)
     print(f"Nájdených {len(csv_files)} training súborov.\n")
 
     per_user_records = []
 
     for csv_file in csv_files:
         uid = csv_file.replace("training_", "").replace(".csv", "")
-        csv_path = os.path.join(TRAINING_DIR, csv_file)
+        csv_path = os.path.join(training_dir, csv_file)
 
         X, y = load_dataset(csv_path)
 
@@ -298,9 +400,10 @@ def main():
         if split is None:
             n_legit = int((y == 1).sum())
             warnings.warn(
-                f"[SKIP] User {uid}: iba {n_legit} legitímnych vzoriek "
+                f"[SKIP] Dataset {dataset_name}, user {uid}: iba {n_legit} legitímnych vzoriek "
                 f"(potrebných {LEGIT_TRAIN + LEGIT_TEST}). Používateľ preskočený."
             )
+            skipped_for_samples.append({"user_id": uid, "n_legit": n_legit})
             continue
 
         X_train, X_test, y_train, y_test = split
@@ -312,8 +415,10 @@ def main():
 
             if metrics is None:
                 warnings.warn(
-                    f"[SKIP] User {uid}, model {model_name}: OOF zlyhalo, výsledky preskočené."
+                    f"[SKIP] Dataset {dataset_name}, user {uid}, model {model_name}: "
+                    "OOF zlyhalo, výsledky preskočené."
                 )
+                skipped_oof_records.append({"user_id": uid, "model": model_name})
                 continue
 
             record = {
@@ -334,21 +439,15 @@ def main():
 
         print()
 
-    # -----------------------------------------------------------------------
-    # Uloženie per-user výsledkov
-    # -----------------------------------------------------------------------
     if not per_user_records:
-        print("Žiadne výsledky neboli vytvorené.")
-        return
+        print(f"Žiadne výsledky neboli vytvorené pre dataset {dataset_name}.")
+        return None
 
     per_user_df = pd.DataFrame(per_user_records)
-    per_user_csv = os.path.join(RESULTS_DIR, "per_user_results.csv")
+    per_user_csv = os.path.join(results_dir, f"per_user_results_{dataset_name}.csv")
     per_user_df.to_csv(per_user_csv, index=False)
     print(f"Per-user výsledky uložené do: {per_user_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Súhrn – priemer a std cez používateľov pre každý model
-    # -----------------------------------------------------------------------
     summary_records = []
     for model_name in model_names:
         subset = per_user_df[per_user_df["model"] == model_name]
@@ -359,43 +458,44 @@ def main():
         summary_records.append(record)
 
     summary_df = pd.DataFrame(summary_records)
-    summary_csv = os.path.join(RESULTS_DIR, "summary_results.csv")
+    summary_csv = os.path.join(results_dir, f"summary_results_{dataset_name}.csv")
     summary_df.to_csv(summary_csv, index=False)
     print(f"Súhrnné výsledky uložené do: {summary_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Výpis tabuľky do konzoly
-    # -----------------------------------------------------------------------
-    print("=" * 80)
-    print("SÚHRN – priemery a smerodajné odchýlky cez všetkých používateľov")
-    print("=" * 80)
-    header = f"{'Model':<16} {'Acc':>8} {'±':>6} {'FAR':>8} {'±':>6} {'FRR':>8} {'±':>6} {'EER':>8} {'±':>6}"
-    print(header)
-    print("-" * 80)
-    for _, row in summary_df.iterrows():
-        print(
-            f"{row['model']:<16}"
-            f" {row['avg_accuracy']:>8.4f} {row['std_accuracy']:>6.4f}"
-            f" {row['avg_far']:>8.4f} {row['std_far']:>6.4f}"
-            f" {row['avg_frr']:>8.4f} {row['std_frr']:>6.4f}"
-            f" {row['avg_eer']:>8.4f} {row['std_eer']:>6.4f}"
-        )
-    print("=" * 80)
+    final_table = summary_df.rename(
+        columns={
+            "model": "Model",
+            "avg_accuracy": "Acc_avg",
+            "std_accuracy": "Acc_std",
+            "avg_far": "FAR_avg",
+            "std_far": "FAR_std",
+            "avg_frr": "FRR_avg",
+            "std_frr": "FRR_std",
+            "avg_eer": "EER_avg",
+            "std_eer": "EER_std",
+        }
+    )[[
+        "Model", "Acc_avg", "Acc_std", "FAR_avg", "FAR_std",
+        "FRR_avg", "FRR_std", "EER_avg", "EER_std"
+    ]]
 
-    # -----------------------------------------------------------------------
-    # Graf – AAR, FAR, FRR, EER pre každý model v jednom grouped bar charte
-    # -----------------------------------------------------------------------
+    final_table_csv = os.path.join(results_dir, f"final_summary_table_{dataset_name}.csv")
+    final_table.to_csv(final_table_csv, index=False)
+    print(f"Finálna tabuľka uložená do: {final_table_csv}\n")
+
+    ranking_df = final_table[["Model", "EER_avg"]].sort_values("EER_avg", ascending=True)
+
     metrics_to_plot = ["avg_accuracy", "avg_far", "avg_frr", "avg_eer"]
-    metric_labels   = ["AAR (Accuracy)", "FAR", "FRR", "EER"]
-    metric_colors   = ["#4C72B0", "#DD8452", "#55A868", "#C44E52"]
-    metric_std      = ["std_accuracy",  "std_far", "std_frr", "std_eer"]
+    metric_labels = ["AAR (Accuracy)", "FAR", "FRR", "EER"]
+    metric_colors = ["#4C72B0", "#DD8452", "#55A868", "#C44E52"]
+    metric_std = ["std_accuracy", "std_far", "std_frr", "std_eer"]
 
-    n_models  = len(summary_df)
+    n_models = len(summary_df)
     n_metrics = len(metrics_to_plot)
     bar_width = 0.18
     x = np.arange(n_models)
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=(11, 6.5))
 
     for i, (metric, label, color, std_col) in enumerate(
         zip(metrics_to_plot, metric_labels, metric_colors, metric_std)
@@ -406,30 +506,121 @@ def main():
             label=label, color=color,
             yerr=summary_df[std_col], capsize=3,
         )
-        for bar in bars:
+        for j, bar in enumerate(bars):
             h = bar.get_height()
+            err = float(summary_df[std_col].iloc[j])
+            y_text = h + err + 0.02
             ax.text(
                 bar.get_x() + bar.get_width() / 2,
-                h + 0.01,
+                y_text,
                 f"{h:.3f}",
-                ha="center", va="bottom", fontsize=7, rotation=90,
+                ha="center",
+                va="bottom",
+                fontsize=8,
+                rotation=0,
+                clip_on=False,
             )
 
-    ax.set_title("Experiment 1 – porovnanie modelov: AAR, FAR, FRR, EER")
+    ax.set_title(f"Experiment 1 ({dataset_name}) – porovnanie modelov: AAR, FAR, FRR, EER")
     ax.set_ylabel("Hodnota")
     ax.set_xlabel("Model")
     ax.set_xticks(x)
     ax.set_xticklabels(summary_df["model"])
-    ax.set_ylim(0, 1.15)
+    y_max_data = float((summary_df[metrics_to_plot].values + summary_df[metric_std].values).max())
+    ax.set_ylim(0, max(1.15, y_max_data + 0.12))
     ax.yaxis.grid(True, linestyle="--", alpha=0.7)
     ax.set_axisbelow(True)
     ax.legend(loc="upper right")
 
     plt.tight_layout()
-    combined_plot = os.path.join(RESULTS_DIR, "metrics_comparison.png")
+    combined_plot = os.path.join(results_dir, f"metrics_comparison_{dataset_name}.png")
     plt.savefig(combined_plot, dpi=150)
     plt.close()
     print(f"\nGraf metrík uložený do: {combined_plot}")
+
+    report_txt = os.path.join(results_dir, f"final_report_{dataset_name}.txt")
+    evaluated_users = sorted(per_user_df["user_id"].unique().tolist())
+    excluded_users = sorted(set(all_user_ids) - set(evaluated_users))
+    with open(report_txt, "w", encoding="utf-8") as f:
+        f.write(f"Experiment 1 - Final report ({dataset_name})\n")
+        f.write("=" * 80 + "\n")
+        f.write("A) Main summary table\n")
+        f.write(final_table.to_string(index=False, float_format=lambda x: f"{x:.6f}") + "\n\n")
+        f.write("B) Model ranking by EER\n")
+        f.write(ranking_df.to_string(index=False, float_format=lambda x: f"{x:.6f}") + "\n\n")
+        f.write("C) Users\n")
+        f.write(f"Training files: {len(all_user_ids)}\n")
+        f.write(f"Evaluated users: {len(evaluated_users)}\n")
+        f.write(f"Excluded users: {len(excluded_users)}\n")
+        f.write("\nD) Methodology confirmation\n")
+        f.write("- Per-user model training\n")
+        f.write("- Aggregation over users\n")
+        f.write("- User-specific OOF thresholding\n")
+        f.write("\nE) Plot\n")
+        f.write(f"- {combined_plot}\n")
+    print(f"Report uložený do: {report_txt}")
+
+    print_dataset_summary(
+        dataset_name=dataset_name,
+        all_user_ids=all_user_ids,
+        per_user_df=per_user_df,
+        final_table=final_table,
+        summary_df=summary_df,
+        ranking_df=ranking_df,
+        skipped_for_samples=skipped_for_samples,
+        skipped_oof_records=skipped_oof_records,
+        combined_plot=combined_plot,
+    )
+
+    return {
+        "dataset_name": dataset_name,
+        "final_table": final_table,
+        "ranking_df": ranking_df,
+        "results_dir": results_dir,
+    }
+
+
+# ---------------------------------------------------------------------------
+# Hlavná logika
+# ---------------------------------------------------------------------------
+
+def main():
+    run_summaries = []
+    for dataset_name, training_dir in DATASET_RUNS:
+        run_summary = run_experiment(dataset_name, training_dir)
+        if run_summary is not None:
+            run_summaries.append(run_summary)
+
+    if not run_summaries:
+        print("Žiadny dataset nevytvoril výsledky.")
+        return
+
+    print("\n" + "#" * 80)
+    print("Experiment 1 | finálne porovnanie datasetov")
+    print("#" * 80)
+    for run_summary in run_summaries:
+        ranking_df = run_summary["ranking_df"]
+        best_model = ranking_df.iloc[0]["Model"]
+        best_eer = ranking_df.iloc[0]["EER_avg"]
+        print(
+            f"Dataset {run_summary['dataset_name']}: najlepší model = {best_model} "
+            f"(EER={best_eer:.4f}) | výstupy: {run_summary['results_dir']}"
+        )
+
+    combined_final_tables = []
+    for run_summary in run_summaries:
+        dataset_table = run_summary["final_table"].copy()
+        dataset_table.insert(0, "Dataset", run_summary["dataset_name"])
+        combined_final_tables.append(dataset_table)
+
+    combined_df = pd.concat(combined_final_tables, ignore_index=True)
+    combined_csv = os.path.join(BASE_RESULTS_DIR, "final_summary_table_all_datasets.csv")
+    combined_df.to_csv(combined_csv, index=False)
+
+    print("\nG) Spoločná tabuľka pre všetky datasety")
+    print("-" * 80)
+    print(combined_df.to_string(index=False, float_format=lambda x: f"{x:.4f}"))
+    print(f"Spoločná tabuľka uložená do: {combined_csv}")
 
 
 if __name__ == "__main__":
