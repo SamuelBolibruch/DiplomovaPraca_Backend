@@ -20,8 +20,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score
 # Konfigurácia
 # ---------------------------------------------------------------------------
 
-TRAINING_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "training")
-RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results", "exp2_RF_feature_group_comparison")
+BASE_RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results", "exp2_RF_feature_group_comparison")
 RANDOM_STATE = 42
 
 LEGIT_TRAIN = 10
@@ -29,7 +28,12 @@ LEGIT_TEST = 5
 
 EXCLUDE_COLS = {"UserId", "RoundId", "label"}
 
-os.makedirs(RESULTS_DIR, exist_ok=True)
+DATASET_RUNS = [
+    ("general", os.path.join(os.path.dirname(__file__), "..", "data", "training")),
+    ("personal", os.path.join(os.path.dirname(__file__), "..", "data", "training_personal")),
+]
+
+os.makedirs(BASE_RESULTS_DIR, exist_ok=True)
 
 # ---------------------------------------------------------------------------
 # Definícia skupín čŕt
@@ -283,14 +287,20 @@ TOP_N_FEATURES = 20  # koľko top čŕt vypísať / uložiť na skupinu
 # Hlavná logika
 # ---------------------------------------------------------------------------
 
-def main():
+def run_experiment(dataset_name: str, training_dir: str):
+    results_dir = os.path.join(BASE_RESULTS_DIR, dataset_name)
+    os.makedirs(results_dir, exist_ok=True)
+
     group_names = list(FEATURE_GROUPS.keys())
 
     csv_files = sorted(
-        f for f in os.listdir(TRAINING_DIR)
+        f for f in os.listdir(training_dir)
         if f.startswith("training_") and f.endswith(".csv")
     )
 
+    print("\n" + "#" * 90)
+    print(f"Experiment 2 RF | dataset: {dataset_name} | directory: {training_dir}")
+    print("#" * 90)
     print(f"Nájdených {len(csv_files)} training súborov.\n")
     for gname, gcols in FEATURE_GROUPS.items():
         print(f"  {gname}: {len(gcols)} čŕt")
@@ -302,7 +312,7 @@ def main():
 
     for csv_file in csv_files:
         uid = csv_file.replace("training_", "").replace(".csv", "")
-        csv_path = os.path.join(TRAINING_DIR, csv_file)
+        csv_path = os.path.join(training_dir, csv_file)
 
         df = load_dataset(csv_path)
 
@@ -366,11 +376,11 @@ def main():
     # Uloženie per-user výsledkov
     # -----------------------------------------------------------------------
     if not per_user_records:
-        print("Žiadne výsledky neboli vytvorené.")
-        return
+        print(f"Žiadne výsledky neboli vytvorené pre dataset {dataset_name}.")
+        return None
 
     per_user_df = pd.DataFrame(per_user_records)
-    per_user_csv = os.path.join(RESULTS_DIR, "per_user_results.csv")
+    per_user_csv = os.path.join(results_dir, f"per_user_results_{dataset_name}.csv")
     per_user_df.to_csv(per_user_csv, index=False)
     print(f"Per-user výsledky uložené do: {per_user_csv}\n")
 
@@ -390,7 +400,7 @@ def main():
         summary_records.append(record)
 
     summary_df = pd.DataFrame(summary_records)
-    summary_csv = os.path.join(RESULTS_DIR, "summary_results.csv")
+    summary_csv = os.path.join(results_dir, f"summary_results_{dataset_name}.csv")
     summary_df.to_csv(summary_csv, index=False)
     print(f"Súhrnné výsledky uložené do: {summary_csv}\n")
 
@@ -424,6 +434,7 @@ def main():
     print("=" * 90)
 
     importance_summary_records = []
+    importance_all_rows = []
     for group_name in group_names:
         arrays = importance_accum[group_name]
         if not arrays:
@@ -451,9 +462,14 @@ def main():
             "mean_importance": mean_imp[order],
             "std_importance":  std_imp[order],
         })
-        imp_csv = os.path.join(RESULTS_DIR, f"feature_importance_{group_name}.csv")
+        imp_csv = os.path.join(results_dir, f"feature_importance_{group_name}_{dataset_name}.csv")
         imp_df.to_csv(imp_csv, index=False)
         importance_summary_records.append((group_name, imp_df))
+
+        imp_all_df = imp_df.copy()
+        imp_all_df.insert(0, "feature_group", group_name)
+        imp_all_df.insert(0, "dataset", dataset_name)
+        importance_all_rows.append(imp_all_df)
 
         # graf top-N
         top_names = [feature_cols[i] for i in top_idx]
@@ -474,7 +490,7 @@ def main():
         ax.xaxis.grid(True, linestyle="--", alpha=0.7)
         ax.set_axisbelow(True)
         plt.tight_layout()
-        imp_plot = os.path.join(RESULTS_DIR, f"feature_importance_{group_name}.png")
+        imp_plot = os.path.join(results_dir, f"feature_importance_{group_name}_{dataset_name}.png")
         plt.savefig(imp_plot, dpi=150)
         plt.close()
         print(f"  → Graf uložený do: {imp_plot}")
@@ -535,10 +551,78 @@ def main():
     ax.legend(loc="upper right")
 
     plt.tight_layout()
-    combined_plot = os.path.join(RESULTS_DIR, "metrics_comparison.png")
+    combined_plot = os.path.join(results_dir, f"metrics_comparison_{dataset_name}.png")
     plt.savefig(combined_plot, dpi=150)
     plt.close()
     print(f"\nGraf metrík uložený do: {combined_plot}")
+
+    summary_with_dataset = summary_df.copy()
+    summary_with_dataset.insert(0, "dataset", dataset_name)
+    summary_with_dataset.to_csv(
+        os.path.join(results_dir, f"summary_results_with_dataset_{dataset_name}.csv"),
+        index=False,
+    )
+
+    importance_all_df = None
+    if importance_all_rows:
+        importance_all_df = pd.concat(importance_all_rows, ignore_index=True)
+        importance_all_csv = os.path.join(
+            results_dir,
+            f"feature_importance_all_groups_{dataset_name}.csv",
+        )
+        importance_all_df.to_csv(importance_all_csv, index=False)
+        print(f"Súhrnné feature-importances (všetky skupiny) uložené do: {importance_all_csv}")
+
+    return {
+        "dataset_name": dataset_name,
+        "summary_df": summary_df,
+        "importance_all_df": importance_all_df,
+        "results_dir": results_dir,
+    }
+
+
+def main():
+    run_summaries = []
+    for dataset_name, training_dir in DATASET_RUNS:
+        run_summary = run_experiment(dataset_name, training_dir)
+        if run_summary is not None:
+            run_summaries.append(run_summary)
+
+    if not run_summaries:
+        print("Žiadny dataset nevytvoril výsledky.")
+        return
+
+    combined_rows = []
+    for run_summary in run_summaries:
+        dataset_name = run_summary["dataset_name"]
+        summary_df = run_summary["summary_df"].copy()
+        summary_df.insert(0, "dataset", dataset_name)
+        combined_rows.append(summary_df)
+
+    combined_df = pd.concat(combined_rows, ignore_index=True)
+    combined_csv = os.path.join(BASE_RESULTS_DIR, "comparison_general_vs_personal.csv")
+    combined_df.to_csv(combined_csv, index=False)
+
+    importance_combined_rows = []
+    for run_summary in run_summaries:
+        imp_df = run_summary.get("importance_all_df")
+        if imp_df is not None and not imp_df.empty:
+            importance_combined_rows.append(imp_df)
+
+    if importance_combined_rows:
+        importance_combined_df = pd.concat(importance_combined_rows, ignore_index=True)
+        importance_combined_csv = os.path.join(
+            BASE_RESULTS_DIR,
+            "feature_importance_all_groups_general_vs_personal.csv",
+        )
+        importance_combined_df.to_csv(importance_combined_csv, index=False)
+        print(f"Feature-importances pre oba datasety uložené do: {importance_combined_csv}")
+
+    print("\n" + "#" * 90)
+    print("Experiment 2 RF | finálne porovnanie datasetov (general vs personal)")
+    print("#" * 90)
+    print(combined_df.to_string(index=False, float_format=lambda x: f"{x:.4f}"))
+    print(f"Porovnávacie CSV uložené do: {combined_csv}")
 
 
 if __name__ == "__main__":
