@@ -1,6 +1,6 @@
 # Experimentálny skript na analýzu vplyvu počtu tréningových vzoriek na výkon modelu.
-# Experiment 4 – General – RandomForest: Vplyv veľkosti trénovacej množiny (TRAIN_SIZE) na výkon
-#              pri fixed modeli RandomForest, combined feature sete a zdieľanom (general) texte (data/training).
+# Experiment 4 – General & Personal – RandomForest: Vplyv veľkosti trénovacej množiny (TRAIN_SIZE) na výkon
+#              pri fixed modeli RandomForest, combined feature sete.
 # Metodika identická s experimentmi 1, 2 a 3:
 #   - user-specific OOF threshold (StratifiedKFold, 5 foldov)
 #   - minimalizácia abs(FAR - FRR)
@@ -22,16 +22,19 @@ from sklearn.model_selection import StratifiedKFold
 # Konfigurácia
 # ---------------------------------------------------------------------------
 
-TRAINING_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "training")
-RESULTS_DIR  = os.path.join(os.path.dirname(__file__), "results", "exp4_general_training_size_analysis")
+BASE_RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results", "exp4_training_size_analysis")
 RANDOM_STATE = 42
 
 TRAIN_SIZES = [3, 5, 8, 10, 12]
-LEGIT_TEST_FIXED = 5  # minimálny počet legitímnych vzoriek rezervovaných pre test
 
 EXCLUDE_COLS = {"UserId", "RoundId", "label"}
 
-os.makedirs(RESULTS_DIR, exist_ok=True)
+DATASET_RUNS = [
+    ("general", os.path.join(os.path.dirname(__file__), "..", "data", "training")),
+    ("personal", os.path.join(os.path.dirname(__file__), "..", "data", "training_personal")),
+]
+
+os.makedirs(BASE_RESULTS_DIR, exist_ok=True)
 
 # ---------------------------------------------------------------------------
 # Combined feature set (rovnaký ako v experimentoch 2 a 3)
@@ -279,7 +282,7 @@ def get_csv_files(directory: str) -> list:
 # Grafy
 # ---------------------------------------------------------------------------
 
-def plot_eer_vs_train_size(summary_df: pd.DataFrame, out_dir: str):
+def plot_eer_vs_train_size(summary_df: pd.DataFrame, out_dir: str, dataset_name: str):
     """Čiarový graf EER v závislosti od train_size."""
     x            = summary_df["train_size"].tolist()
     avg_eer_vals = summary_df["avg_eer"].tolist()
@@ -294,7 +297,7 @@ def plot_eer_vs_train_size(summary_df: pd.DataFrame, out_dir: str):
     for xi, yi in zip(x, avg_eer_vals):
         ax.text(xi, yi + 0.005, f"{yi:.4f}", ha="center", va="bottom", fontsize=9)
 
-    ax.set_title("Experiment 4 – EER vs počet tréningových vzoriek (RandomForest)")
+    ax.set_title(f"Experiment 4 ({dataset_name}) – EER vs počet tréningových vzoriek (RandomForest)")
     ax.set_ylabel("EER")
     ax.set_xlabel("Počet legitímnych tréningových vzoriek")
     ax.set_xticks(x)
@@ -304,13 +307,13 @@ def plot_eer_vs_train_size(summary_df: pd.DataFrame, out_dir: str):
     ax.legend()
 
     plt.tight_layout()
-    out_path = os.path.join(out_dir, "eer_vs_train_size.png")
+    out_path = os.path.join(out_dir, f"eer_vs_train_size_{dataset_name}.png")
     plt.savefig(out_path, dpi=150)
     plt.close()
     print(f"Graf EER uložený do: {out_path}")
 
 
-def plot_far_frr_vs_train_size(summary_df: pd.DataFrame, out_dir: str):
+def plot_far_frr_vs_train_size(summary_df: pd.DataFrame, out_dir: str, dataset_name: str):
     """Čiarový graf FAR a FRR v závislosti od train_size."""
     x        = summary_df["train_size"].tolist()
     avg_fars = summary_df["avg_far"].tolist()
@@ -333,7 +336,7 @@ def plot_far_frr_vs_train_size(summary_df: pd.DataFrame, out_dir: str):
         ax.text(xi, fi + 0.005, f"{fi:.3f}", ha="center", va="bottom", fontsize=8, color="#DD8452")
         ax.text(xi, ri - 0.018, f"{ri:.3f}", ha="center", va="bottom", fontsize=8, color="#55A868")
 
-    ax.set_title("Experiment 4 – FAR a FRR vs počet tréningových vzoriek (RandomForest)")
+    ax.set_title(f"Experiment 4 ({dataset_name}) – FAR a FRR vs počet tréningových vzoriek (RandomForest)")
     ax.set_ylabel("Hodnota")
     ax.set_xlabel("Počet legitímnych tréningových vzoriek")
     ax.set_xticks(x)
@@ -343,20 +346,95 @@ def plot_far_frr_vs_train_size(summary_df: pd.DataFrame, out_dir: str):
     ax.legend()
 
     plt.tight_layout()
-    out_path = os.path.join(out_dir, "far_frr_vs_train_size.png")
+    out_path = os.path.join(out_dir, f"far_frr_vs_train_size_{dataset_name}.png")
     plt.savefig(out_path, dpi=150)
     plt.close()
     print(f"Graf FAR/FRR uložený do: {out_path}")
+
+
+def plot_eer_comparison_all_datasets(all_summaries: list, out_dir: str):
+    """Porovnávajúci graf EER pre general vs personal."""
+    fig, ax = plt.subplots(figsize=(10, 6))
+    
+    x_base = np.array(TRAIN_SIZES)
+    width = 0.35
+    colors = ["#4C72B0", "#DD8452"]
+    
+    for idx, (dataset_name, summary_df) in enumerate(all_summaries):
+        x = x_base + (idx - 0.5) * width
+        avg_eer = summary_df["avg_eer"].tolist()
+        std_eer = summary_df["std_eer"].tolist()
+        
+        ax.bar(x, avg_eer, width, label=dataset_name.capitalize(), 
+               color=colors[idx], yerr=std_eer, capsize=5)
+        
+        for xi, yi, ei in zip(x, avg_eer, std_eer):
+            ax.text(xi, yi + ei + 0.01, f"{yi:.4f}", ha="center", va="bottom", fontsize=8)
+    
+    ax.set_title("Experiment 4 – Porovnanie EER: General vs Personal")
+    ax.set_ylabel("EER")
+    ax.set_xlabel("Počet legitímnych tréningových vzoriek")
+    ax.set_xticks(x_base)
+    ax.set_xticklabels(x_base)
+    ax.yaxis.grid(True, linestyle="--", alpha=0.7)
+    ax.set_axisbelow(True)
+    ax.legend()
+    
+    plt.tight_layout()
+    out_path = os.path.join(out_dir, "eer_comparison_general_vs_personal.png")
+    plt.savefig(out_path, dpi=150)
+    plt.close()
+    print(f"Porovnávajúci graf EER uložený do: {out_path}")
+
+
+def plot_accuracy_comparison_all_datasets(all_summaries: list, out_dir: str):
+    """Porovnávajúci graf Accuracy pre general vs personal."""
+    fig, ax = plt.subplots(figsize=(10, 6))
+    
+    x_base = np.array(TRAIN_SIZES)
+    width = 0.35
+    colors = ["#4C72B0", "#DD8452"]
+    
+    for idx, (dataset_name, summary_df) in enumerate(all_summaries):
+        x = x_base + (idx - 0.5) * width
+        avg_acc = summary_df["avg_accuracy"].tolist()
+        std_acc = summary_df["std_accuracy"].tolist()
+        
+        ax.bar(x, avg_acc, width, label=dataset_name.capitalize(), 
+               color=colors[idx], yerr=std_acc, capsize=5)
+        
+        for xi, yi, ei in zip(x, avg_acc, std_acc):
+            ax.text(xi, yi + ei + 0.01, f"{yi:.4f}", ha="center", va="bottom", fontsize=8)
+    
+    ax.set_title("Experiment 4 – Porovnanie Accuracy: General vs Personal")
+    ax.set_ylabel("Accuracy")
+    ax.set_xlabel("Počet legitímnych tréningových vzoriek")
+    ax.set_xticks(x_base)
+    ax.set_xticklabels(x_base)
+    ax.set_ylim(0, 1.1)
+    ax.yaxis.grid(True, linestyle="--", alpha=0.7)
+    ax.set_axisbelow(True)
+    ax.legend()
+    
+    plt.tight_layout()
+    out_path = os.path.join(out_dir, "accuracy_comparison_general_vs_personal.png")
+    plt.savefig(out_path, dpi=150)
+    plt.close()
+    print(f"Porovnávajúci graf Accuracy uložený do: {out_path}")
 
 
 # ---------------------------------------------------------------------------
 # Hlavná logika
 # ---------------------------------------------------------------------------
 
-def main():
+def run_experiment(dataset_name: str, training_dir: str):
+    """Spustí experiment pre daný dataset (general alebo personal)."""
+    results_dir = os.path.join(BASE_RESULTS_DIR, dataset_name)
+    os.makedirs(results_dir, exist_ok=True)
+
     print("=" * 80)
-    print("Experiment 4 General – RandomForest: vplyv veľkosti trénovacej množiny (shared text)")
-    print(f"Dáta: {TRAINING_DIR}")
+    print(f"Experiment 4 ({dataset_name.upper()}) – RandomForest: vplyv veľkosti trénovacej množiny")
+    print(f"Dáta: {training_dir}")
     print(f"Feature set: combined (keystroke + sensor + cross-modal)")
     print(f"Počet čŕt: {len(COMBINED_ALL_FEATURES)}")
     print(f"  - Keystroke:   {len(KEYSTROKE_FEATURES)}")
@@ -366,42 +444,40 @@ def main():
     print("=" * 80)
     print()
 
-    csv_files = get_csv_files(TRAINING_DIR)
+    csv_files = get_csv_files(training_dir)
     if not csv_files:
         print("Žiadne training súbory nenájdené. Ukončujem.")
-        return
+        return None
 
     print(f"Nájdených {len(csv_files)} training súborov.\n")
 
     per_user_records = []
 
     for train_size in TRAIN_SIZES:
-        # Pre každého používateľa potrebujeme: train_size legit train + aspoň LEGIT_TEST_FIXED legit test
-        needed = train_size + LEGIT_TEST_FIXED
-
+        # Pre každého používateľa potrebujeme aspoň train_size + 1 legit vzoriek (min 1 na test)
         print(f"{'=' * 80}")
-        print(f"TRAIN_SIZE = {train_size}  (test legit: zvyšok, min {LEGIT_TEST_FIXED})")
+        print(f"TRAIN_SIZE = {train_size}  (test legit: zvyšok)")
         print(f"{'=' * 80}")
 
         for csv_file in csv_files:
             uid      = csv_file.replace("training_", "").replace(".csv", "")
-            csv_path = os.path.join(TRAINING_DIR, csv_file)
+            csv_path = os.path.join(training_dir, csv_file)
 
             df = load_dataset(csv_path)
 
             y_full  = df["label"].values
             n_legit = int((y_full == 1).sum())
 
-            if n_legit < needed:
+            if n_legit <= train_size:
                 warnings.warn(
                     f"[SKIP] User {uid}, train_size={train_size}: "
-                    f"iba {n_legit} legitímnych vzoriek (potrebných {needed}). Preskočený."
+                    f"iba {n_legit} legitímnych vzoriek (potrebných aspoň {train_size + 1}). Preskočený."
                 )
                 continue
 
             X, y = select_features(df, COMBINED_ALL_FEATURES)
 
-            # Počet test legit = zvyšok po train (ale aspoň LEGIT_TEST_FIXED)
+            # Počet test legit = zvyšok po train
             legit_test = n_legit - train_size
 
             split = split_user_data(X, y, legit_train=train_size, legit_test=legit_test)
@@ -456,10 +532,10 @@ def main():
     # -----------------------------------------------------------------------
     if not per_user_records:
         print("Žiadne výsledky neboli vytvorené.")
-        return
+        return None
 
     per_user_df  = pd.DataFrame(per_user_records)
-    per_user_csv = os.path.join(RESULTS_DIR, "per_user_results.csv")
+    per_user_csv = os.path.join(results_dir, "per_user_results.csv")
     per_user_df.to_csv(per_user_csv, index=False)
     print(f"Per-user výsledky uložené do: {per_user_csv}\n")
 
@@ -479,7 +555,7 @@ def main():
         summary_records.append(record)
 
     summary_df  = pd.DataFrame(summary_records)
-    summary_csv = os.path.join(RESULTS_DIR, "summary_results.csv")
+    summary_csv = os.path.join(results_dir, "summary_results.csv")
     summary_df.to_csv(summary_csv, index=False)
     print(f"Súhrnné výsledky uložené do: {summary_csv}\n")
 
@@ -487,7 +563,7 @@ def main():
     # Výpis tabuľky do konzoly
     # -----------------------------------------------------------------------
     print("=" * 95)
-    print("SÚHRN – RandomForest – vplyv veľkosti trénovacej množiny – priemery ± std")
+    print(f"SÚHRN – {dataset_name.upper()} – RandomForest – vplyv veľkosti trénovacej množiny – priemery ± std")
     print("=" * 95)
     header = (
         f"{'train_size':>10} {'N':>4} "
@@ -511,13 +587,76 @@ def main():
     # -----------------------------------------------------------------------
     # Grafy
     # -----------------------------------------------------------------------
-    plot_eer_vs_train_size(summary_df, RESULTS_DIR)
-    plot_far_frr_vs_train_size(summary_df, RESULTS_DIR)
+    plot_eer_vs_train_size(summary_df, results_dir, dataset_name)
+    plot_far_frr_vs_train_size(summary_df, results_dir, dataset_name)
 
     print()
     print("=" * 80)
-    print("Použitý feature set: combined")
-    print("\nExperiment 4 General dokončený.")
+    print(f"Experiment 4 ({dataset_name}) dokončený.")
+    print("=" * 80)
+    print()
+
+    return {
+        "dataset_name": dataset_name,
+        "summary_df": summary_df,
+        "results_dir": results_dir,
+    }
+
+
+def main():
+    """Spustí experiment pre všetky datasety (general a personal)."""
+    run_summaries = []
+    
+    for dataset_name, training_dir in DATASET_RUNS:
+        result = run_experiment(dataset_name, training_dir)
+        if result is not None:
+            run_summaries.append(result)
+    
+    if not run_summaries:
+        print("Žiadny dataset nevytvoril výsledky.")
+        return
+    
+    # -----------------------------------------------------------------------
+    # Porovnávajúce tabuľky a grafy
+    # -----------------------------------------------------------------------
+    print("\n" + "#" * 80)
+    print("Experiment 4 | finálne porovnanie datasetov")
+    print("#" * 80)
+    print()
+    
+    # Vytvorenie spoločnej tabuľky
+    combined_tables = []
+    all_summaries_for_graphs = []
+    
+    for run_summary in run_summaries:
+        dataset_name = run_summary["dataset_name"]
+        summary_df = run_summary["summary_df"]
+        all_summaries_for_graphs.append((dataset_name, summary_df))
+        
+        table = summary_df.copy()
+        table.insert(0, "Dataset", dataset_name)
+        combined_tables.append(table)
+    
+    combined_df = pd.concat(combined_tables, ignore_index=True)
+    combined_csv = os.path.join(BASE_RESULTS_DIR, "summary_all_datasets.csv")
+    combined_df.to_csv(combined_csv, index=False)
+    
+    print("=" * 110)
+    print("Spoločná tabuľka – všetky datasety")
+    print("=" * 110)
+    print(combined_df.to_string(index=False, float_format=lambda x: f"{x:.4f}"))
+    print(f"\nSpoločná tabuľka uložená do: {combined_csv}\n")
+    
+    # -----------------------------------------------------------------------
+    # Porovnávajúce grafy
+    # -----------------------------------------------------------------------
+    plot_eer_comparison_all_datasets(all_summaries_for_graphs, BASE_RESULTS_DIR)
+    plot_accuracy_comparison_all_datasets(all_summaries_for_graphs, BASE_RESULTS_DIR)
+    
+    print()
+    print("=" * 80)
+    print("Experiment 4 úplne dokončený.")
+    print("=" * 80)
 
 
 if __name__ == "__main__":
