@@ -15,7 +15,7 @@ Výstup:
 import os
 import pandas as pd
 
-TRUNCATE_AT = [10, 20, 50, 75]
+TRUNCATE_AT = [10, 20, 25, 50, 75]
 
 CONFIGS = [
     {

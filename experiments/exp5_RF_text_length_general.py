@@ -1,6 +1,6 @@
 # Experimentálny skript na analýzu vplyvu dĺžky textu (počtu znakov) na výkon modelu.
-# Experiment 5 – General – RandomForest: Vplyv dĺžky vstupného textu (10, 20, 50, 75 znakov + plný text)
-#              pri fixed modeli RandomForest, combined feature sete a zdieľanom (general) texte.
+# Experiment 5 – General & Personal – RandomForest: Vplyv dĺžky vstupného textu
+#              pri fixed modeli RandomForest a combined feature sete.
 # Metodika identická s experimentmi 1, 2, 3 a 4:
 #   - user-specific OOF threshold (StratifiedKFold, 5 foldov)
 #   - minimalizácia abs(FAR - FRR)
@@ -23,16 +23,31 @@ from sklearn.model_selection import StratifiedKFold
 # ---------------------------------------------------------------------------
 
 BASE_DIR     = os.path.join(os.path.dirname(__file__), "..")
-RESULTS_DIR  = os.path.join(os.path.dirname(__file__), "results", "exp5_RF_text_length_general")
+RESULTS_DIR  = os.path.join(os.path.dirname(__file__), "results", "exp5_RF_text_length_analysis")
 RANDOM_STATE = 42
 
-# (label, cesta k training adresáru)
-TEXT_LENGTH_CONFIGS = [
-    ("10",   os.path.join(BASE_DIR, "data", "training_10")),
-    ("20",   os.path.join(BASE_DIR, "data", "training_20")),
-    ("50",   os.path.join(BASE_DIR, "data", "training_50")),
-    ("75",   os.path.join(BASE_DIR, "data", "training_75")),
-    ("full", os.path.join(BASE_DIR, "data", "training")),
+DATASET_RUNS = [
+    (
+        "general",
+        [
+            ("10",   os.path.join(BASE_DIR, "data", "training_10")),
+            ("20",   os.path.join(BASE_DIR, "data", "training_20")),
+            ("25",   os.path.join(BASE_DIR, "data", "training_25")),
+            ("50",   os.path.join(BASE_DIR, "data", "training_50")),
+            ("75",   os.path.join(BASE_DIR, "data", "training_75")),
+            ("full", os.path.join(BASE_DIR, "data", "training")),
+        ],
+    ),
+    (
+        "personal",
+        [
+            ("10",   os.path.join(BASE_DIR, "data", "training_personal_10")),
+            ("20",   os.path.join(BASE_DIR, "data", "training_personal_20")),
+            ("50",   os.path.join(BASE_DIR, "data", "training_personal_50")),
+            ("75",   os.path.join(BASE_DIR, "data", "training_personal_75")),
+            ("full", os.path.join(BASE_DIR, "data", "training_personal")),
+        ],
+    ),
 ]
 
 LEGIT_TRAIN      = 10
@@ -163,20 +178,8 @@ def _safe_confusion(y_true, y_pred):
     return int(tn), int(fp), int(fn), int(tp)
 
 
-def compute_eer(probs, y_true) -> float:
-    candidates = np.linspace(0.0, 1.0, 201)
-    best_eer   = 1.0
-    best_diff  = float("inf")
-    for thr in candidates:
-        preds = (probs >= thr).astype(int)
-        tn, fp, fn, tp = _safe_confusion(y_true, preds)
-        far  = fp / (fp + tn) if (fp + tn) > 0 else 0.0
-        frr  = fn / (fn + tp) if (fn + tp) > 0 else 0.0
-        diff = abs(far - frr)
-        if diff < best_diff:
-            best_diff = diff
-            best_eer  = (far + frr) / 2.0
-    return best_eer
+def compute_eer(far: float, frr: float) -> float:
+    return (far + frr) / 2.0
 
 
 def find_best_threshold_from_scores(oof_probs, y_train) -> float:
@@ -195,12 +198,12 @@ def find_best_threshold_from_scores(oof_probs, y_train) -> float:
     return best_threshold
 
 
-def compute_metrics(y_true, y_pred, probs) -> dict:
+def compute_metrics(y_true, y_pred, _probs) -> dict:
     tn, fp, fn, tp = _safe_confusion(y_true, y_pred)
     acc = accuracy_score(y_true, y_pred)
     far = fp / (fp + tn) if (fp + tn) > 0 else 0.0
     frr = fn / (fn + tp) if (fn + tp) > 0 else 0.0
-    eer = compute_eer(probs, y_true)
+    eer = compute_eer(far, frr)
     return {"accuracy": acc, "far": far, "frr": frr, "eer": eer}
 
 
@@ -281,11 +284,11 @@ def get_csv_files(directory: str) -> list:
 # Grafy
 # ---------------------------------------------------------------------------
 
-TEXT_LENGTH_ORDER = ["10", "20", "50", "75", "full"]
-TEXT_LENGTH_XTICKS = ["10", "20", "50", "75", "full"]
+TEXT_LENGTH_ORDER = ["10", "20", "25", "50", "75", "full"]
+TEXT_LENGTH_XTICKS = ["10", "20", "25", "50", "75", "full"]
 
 
-def plot_eer_vs_text_length(summary_df: pd.DataFrame, out_dir: str):
+def plot_eer_vs_text_length(summary_df: pd.DataFrame, out_dir: str, dataset_name: str):
     x            = list(range(len(TEXT_LENGTH_ORDER)))
     rows         = [summary_df[summary_df["text_length"] == lbl] for lbl in TEXT_LENGTH_ORDER]
     avg_eer_vals = [r["avg_eer"].values[0] if len(r) > 0 else float("nan") for r in rows]
@@ -301,7 +304,7 @@ def plot_eer_vs_text_length(summary_df: pd.DataFrame, out_dir: str):
         if not np.isnan(yi):
             ax.text(xi, yi + 0.005, f"{yi:.4f}", ha="center", va="bottom", fontsize=9)
 
-    ax.set_title("Experiment 5 – EER vs dĺžka textu (RandomForest, general)")
+    ax.set_title(f"Experiment 5 – EER vs dĺžka textu (RandomForest, {dataset_name})")
     ax.set_ylabel("EER")
     ax.set_xlabel("Dĺžka textu (počet znakov)")
     ax.set_xticks(x)
@@ -312,13 +315,13 @@ def plot_eer_vs_text_length(summary_df: pd.DataFrame, out_dir: str):
     ax.legend()
 
     plt.tight_layout()
-    out_path = os.path.join(out_dir, "eer_vs_text_length.png")
+    out_path = os.path.join(out_dir, f"eer_vs_text_length_{dataset_name}.png")
     plt.savefig(out_path, dpi=150)
     plt.close()
     print(f"Graf EER uložený do: {out_path}")
 
 
-def plot_far_frr_vs_text_length(summary_df: pd.DataFrame, out_dir: str):
+def plot_far_frr_vs_text_length(summary_df: pd.DataFrame, out_dir: str, dataset_name: str):
     x        = list(range(len(TEXT_LENGTH_ORDER)))
     rows     = [summary_df[summary_df["text_length"] == lbl] for lbl in TEXT_LENGTH_ORDER]
     avg_fars = [r["avg_far"].values[0] if len(r) > 0 else float("nan") for r in rows]
@@ -343,7 +346,7 @@ def plot_far_frr_vs_text_length(summary_df: pd.DataFrame, out_dir: str):
         if not np.isnan(ri):
             ax.text(xi, ri - 0.018, f"{ri:.3f}", ha="center", va="bottom", fontsize=8, color="#55A868")
 
-    ax.set_title("Experiment 5 – FAR a FRR vs dĺžka textu (RandomForest, general)")
+    ax.set_title(f"Experiment 5 – FAR a FRR vs dĺžka textu (RandomForest, {dataset_name})")
     ax.set_ylabel("Hodnota")
     ax.set_xlabel("Dĺžka textu (počet znakov)")
     ax.set_xticks(x)
@@ -354,19 +357,85 @@ def plot_far_frr_vs_text_length(summary_df: pd.DataFrame, out_dir: str):
     ax.legend()
 
     plt.tight_layout()
-    out_path = os.path.join(out_dir, "far_frr_vs_text_length.png")
+    out_path = os.path.join(out_dir, f"far_frr_vs_text_length_{dataset_name}.png")
     plt.savefig(out_path, dpi=150)
     plt.close()
     print(f"Graf FAR/FRR uložený do: {out_path}")
+
+
+def _ordered_values(summary_df: pd.DataFrame, metric: str):
+    rows = [summary_df[summary_df["text_length"] == lbl] for lbl in TEXT_LENGTH_ORDER]
+    return [r[metric].values[0] if len(r) > 0 else float("nan") for r in rows]
+
+
+def plot_eer_comparison_all_datasets(summary_map: dict, out_dir: str):
+    x = list(range(len(TEXT_LENGTH_ORDER)))
+    fig, ax = plt.subplots(figsize=(10, 5))
+
+    for dataset_name, color in [("general", "#4C72B0"), ("personal", "#DD8452")]:
+        if dataset_name not in summary_map:
+            continue
+        summary_df = summary_map[dataset_name]
+        avg = _ordered_values(summary_df, "avg_eer")
+        std = _ordered_values(summary_df, "std_eer")
+        ax.errorbar(x, avg, yerr=std, marker="o", linewidth=2, capsize=5, color=color, label=dataset_name)
+
+    ax.set_title("Experiment 5 – Porovnanie EER: general vs personal")
+    ax.set_ylabel("EER")
+    ax.set_xlabel("Dĺžka textu (počet znakov)")
+    ax.set_xticks(x)
+    ax.set_xticklabels(TEXT_LENGTH_XTICKS)
+    ax.set_ylim(0, 1.05)
+    ax.yaxis.grid(True, linestyle="--", alpha=0.7)
+    ax.set_axisbelow(True)
+    ax.legend()
+
+    plt.tight_layout()
+    out_path = os.path.join(out_dir, "eer_comparison_general_vs_personal.png")
+    plt.savefig(out_path, dpi=150)
+    plt.close()
+    print(f"Porovnávajúci graf EER uložený do: {out_path}")
+
+
+def plot_accuracy_comparison_all_datasets(summary_map: dict, out_dir: str):
+    x = list(range(len(TEXT_LENGTH_ORDER)))
+    fig, ax = plt.subplots(figsize=(10, 5))
+
+    for dataset_name, color in [("general", "#4C72B0"), ("personal", "#DD8452")]:
+        if dataset_name not in summary_map:
+            continue
+        summary_df = summary_map[dataset_name]
+        avg = _ordered_values(summary_df, "avg_accuracy")
+        std = _ordered_values(summary_df, "std_accuracy")
+        ax.errorbar(x, avg, yerr=std, marker="o", linewidth=2, capsize=5, color=color, label=dataset_name)
+
+    ax.set_title("Experiment 5 – Porovnanie Accuracy: general vs personal")
+    ax.set_ylabel("Accuracy")
+    ax.set_xlabel("Dĺžka textu (počet znakov)")
+    ax.set_xticks(x)
+    ax.set_xticklabels(TEXT_LENGTH_XTICKS)
+    ax.set_ylim(0, 1.05)
+    ax.yaxis.grid(True, linestyle="--", alpha=0.7)
+    ax.set_axisbelow(True)
+    ax.legend()
+
+    plt.tight_layout()
+    out_path = os.path.join(out_dir, "accuracy_comparison_general_vs_personal.png")
+    plt.savefig(out_path, dpi=150)
+    plt.close()
+    print(f"Porovnávajúci graf Accuracy uložený do: {out_path}")
 
 
 # ---------------------------------------------------------------------------
 # Hlavná logika
 # ---------------------------------------------------------------------------
 
-def main():
+def run_experiment(dataset_name: str, text_length_configs: list):
+    out_dir = os.path.join(RESULTS_DIR, dataset_name)
+    os.makedirs(out_dir, exist_ok=True)
+
     print("=" * 80)
-    print("Experiment 5 General – RandomForest: vplyv dĺžky textu (general training data)")
+    print(f"Experiment 5 {dataset_name.capitalize()} – RandomForest: vplyv dĺžky textu")
     print(f"Feature set: combined (keystroke + sensor + cross-modal)")
     print(f"Počet čŕt: {len(COMBINED_ALL_FEATURES)}")
     print(f"LEGIT_TRAIN={LEGIT_TRAIN}, LEGIT_TEST_FIXED={LEGIT_TEST_FIXED}")
@@ -375,7 +444,7 @@ def main():
 
     per_user_records = []
 
-    for text_length, training_dir in TEXT_LENGTH_CONFIGS:
+    for text_length, training_dir in text_length_configs:
         csv_files = get_csv_files(training_dir)
         if not csv_files:
             print(f"[SKIP] text_length={text_length}: žiadne súbory v {training_dir}")
@@ -448,21 +517,15 @@ def main():
 
         print()
 
-    # -----------------------------------------------------------------------
-    # Uloženie per-user výsledkov
-    # -----------------------------------------------------------------------
     if not per_user_records:
         print("Žiadne výsledky neboli vytvorené.")
-        return
+        return None
 
     per_user_df  = pd.DataFrame(per_user_records)
-    per_user_csv = os.path.join(RESULTS_DIR, "per_user_results.csv")
+    per_user_csv = os.path.join(out_dir, "per_user_results.csv")
     per_user_df.to_csv(per_user_csv, index=False)
     print(f"Per-user výsledky uložené do: {per_user_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Súhrn
-    # -----------------------------------------------------------------------
     summary_records = []
     for text_length in TEXT_LENGTH_ORDER:
         subset = per_user_df[per_user_df["text_length"] == text_length]
@@ -476,15 +539,12 @@ def main():
         summary_records.append(record)
 
     summary_df  = pd.DataFrame(summary_records)
-    summary_csv = os.path.join(RESULTS_DIR, "summary_results.csv")
+    summary_csv = os.path.join(out_dir, "summary_results.csv")
     summary_df.to_csv(summary_csv, index=False)
     print(f"Súhrnné výsledky uložené do: {summary_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Výpis tabuľky do konzoly
-    # -----------------------------------------------------------------------
     print("=" * 100)
-    print("SÚHRN – RandomForest – vplyv dĺžky textu – general – priemery ± std")
+    print(f"SÚHRN – RandomForest – vplyv dĺžky textu – {dataset_name} – priemery ± std")
     print("=" * 100)
     header = (
         f"{'text_length':>12} {'N':>4} "
@@ -505,15 +565,63 @@ def main():
         )
     print("=" * 100)
 
-    # -----------------------------------------------------------------------
-    # Grafy
-    # -----------------------------------------------------------------------
-    plot_eer_vs_text_length(summary_df, RESULTS_DIR)
-    plot_far_frr_vs_text_length(summary_df, RESULTS_DIR)
+    plot_eer_vs_text_length(summary_df, out_dir, dataset_name)
+    plot_far_frr_vs_text_length(summary_df, out_dir, dataset_name)
 
     print()
     print("=" * 80)
-    print("Experiment 5 General dokončený.")
+    print(f"Experiment 5 {dataset_name} dokončený.")
+    print("=" * 80)
+
+    return {
+        "dataset_name": dataset_name,
+        "summary_df": summary_df,
+    }
+
+
+def main():
+    run_summaries = []
+
+    for dataset_name, text_length_configs in DATASET_RUNS:
+        run_summary = run_experiment(dataset_name, text_length_configs)
+        if run_summary is not None:
+            run_summaries.append(run_summary)
+
+    if not run_summaries:
+        print("Žiadny dataset nevytvoril výsledky.")
+        return
+
+    print("\n" + "#" * 80)
+    print("Experiment 5 | finálne porovnanie datasetov")
+    print("#" * 80)
+
+    combined_tables = []
+    summary_map = {}
+    for run_summary in run_summaries:
+        dataset_name = run_summary["dataset_name"]
+        summary_df = run_summary["summary_df"]
+        summary_map[dataset_name] = summary_df
+        table = summary_df.copy()
+        table.insert(0, "Dataset", dataset_name)
+        combined_tables.append(table)
+
+    combined_df = pd.concat(combined_tables, ignore_index=True)
+    combined_csv = os.path.join(RESULTS_DIR, "summary_all_datasets.csv")
+    combined_df.to_csv(combined_csv, index=False)
+
+    print("=" * 110)
+    print("Spoločná tabuľka – všetky datasety")
+    print("=" * 110)
+    print(combined_df.to_string(index=False, float_format=lambda x: f"{x:.4f}"))
+    print(f"\nSpoločná tabuľka uložená do: {combined_csv}\n")
+
+    plot_eer_comparison_all_datasets(summary_map, RESULTS_DIR)
+    plot_accuracy_comparison_all_datasets(summary_map, RESULTS_DIR)
+
+    print()
+    print("=" * 80)
+    print("Experiment 5 úplne dokončený.")
+    print("=" * 80)
 
 
 if __name__ == "__main__":

@@ -164,20 +164,8 @@ def _safe_confusion(y_true, y_pred):
     return int(tn), int(fp), int(fn), int(tp)
 
 
-def compute_eer(probs, y_true) -> float:
-    candidates = np.linspace(0.0, 1.0, 201)
-    best_eer   = 1.0
-    best_diff  = float("inf")
-    for thr in candidates:
-        preds = (probs >= thr).astype(int)
-        tn, fp, fn, tp = _safe_confusion(y_true, preds)
-        far  = fp / (fp + tn) if (fp + tn) > 0 else 0.0
-        frr  = fn / (fn + tp) if (fn + tp) > 0 else 0.0
-        diff = abs(far - frr)
-        if diff < best_diff:
-            best_diff = diff
-            best_eer  = (far + frr) / 2.0
-    return best_eer
+def compute_eer(far: float, frr: float) -> float:
+    return (far + frr) / 2.0
 
 
 def find_best_threshold_from_scores(oof_probs, y_train) -> float:
@@ -196,12 +184,12 @@ def find_best_threshold_from_scores(oof_probs, y_train) -> float:
     return best_threshold
 
 
-def compute_metrics(y_true, y_pred, probs) -> dict:
+def compute_metrics(y_true, y_pred, _probs) -> dict:
     tn, fp, fn, tp = _safe_confusion(y_true, y_pred)
     acc = accuracy_score(y_true, y_pred)
     far = fp / (fp + tn) if (fp + tn) > 0 else 0.0
     frr = fn / (fn + tp) if (fn + tp) > 0 else 0.0
-    eer = compute_eer(probs, y_true)
+    eer = compute_eer(far, frr)
     return {"accuracy": acc, "far": far, "frr": frr, "eer": eer}
 
 

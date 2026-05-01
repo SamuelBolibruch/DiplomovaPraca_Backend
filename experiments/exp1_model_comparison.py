@@ -157,26 +157,11 @@ def get_oof_probabilities(model_name: str, X_train, y_train, n_splits: int = 5):
     return oof_probs
 
 
-def compute_eer(probs, y_true):
+def compute_eer(far: float, frr: float):
     """
-    Vypočíta EER pomocou threshold sweep – bod, kde abs(FAR - FRR) je minimálne.
-    Vracia EER ako float.
+    Vypočíta EER konzistentne pri rovnakom thresholde ako FAR/FRR.
     """
-    candidates = np.linspace(0.0, 1.0, 201)
-    best_eer = 1.0
-    best_diff = float("inf")
-
-    for thr in candidates:
-        preds = (probs >= thr).astype(int)
-        tn, fp, fn, tp = _safe_confusion(y_true, preds)
-        far = fp / (fp + tn) if (fp + tn) > 0 else 0.0
-        frr = fn / (fn + tp) if (fn + tp) > 0 else 0.0
-        diff = abs(far - frr)
-        if diff < best_diff:
-            best_diff = diff
-            best_eer = (far + frr) / 2.0
-
-    return best_eer
+    return (far + frr) / 2.0
 
 
 def _safe_confusion(y_true, y_pred):
@@ -186,7 +171,7 @@ def _safe_confusion(y_true, y_pred):
     return int(tn), int(fp), int(fn), int(tp)
 
 
-def compute_metrics(y_true, y_pred, probs):
+def compute_metrics(y_true, y_pred, _probs):
     """
     Vypočíta Accuracy, FAR, FRR a EER na testovacích dátach.
     Vracia dict s metrikami.
@@ -195,7 +180,7 @@ def compute_metrics(y_true, y_pred, probs):
     acc = accuracy_score(y_true, y_pred)
     far = fp / (fp + tn) if (fp + tn) > 0 else 0.0
     frr = fn / (fn + tp) if (fn + tp) > 0 else 0.0
-    eer = compute_eer(probs, y_true)
+    eer = compute_eer(far, frr)
     return {"accuracy": acc, "far": far, "frr": frr, "eer": eer}
 
 
@@ -251,7 +236,7 @@ def train_and_evaluate_model(model_name: str, X_train, X_test, y_train, y_test):
       1. OOF predikcie na train sete → user-specific threshold
       2. Natrénuj čerstvý model na celom train sete
       3. Predikuj na test sete
-      4. FAR/FRR/Accuracy z thresholdu; EER score-based sweep na test sete
+    4. FAR/FRR/Accuracy/EER z rovnakého user-specific thresholdu
     Vracia dict s metrikami, alebo None ak OOF nie je možné.
     """
     # --- Krok 1: OOF predikcie a threshold ---
