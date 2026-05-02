@@ -1139,8 +1139,11 @@ def build_single_vector(
     return master_df
 
 
-def build_auth_vector_for_user(uid: str) -> pd.DataFrame:
-    user_dir = os.path.join(AUTH_BASE_DIR, uid)
+def build_auth_vector_for_user(uid: str, auth_type: str) -> pd.DataFrame:
+    if auth_type not in ["general", "personal"]:
+        raise ValueError(f"Neznámy auth_type='{auth_type}'. Použi 'general' alebo 'personal'.")
+
+    user_dir = os.path.join(AUTH_BASE_DIR, uid, auth_type)
 
     keystrokes_path = os.path.join(user_dir, AUTH_KEYSTROKES_FILE)
     acc_path = os.path.join(user_dir, AUTH_ACCELEROMETER_FILE)
@@ -1161,15 +1164,21 @@ def build_auth_vector_for_user(uid: str) -> pd.DataFrame:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Build single authentication vector for one user from data/authentification/<uid>/"
+        description="Build single authentication vector for one user from data/authentification/<uid>/<auth_type>/"
     )
     parser.add_argument("--uid", required=True, help="User ID")
+    parser.add_argument(
+        "--auth-type",
+        required=True,
+        choices=["general", "personal"],
+        help="Authentication type: general alebo personal",
+    )
 
     args = parser.parse_args()
 
-    df_out = build_auth_vector_for_user(args.uid)
+    df_out = build_auth_vector_for_user(args.uid, args.auth_type)
 
-    out_path = os.path.join(AUTH_BASE_DIR, args.uid, AUTH_VECTOR_FILE)
+    out_path = os.path.join(AUTH_BASE_DIR, args.uid, args.auth_type, AUTH_VECTOR_FILE)
 
     print(f"✓ Hotovo. Výsledný vektor má tvar: {df_out.shape}")
     print(f"✓ Uložené do: {out_path}")

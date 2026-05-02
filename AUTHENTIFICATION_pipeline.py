@@ -17,7 +17,7 @@ auth_type = args.auth_type
 
 scripts = [
     ["python3", "load_auth_data.py", "--uid", uid, "--auth-type", auth_type],
-    ["python3", "auth_vector_creation.py", "--uid", uid],
+    ["python3", "auth_vector_creation.py", "--uid", uid, "--auth-type", auth_type],
     ["python3", "AUTHENTIFICATION.py", "--uid", uid, "--auth-type", auth_type],
 ]
 

@@ -64,13 +64,23 @@ def download_latest_authentication_attempt(uid: str, auth_type: str) -> dict:
     if not timestamps:
         raise FileNotFoundError(f"Nenašli sa žiadne timestamp foldery v: {prefix}")
 
-    latest_timestamp = sorted(timestamps, key=lambda x: int(x))[-1]
+    try:
+        latest_timestamp = sorted(timestamps, key=lambda x: int(x))[-1]
+    except ValueError:
+        latest_timestamp = sorted(timestamps)[-1]
 
-    out_dir = os.path.join(AUTH_OUTPUT_DIR, uid)
+    out_dir = os.path.join(AUTH_OUTPUT_DIR, uid, auth_type)
     os.makedirs(out_dir, exist_ok=True)
 
     files_to_download = [keystrokes_file] + SENSOR_FILES
     downloaded = []
+    missing = []
+
+    # Vyčisti staré súbory, aby sa pri neúplnom downloade nepoužili zastarané dáta.
+    for filename in files_to_download + ["vector_authentication.csv"]:
+        stale_path = os.path.join(out_dir, filename)
+        if os.path.exists(stale_path):
+            os.remove(stale_path)
 
     print(f"[{uid}] auth_type={auth_type}, latest_timestamp={latest_timestamp}")
 
@@ -82,6 +92,7 @@ def download_latest_authentication_attempt(uid: str, auth_type: str) -> dict:
         try:
             if not blob.exists():
                 print(f"  ✗ {filename} — súbor v storage neexistuje")
+                missing.append(filename)
                 continue
 
             blob.download_to_filename(out_path)
@@ -100,6 +111,14 @@ def download_latest_authentication_attempt(uid: str, auth_type: str) -> dict:
 
         except Exception as e:
             print(f"  ✗ {filename} — chyba: {e}")
+            missing.append(filename)
+
+    if missing:
+        missing_unique = sorted(set(missing))
+        raise FileNotFoundError(
+            f"Chýbajú povinné auth súbory pre uid={uid}, auth_type={auth_type}, "
+            f"timestamp={latest_timestamp}: {missing_unique}"
+        )
 
     return {
         "uid": uid,

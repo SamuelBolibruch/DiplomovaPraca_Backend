@@ -20,7 +20,7 @@ def run_authentication(uid: str, auth_type: str) -> dict:
     model_dir = MODEL_DIRS[auth_type]
 
     model_path = os.path.join(model_dir, f"model_{uid}.pkl")
-    vector_path = os.path.join(AUTH_BASE_DIR, uid, VECTOR_FILENAME)
+    vector_path = os.path.join(AUTH_BASE_DIR, uid, auth_type, VECTOR_FILENAME)
 
     if not os.path.exists(model_path):
         raise FileNotFoundError(f"Model neexistuje: {model_path}")

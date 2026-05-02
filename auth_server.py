@@ -23,7 +23,7 @@ def authenticate(req: AuthRequest):
         )
 
         # 2. vytvor auth vector
-        build_auth_vector_for_user(req.uid)
+        build_auth_vector_for_user(req.uid, req.auth_type)
 
         # 3. spusti model
         result = run_authentication(
