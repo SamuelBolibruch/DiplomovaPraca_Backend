@@ -24,10 +24,6 @@
 Obsahuje trénovacie a autentifikačné dáta – vektory rozdelené podľa scenárov (general / personal) a veľkostí trénovacej množiny (10, 20, 25, 50, 75 %).
 
 ### `randomforrest/`
-Skripty pre Random Forest model:
-- `RF_parameters_scenarios.py` – hľadanie optimálnych parametrov cez rôzne scenáre
-- `RF_testsize_threshold_search.py` – hľadanie optimálneho pomeru test/train a thresholdu
-- `RF_train_model.py` – tréning modelu pre jednotlivých používateľov
 - `RF_train_models_final.py` – finálny tréning modelov pre všetkých používateľov
 
 ### `experiments/`

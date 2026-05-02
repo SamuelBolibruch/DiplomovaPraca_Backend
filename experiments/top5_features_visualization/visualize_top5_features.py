@@ -14,18 +14,15 @@ matplotlib.use("Agg")
 # Konfigurácia
 # ---------------------------------------------------------------------------
 
-RESULTS_BASE = os.path.join(
-    os.path.dirname(__file__),
-    "results",
-    "exp2_RF_feature_group_comparison"
-)
-
 FEATURE_IMPORTANCE_FILE = os.path.join(
-    RESULTS_BASE,
+    os.path.dirname(__file__),
+    "..",
+    "results",
+    "exp2_RF_feature_group_comparison",
     "feature_importance_all_groups_general_vs_personal.csv"
 )
 
-OUTPUT_DIR = RESULTS_BASE
+OUTPUT_DIR = os.path.dirname(__file__)
 TOP_N = 5
 
 # ---------------------------------------------------------------------------
@@ -62,50 +59,65 @@ for idx, (_, row) in enumerate(top_personal.iterrows(), start=1):
 # Vytvorenie grafu
 # ---------------------------------------------------------------------------
 
-fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+import numpy as np
 
-# General dataset
-ax_general = axes[0]
-y_pos_general = range(len(top_general))
-features_general = top_general["feature"].values[::-1]
-means_general = top_general["mean_importance"].values[::-1]
-stds_general = top_general["std_importance"].values[::-1]
+n_features = len(df_general)
+uniform_pct = (1.0 / n_features) * 100
 
-bars_general = ax_general.barh(y_pos_general, means_general, xerr=stds_general,
-                                 color="#4C72B0", capsize=5, alpha=0.8)
-ax_general.set_yticks(y_pos_general)
-ax_general.set_yticklabels(features_general, fontsize=10)
-ax_general.set_xlabel("Mean Importance", fontsize=11)
-ax_general.set_title("Top 5 Features – GENERAL Dataset (Combined)", fontsize=12, fontweight="bold")
-ax_general.xaxis.grid(True, linestyle="--", alpha=0.5)
-ax_general.set_axisbelow(True)
+# Zjednotenie čŕt z oboch datasetov (zachovanie poradia podľa general)
+all_features = list(dict.fromkeys(
+    list(top_general["feature"]) + list(top_personal["feature"])
+))
 
-# Pridanie hodnôt na grafy
-for i, (mean, std) in enumerate(zip(means_general, stds_general)):
-    ax_general.text(mean + std + 0.0005, i, f"{mean:.4f}", va="center", fontsize=9)
+gen_vals = [
+    df_general[df_general["feature"] == f]["mean_importance"].values[0] * 100
+    if f in df_general["feature"].values else 0.0
+    for f in all_features
+]
+per_vals = [
+    df_personal[df_personal["feature"] == f]["mean_importance"].values[0] * 100
+    if f in df_personal["feature"].values else 0.0
+    for f in all_features
+]
 
-# Personal dataset
-ax_personal = axes[1]
-y_pos_personal = range(len(top_personal))
-features_personal = top_personal["feature"].values[::-1]
-means_personal = top_personal["mean_importance"].values[::-1]
-stds_personal = top_personal["std_importance"].values[::-1]
+x = np.arange(len(all_features))
+width = 0.35
 
-bars_personal = ax_personal.barh(y_pos_personal, means_personal, xerr=stds_personal,
-                                   color="#DD8452", capsize=5, alpha=0.8)
-ax_personal.set_yticks(y_pos_personal)
-ax_personal.set_yticklabels(features_personal, fontsize=10)
-ax_personal.set_xlabel("Mean Importance", fontsize=11)
-ax_personal.set_title("Top 5 Features – PERSONAL Dataset (Combined)", fontsize=12, fontweight="bold")
-ax_personal.xaxis.grid(True, linestyle="--", alpha=0.5)
-ax_personal.set_axisbelow(True)
+fig, ax = plt.subplots(figsize=(13, 6))
 
-# Pridanie hodnôt na grafy
-for i, (mean, std) in enumerate(zip(means_personal, stds_personal)):
-    ax_personal.text(mean + std + 0.0005, i, f"{mean:.4f}", va="center", fontsize=9)
+bars_g = ax.bar(x - width / 2, gen_vals, width, label="General", color="#4C72B0", alpha=0.85)
+bars_p = ax.bar(x + width / 2, per_vals, width, label="Personal", color="#DD8452", alpha=0.85)
 
-fig.suptitle("Experiment 2 RF – Top 5 Features Comparison: General vs Personal (Combined Group)",
-             fontsize=13, fontweight="bold", y=1.00)
+# Baseline – uniformná dôležitosť
+ax.axhline(uniform_pct, color="gray", linestyle="--", linewidth=1.2,
+           label=f"Uniformná dôležitosť (1/{n_features} = {uniform_pct:.2f}%)")
+
+# Hodnoty nad stĺpcami
+for bar, val in zip(bars_g, gen_vals):
+    if val > 0:
+        ratio = val / uniform_pct
+        ax.text(bar.get_x() + bar.get_width() / 2, val + 0.04,
+                f"{val:.2f}%\n({ratio:.1f}×)",
+                ha="center", va="bottom", fontsize=8, color="#4C72B0", fontweight="bold", linespacing=1.3)
+
+for bar, val in zip(bars_p, per_vals):
+    if val > 0:
+        ratio = val / uniform_pct
+        ax.text(bar.get_x() + bar.get_width() / 2, val + 0.04,
+                f"{val:.2f}%\n({ratio:.1f}×)",
+                ha="center", va="bottom", fontsize=8, color="#DD8452", fontweight="bold", linespacing=1.3)
+
+ax.set_xticks(x)
+ax.set_xticklabels(all_features, rotation=25, ha="right", fontsize=10)
+ax.set_ylabel("Dôležitosť príznaku (%)", fontsize=11)
+ax.set_title("Top 5 príznakov – General vs Personal (Combined group, 154 čŕt celkovo)",
+             fontsize=13, fontweight="bold")
+ax.legend(fontsize=10)
+ax.yaxis.grid(True, linestyle="--", alpha=0.4)
+ax.set_axisbelow(True)
+ax.spines["top"].set_visible(False)
+ax.spines["right"].set_visible(False)
+
 plt.tight_layout()
 
 output_path = os.path.join(OUTPUT_DIR, "top5_features_combined_comparison.png")

@@ -100,9 +100,11 @@ for config in CONFIGS:
 
     os.makedirs(MODEL_DIR, exist_ok=True)
 
+    target_uid_filter = os.environ.get("TARGET_UID")
     files = [
         f for f in os.listdir(TRAINING_DIR)
         if f.startswith("training_") and f.endswith(".csv")
+        and (not target_uid_filter or f == f"training_{target_uid_filter}.csv")
     ]
 
     print(f"\n{'#'*60}")
