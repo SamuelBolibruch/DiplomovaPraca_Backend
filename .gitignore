@@ -2,3 +2,6 @@ data/
 serviceAccountKey.json
 RandomForrest/models/
 RandomForrest/models_personal/
+__pycache__/
+*.pyc
+venv/

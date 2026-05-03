@@ -1,6 +1,11 @@
+import argparse
 import os
 import pandas as pd
 import numpy as np
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--uid", type=str, default=None, help="Spracuj iba tohto používateľa")
+args = parser.parse_args()
 
 # -----------------------------
 # Config: filtering
@@ -10,20 +15,8 @@ MIN_INTERVAL_MS = 0     # vyhadzujeme <= 0 (glitche)
 MICRO_PAUSE_MS = 700    # hranica na "mikropauzy" (ms)
 
 CONFIGS = [
-    {"data_dir": "data/common_training", "output_dir": "data/vectors", "keystrokes_file": "keystrokes_common.csv"},
+    {"data_dir": "data/common_training",   "output_dir": "data/vectors",          "keystrokes_file": "keystrokes_common.csv"},
     {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal", "keystrokes_file": "keystrokes_personal.csv"},
-    # Orezané verzie — common
-    {"data_dir": "data/common_training", "output_dir": "data/vectors_10", "keystrokes_file": "keystrokes_10_common.csv"},
-    {"data_dir": "data/common_training", "output_dir": "data/vectors_20", "keystrokes_file": "keystrokes_20_common.csv"},
-    {"data_dir": "data/common_training", "output_dir": "data/vectors_25", "keystrokes_file": "keystrokes_25_common.csv"},
-    {"data_dir": "data/common_training", "output_dir": "data/vectors_50", "keystrokes_file": "keystrokes_50_common.csv"},
-    {"data_dir": "data/common_training", "output_dir": "data/vectors_75", "keystrokes_file": "keystrokes_75_common.csv"},
-    # Orezané verzie — personal
-    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_10", "keystrokes_file": "keystrokes_10_personal.csv"},
-    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_20", "keystrokes_file": "keystrokes_20_personal.csv"},
-    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_25", "keystrokes_file": "keystrokes_25_personal.csv"},
-    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_50", "keystrokes_file": "keystrokes_50_personal.csv"},
-    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal_75", "keystrokes_file": "keystrokes_75_personal.csv"},
 ]
 
 # -----------------------------
@@ -771,6 +764,8 @@ for config in CONFIGS:
     user_dirs = sorted([d for d in os.listdir(DATA_DIR) if os.path.isdir(os.path.join(DATA_DIR, d))])
 
     for uid in user_dirs:
+        if args.uid and uid != args.uid:
+            continue
         user_dir = os.path.join(DATA_DIR, uid)
         KEYSTROKES_PATH = os.path.join(user_dir, KEYSTROKES_FILE)
         ACC_PATH = os.path.join(user_dir, "sensor_accelerometer.csv")

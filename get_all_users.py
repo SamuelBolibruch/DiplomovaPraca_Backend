@@ -1,9 +1,14 @@
+import argparse
 import os
 import pandas as pd
 import firebase_admin
 from firebase_admin import credentials, auth, storage
 
 import fix_data
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--uid", type=str, default=None, help="Spracuj iba tohto používateľa")
+args = parser.parse_args()
 
 # -----------------------------
 # Config
@@ -38,17 +43,21 @@ firebase_admin.initialize_app(cred, {"storageBucket": STORAGE_BUCKET})
 bucket = storage.bucket()
 
 # -----------------------------
-# Získaj všetkých používateľov
+# Získaj používateľov
 # -----------------------------
 print("Načítavam používateľov...")
 users = []
-page = auth.list_users()
-while page:
-    for user in page.users:
-        users.append({"uid": user.uid, "email": user.email})
-    page = page.get_next_page()
-
-print(f"Nájdených {len(users)} používateľov.\n")
+if args.uid:
+    user_record = auth.get_user(args.uid)
+    users.append({"uid": user_record.uid, "email": user_record.email})
+    print(f"Režim nový používateľ: {user_record.email} ({args.uid})\n")
+else:
+    page = auth.list_users()
+    while page:
+        for user in page.users:
+            users.append({"uid": user.uid, "email": user.email})
+        page = page.get_next_page()
+    print(f"Nájdených {len(users)} používateľov.\n")
 
 # -----------------------------
 # Pre každý typ tréningu

@@ -1,3 +1,4 @@
+import subprocess
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
@@ -11,6 +12,20 @@ app = FastAPI(title="Behavioral Authentication API")
 class AuthRequest(BaseModel):
     uid: str
     auth_type: str  # "general" alebo "personal"
+
+
+class RegisterRequest(BaseModel):
+    uid: str
+
+
+@app.post("/register")
+def register(req: RegisterRequest):
+    result = subprocess.run(
+        ["python3", "run_models_creation_pipeline.py", "--uid", req.uid]
+    )
+    if result.returncode != 0:
+        raise HTTPException(status_code=500, detail=f"Pipeline zlyhala pre používateľa {req.uid}.")
+    return {"status": "ok", "message": f"Modely pre používateľa {req.uid} úspešne natrénované."}
 
 
 @app.post("/authenticate")
