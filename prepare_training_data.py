@@ -1,18 +1,10 @@
 import os
 import pandas as pd
 
-# ===============================
-# CONFIG
-# ===============================
-
 VECTOR_SOURCES = [
     {"input_dir": "data/vectors",          "output_dir": "data/training"},
     {"input_dir": "data/vectors_personal", "output_dir": "data/training_personal"},
 ]
-
-# ===============================
-# PROCESS
-# ===============================
 
 for source in VECTOR_SOURCES:
 
@@ -21,7 +13,7 @@ for source in VECTOR_SOURCES:
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    print(f"\n📂 Processing: {VECTORS_DIR}")
+    print(f"\nProcessing: {VECTORS_DIR}")
 
     all_uids = [
         f.replace("vector_", "").replace(".csv", "")
@@ -35,7 +27,6 @@ for source in VECTOR_SOURCES:
         for uid in all_uids:
             df = pd.read_csv(os.path.join(VECTORS_DIR, f"vector_{uid}.csv"))
 
-            # label assignment
             df["label"] = 1 if uid == target_uid else 0
 
             dfs.append(df)
@@ -51,4 +42,4 @@ for source in VECTOR_SOURCES:
             f"{len(combined[combined['label']==0])} impostors"
         )
 
-print("\n🔥 Hotovo! Všetky tréningové súbory vytvorené.")
+print("\nHotovo! Všetky tréningové súbory vytvorené.")

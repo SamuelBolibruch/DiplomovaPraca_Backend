@@ -31,13 +31,13 @@ def register(req: RegisterRequest):
 @app.post("/authenticate")
 def authenticate(req: AuthRequest):
     try:
-        # 1. stiahni latest auth data
+        # 1. stiahni posledné autentifikačné dáta
         download_latest_authentication_attempt(
             uid=req.uid,
             auth_type=req.auth_type,
         )
 
-        # 2. vytvor auth vector
+        # 2. vytvor autentifikačný vektor
         build_auth_vector_for_user(req.uid, req.auth_type)
 
         # 3. spusti model

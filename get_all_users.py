@@ -10,9 +10,6 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--uid", type=str, default=None, help="Spracuj iba tohto používateľa")
 args = parser.parse_args()
 
-# -----------------------------
-# Config
-# -----------------------------
 SERVICE_ACCOUNT_KEY = "serviceAccountKey.json"
 STORAGE_BUCKET = "dp-project-4970a.firebasestorage.app"
 
@@ -34,17 +31,11 @@ SENSOR_FILES = [
     "sensor_gyroscope.csv",
 ]
 
-# -----------------------------
-# Init Firebase
-# -----------------------------
 cred = credentials.Certificate(SERVICE_ACCOUNT_KEY)
 firebase_admin.initialize_app(cred, {"storageBucket": STORAGE_BUCKET})
 
 bucket = storage.bucket()
 
-# -----------------------------
-# Získaj používateľov
-# -----------------------------
 print("Načítavam používateľov...")
 users = []
 if args.uid:
@@ -59,9 +50,6 @@ else:
         page = page.get_next_page()
     print(f"Nájdených {len(users)} používateľov.\n")
 
-# -----------------------------
-# Pre každý typ tréningu
-# -----------------------------
 for config in TRAINING_CONFIGS:
     training_type = config["training_type"]
     output_dir = config["output_dir"]
@@ -90,7 +78,7 @@ for config in TRAINING_CONFIGS:
                 sessions.add(parts[0])
 
         if not sessions:
-            print(f"[SKIP] {email} — nenašli sa session foldery")
+            print(f"[SKIP] {email} — nenašli sa session foldre")
             continue
 
         latest_session = sorted(sessions)[-1]

@@ -7,28 +7,19 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--uid", type=str, default=None, help="Spracuj iba tohto používateľa")
 args = parser.parse_args()
 
-# -----------------------------
-# Config: filtering
-# -----------------------------
-MAX_INTERVAL_MS = 2750  # hranica na "dlhé pauzy" (ms) medzi znakmi
-MIN_INTERVAL_MS = 0     # vyhadzujeme <= 0 (glitche)
-MICRO_PAUSE_MS = 700    # hranica na "mikropauzy" (ms)
+MAX_INTERVAL_MS = 2750
+MIN_INTERVAL_MS = 0
+MICRO_PAUSE_MS = 700
 
 CONFIGS = [
     {"data_dir": "data/common_training",   "output_dir": "data/vectors",          "keystrokes_file": "keystrokes_common.csv"},
     {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal", "keystrokes_file": "keystrokes_personal.csv"},
 ]
 
-# -----------------------------
-# IMU normalization / resampling config
-# -----------------------------
 IMU_GRAVITY_TAU_SEC = 0.7
 IMU_RESAMPLE_HZ = 50.0
 IMU_MIN_FFT_SAMPLES = 64
 
-# -----------------------------
-# Cross-modal config (keystrokes <-> IMU)
-# -----------------------------
 ACC_KEY_PRE_MS = 100
 ACC_KEY_POST_MS = 150
 ACC_LAG_MAX_MS = 150
@@ -39,9 +30,6 @@ XCORR_MAX_LAG_MS = 300
 RISE_FRAC = 0.8
 
 
-# -----------------------------
-# Helpers: keystroke stats
-# -----------------------------
 def filter_intervals_ms(s: pd.Series, min_ms: float, max_ms: float) -> pd.Series:
     s = s.dropna()
     return s[(s > min_ms) & (s <= max_ms)]
@@ -78,9 +66,6 @@ def series_stats(prefix: str, s: pd.Series) -> dict:
     }
 
 
-# -----------------------------
-# Helpers: active typing segments + mapping sensors -> rounds + filtering sensors by segments
-# -----------------------------
 def build_active_segments_from_keystrokes(veta: pd.DataFrame, *, max_gap_ms: int) -> list[tuple[int, int]]:
     if "ActionType" not in veta.columns or "TimestampBeforeNs" not in veta.columns:
         return []
@@ -165,9 +150,6 @@ def load_sensor_csv(path: str) -> pd.DataFrame:
     return s
 
 
-# -----------------------------
-# Helpers: IMU normalization + resampling
-# -----------------------------
 def estimate_sampling_stats(t_sec: np.ndarray) -> dict:
     if t_sec is None or len(t_sec) < 2:
         return {"n": 0, "duration": 0.0, "dt_mean": 0.0, "dt_std": 0.0, "fs_hz": 0.0}
@@ -286,9 +268,6 @@ def _integral_mag2_dt(mag: np.ndarray, t_sec: np.ndarray) -> float:
     return float(np.sum(area[valid]))
 
 
-# -----------------------------
-# Helpers: GLOBAL sensor features
-# -----------------------------
 def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -> dict:
     def _empty():
         return {
@@ -432,9 +411,6 @@ def compute_global_sensor_features(sensor_df_round: pd.DataFrame, prefix: str) -
     }
 
 
-# -----------------------------
-# Cross-modal: generic IMU <-> keystrokes
-# -----------------------------
 def compute_cross_imu_keystroke_features(
     sensor_round_df_clean: pd.DataFrame,
     insert_times_ns: np.ndarray,
@@ -668,9 +644,6 @@ def compute_cross_imu_keystroke_features(
     return out, peaks_arr
 
 
-# -----------------------------
-# Cross-modal: ACC <-> GYRO coupling
-# -----------------------------
 def compute_acc_gyro_coupling_features(
     acc_clean: pd.DataFrame,
     gyro_clean: pd.DataFrame,
@@ -742,9 +715,6 @@ def compute_acc_gyro_coupling_features(
     return out
 
 
-# -----------------------------
-# MAIN: loop cez všetkých používateľov
-# -----------------------------
 VOWELS = set(list("aeiouy"))
 
 for config in CONFIGS:
@@ -777,17 +747,11 @@ for config in CONFIGS:
 
         print(f"\n[{uid}]")
 
-        # -----------------------------
-        # 1) Load keystrokes
-        # -----------------------------
         df = pd.read_csv(KEYSTROKES_PATH)
         for col in ["TimestampBeforeNs", "TimestampAfterNs"]:
             if col in df.columns:
                 df[col] = pd.to_numeric(df[col], errors="coerce")
 
-        # -----------------------------
-        # 2) Build feature vectors
-        # -----------------------------
         master = []
 
         segments_by_round: dict[int, list[tuple[int, int]]] = {}
@@ -1107,18 +1071,12 @@ for config in CONFIGS:
 
             master.append(features)
 
-        # -----------------------------
-        # 3) Build keystroke master_df
-        # -----------------------------
         master_df = pd.DataFrame(master)
 
         if len(master_df) == 0:
             print(f"  [SKIP] {uid} — žiadne riadky")
             continue
 
-        # -----------------------------
-        # 4) Load acc/gyro -> assign RoundId -> FILTER -> compute -> merge
-        # -----------------------------
         round_bounds_df = pd.DataFrame(round_bounds_list).sort_values("RoundId").reset_index(drop=True)
 
         acc_global_df = pd.DataFrame(columns=["RoundId"])
@@ -1212,9 +1170,6 @@ for config in CONFIGS:
         for c in sensor_cols:
             master_df[c] = pd.to_numeric(master_df[c], errors="coerce").fillna(0.0)
 
-        # -----------------------------
-        # 5) Save
-        # -----------------------------
         out_path = os.path.join(OUTPUT_DIR, f"vector_{uid}.csv")
         master_df.to_csv(out_path, index=False)
         print(f"  ✓ {len(master_df)} kôl, {len(master_df.columns)} čŕt → {out_path}")

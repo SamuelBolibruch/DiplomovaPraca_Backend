@@ -1,14 +1,14 @@
 import os
 import argparse
+import logging
 import pandas as pd
 import firebase_admin
 from firebase_admin import credentials, storage
 
 import fix_data
 
-# -----------------------------
-# Config
-# -----------------------------
+logger = logging.getLogger(__name__)
+
 SERVICE_ACCOUNT_KEY = "serviceAccountKey.json"
 STORAGE_BUCKET = "dp-project-4970a.firebasestorage.app"
 
@@ -30,9 +30,6 @@ SENSOR_FILES = [
     "sensor_gyroscope.csv",
 ]
 
-# -----------------------------
-# Init Firebase
-# -----------------------------
 if not firebase_admin._apps:
     cred = credentials.Certificate(SERVICE_ACCOUNT_KEY)
     firebase_admin.initialize_app(cred, {"storageBucket": STORAGE_BUCKET})
@@ -76,13 +73,12 @@ def download_latest_authentication_attempt(uid: str, auth_type: str) -> dict:
     downloaded = []
     missing = []
 
-    # Vyčisti staré súbory, aby sa pri neúplnom downloade nepoužili zastarané dáta.
     for filename in files_to_download + ["vector_authentication.csv"]:
         stale_path = os.path.join(out_dir, filename)
         if os.path.exists(stale_path):
             os.remove(stale_path)
 
-    print(f"[{uid}] auth_type={auth_type}, latest_timestamp={latest_timestamp}")
+    logger.info(f"[{uid}] auth_type={auth_type}, latest_timestamp={latest_timestamp}")
 
     for filename in files_to_download:
         blob_path = f"{prefix}{latest_timestamp}/{filename}"
@@ -91,26 +87,24 @@ def download_latest_authentication_attempt(uid: str, auth_type: str) -> dict:
 
         try:
             if not blob.exists():
-                print(f"  ✗ {filename} — súbor v storage neexistuje")
+                logger.warning(f"  ✗ {filename} — súbor v storage neexistuje")
                 missing.append(filename)
                 continue
 
             blob.download_to_filename(out_path)
-            print(f"  ✓ {filename}")
+            logger.info(f"  ✓ {filename}")
             downloaded.append(out_path)
 
             if filename == keystrokes_file:
-                # Fix sa vykoná až po úspešnom stiahnutí
                 fix_data.fix_biometry_csv(out_path)
 
-                # Nastav správne UserId
                 df = pd.read_csv(out_path)
                 if "UserId" in df.columns:
                     df["UserId"] = uid
                     df.to_csv(out_path, index=False)
 
         except Exception as e:
-            print(f"  ✗ {filename} — chyba: {e}")
+            logger.error(f"  ✗ {filename} — chyba: {e}")
             missing.append(filename)
 
     if missing:

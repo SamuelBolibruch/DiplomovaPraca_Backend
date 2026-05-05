@@ -47,7 +47,7 @@ def run_authentication(uid: str, auth_type: str) -> dict:
 
     X_new = df[feature_cols].replace([np.inf, -np.inf], np.nan).fillna(0)
 
-    prob = float(model.predict_proba(X_new)[0][1])
+    prob = float(model.predict_proba(X_new.values)[0][1])
     pred = int(prob >= threshold)
 
     result = {
@@ -61,17 +61,17 @@ def run_authentication(uid: str, auth_type: str) -> dict:
         "decision": "ACCEPT" if pred == 1 else "REJECT",
     }
 
-    print(f"User model: {result['user_id']}")
-    print(f"Auth type: {result['auth_type']}")
-    print(f"Model path: {result['model_path']}")
-    print(f"Vector path: {result['vector_path']}")
-    print(f"Threshold: {result['threshold']}")
-    print(f"Probability genuine: {result['probability_genuine']:.6f}")
+    # print(f"User model: {result['user_id']}")
+    # print(f"Auth type: {result['auth_type']}")
+    # print(f"Model path: {result['model_path']}")
+    # print(f"Vector path: {result['vector_path']}")
+    # print(f"Threshold: {result['threshold']}")
+    # print(f"Probability genuine: {result['probability_genuine']:.6f}")
 
-    if result["accepted"]:
-        print("✅ ACCEPT")
-    else:
-        print("❌ REJECT")
+    # if result["accepted"]:
+    #     print("✅ ACCEPT")
+    # else:
+    #     print("❌ REJECT")
 
     return result
 
