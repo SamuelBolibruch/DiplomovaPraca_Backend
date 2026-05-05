@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 SERVICE_ACCOUNT_KEY = "serviceAccountKey.json"
 STORAGE_BUCKET = "dp-project-4970a.firebasestorage.app"
 
-AUTH_OUTPUT_DIR = "data/authentification"
+AUTH_OUTPUT_DIR = "data/authentication"
 
 AUTH_CONFIGS = {
     "general": {

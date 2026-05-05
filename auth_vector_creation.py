@@ -3,32 +3,20 @@ import argparse
 import pandas as pd
 import numpy as np
 
-# -----------------------------
-# Config: filtering
-# -----------------------------
 MAX_INTERVAL_MS = 2750
 MIN_INTERVAL_MS = 0
 MICRO_PAUSE_MS = 700
 
-# -----------------------------
-# Auth paths config
-# -----------------------------
-AUTH_BASE_DIR = "data/authentification"
+AUTH_BASE_DIR = "data/authentication"
 AUTH_KEYSTROKES_FILE = "keystrokes_authentication.csv"
 AUTH_ACCELEROMETER_FILE = "sensor_accelerometer.csv"
 AUTH_GYROSCOPE_FILE = "sensor_gyroscope.csv"
 AUTH_VECTOR_FILE = "vector_authentication.csv"
 
-# -----------------------------
-# IMU normalization / resampling config
-# -----------------------------
 IMU_GRAVITY_TAU_SEC = 0.7
 IMU_RESAMPLE_HZ = 50.0
 IMU_MIN_FFT_SAMPLES = 64
 
-# -----------------------------
-# Cross-modal config (keystrokes <-> IMU)
-# -----------------------------
 ACC_KEY_PRE_MS = 100
 ACC_KEY_POST_MS = 150
 ACC_LAG_MAX_MS = 150
@@ -1164,7 +1152,7 @@ def build_auth_vector_for_user(uid: str, auth_type: str) -> pd.DataFrame:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Build single authentication vector for one user from data/authentification/<uid>/<auth_type>/"
+        description="Build single authentication vector for one user from data/authentication/<uid>/<auth_type>/"
     )
     parser.add_argument("--uid", required=True, help="User ID")
     parser.add_argument(

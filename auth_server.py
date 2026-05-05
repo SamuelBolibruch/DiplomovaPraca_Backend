@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 from load_auth_data import download_latest_authentication_attempt
 from auth_vector_creation import build_auth_vector_for_user
-from AUTHENTIFICATION import run_authentication
+from AUTHENTICATION import run_authentication
 
 app = FastAPI(title="Behavioral Authentication API")
 

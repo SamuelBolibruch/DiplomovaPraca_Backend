@@ -12,8 +12,8 @@ MIN_INTERVAL_MS = 0
 MICRO_PAUSE_MS = 700
 
 CONFIGS = [
-    {"data_dir": "data/common_training",   "output_dir": "data/vectors",          "keystrokes_file": "keystrokes_common.csv"},
-    {"data_dir": "data/personal_training", "output_dir": "data/vectors_personal", "keystrokes_file": "keystrokes_personal.csv"},
+    {"data_dir": "data/raw_common",   "output_dir": "data/vectors",          "keystrokes_file": "keystrokes_common.csv"},
+    {"data_dir": "data/raw_personal", "output_dir": "data/vectors_personal", "keystrokes_file": "keystrokes_personal.csv"},
 ]
 
 IMU_GRAVITY_TAU_SEC = 0.7

@@ -16,12 +16,12 @@ STORAGE_BUCKET = "dp-project-4970a.firebasestorage.app"
 TRAINING_CONFIGS = [
     {
         "training_type": "common_training",
-        "output_dir": "data/common_training",
+        "output_dir": "data/raw_common",
         "keystrokes_file": "keystrokes_common.csv",
     },
     {
         "training_type": "personal_training",
-        "output_dir": "data/personal_training",
+        "output_dir": "data/raw_personal",
         "keystrokes_file": "keystrokes_personal.csv",
     },
 ]

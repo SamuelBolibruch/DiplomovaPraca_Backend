@@ -9,7 +9,7 @@ MODEL_DIRS = {
     "personal": "RandomForrest/models_personal",
 }
 
-AUTH_BASE_DIR = "data/authentification"
+AUTH_BASE_DIR = "data/authentication"
 VECTOR_FILENAME = "vector_authentication.csv"
 
 
@@ -65,13 +65,13 @@ def run_authentication(uid: str, auth_type: str) -> dict:
     # print(f"Auth type: {result['auth_type']}")
     # print(f"Model path: {result['model_path']}")
     # print(f"Vector path: {result['vector_path']}")
-    # print(f"Threshold: {result['threshold']}")
-    # print(f"Probability genuine: {result['probability_genuine']:.6f}")
+    print(f"Threshold: {result['threshold']}")
+    print(f"Probability genuine: {result['probability_genuine']:.6f}")
 
-    # if result["accepted"]:
-    #     print("✅ ACCEPT")
-    # else:
-    #     print("❌ REJECT")
+    if result["accepted"]:
+        print("✅ ACCEPT")
+    else:
+        print("❌ REJECT")
 
     return result
 

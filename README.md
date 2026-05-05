@@ -10,7 +10,7 @@
 | `load_auth_data.py` | Stiahne autentifikačné dáta z Firebase Storage |
 | `auth_vector_creation.py` | Vytvorí feature vektor pri autentifikácii |
 | `auth_server.py` | FastAPI server obsluhujúci autentifikačné požiadavky |
-| `AUTHENTIFICATION.py` | Načíta model, vyhodnotí vektor a vráti rozhodnutie ACCEPT/REJECT |
+| `AUTHENTICATION.py` | Načíta model, vyhodnotí vektor a vráti rozhodnutie ACCEPT/REJECT |
 
 ## Priečinky
 

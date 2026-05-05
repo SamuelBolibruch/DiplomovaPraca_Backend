@@ -11,12 +11,12 @@ BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 
 CONFIGS = [
     {
-        "data_dir": os.path.join(BASE_DIR, "data/common_training"),
+        "data_dir": os.path.join(BASE_DIR, "data/raw_common"),
         "src_file": "keystrokes_common.csv",
         "out_template": "keystrokes_{n}_common.csv",
     },
     {
-        "data_dir": os.path.join(BASE_DIR, "data/personal_training"),
+        "data_dir": os.path.join(BASE_DIR, "data/raw_personal"),
         "src_file": "keystrokes_personal.csv",
         "out_template": "keystrokes_{n}_personal.csv",
     },
