@@ -55,3 +55,80 @@ Tréning a uložené modely Random Forest pre biometrickú autentifikáciu. Pred
 | `exp5_RF_text_length_personal.py` | Vplyv dĺžky vstupného textu na výkon RF – iba personal dataset. | `results/exp5_RF_text_length_personal/` |
 | `create_truncated_keystrokes.py` | Vytvára orezané keystroke CSV súbory (prvých N znakov) – potrebné pred spustením exp5. | `data/raw_common/`, `data/raw_personal/` |
 | `visualize_top5_features_SK.py` | Načíta produkčné RF modely, vypočíta priemernú feature importance cez všetkých používateľov a uloží grafy a CSV. | `top5_features_visualization/` |
+
+---
+
+## Inštalácia a spustenie
+
+### Požiadavky
+
+- **Python 3.13** (projekt bol vyvíjaný a testovaný na tejto verzii)
+
+### 1. Klonovanie repozitára
+
+```bash
+git clone <url-repozitara>
+cd DiplomovaPraca_Backend
+```
+
+### 2. Vytvorenie virtuálneho prostredia
+
+```bash
+python3.13 -m venv venv
+```
+
+### 3. Aktivácia virtuálneho prostredia
+
+```bash
+# macOS / Linux
+source venv/bin/activate
+
+# Windows
+venv\Scripts\activate
+```
+
+Po aktivácii by mal byť prefix `(venv)` viditeľný v termináli.
+
+### 4. Inštalácia závislostí
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Firebase Service Account Key
+
+Súbor `serviceAccountKey.json` je potrebný pre skripty, ktoré komunikujú priamo s Firebase Storage a Firestore – konkrétne:
+
+- `get_all_users.py` – stiahne tréningové dáta zo **Storage** pre všetkých (alebo konkrétneho) používateľa
+- `load_auth_data.py` – stiahne autentifikačné dáta zo **Storage** pri spracovaní autentifikačnej požiadavky
+
+Bez tohto súboru nie je možné spustiť sťahovanie dát z Firebase. Ostatné skripty (tvorba vektorov, tréning modelov, experimenty, autentifikačný server) tento súbor **nepotrebujú** – pracujú len s lokálne uloženými dátami.
+
+**Ako získať `serviceAccountKey.json`:**
+
+1. V [Firebase Console](https://console.firebase.google.com) otvor svoj projekt.
+2. Prejdi do **Project settings → Service accounts**.
+3. Klikni na **Generate new private key** a stiahni JSON súbor.
+4. Premenuj ho na `serviceAccountKey.json` a umiestni ho do koreňového priečinka projektu (vedľa `get_all_users.py`).
+
+> Tento súbor obsahuje citlivé prihlasovacie údaje – **nikdy ho nezdieľaj ani nepridávaj do gitu.**
+
+### 6. Spustenie skriptov
+
+Po aktivácii prostredia a inštalácii závislostí je možné spúšťať jednotlivé skripty priamo z koreňového priečinka projektu.
+
+> **Poznámka k príkazu `python`:** Na macOS a Linuxe môže byť potrebné použiť `python3` namiesto `python`.
+
+```bash
+# Stiahnutie tréningových dát z Firebase (vyžaduje serviceAccountKey.json)
+python get_all_users.py
+
+# Stiahnutie iba pre konkrétneho používateľa
+python get_all_users.py --uid <uid>
+
+# Celý pipeline: stiahnutie → vektory → príprava → tréning
+python run_models_creation_pipeline.py
+
+# Spustenie autentifikačného FastAPI servera
+uvicorn auth_server:app --reload
+```
