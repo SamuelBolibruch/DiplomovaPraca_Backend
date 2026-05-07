@@ -41,18 +41,17 @@ Tréning a uložené modely Random Forest pre biometrickú autentifikáciu. Pred
 | `models_personal/` | Natrénované modely (`model_{uid}.pkl`) pre scenár s vlastným textom. |
 
 ### `experiments/`
-Experimentálne skripty:
-- `exp1` – porovnanie RandomForest, SVM a XGBoost
-- `exp2` – porovnanie skupín čŕt (keystroke / sensor / combined)
-- `exp3` – porovnanie spoločného vs. vlastného textu
-- `exp4` – vplyv veľkosti trénovacej množiny na výkon
-- `exp5` – vplyv dĺžky vstupného textu na výkon
-- `create_truncated_keystrokes.py` – vytvorí orezané keystroke súbory pre exp5
-- `visualize_top5_features_SK.py` – načíta produkčné RF modely z `RandomForrest/models/` a `RandomForrest/models_personal/`, vypočíta feature importance (priemer cez všetkých používateľov) a uloží grafy a CSV do `top5_features_visualization/`
-- `top5_features_visualization/` – výstupy vizualizácie feature importance z produkčných modelov:
-  - `feature_importance_{group}_{dataset}.csv` a `.png` – importance pre každú skupinu čŕt (`keystroke_only`, `sensor_only`, `combined`) a scenár (`general`, `personal`)
-  - `feature_importance_all_groups_{dataset}.csv` – všetky skupiny čŕt pre daný scenár v jednom súbore
-  - `feature_importance_all_groups_general_vs_personal.csv` – kombinovaný súbor cez oba scenáre
-  - `top5_features_combined_GENERAL.png`, `top5_features_combined_PERSONAL.png` – top 5 čŕt ako vertikálne stĺpcové grafy
-  - `top5_features_combined_comparison.png` – porovnanie general vs personal vedľa seba
-  - `top5_features_combined_comparison.csv` – top 5 čŕt pre oba scenáre
+
+| Súbor | Popis | Výsledky |
+|---|---|---|
+| `exp1_model_comparison.py` | Porovnáva Random Forest, SVM a XGBoost na oboch datasetoch (general, personal). Pre každý model vypočíta AAR, FAR, FRR, EER. | `results/exp1_model_comparison/` |
+| `exp2_RF_feature_group_comparison.py` | Porovnáva skupiny čŕt (`keystroke_only`, `sensor_only`, `combined`) pomocou Random Forest na oboch datasetoch. | `results/exp2_RF_feature_group_comparison/` |
+| `exp2_SVM_feature_group_comparison.py` | To isté ako exp2 RF, ale s modelom SVM. | `results/exp2_SVM_feature_group_comparison/` |
+| `exp2_XGB_feature_group_comparison.py` | To isté ako exp2 RF, ale s modelom XGBoost. | `results/exp2_XGB_feature_group_comparison/` |
+| `exp3_RF_text_scenario_comparison.py` | Porovnáva scenáre spoločného vs. vlastného textu pomocou Random Forest. | `results/exp3_RF_text_scenario_comparison/` |
+| `exp4_general_training_size.py` | Skúma vplyv veľkosti trénovacej množiny na výkon RF modelu (general aj personal dataset). | `results/exp4_training_size_analysis/` |
+| `exp5_RF_text_length_comparison.py` | Porovnáva oba datasety pri rôznych dĺžkach vstupného textu (10, 20, 25, 50, 75, plný). | `results/exp5_RF_text_length_analysis/` |
+| `exp5_RF_text_length_general.py` | Vplyv dĺžky vstupného textu na výkon RF – iba general dataset. | `results/exp5_RF_text_length_analysis/general/` |
+| `exp5_RF_text_length_personal.py` | Vplyv dĺžky vstupného textu na výkon RF – iba personal dataset. | `results/exp5_RF_text_length_personal/` |
+| `create_truncated_keystrokes.py` | Vytvára orezané keystroke CSV súbory (prvých N znakov) – potrebné pred spustením exp5. | `data/raw_common/`, `data/raw_personal/` |
+| `visualize_top5_features_SK.py` | Načíta produkčné RF modely, vypočíta priemernú feature importance cez všetkých používateľov a uloží grafy a CSV. | `top5_features_visualization/` |

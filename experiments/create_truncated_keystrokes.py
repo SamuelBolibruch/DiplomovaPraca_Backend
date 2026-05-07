@@ -1,7 +1,3 @@
-"""
-Vytvorí orezané verzie keystroke súborov pre každého usera a každú hodnotu N znakov.
-"""
-
 import os
 import pandas as pd
 

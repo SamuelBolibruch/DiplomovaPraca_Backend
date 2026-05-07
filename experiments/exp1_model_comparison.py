@@ -1,7 +1,3 @@
-# Experimentálny skript na porovnanie modelov pre user-specific behaviorálnu biometrickú autentifikáciu.
-# Experiment 1: Porovnanie RandomForest, SVM a XGBoost na fixnom scenári (10 train / 5 test legitímnych vzoriek).
-# Threshold sa určuje z out-of-fold predikcií na train množine (nie z in-sample predikcií).
-
 import os
 import warnings
 
@@ -19,14 +15,9 @@ from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix, accuracy_score
 from xgboost import XGBClassifier
 
-# ---------------------------------------------------------------------------
-# Konfigurácia
-# ---------------------------------------------------------------------------
-
 BASE_RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results", "exp1_model_comparison")
 RANDOM_STATE = 42
 
-# Počet legitímnych vzoriek pre train / test
 LEGIT_TRAIN = 10
 LEGIT_TEST = 5
 
@@ -40,12 +31,7 @@ DATASET_RUNS = [
 os.makedirs(BASE_RESULTS_DIR, exist_ok=True)
 
 
-# ---------------------------------------------------------------------------
-# Pomocné funkcie
-# ---------------------------------------------------------------------------
-
 def load_dataset(csv_path: str):
-    """Načíta CSV súbor a vráti feature matrix X a vektor labelov y."""
     df = pd.read_csv(csv_path)
     feature_cols = [c for c in df.columns if c not in EXCLUDE_COLS]
     X = df[feature_cols].replace([np.inf, -np.inf], np.nan).fillna(0)
@@ -54,13 +40,6 @@ def load_dataset(csv_path: str):
 
 
 def split_user_data(X, y, legit_train: int = LEGIT_TRAIN, legit_test: int = LEGIT_TEST):
-    """
-    Stratifikovaný split:
-      - legit_train vzoriek triedy 1 → train
-      - legit_test vzoriek triedy 1 → test
-      - trieda 0 sa rozdelí v rovnakom pomere (train/test)
-    Vracia (X_train, X_test, y_train, y_test) alebo None, ak nie je dostatok legitímnych vzoriek.
-    """
     legit_indices = np.where(y == 1)[0]
     neg_indices = np.where(y == 0)[0]
 
@@ -75,9 +54,8 @@ def split_user_data(X, y, legit_train: int = LEGIT_TRAIN, legit_test: int = LEGI
     train_legit = perm_legit[:legit_train]
     test_legit = perm_legit[legit_train:legit_train + legit_test]
 
-    # Negatives – rovnaký pomer ako legitímni
     n_neg = len(neg_indices)
-    ratio = legit_train / needed  # podiel trainu z celku
+    ratio = legit_train / needed
     n_neg_train = int(round(n_neg * ratio))
     n_neg_test = n_neg - n_neg_train
 
@@ -99,10 +77,6 @@ def split_user_data(X, y, legit_train: int = LEGIT_TRAIN, legit_test: int = LEGI
 
 
 def find_best_threshold_from_scores(oof_probs, y_train):
-    """
-    Hľadá threshold z out-of-fold skóre tak, aby abs(FAR - FRR) bolo minimálne.
-    Vracia najlepší threshold (float).
-    """
     candidates = np.linspace(0.0, 1.0, 201)
     best_threshold = 0.5
     best_diff = float("inf")
@@ -121,15 +95,9 @@ def find_best_threshold_from_scores(oof_probs, y_train):
 
 
 def get_oof_probabilities(model_name: str, X_train, y_train, n_splits: int = 5):
-    """
-    Vypočíta out-of-fold pravdepodobnosti pre triedu 1 pomocou StratifiedKFold.
-    Ak má niektorá trieda menej vzoriek ako n_splits, n_splits sa automaticky zníži.
-    Vracia pole OOF skóre rovnakej dĺžky ako X_train, alebo None ak CV nie je možné.
-    """
     classes, counts = np.unique(y_train, return_counts=True)
     min_count = int(counts.min())
 
-    # Bezpečne znížiť n_splits
     effective_splits = min(n_splits, min_count)
     if effective_splits < 2:
         warnings.warn(
@@ -158,24 +126,16 @@ def get_oof_probabilities(model_name: str, X_train, y_train, n_splits: int = 5):
 
 
 def compute_eer(far: float, frr: float):
-    """
-    Vypočíta EER konzistentne pri rovnakom thresholde ako FAR/FRR.
-    """
     return (far + frr) / 2.0
 
 
 def _safe_confusion(y_true, y_pred):
-    """Vráti (tn, fp, fn, tp) s istotou, že všetky 4 hodnoty existujú."""
     cm = confusion_matrix(y_true, y_pred, labels=[0, 1])
     tn, fp, fn, tp = cm.ravel()
     return int(tn), int(fp), int(fn), int(tp)
 
 
 def compute_metrics(y_true, y_pred, _probs):
-    """
-    Vypočíta Accuracy, FAR, FRR a EER na testovacích dátach.
-    Vracia dict s metrikami.
-    """
     tn, fp, fn, tp = _safe_confusion(y_true, y_pred)
     acc = accuracy_score(y_true, y_pred)
     far = fp / (fp + tn) if (fp + tn) > 0 else 0.0
@@ -185,10 +145,6 @@ def compute_metrics(y_true, y_pred, _probs):
 
 
 def get_model(model_name: str):
-    """
-    Vráti čerstvú inštanciu modelu podľa názvu.
-    SVM je zabalené do Pipeline so StandardScaler.
-    """
     if model_name == "RandomForest":
         return RandomForestClassifier(
             n_estimators=200,
@@ -231,28 +187,17 @@ def get_model(model_name: str):
 
 
 def train_and_evaluate_model(model_name: str, X_train, X_test, y_train, y_test):
-    """
-    Workflow pre jedného používateľa a jeden model:
-      1. OOF predikcie na train sete → user-specific threshold
-      2. Natrénuj čerstvý model na celom train sete
-      3. Predikuj na test sete
-    4. FAR/FRR/Accuracy/EER z rovnakého user-specific thresholdu
-    Vracia dict s metrikami, alebo None ak OOF nie je možné.
-    """
-    # --- Krok 1: OOF predikcie a threshold ---
     oof_probs = get_oof_probabilities(model_name, X_train, y_train, n_splits=5)
     if oof_probs is None:
         return None
 
     threshold = find_best_threshold_from_scores(oof_probs, y_train)
 
-    # --- Krok 2: Natrénuj čerstvý model na celom train sete ---
     model = get_model(model_name)
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         model.fit(X_train, y_train)
 
-    # --- Krok 3 & 4: Predikuj na test sete a vyhodnoť ---
     probs_test = model.predict_proba(X_test)[:, 1]
     y_pred_test = (probs_test >= threshold).astype(int)
 
@@ -464,10 +409,6 @@ def run_experiment(dataset_name: str, training_dir: str):
         "FRR_avg", "FRR_std", "EER_avg", "EER_std"
     ]]
 
-    final_table_csv = os.path.join(results_dir, f"final_summary_table_{dataset_name}.csv")
-    final_table.to_csv(final_table_csv, index=False)
-    print(f"Finálna tabuľka uložená do: {final_table_csv}\n")
-
     ranking_df = final_table[["Model", "EER_avg"]].sort_values("EER_avg", ascending=True)
 
     metrics_to_plot = ["avg_accuracy", "avg_far", "avg_frr", "avg_eer"]
@@ -523,28 +464,6 @@ def run_experiment(dataset_name: str, training_dir: str):
     plt.close()
     print(f"\nGraf metrík uložený do: {combined_plot}")
 
-    report_txt = os.path.join(results_dir, f"final_report_{dataset_name}.txt")
-    evaluated_users = sorted(per_user_df["user_id"].unique().tolist())
-    excluded_users = sorted(set(all_user_ids) - set(evaluated_users))
-    with open(report_txt, "w", encoding="utf-8") as f:
-        f.write(f"Experiment 1 - Final report ({dataset_name})\n")
-        f.write("=" * 80 + "\n")
-        f.write("A) Main summary table\n")
-        f.write(final_table.to_string(index=False, float_format=lambda x: f"{x:.6f}") + "\n\n")
-        f.write("B) Model ranking by EER\n")
-        f.write(ranking_df.to_string(index=False, float_format=lambda x: f"{x:.6f}") + "\n\n")
-        f.write("C) Users\n")
-        f.write(f"Training files: {len(all_user_ids)}\n")
-        f.write(f"Evaluated users: {len(evaluated_users)}\n")
-        f.write(f"Excluded users: {len(excluded_users)}\n")
-        f.write("\nD) Methodology confirmation\n")
-        f.write("- Per-user model training\n")
-        f.write("- Aggregation over users\n")
-        f.write("- User-specific OOF thresholding\n")
-        f.write("\nE) Plot\n")
-        f.write(f"- {combined_plot}\n")
-    print(f"Report uložený do: {report_txt}")
-
     print_dataset_summary(
         dataset_name=dataset_name,
         all_user_ids=all_user_ids,
@@ -564,10 +483,6 @@ def run_experiment(dataset_name: str, training_dir: str):
         "results_dir": results_dir,
     }
 
-
-# ---------------------------------------------------------------------------
-# Hlavná logika
-# ---------------------------------------------------------------------------
 
 def main():
     run_summaries = []

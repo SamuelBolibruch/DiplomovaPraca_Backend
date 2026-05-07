@@ -1,8 +1,3 @@
-# Experimentálny skript na porovnanie skupín čŕt pre user-specific behaviorálnu biometrickú autentifikáciu.
-# Experiment 2 – RandomForest: Porovnanie 3 skupín vstupných čŕt (keystroke_only / sensor_only / combined)
-#              pri fixnom modeli RandomForest a rovnakom scenári ako v experimente 1
-#              (10 train / 5 test legitímnych vzoriek, OOF threshold).
-
 import os
 import warnings
 
@@ -15,10 +10,6 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import confusion_matrix, accuracy_score
-
-# ---------------------------------------------------------------------------
-# Konfigurácia
-# ---------------------------------------------------------------------------
 
 BASE_RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results", "exp2_RF_feature_group_comparison")
 RANDOM_STATE = 42
@@ -34,10 +25,6 @@ DATASET_RUNS = [
 ]
 
 os.makedirs(BASE_RESULTS_DIR, exist_ok=True)
-
-# ---------------------------------------------------------------------------
-# Definícia skupín čŕt
-# ---------------------------------------------------------------------------
 
 KEYSTROKE_FEATURES = [
     "cps", "wpm", "total_duration", "typing_efficiency", "error_rate",
@@ -92,7 +79,6 @@ CROSS_MODAL_FEATURES = [
     "corr_acc_gyro_peak_per_char", "gyro_to_acc_energy_ratio_per_char_mean",
 ]
 
-# Skupiny čŕt: názov → zoznam stĺpcov
 FEATURE_GROUPS = {
     "keystroke_only": KEYSTROKE_FEATURES,
     "sensor_only": SENSOR_FEATURES,
@@ -100,18 +86,12 @@ FEATURE_GROUPS = {
 }
 
 
-# ---------------------------------------------------------------------------
-# Pomocné funkcie (identické s experimentom 1)
-# ---------------------------------------------------------------------------
-
 def load_dataset(csv_path: str):
-    """Načíta CSV súbor a vráti všetky feature stĺpce + label."""
     df = pd.read_csv(csv_path)
     return df
 
 
 def select_features(df: pd.DataFrame, feature_cols: list[str]) -> tuple[pd.DataFrame, np.ndarray]:
-    """Vyberie len požadované stĺpce, doplní chýbajúce nulami."""
     available = [c for c in feature_cols if c in df.columns]
     missing = [c for c in feature_cols if c not in df.columns]
     if missing:
@@ -119,19 +99,13 @@ def select_features(df: pd.DataFrame, feature_cols: list[str]) -> tuple[pd.DataF
     X = df[available].copy()
     for c in missing:
         X[c] = 0.0
-    X = X[feature_cols]  # zachovaj poradie
+    X = X[feature_cols]
     X = X.replace([np.inf, -np.inf], np.nan).fillna(0)
     y = df["label"].values
     return X, y
 
 
 def split_user_data(X, y, legit_train: int = LEGIT_TRAIN, legit_test: int = LEGIT_TEST):
-    """
-    Stratifikovaný split rovnaký ako v experimente 1:
-      - legit_train vzoriek triedy 1 → train
-      - legit_test vzoriek triedy 1 → test
-      - trieda 0 rozdelená v rovnakom pomere
-    """
     legit_indices = np.where(y == 1)[0]
     neg_indices = np.where(y == 0)[0]
 
@@ -245,14 +219,10 @@ def compute_metrics(y_true, y_pred, _probs):
     return {"accuracy": acc, "far": far, "frr": frr, "eer": eer}
 
 
-def train_and_evaluate(group_name: str, X_train, X_test, y_train, y_test, feature_cols: list):
-    """
-    OOF threshold → natrénuj RF na celom train sete → vyhodnoť na test sete.
-    Vracia metriky aj feature importances (pole rovnakej dĺžky ako feature_cols).
-    """
+def train_and_evaluate(group_name: str, X_train, X_test, y_train, y_test):
     oof_probs = get_oof_probabilities(X_train, y_train, n_splits=5, group_name=group_name)
     if oof_probs is None:
-        return None, None
+        return None
 
     threshold = find_best_threshold_from_scores(oof_probs, y_train)
 
@@ -266,14 +236,8 @@ def train_and_evaluate(group_name: str, X_train, X_test, y_train, y_test, featur
 
     metrics = compute_metrics(y_test, y_pred_test, probs_test)
     metrics["threshold"] = threshold
-    return metrics, model.feature_importances_
+    return metrics
 
-
-TOP_N_FEATURES = 20  # koľko top čŕt vypísať / uložiť na skupinu
-
-# ---------------------------------------------------------------------------
-# Hlavná logika
-# ---------------------------------------------------------------------------
 
 def run_experiment(dataset_name: str, training_dir: str):
     results_dir = os.path.join(BASE_RESULTS_DIR, dataset_name)
@@ -295,8 +259,6 @@ def run_experiment(dataset_name: str, training_dir: str):
     print()
 
     per_user_records = []
-    # importance_accum[group_name] = list of 1-D arrays (one per user)
-    importance_accum: dict[str, list] = {g: [] for g in group_names}
 
     for csv_file in csv_files:
         uid = csv_file.replace("training_", "").replace(".csv", "")
@@ -304,7 +266,6 @@ def run_experiment(dataset_name: str, training_dir: str):
 
         df = load_dataset(csv_path)
 
-        # split sa robí raz na základe plného datasetu – rovnaký pre všetky skupiny
         y_full = df["label"].values
         legit_indices = np.where(y_full == 1)[0]
         n_legit = len(legit_indices)
@@ -328,18 +289,13 @@ def run_experiment(dataset_name: str, training_dir: str):
 
             X_train, X_test, y_train, y_test = split
 
-            metrics, importances = train_and_evaluate(
-                group_name, X_train, X_test, y_train, y_test, feature_cols
-            )
+            metrics = train_and_evaluate(group_name, X_train, X_test, y_train, y_test)
 
             if metrics is None:
                 warnings.warn(
                     f"[SKIP] User {uid}, skupina {group_name}: OOF zlyhalo, výsledky preskočené."
                 )
                 continue
-
-            if importances is not None:
-                importance_accum[group_name].append(importances)
 
             record = {
                 "user_id": uid,
@@ -360,9 +316,6 @@ def run_experiment(dataset_name: str, training_dir: str):
 
         print()
 
-    # -----------------------------------------------------------------------
-    # Uloženie per-user výsledkov
-    # -----------------------------------------------------------------------
     if not per_user_records:
         print(f"Žiadne výsledky neboli vytvorené pre dataset {dataset_name}.")
         return None
@@ -372,9 +325,6 @@ def run_experiment(dataset_name: str, training_dir: str):
     per_user_df.to_csv(per_user_csv, index=False)
     print(f"Per-user výsledky uložené do: {per_user_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Súhrn – priemer a std cez používateľov pre každú skupinu čŕt
-    # -----------------------------------------------------------------------
     summary_records = []
     for group_name in group_names:
         subset = per_user_df[per_user_df["feature_group"] == group_name]
@@ -392,9 +342,6 @@ def run_experiment(dataset_name: str, training_dir: str):
     summary_df.to_csv(summary_csv, index=False)
     print(f"Súhrnné výsledky uložené do: {summary_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Výpis tabuľky do konzoly
-    # -----------------------------------------------------------------------
     print("=" * 90)
     print("SÚHRN – priemery a smerodajné odchýlky cez všetkých používateľov")
     print("=" * 90)
@@ -414,90 +361,6 @@ def run_experiment(dataset_name: str, training_dir: str):
         )
     print("=" * 90)
 
-    # -----------------------------------------------------------------------
-    # Feature importances – priemer cez všetkých používateľov pre každú skupinu
-    # -----------------------------------------------------------------------
-    print("\n" + "=" * 90)
-    print(f"TOP {TOP_N_FEATURES} NAJDÔLEŽITEJŠIE ČRTY (priemerná dôležitosť cez všetkých používateľov)")
-    print("=" * 90)
-
-    importance_summary_records = []
-    importance_all_rows = []
-    for group_name in group_names:
-        arrays = importance_accum[group_name]
-        if not arrays:
-            print(f"\n{group_name}: žiadne výsledky.")
-            continue
-
-        mean_imp = np.mean(np.stack(arrays, axis=0), axis=0)
-        std_imp  = np.std( np.stack(arrays, axis=0), axis=0)
-        feature_cols = FEATURE_GROUPS[group_name]
-
-        order = np.argsort(mean_imp)[::-1]
-        top_idx = order[:TOP_N_FEATURES]
-
-        print(f"\n{group_name} ({len(feature_cols)} čŕt, {len(arrays)} používateľov):")
-        print(f"  {'#':>3}  {'Črta':<45}  {'Priemer':>9}  {'Std':>9}")
-        print(f"  {'-'*3}  {'-'*45}  {'-'*9}  {'-'*9}")
-        for rank, idx in enumerate(top_idx, start=1):
-            fname = feature_cols[idx]
-            print(f"  {rank:>3}. {fname:<45}  {mean_imp[idx]:>9.5f}  {std_imp[idx]:>9.5f}")
-
-        # uloženie do CSV
-        imp_df = pd.DataFrame({
-            "rank":       range(1, len(feature_cols) + 1),
-            "feature":    [feature_cols[i] for i in order],
-            "mean_importance": mean_imp[order],
-            "std_importance":  std_imp[order],
-        })
-        imp_csv = os.path.join(results_dir, f"feature_importance_{group_name}_{dataset_name}.csv")
-        imp_df.to_csv(imp_csv, index=False)
-        importance_summary_records.append((group_name, imp_df))
-
-        imp_all_df = imp_df.copy()
-        imp_all_df.insert(0, "feature_group", group_name)
-        imp_all_df.insert(0, "dataset", dataset_name)
-        importance_all_rows.append(imp_all_df)
-
-        # graf top-N
-        top_names = [feature_cols[i] for i in top_idx]
-        top_means = mean_imp[top_idx]
-        top_stds  = std_imp[top_idx]
-
-        fig_h = max(5, TOP_N_FEATURES * 0.35)
-        fig, ax = plt.subplots(figsize=(9, fig_h))
-        y_pos = np.arange(TOP_N_FEATURES)
-        ax.barh(y_pos, top_means[::-1], xerr=top_stds[::-1], align="center",
-                color="#4C72B0", capsize=3)
-        ax.set_yticks(y_pos)
-        ax.set_yticklabels(top_names[::-1], fontsize=8)
-        ax.set_xlabel("Priemerná dôležitosť (Gini)")
-        ax.set_title(
-            f"Exp2 RF – Top {TOP_N_FEATURES} čŕt  [{group_name}]"
-        )
-        ax.xaxis.grid(True, linestyle="--", alpha=0.7)
-        ax.set_axisbelow(True)
-        plt.tight_layout()
-        imp_plot = os.path.join(results_dir, f"feature_importance_{group_name}_{dataset_name}.png")
-        plt.savefig(imp_plot, dpi=150)
-        plt.close()
-        print(f"  → Graf uložený do: {imp_plot}")
-        print(f"  → CSV  uložené do: {imp_csv}")
-
-        # bottom-N
-        bot_idx = order[-TOP_N_FEATURES:][::-1]  # najmenej dôležité, od najhoršej
-        print(f"\n  NAJMENEJ DÔLEŽITÉ črty ({group_name}):")
-        print(f"  {'#':>3}  {'Črta':<45}  {'Priemer':>9}  {'Std':>9}")
-        print(f"  {'-'*3}  {'-'*45}  {'-'*9}  {'-'*9}")
-        for rank, idx in enumerate(bot_idx, start=1):
-            fname = feature_cols[idx]
-            print(f"  {rank:>3}. {fname:<45}  {mean_imp[idx]:>9.5f}  {std_imp[idx]:>9.5f}")
-
-    print("\n" + "=" * 90)
-
-    # -----------------------------------------------------------------------
-    # Graf – grouped bar chart (rovnaký štýl ako experiment 1)
-    # -----------------------------------------------------------------------
     metrics_to_plot = ["avg_accuracy", "avg_far", "avg_frr", "avg_eer"]
     metric_labels   = ["AAR (Accuracy)", "FAR", "FRR", "EER"]
     metric_colors   = ["#4C72B0", "#DD8452", "#55A868", "#C44E52"]
@@ -544,27 +407,9 @@ def run_experiment(dataset_name: str, training_dir: str):
     plt.close()
     print(f"\nGraf metrík uložený do: {combined_plot}")
 
-    summary_with_dataset = summary_df.copy()
-    summary_with_dataset.insert(0, "dataset", dataset_name)
-    summary_with_dataset.to_csv(
-        os.path.join(results_dir, f"summary_results_with_dataset_{dataset_name}.csv"),
-        index=False,
-    )
-
-    importance_all_df = None
-    if importance_all_rows:
-        importance_all_df = pd.concat(importance_all_rows, ignore_index=True)
-        importance_all_csv = os.path.join(
-            results_dir,
-            f"feature_importance_all_groups_{dataset_name}.csv",
-        )
-        importance_all_df.to_csv(importance_all_csv, index=False)
-        print(f"Súhrnné feature-importances (všetky skupiny) uložené do: {importance_all_csv}")
-
     return {
         "dataset_name": dataset_name,
         "summary_df": summary_df,
-        "importance_all_df": importance_all_df,
         "results_dir": results_dir,
     }
 
@@ -590,21 +435,6 @@ def main():
     combined_df = pd.concat(combined_rows, ignore_index=True)
     combined_csv = os.path.join(BASE_RESULTS_DIR, "comparison_general_vs_personal.csv")
     combined_df.to_csv(combined_csv, index=False)
-
-    importance_combined_rows = []
-    for run_summary in run_summaries:
-        imp_df = run_summary.get("importance_all_df")
-        if imp_df is not None and not imp_df.empty:
-            importance_combined_rows.append(imp_df)
-
-    if importance_combined_rows:
-        importance_combined_df = pd.concat(importance_combined_rows, ignore_index=True)
-        importance_combined_csv = os.path.join(
-            BASE_RESULTS_DIR,
-            "feature_importance_all_groups_general_vs_personal.csv",
-        )
-        importance_combined_df.to_csv(importance_combined_csv, index=False)
-        print(f"Feature-importances pre oba datasety uložené do: {importance_combined_csv}")
 
     print("\n" + "#" * 90)
     print("Experiment 2 RF | finálne porovnanie datasetov (general vs personal)")

@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-Vizualizácia feature importance z produkčných Random Forest modelov.
-Generuje rovnakú štruktúru ako exp2, ale priamo z modelov v RandomForrest/.
-Výstupy idú do experiments/top5_features_visualization/.
-"""
-
 import os
 import joblib
 import pandas as pd
@@ -14,10 +8,6 @@ matplotlib.use("Agg")
 import numpy as np
 
 plt.rcParams['font.family'] = 'DejaVu Sans'
-
-# ---------------------------------------------------------------------------
-# Skupiny čŕt (rovnaké ako v exp2)
-# ---------------------------------------------------------------------------
 
 KEYSTROKE_FEATURES = [
     "cps", "wpm", "total_duration", "typing_efficiency", "error_rate",
@@ -78,10 +68,6 @@ FEATURE_GROUPS = {
     "combined": KEYSTROKE_FEATURES + SENSOR_FEATURES + CROSS_MODAL_FEATURES,
 }
 
-# ---------------------------------------------------------------------------
-# Konfigurácia
-# ---------------------------------------------------------------------------
-
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 MODELS_GENERAL = os.path.join(ROOT, "RandomForrest", "models")
 MODELS_PERSONAL = os.path.join(ROOT, "RandomForrest", "models_personal")
@@ -89,12 +75,8 @@ MODELS_PERSONAL = os.path.join(ROOT, "RandomForrest", "models_personal")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "top5_features_visualization")
 TOP_N = 5
 
-# ---------------------------------------------------------------------------
-# Načítanie feature importance z produkčných modelov
-# ---------------------------------------------------------------------------
 
 def load_importances_per_feature(models_dir: str) -> dict:
-    """Vráti dict {feature: [importance_user1, importance_user2, ...]}."""
     records = {}
     model_files = [f for f in os.listdir(models_dir) if f.endswith(".pkl")]
     print(f"Načítavam {len(model_files)} modelov z: {models_dir}")
@@ -106,7 +88,6 @@ def load_importances_per_feature(models_dir: str) -> dict:
 
 
 def importance_df_for_group(records: dict, features: list) -> pd.DataFrame:
-    """Vytvorí DataFrame s mean/std importance pre danú skupinu čŕt."""
     rows = []
     for feat in features:
         vals = records.get(feat, [])
@@ -122,7 +103,6 @@ def importance_df_for_group(records: dict, features: list) -> pd.DataFrame:
 
 
 def save_importance_graph(df: pd.DataFrame, title: str, out_path: str, top_n: int = 20):
-    """Horizontálny bar chart feature importance (štýl exp2)."""
     top = df.head(top_n)
     fig_h = max(5, top_n * 0.35)
     fig, ax = plt.subplots(figsize=(9, fig_h))
@@ -173,10 +153,6 @@ def process_dataset(models_dir: str, dataset_name: str):
     return group_dfs["combined"], all_groups_df
 
 
-# ---------------------------------------------------------------------------
-# Spracovanie oboch datasetov
-# ---------------------------------------------------------------------------
-
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 print("\n=== GENERAL ===")
@@ -185,13 +161,8 @@ df_general_combined, all_general = process_dataset(MODELS_GENERAL, "general")
 print("\n=== PERSONAL ===")
 df_personal_combined, all_personal = process_dataset(MODELS_PERSONAL, "personal")
 
-# Súhrnný CSV cez oba datasety
 all_vs = pd.concat([all_general, all_personal], ignore_index=True)
 all_vs.to_csv(os.path.join(OUTPUT_DIR, "feature_importance_all_groups_general_vs_personal.csv"), index=False)
-
-# ---------------------------------------------------------------------------
-# Top 5 grafy (vertikálne, slovenčina) – combined skupina
-# ---------------------------------------------------------------------------
 
 top_general = df_general_combined.head(TOP_N)
 top_personal = df_personal_combined.head(TOP_N)
@@ -235,10 +206,6 @@ print(f"\nGraf (GENERAL) uložený.")
 plot_top5_vertical(top_personal, "Top 5 najdôležitejších čŕt\nOsobná veta", "#DD8452",
                    os.path.join(OUTPUT_DIR, "top5_features_combined_PERSONAL.png"))
 print(f"Graf (PERSONAL) uložený.")
-
-# ---------------------------------------------------------------------------
-# Kombinovaný porovnávací graf (general vs personal vedľa seba)
-# ---------------------------------------------------------------------------
 
 n_features = len(df_general_combined)
 uniform_pct = (1.0 / n_features) * 100
@@ -294,10 +261,6 @@ plt.tight_layout()
 plt.savefig(os.path.join(OUTPUT_DIR, "top5_features_combined_comparison.png"), dpi=300, bbox_inches="tight")
 plt.close()
 print("Graf (porovnanie) uložený.")
-
-# ---------------------------------------------------------------------------
-# CSV – top 5
-# ---------------------------------------------------------------------------
 
 top5_data = []
 for _, row in top_general.iterrows():

@@ -1,8 +1,3 @@
-# Experimentálny skript na porovnanie textových scenárov pre user-specific behaviorálnu biometrickú autentifikáciu.
-# Experiment 3 – RandomForest: Porovnanie shared_text (data/training) vs personal_text (data/training_personal)
-#              pri fixnom modeli RandomForest a rovnakom scenári ako v experimentoch 1 a 2
-#              (10 train / 5 test legitímnych vzoriek, OOF threshold, combined feature set).
-
 import os
 import warnings
 
@@ -15,10 +10,6 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import StratifiedKFold
-
-# ---------------------------------------------------------------------------
-# Konfigurácia
-# ---------------------------------------------------------------------------
 
 SHARED_TEXT_DIR   = os.path.join(os.path.dirname(__file__), "..", "data", "training")
 PERSONAL_TEXT_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "training_personal")
@@ -36,10 +27,6 @@ TEXT_SCENARIOS = {
 }
 
 os.makedirs(RESULTS_DIR, exist_ok=True)
-
-# ---------------------------------------------------------------------------
-# Combined feature set (najlepší z experimentu 2)
-# ---------------------------------------------------------------------------
 
 KEYSTROKE_FEATURES = [
     "cps", "wpm", "total_duration", "typing_efficiency", "error_rate",
@@ -94,9 +81,6 @@ CROSS_MODAL_FEATURES = [
 
 COMBINED_ALL_FEATURES = KEYSTROKE_FEATURES + SENSOR_FEATURES + CROSS_MODAL_FEATURES
 
-# ---------------------------------------------------------------------------
-# Pomocné funkcie
-# ---------------------------------------------------------------------------
 
 def load_dataset(csv_path: str) -> pd.DataFrame:
     return pd.read_csv(csv_path)
@@ -260,10 +244,6 @@ def get_csv_files(directory: str) -> list:
     )
 
 
-# ---------------------------------------------------------------------------
-# Grafy
-# ---------------------------------------------------------------------------
-
 def plot_eer_comparison(summary_df: pd.DataFrame, out_dir: str):
     scenarios    = summary_df["text_type"].tolist()
     avg_eer_vals = summary_df["avg_eer"].tolist()
@@ -346,10 +326,6 @@ def plot_far_frr_comparison(summary_df: pd.DataFrame, out_dir: str):
     plt.close()
     print(f"Graf FAR/FRR uložený do: {out_path}")
 
-
-# ---------------------------------------------------------------------------
-# Hlavná logika
-# ---------------------------------------------------------------------------
 
 def main():
     print("=" * 80)
@@ -435,9 +411,6 @@ def main():
 
         print()
 
-    # -----------------------------------------------------------------------
-    # Uloženie per-user výsledkov
-    # -----------------------------------------------------------------------
     if not per_user_records:
         print("Žiadne výsledky neboli vytvorené.")
         return
@@ -447,9 +420,6 @@ def main():
     per_user_df.to_csv(per_user_csv, index=False)
     print(f"Per-user výsledky uložené do: {per_user_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Súhrn
-    # -----------------------------------------------------------------------
     summary_records = []
     for text_type in TEXT_SCENARIOS.keys():
         subset = per_user_df[per_user_df["text_type"] == text_type]
@@ -467,9 +437,6 @@ def main():
     summary_df.to_csv(summary_csv, index=False)
     print(f"Súhrnné výsledky uložené do: {summary_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Výpis tabuľky do konzoly
-    # -----------------------------------------------------------------------
     print("=" * 90)
     print("SÚHRN – RandomForest – priemery a smerodajné odchýlky cez všetkých používateľov")
     print("=" * 90)
@@ -492,9 +459,6 @@ def main():
         )
     print("=" * 90)
 
-    # -----------------------------------------------------------------------
-    # Grafy
-    # -----------------------------------------------------------------------
     plot_eer_comparison(summary_df, RESULTS_DIR)
     plot_far_frr_comparison(summary_df, RESULTS_DIR)
 

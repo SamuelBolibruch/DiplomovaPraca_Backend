@@ -1,10 +1,3 @@
-# Experimentálny skript na analýzu vplyvu dĺžky textu (počtu znakov) na výkon modelu.
-# Experiment 5 – Personal – RandomForest: Vplyv dĺžky vstupného textu (10, 20, 50, 75 znakov + plný text)
-#              pri fixed modeli RandomForest, combined feature sete a osobnom texte (data/training_personal).
-# Metodika identická s experimentmi 1, 2, 3 a 4:
-#   - user-specific OOF threshold (StratifiedKFold, 5 foldov)
-#   - minimalizácia abs(FAR - FRR)
-
 import os
 import warnings
 
@@ -18,15 +11,10 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import StratifiedKFold
 
-# ---------------------------------------------------------------------------
-# Konfigurácia
-# ---------------------------------------------------------------------------
-
 BASE_DIR     = os.path.join(os.path.dirname(__file__), "..")
 RESULTS_DIR  = os.path.join(os.path.dirname(__file__), "results", "exp5_RF_text_length_personal")
 RANDOM_STATE = 42
 
-# (label, cesta k training adresáru)
 TEXT_LENGTH_CONFIGS = [
     ("10",   os.path.join(BASE_DIR, "data", "training_personal_10")),
     ("20",   os.path.join(BASE_DIR, "data", "training_personal_20")),
@@ -41,10 +29,6 @@ LEGIT_TEST_FIXED = 5
 EXCLUDE_COLS = {"UserId", "RoundId", "label"}
 
 os.makedirs(RESULTS_DIR, exist_ok=True)
-
-# ---------------------------------------------------------------------------
-# Combined feature set (rovnaký ako v experimentoch 2, 3 a 4)
-# ---------------------------------------------------------------------------
 
 KEYSTROKE_FEATURES = [
     "cps", "wpm", "total_duration", "typing_efficiency", "error_rate",
@@ -99,9 +83,6 @@ CROSS_MODAL_FEATURES = [
 
 COMBINED_ALL_FEATURES = KEYSTROKE_FEATURES + SENSOR_FEATURES + CROSS_MODAL_FEATURES
 
-# ---------------------------------------------------------------------------
-# Pomocné funkcie
-# ---------------------------------------------------------------------------
 
 def load_dataset(csv_path: str) -> pd.DataFrame:
     return pd.read_csv(csv_path)
@@ -265,10 +246,6 @@ def get_csv_files(directory: str) -> list:
     )
 
 
-# ---------------------------------------------------------------------------
-# Grafy
-# ---------------------------------------------------------------------------
-
 TEXT_LENGTH_ORDER  = ["10", "20", "50", "75", "full"]
 TEXT_LENGTH_XTICKS = ["10", "20", "50", "75", "full"]
 
@@ -347,10 +324,6 @@ def plot_far_frr_vs_text_length(summary_df: pd.DataFrame, out_dir: str):
     plt.close()
     print(f"Graf FAR/FRR uložený do: {out_path}")
 
-
-# ---------------------------------------------------------------------------
-# Hlavná logika
-# ---------------------------------------------------------------------------
 
 def main():
     print("=" * 80)
@@ -436,9 +409,6 @@ def main():
 
         print()
 
-    # -----------------------------------------------------------------------
-    # Uloženie per-user výsledkov
-    # -----------------------------------------------------------------------
     if not per_user_records:
         print("Žiadne výsledky neboli vytvorené.")
         return
@@ -448,9 +418,6 @@ def main():
     per_user_df.to_csv(per_user_csv, index=False)
     print(f"Per-user výsledky uložené do: {per_user_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Súhrn
-    # -----------------------------------------------------------------------
     summary_records = []
     for text_length in TEXT_LENGTH_ORDER:
         subset = per_user_df[per_user_df["text_length"] == text_length]
@@ -468,9 +435,6 @@ def main():
     summary_df.to_csv(summary_csv, index=False)
     print(f"Súhrnné výsledky uložené do: {summary_csv}\n")
 
-    # -----------------------------------------------------------------------
-    # Výpis tabuľky do konzoly
-    # -----------------------------------------------------------------------
     print("=" * 100)
     print("SÚHRN – RandomForest – vplyv dĺžky textu – personal – priemery ± std")
     print("=" * 100)
@@ -493,9 +457,6 @@ def main():
         )
     print("=" * 100)
 
-    # -----------------------------------------------------------------------
-    # Grafy
-    # -----------------------------------------------------------------------
     plot_eer_vs_text_length(summary_df, RESULTS_DIR)
     plot_far_frr_vs_text_length(summary_df, RESULTS_DIR)
 

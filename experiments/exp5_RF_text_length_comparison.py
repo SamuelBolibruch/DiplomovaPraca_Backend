@@ -1,10 +1,3 @@
-# Experimentálny skript na analýzu vplyvu dĺžky textu (počtu znakov) na výkon modelu.
-# Experiment 5 – General & Personal – RandomForest: Vplyv dĺžky vstupného textu
-#              pri fixed modeli RandomForest a combined feature sete.
-# Metodika identická s experimentmi 1, 2, 3 a 4:
-#   - user-specific OOF threshold (StratifiedKFold, 5 foldov)
-#   - minimalizácia abs(FAR - FRR)
-
 import os
 import warnings
 
@@ -17,10 +10,6 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import StratifiedKFold
-
-# ---------------------------------------------------------------------------
-# Konfigurácia
-# ---------------------------------------------------------------------------
 
 BASE_DIR     = os.path.join(os.path.dirname(__file__), "..")
 RESULTS_DIR  = os.path.join(os.path.dirname(__file__), "results", "exp5_RF_text_length_analysis")
@@ -57,10 +46,6 @@ LEGIT_TEST_FIXED = 5
 EXCLUDE_COLS = {"UserId", "RoundId", "label"}
 
 os.makedirs(RESULTS_DIR, exist_ok=True)
-
-# ---------------------------------------------------------------------------
-# Combined feature set (rovnaký ako v experimentoch 2, 3 a 4)
-# ---------------------------------------------------------------------------
 
 KEYSTROKE_FEATURES = [
     "cps", "wpm", "total_duration", "typing_efficiency", "error_rate",
@@ -115,9 +100,6 @@ CROSS_MODAL_FEATURES = [
 
 COMBINED_ALL_FEATURES = KEYSTROKE_FEATURES + SENSOR_FEATURES + CROSS_MODAL_FEATURES
 
-# ---------------------------------------------------------------------------
-# Pomocné funkcie
-# ---------------------------------------------------------------------------
 
 def load_dataset(csv_path: str) -> pd.DataFrame:
     return pd.read_csv(csv_path)
@@ -281,10 +263,6 @@ def get_csv_files(directory: str) -> list:
     )
 
 
-# ---------------------------------------------------------------------------
-# Grafy
-# ---------------------------------------------------------------------------
-
 TEXT_LENGTH_ORDER = ["10", "20", "25", "50", "75", "full"]
 TEXT_LENGTH_XTICKS = ["10", "20", "25", "50", "75", "full"]
 
@@ -426,10 +404,6 @@ def plot_accuracy_comparison_all_datasets(summary_map: dict, out_dir: str):
     plt.close()
     print(f"Porovnávajúci graf Accuracy uložený do: {out_path}")
 
-
-# ---------------------------------------------------------------------------
-# Hlavná logika
-# ---------------------------------------------------------------------------
 
 def run_experiment(dataset_name: str, text_length_configs: list):
     out_dir = os.path.join(RESULTS_DIR, dataset_name)

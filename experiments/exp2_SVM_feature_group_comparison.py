@@ -1,8 +1,3 @@
-# Experimentálny skript na porovnanie skupín čŕt pre user-specific behaviorálnu biometrickú autentifikáciu.
-# Experiment 2 – SVM: Porovnanie 3 skupín vstupných čŕt (keystroke_only / sensor_only / combined)
-#              pri fixnom modeli SVM a rovnakom scenári ako v experimente 1
-#              (10 train / 5 test legitímnych vzoriek, OOF threshold).
-
 import os
 import warnings
 
@@ -18,10 +13,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix, accuracy_score
 
-# ---------------------------------------------------------------------------
-# Konfigurácia
-# ---------------------------------------------------------------------------
-
 TRAINING_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "training")
 RESULTS_DIR = os.path.join(os.path.dirname(__file__), "results", "exp2_SVM_feature_group_comparison")
 RANDOM_STATE = 42
@@ -32,10 +23,6 @@ LEGIT_TEST = 5
 EXCLUDE_COLS = {"UserId", "RoundId", "label"}
 
 os.makedirs(RESULTS_DIR, exist_ok=True)
-
-# ---------------------------------------------------------------------------
-# Definícia skupín čŕt
-# ---------------------------------------------------------------------------
 
 KEYSTROKE_FEATURES = [
     "cps", "wpm", "total_duration", "typing_efficiency", "error_rate",
@@ -96,10 +83,6 @@ FEATURE_GROUPS = {
     "combined": KEYSTROKE_FEATURES + SENSOR_FEATURES + CROSS_MODAL_FEATURES,
 }
 
-
-# ---------------------------------------------------------------------------
-# Pomocné funkcie (identické s experimentom 1)
-# ---------------------------------------------------------------------------
 
 def load_dataset(csv_path: str):
     df = pd.read_csv(csv_path)
@@ -267,10 +250,6 @@ def train_and_evaluate(group_name: str, X_train, X_test, y_train, y_test):
     metrics["threshold"] = threshold
     return metrics
 
-
-# ---------------------------------------------------------------------------
-# Hlavná logika
-# ---------------------------------------------------------------------------
 
 def main():
     group_names = list(FEATURE_GROUPS.keys())
