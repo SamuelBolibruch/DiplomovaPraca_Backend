@@ -2,7 +2,7 @@ import argparse
 import os
 import pandas as pd
 import firebase_admin
-from firebase_admin import credentials, auth, storage
+from firebase_admin import credentials, storage
 
 import fix_data
 
@@ -36,19 +36,15 @@ firebase_admin.initialize_app(cred, {"storageBucket": STORAGE_BUCKET})
 
 bucket = storage.bucket()
 
-print("Načítavam používateľov...")
-users = []
+print("Načítavam používateľov zo Storage...")
 if args.uid:
-    user_record = auth.get_user(args.uid)
-    users.append({"uid": user_record.uid, "email": user_record.email})
-    print(f"Režim nový používateľ: {user_record.email} ({args.uid})\n")
+    uids = [args.uid]
+    print(f"Režim konkrétny používateľ: {args.uid}\n")
 else:
-    page = auth.list_users()
-    while page:
-        for user in page.users:
-            users.append({"uid": user.uid, "email": user.email})
-        page = page.get_next_page()
-    print(f"Nájdených {len(users)} používateľov.\n")
+    blobs = bucket.list_blobs(prefix="csv_uploads/", delimiter="/")
+    list(blobs)  # treba iterovať aby sa naplnili prefixes
+    uids = [p.replace("csv_uploads/", "").rstrip("/") for p in blobs.prefixes]
+    print(f"Nájdených {len(uids)} používateľov.\n")
 
 for config in TRAINING_CONFIGS:
     training_type = config["training_type"]
@@ -60,15 +56,12 @@ for config in TRAINING_CONFIGS:
     print(f"Sťahujem: {training_type} -> {output_dir}")
     print(f"{'='*50}\n")
 
-    for user in users:
-        uid = user["uid"]
-        email = user["email"]
-
+    for uid in uids:
         prefix = f"csv_uploads/{uid}/{training_type}/"
         blobs = list(bucket.list_blobs(prefix=prefix))
 
         if not blobs:
-            print(f"[SKIP] {email} — žiadne dáta v {prefix}")
+            print(f"[SKIP] {uid} — žiadne dáta v {prefix}")
             continue
 
         sessions = set()
@@ -78,11 +71,11 @@ for config in TRAINING_CONFIGS:
                 sessions.add(parts[0])
 
         if not sessions:
-            print(f"[SKIP] {email} — nenašli sa session foldre")
+            print(f"[SKIP] {uid} — nenašli sa session foldre")
             continue
 
         latest_session = sorted(sessions)[-1]
-        print(f"[{email}] session: {latest_session}")
+        print(f"[{uid}] session: {latest_session}")
 
         out_dir = os.path.join(output_dir, uid)
         os.makedirs(out_dir, exist_ok=True)
