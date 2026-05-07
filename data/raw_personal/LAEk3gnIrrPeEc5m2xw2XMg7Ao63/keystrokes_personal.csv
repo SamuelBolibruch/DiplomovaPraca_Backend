@@ -1,0 +1,1243 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897944466995000,1770897944454355000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897944694252000,1770897944688629000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897944933211000,1770897944926198000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897945264804000,1770897945258839000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897945886834000,1770897945878618000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897946235928000,1770897946229985000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897946577986000,1770897946570907000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897946775494000,1770897946770688000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897947027850000,1770897947018567000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897947951907000,1770897947946232000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897948149760000,1770897948146044000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897948595035000,1770897948589561000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897948825055000,1770897948819067000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897949219612000,1770897949213950000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897949559678000,1770897949553524000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897949898748000,1770897949892848000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897950729458000,1770897950724257000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897950972967000,1770897950967283000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897951240152000,1770897951233972000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897951470262000,1770897951464433000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897951821812000,1770897951816101000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897952366031000,1770897952358201000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897952591355000,1770897952587698000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897953348541000,1770897953341216000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897953567954000,1770897953562179000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897953837078000,1770897953830911000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897954169281000,1770897954163261000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897954750370000,1770897954741401000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897955242822000,1770897955235721000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897955496462000,1770897955491286000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897955909252000,1770897955903386000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897956139225000,1770897956133655000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897956455104000,1770897956449195000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897956722536000,1770897956716980000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897957002011000,1770897956995143000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897957261543000,1770897957255463000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897957616655000,1770897957609879000,36,Insert,v,37,Volam sa Samuel Bolibruch a toto je v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897958090014000,1770897958086227000,37,Delete,v,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897958394434000,1770897958388684000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897958628530000,1770897958621958000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897958900576000,1770897958895284000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897959570603000,1770897959562801000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897959830413000,1770897959823717000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897960054270000,1770897960046204000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897960322502000,1770897960318814000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897960562367000,1770897960556594000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897960825437000,1770897960818106000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897961698326000,1770897961691477000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897961933934000,1770897961927262000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897962224506000,1770897962217630000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897962518009000,1770897962512469000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897962819730000,1770897962813549000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897963127206000,1770897963121357000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897963487656000,1770897963480576000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897963738981000,1770897963734350000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897964155159000,1770897964148991000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897964421641000,1770897964416845000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897964658210000,1770897964652134000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897965030581000,1770897965023274000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897965276638000,1770897965271590000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897965725276000,1770897965719229000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897965916304000,1770897965912389000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897966156901000,1770897966150638000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897966772279000,1770897966768415000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897968395165000,1770897968385681000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897968696837000,1770897968690339000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897968993584000,1770897968987434000,64,Insert,k,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, k"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897969911287000,1770897969905556000,65,Delete,k,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897970285370000,1770897970279611000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897970691206000,1770897970687133000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897970961116000,1770897970953981000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897971351817000,1770897971347628000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897971706233000,1770897971699309000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897972235905000,1770897972227436000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897972712660000,1770897972706786000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897973570308000,1770897973559951000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897973922332000,1770897973913710000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897974382827000,1770897974375897000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897974770077000,1770897974763997000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,1,1770897975474133000,1770897975464679000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897977037146000,1770897977029442000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897977330617000,1770897977323019000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897977571254000,1770897977565932000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897978021922000,1770897978014962000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897978445963000,1770897978438162000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897978726028000,1770897978718679000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897979238843000,1770897979232988000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897979455330000,1770897979445839000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897979875579000,1770897979869456000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897980474750000,1770897980467090000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897980692686000,1770897980689046000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897981090296000,1770897981082767000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897981362351000,1770897981355309000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897981780794000,1770897981774906000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897982300464000,1770897982296627000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897982714572000,1770897982708363000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897983397794000,1770897983389970000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897983712779000,1770897983708825000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897983946154000,1770897983939317000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897984537325000,1770897984533829000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897984908887000,1770897984902453000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897985503252000,1770897985495371000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897985698036000,1770897985691820000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897986574130000,1770897986567683000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897986777677000,1770897986771408000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897987573765000,1770897987563224000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897988002577000,1770897987995486000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897988318693000,1770897988312653000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897988638932000,1770897988632904000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897988917504000,1770897988911684000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897989292278000,1770897989286627000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897989584298000,1770897989578669000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897989918366000,1770897989912445000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897990172919000,1770897990167262000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897990474702000,1770897990467523000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897990821254000,1770897990815094000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897991147296000,1770897991140298000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897991373928000,1770897991366834000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897992595966000,1770897992591403000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897993059874000,1770897993056249000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897993374013000,1770897993365785000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897993649897000,1770897993642510000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897993923946000,1770897993917251000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897994158029000,1770897994152448000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897994405862000,1770897994400170000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897995440416000,1770897995431423000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897996066421000,1770897996059958000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897996368806000,1770897996364641000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897996667817000,1770897996662091000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897996996312000,1770897996988904000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897997339071000,1770897997333295000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897997666337000,1770897997662135000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897997924369000,1770897997916852000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897998369509000,1770897998363785000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897998611243000,1770897998605423000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897998854080000,1770897998847375000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897999104159000,1770897999097739000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897999437261000,1770897999433644000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770897999805986000,1770897999800306000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898000012441000,1770898000007015000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898000241621000,1770898000235604000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898000533563000,1770898000527678000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898001092143000,1770898001082605000,62,Insert, ,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898001394881000,1770898001388864000,63,Insert,a,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu a"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898001742351000,1770898001732875000,64,Insert,n,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu an"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898002403375000,1770898002398232000,65,Delete,n,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu a"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898004851930000,1770898004848308000,64,Delete,a,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898005284892000,1770898005280177000,63,Delete, ,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898006059782000,1770898006051334000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898006345021000,1770898006338874000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898006653812000,1770898006648304000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898007089112000,1770898007084227000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898007422432000,1770898007416706000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898007698496000,1770898007690488000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898008315399000,1770898008310610000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898008786216000,1770898008780382000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898009310837000,1770898009304424000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898009532612000,1770898009525514000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898009877285000,1770898009869209000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898010281411000,1770898010274981000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898010682536000,1770898010676158000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,2,1770898011515036000,1770898011505006000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898012779350000,1770898012772760000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898013369344000,1770898013365703000,1,Insert,i,2,Vi
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898013616770000,1770898013608491000,2,Insert,l,3,Vil
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898013930055000,1770898013923487000,3,Insert,a,4,Vila
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898014570030000,1770898014564847000,4,Delete,a,3,Vil
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898014740535000,1770898014735682000,3,Delete,l,2,Vi
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898015191011000,1770898015187087000,2,Delete,i,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898015757606000,1770898015753973000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898015978857000,1770898015972527000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898016359589000,1770898016356180000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898016815922000,1770898016810498000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898017101048000,1770898017094733000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898017500838000,1770898017497123000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898017713840000,1770898017708327000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898017975641000,1770898017971913000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898018350154000,1770898018343330000,9,Insert,s,10,Volam sa s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898018567054000,1770898018561107000,10,Insert,a,11,Volam sa sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898019170030000,1770898019162758000,11,Delete,a,10,Volam sa s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898019335876000,1770898019333552000,10,Delete,s,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898020191478000,1770898020184933000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898020398878000,1770898020393230000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898020799206000,1770898020793357000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898021051260000,1770898021044646000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898021477860000,1770898021472270000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898021812233000,1770898021806744000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898022254593000,1770898022250575000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898023070259000,1770898023062557000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898023339145000,1770898023332939000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898023612828000,1770898023607359000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898023863241000,1770898023856299000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898024249130000,1770898024242374000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898024765644000,1770898024758379000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898024994924000,1770898024989291000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898025480536000,1770898025474579000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898025726678000,1770898025721099000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898026038852000,1770898026032655000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898026349029000,1770898026342569000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898026627755000,1770898026621313000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898027106410000,1770898027098579000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898027371092000,1770898027365241000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898027699415000,1770898027693576000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898027964392000,1770898027958376000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898028428753000,1770898028421712000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898028687379000,1770898028681165000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898028978625000,1770898028972691000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898029274836000,1770898029270483000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898029665998000,1770898029659313000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898029898562000,1770898029893003000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898030234542000,1770898030227819000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898030582732000,1770898030579087000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898030921881000,1770898030912941000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898031202403000,1770898031196752000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898031500708000,1770898031494651000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898031760988000,1770898031754976000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898032053393000,1770898032045238000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898035070669000,1770898035060024000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898035313302000,1770898035307253000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898035619372000,1770898035613513000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898035940814000,1770898035936918000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898036263761000,1770898036257871000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898036573478000,1770898036566046000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898036989855000,1770898036983662000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898037259905000,1770898037253209000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898037633147000,1770898037626793000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898037882051000,1770898037876007000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898038185015000,1770898038179170000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898038461041000,1770898038453609000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898038774241000,1770898038768177000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898039235490000,1770898039228508000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898039421207000,1770898039417463000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898039683902000,1770898039678032000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898039999550000,1770898039992398000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898040334028000,1770898040325383000,62,Insert, ,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898040863539000,1770898040859507000,63,Delete, ,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898041598899000,1770898041589919000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898041867296000,1770898041860682000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898042197429000,1770898042192302000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898042581947000,1770898042575596000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898042878656000,1770898042871678000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898043145677000,1770898043138903000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898043508622000,1770898043502049000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898044093228000,1770898044084145000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898044557981000,1770898044551497000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898044782777000,1770898044777061000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898045116513000,1770898045109556000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898045571564000,1770898045565246000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898046109831000,1770898046104126000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,3,1770898046990658000,1770898046981426000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898048096399000,1770898048088840000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898048407288000,1770898048401239000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898048674924000,1770898048669265000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898049042623000,1770898049037717000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898049627329000,1770898049619201000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898049887024000,1770898049880943000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898050220403000,1770898050214719000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898050445361000,1770898050439839000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898050691481000,1770898050685821000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898051240411000,1770898051235848000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898051462384000,1770898051455884000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898051854760000,1770898051850967000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898052674606000,1770898052666690000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898053097130000,1770898053093448000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898053426930000,1770898053421460000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898053735068000,1770898053729352000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898054548120000,1770898054538956000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898054827476000,1770898054821861000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898055076657000,1770898055070121000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898055336643000,1770898055330962000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898055741191000,1770898055734771000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898056124627000,1770898056118452000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898056365951000,1770898056359926000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898056754213000,1770898056748402000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898056979734000,1770898056973362000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898057216576000,1770898057209081000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898057521288000,1770898057513133000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898057779829000,1770898057773911000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898058192482000,1770898058188834000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898058451184000,1770898058445690000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898058767852000,1770898058761186000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898059004113000,1770898058997328000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898059343539000,1770898059337256000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898059639713000,1770898059633934000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898059944939000,1770898059938176000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898060249849000,1770898060241443000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898060665577000,1770898060658782000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898060896787000,1770898060890798000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898061246628000,1770898061240029000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898061588802000,1770898061582350000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898061884447000,1770898061878768000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898062153545000,1770898062149802000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898062450289000,1770898062441873000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898062677816000,1770898062672383000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898062952141000,1770898062945337000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898064280546000,1770898064272026000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898064586088000,1770898064580220000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898064928442000,1770898064920288000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898065226175000,1770898065217214000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898065517111000,1770898065509791000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898065871806000,1770898065866653000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898066263059000,1770898066257203000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898066569819000,1770898066565643000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898066921809000,1770898066916241000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898067189240000,1770898067183100000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898067444545000,1770898067437512000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898067706273000,1770898067698920000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898068001863000,1770898067995730000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898068551226000,1770898068546676000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898068764007000,1770898068758106000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898069012555000,1770898069006124000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898069301825000,1770898069297407000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898070007078000,1770898069998748000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898070294168000,1770898070287706000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898070997846000,1770898070993466000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898071576526000,1770898071572431000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898071886099000,1770898071880605000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898072183162000,1770898072178339000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898072518106000,1770898072512356000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898073289453000,1770898073285806000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898073829812000,1770898073819710000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898074044644000,1770898074038005000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898074378309000,1770898074370779000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898074735714000,1770898074723868000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898075062470000,1770898075056532000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,4,1770898075953735000,1770898075944957000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898077094970000,1770898077085060000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898077447647000,1770898077442131000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898077685205000,1770898077679082000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898078048585000,1770898078043040000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898078609726000,1770898078603286000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898078916145000,1770898078907847000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898079253831000,1770898079247848000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898079469357000,1770898079463217000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898079737229000,1770898079730444000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898080336033000,1770898080326439000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898080558536000,1770898080552754000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898080922756000,1770898080917189000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898081207579000,1770898081201897000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898081648953000,1770898081645426000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898082205079000,1770898082198347000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898082524826000,1770898082518448000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898083222388000,1770898083216544000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898083658677000,1770898083650440000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898083941102000,1770898083935113000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898084231219000,1770898084226330000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898084692507000,1770898084687159000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898085193739000,1770898085189833000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898085425453000,1770898085419377000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898086426349000,1770898086419142000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898086623884000,1770898086620383000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898086870768000,1770898086864885000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898087268487000,1770898087262876000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898087576687000,1770898087567798000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898087898210000,1770898087892843000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898088398773000,1770898088391222000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898088938066000,1770898088933187000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898089274044000,1770898089268609000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898089795653000,1770898089791338000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898090069897000,1770898090064622000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898090380218000,1770898090373165000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898090671948000,1770898090664294000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898092192491000,1770898092188489000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898092427596000,1770898092420355000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898092829456000,1770898092823209000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898093222107000,1770898093215825000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898093560538000,1770898093550719000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898093836171000,1770898093829365000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898094162315000,1770898094156179000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898094401847000,1770898094397603000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898094659781000,1770898094653548000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898095612001000,1770898095601771000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898095890019000,1770898095884378000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898096161690000,1770898096155965000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898096453385000,1770898096447743000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898096786554000,1770898096780518000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898098434662000,1770898098427279000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898098828871000,1770898098821489000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898099813865000,1770898099804439000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898100150098000,1770898100144273000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898100425349000,1770898100418091000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898100659189000,1770898100653227000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898100935266000,1770898100927613000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898101243281000,1770898101234970000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898101768951000,1770898101763022000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898101998391000,1770898101991955000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898102229623000,1770898102223172000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898102539466000,1770898102532636000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898103086074000,1770898103075164000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898103422164000,1770898103416717000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898103810323000,1770898103804747000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898104583627000,1770898104573038000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898104866157000,1770898104860346000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898105160778000,1770898105156446000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898105496306000,1770898105490282000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898106076865000,1770898106068994000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898106547237000,1770898106539493000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898106826658000,1770898106818261000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898107204001000,1770898107194986000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898107608200000,1770898107601394000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898107962909000,1770898107957132000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,5,1770898108519186000,1770898108507573000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898109757511000,1770898109749374000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898109806864000,1770898109804381000,1,Insert,v,2,Vv
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898110687988000,1770898110683854000,2,Delete,v,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898111000248000,1770898110994741000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898111248606000,1770898111241639000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898111959964000,1770898111951173000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898112328789000,1770898112322696000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898112602293000,1770898112595745000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898112963553000,1770898112958619000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898113178141000,1770898113171640000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898113421751000,1770898113414618000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898114255348000,1770898114249497000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898114485585000,1770898114480100000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898114886653000,1770898114881726000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898115141195000,1770898115135743000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898115621422000,1770898115616024000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898115999810000,1770898115996420000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898116339634000,1770898116335814000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898117122633000,1770898117117237000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898117414323000,1770898117407609000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898117670235000,1770898117662453000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898118261938000,1770898118256747000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898118728363000,1770898118722736000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898119166176000,1770898119156854000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898119438486000,1770898119432561000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898119964770000,1770898119960902000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898120217141000,1770898120211283000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898120489731000,1770898120484119000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898120809890000,1770898120804416000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898121079051000,1770898121071716000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898121484475000,1770898121476768000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898121748989000,1770898121742998000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898122125962000,1770898122120268000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898122338313000,1770898122332199000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898122954620000,1770898122947375000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898123234982000,1770898123228098000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898123509068000,1770898123503349000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898123801301000,1770898123795501000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898124140162000,1770898124134162000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898124369496000,1770898124363845000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898124654923000,1770898124649039000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898124988129000,1770898124982366000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898125405864000,1770898125401900000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898125684367000,1770898125675724000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898125959610000,1770898125953014000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898126201248000,1770898126194284000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898126461556000,1770898126455180000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898127069043000,1770898127059742000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898127329681000,1770898127323385000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898127631372000,1770898127625962000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898127960466000,1770898127951840000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898128268103000,1770898128263985000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898128602934000,1770898128596784000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898128960233000,1770898128952578000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898129257356000,1770898129250084000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898129719459000,1770898129711449000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898130002340000,1770898129996423000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898130246312000,1770898130238474000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898130524957000,1770898130518005000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898130824835000,1770898130819831000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898131351883000,1770898131347753000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898131566088000,1770898131559392000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898131790622000,1770898131784748000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898132070087000,1770898132064489000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898132774979000,1770898132767539000,62,Insert, ,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898133595308000,1770898133590613000,63,Delete, ,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898134446974000,1770898134437753000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898134712379000,1770898134706084000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898135020351000,1770898135014313000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898135469942000,1770898135463933000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898135742820000,1770898135736631000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898136293476000,1770898136285658000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898136627554000,1770898136621262000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898137039180000,1770898137033266000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898137447133000,1770898137439547000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898137675968000,1770898137669739000,71,Insert,u,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898138004751000,1770898137997403000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penua"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898138337603000,1770898138331523000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penuaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898138590623000,1770898138584478000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penuaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898139251015000,1770898139245721000,75,Delete,e,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penuaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898139468506000,1770898139464791000,74,Delete,z,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penua"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898139703571000,1770898139700322000,73,Delete,a,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898139943125000,1770898139938567000,72,Delete,u,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898140481525000,1770898140476718000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898140938275000,1770898140932272000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898141312895000,1770898141306993000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898141593481000,1770898141586573000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,6,1770898142066611000,1770898142058372000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898142429567000,1770898142423370000,0,Insert, ,1, 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898143118239000,1770898143114336000,1,Delete, ,0,
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898144043580000,1770898144034806000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898144395911000,1770898144391459000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898144635860000,1770898144629215000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898144951722000,1770898144945658000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898145517365000,1770898145509136000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898145769490000,1770898145762079000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898147210021000,1770898147205408000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898147428740000,1770898147423122000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898147661067000,1770898147654402000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898148209457000,1770898148205268000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898148428849000,1770898148423136000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898148775140000,1770898148768789000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898149036739000,1770898149030643000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898149366392000,1770898149362654000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898149683254000,1770898149677619000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898150012586000,1770898150006112000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898150683987000,1770898150678182000,16,Insert,V,17,Volam sa Samuel V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898151501619000,1770898151497031000,17,Delete,V,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898152310536000,1770898152303549000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898152660493000,1770898152653460000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898152902271000,1770898152896933000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898153165098000,1770898153161657000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898153612130000,1770898153605895000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898154141083000,1770898154135207000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898154367253000,1770898154361622000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898154912435000,1770898154900423000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898155138855000,1770898155132118000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898155364707000,1770898155357958000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898155726615000,1770898155721286000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898156037728000,1770898156030516000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898156495098000,1770898156488921000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898156745723000,1770898156738918000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898157128150000,1770898157122105000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898157330593000,1770898157326919000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898157736942000,1770898157732228000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898159013605000,1770898159004320000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898159280121000,1770898159273608000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898159588122000,1770898159581732000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898159983344000,1770898159977214000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898160230105000,1770898160224613000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898160559373000,1770898160552168000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898160873441000,1770898160867859000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898162178189000,1770898162168747000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898162483824000,1770898162472865000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898162746022000,1770898162740275000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898162982918000,1770898162975545000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898163212350000,1770898163206771000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898164672793000,1770898164666033000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898164936420000,1770898164928974000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898165473712000,1770898165466580000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898165789200000,1770898165783082000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898166122179000,1770898166116141000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898166438766000,1770898166434409000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898166787674000,1770898166780960000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898167052261000,1770898167043857000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898167538997000,1770898167533278000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898167805788000,1770898167797621000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898168027549000,1770898168023164000,55,Insert,f,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam raf"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898168260654000,1770898168254206000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam raf "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898169298650000,1770898169295474000,57,Delete, ,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam raf"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898169483520000,1770898169479153000,56,Delete,f,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898170169126000,1770898170162737000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898170556969000,1770898170549729000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898171065796000,1770898171060222000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898171453550000,1770898171449066000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898171666439000,1770898171658919000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898171883148000,1770898171877229000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898172125987000,1770898172119624000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898172485810000,1770898172478744000,62,Insert, ,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898172802408000,1770898172793828000,63,Insert,i,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898173289192000,1770898173285452000,64,Delete,i,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898173483777000,1770898173480538000,63,Delete, ,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898174199702000,1770898174191763000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898174745568000,1770898174739920000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898175306712000,1770898175301877000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898175763189000,1770898175756174000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898176029676000,1770898176023837000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898176289369000,1770898176282655000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898176667170000,1770898176661122000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898177074132000,1770898177068316000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898177618322000,1770898177613909000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898177837406000,1770898177829772000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898178164526000,1770898178158566000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898178479875000,1770898178473220000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898178751963000,1770898178746184000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,7,1770898179211865000,1770898179201790000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898180538239000,1770898180531438000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898180980981000,1770898180975070000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898181229549000,1770898181223395000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898181586529000,1770898181580976000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898182058190000,1770898182052470000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898182483560000,1770898182473876000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898182864176000,1770898182860474000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898183078391000,1770898183072607000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898183329412000,1770898183321723000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898183920030000,1770898183916617000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898184145110000,1770898184139519000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898184545015000,1770898184539271000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898184814803000,1770898184805146000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898185199300000,1770898185194133000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898185808293000,1770898185804770000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898186177810000,1770898186170500000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898186780133000,1770898186776487000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898187123265000,1770898187116635000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898187387683000,1770898187382140000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898187619803000,1770898187612230000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898188183758000,1770898188176627000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898188512916000,1770898188507667000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898188769213000,1770898188763316000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898189242427000,1770898189236408000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898189459822000,1770898189454078000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898189691265000,1770898189685480000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898190122017000,1770898190115402000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898190399295000,1770898190393000000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898190698321000,1770898190691238000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898190989092000,1770898190982876000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898191520926000,1770898191517415000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898191909321000,1770898191903783000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898192266854000,1770898192257612000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898192539659000,1770898192533728000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898192890103000,1770898192884815000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898193210614000,1770898193206998000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898193515675000,1770898193509726000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898194096818000,1770898194092381000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898194420431000,1770898194413276000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898194787804000,1770898194785512000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898195136159000,1770898195131935000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898195368117000,1770898195363814000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898195627876000,1770898195621023000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898195845448000,1770898195839774000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898196068878000,1770898196061568000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898196718528000,1770898196694621000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898196929615000,1770898196923281000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898197480119000,1770898197476195000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898197767238000,1770898197760221000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898198136593000,1770898198129129000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898198408304000,1770898198401644000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898198765477000,1770898198758371000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898199141948000,1770898199135301000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898199525385000,1770898199518319000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898199801410000,1770898199795566000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898200063653000,1770898200056889000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898200329549000,1770898200322660000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898200820185000,1770898200815971000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898201341630000,1770898201334819000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898201550291000,1770898201545075000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898201771703000,1770898201765826000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898202078313000,1770898202071606000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898203037735000,1770898203028182000,62,Insert, ,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898203408497000,1770898203404793000,63,Delete, ,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898203939617000,1770898203933058000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898204272182000,1770898204265652000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898204576728000,1770898204567904000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898205204996000,1770898205200469000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898205496721000,1770898205491012000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898205781462000,1770898205774766000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898206101113000,1770898206095170000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898206670414000,1770898206662663000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898207103712000,1770898207097393000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898207319096000,1770898207313246000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898207635821000,1770898207629770000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898207971320000,1770898207964616000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898208247274000,1770898208240762000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,8,1770898209430165000,1770898209418828000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898210645502000,1770898210640321000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898211202823000,1770898211198978000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898211436162000,1770898211429494000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898211793911000,1770898211787338000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898212972537000,1770898212966499000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898213336351000,1770898213328017000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898213700217000,1770898213691382000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898213908465000,1770898213904832000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898214175904000,1770898214169946000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898214765474000,1770898214761772000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898214963766000,1770898214958776000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898215375946000,1770898215370234000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898215625972000,1770898215619177000,12,Insert,z,13,Volam sa Samz
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898216086321000,1770898216079743000,13,Insert,e,14,Volam sa Samze
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898216678498000,1770898216674230000,14,Delete,e,13,Volam sa Samz
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898216855313000,1770898216853026000,13,Delete,z,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898217617988000,1770898217611686000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898217929217000,1770898217923562000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898218420863000,1770898218414979000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898218836193000,1770898218833089000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898219695223000,1770898219687738000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898220052284000,1770898220045861000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898220301358000,1770898220295300000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898220557406000,1770898220549745000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898220998795000,1770898220993310000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898221493726000,1770898221487675000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898221730954000,1770898221724032000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898222107334000,1770898222100463000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898222325969000,1770898222318791000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898222568388000,1770898222561489000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898223062700000,1770898223059146000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898223331471000,1770898223325145000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898223663761000,1770898223658079000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898223962093000,1770898223954964000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898224551776000,1770898224547699000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898224817374000,1770898224810679000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898225192258000,1770898225186490000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898225494297000,1770898225488550000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898225826697000,1770898225821127000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898226437740000,1770898226434827000,35,Insert,m,36,Volam sa Samuel Bolibruch a toto jem
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898230119068000,1770898230114102000,36,Delete,m,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898230598069000,1770898230591888000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898230985345000,1770898230979168000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898231225226000,1770898231215970000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898231952488000,1770898231948352000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898232258063000,1770898232251331000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898232604652000,1770898232598610000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898232863596000,1770898232858701000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898233113018000,1770898233107510000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898233381069000,1770898233374859000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898233629063000,1770898233622382000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898234017409000,1770898234009772000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898234362068000,1770898234355374000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898234670239000,1770898234666020000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898235041548000,1770898235035915000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898235603617000,1770898235597050000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898235944378000,1770898235938242000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898236295308000,1770898236289197000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898236552502000,1770898236545374000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898236895887000,1770898236887517000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898237174228000,1770898237168295000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898237416437000,1770898237409839000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898237694134000,1770898237684916000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898237959444000,1770898237952968000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898238350677000,1770898238345475000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898238557199000,1770898238549121000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898238810511000,1770898238804851000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898239101919000,1770898239094558000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898239452317000,1770898239444939000,62,Insert, ,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898240000927000,1770898239998590000,63,Delete, ,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898240739697000,1770898240731990000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898241078342000,1770898241071608000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898241441022000,1770898241434366000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898241921440000,1770898241914296000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898242242378000,1770898242236428000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898242545951000,1770898242541091000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898242890922000,1770898242884811000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898243488277000,1770898243482273000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898243911266000,1770898243905546000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898244124745000,1770898244116559000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898244481486000,1770898244474975000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898244812237000,1770898244806543000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898245219738000,1770898245213316000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898246648543000,1770898246635145000,75,Insert, ,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898247530924000,1770898247528562000,76,Delete, ,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,9,1770898248260294000,1770898248251167000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898249545487000,1770898249541758000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898249934549000,1770898249927339000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898250152083000,1770898250146911000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898250481143000,1770898250474838000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898251010595000,1770898251006840000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898251323868000,1770898251316148000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898251745436000,1770898251739962000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898251983983000,1770898251978032000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898252238855000,1770898252232151000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898252809512000,1770898252805833000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898253037180000,1770898253031392000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898253398663000,1770898253395194000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898253700119000,1770898253694317000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898254360750000,1770898254353811000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898254729650000,1770898254722723000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898255263131000,1770898255257409000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898255937922000,1770898255929884000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898256257770000,1770898256251180000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898256523051000,1770898256518919000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898256748472000,1770898256741852000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898257145281000,1770898257137557000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898257477556000,1770898257470721000,21,Insert,t,22,Volam sa Samuel Bolibt
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898258207738000,1770898258201850000,22,Delete,t,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898258674947000,1770898258669179000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898258960455000,1770898258954214000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898259378732000,1770898259373164000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898259597607000,1770898259590205000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898259839979000,1770898259832252000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898260603051000,1770898260595142000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898260878699000,1770898260874091000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898261220911000,1770898261215526000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898261511335000,1770898261504741000,29,Insert,i,30,Volam sa Samuel Bolibruch a ti
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898261906159000,1770898261899182000,30,Insert,t,31,Volam sa Samuel Bolibruch a tit
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898262135547000,1770898262129437000,31,Insert,o,32,Volam sa Samuel Bolibruch a tito
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898262856945000,1770898262850405000,32,Delete,o,31,Volam sa Samuel Bolibruch a tit
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898263066658000,1770898263065074000,31,Delete,t,30,Volam sa Samuel Bolibruch a ti
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898263287878000,1770898263283894000,30,Delete,i,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898263774199000,1770898263767773000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898264305220000,1770898264301254000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898264751843000,1770898264744733000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898265144297000,1770898265138245000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898265459832000,1770898265454071000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898265855410000,1770898265848737000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898266185028000,1770898266174749000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898266537361000,1770898266531423000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898266810503000,1770898266804900000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898267194491000,1770898267186466000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898267629118000,1770898267623159000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898267962705000,1770898267958657000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898268229230000,1770898268222903000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898268545336000,1770898268539373000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898268776204000,1770898268769903000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898269020670000,1770898269011830000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898269980283000,1770898269970174000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898270271581000,1770898270265706000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898270562183000,1770898270557391000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898270926310000,1770898270920621000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898271261206000,1770898271253495000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898271654820000,1770898271648595000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898272123291000,1770898272114618000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898272429736000,1770898272423997000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898272829837000,1770898272823289000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898273097180000,1770898273091042000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898273355823000,1770898273349910000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898273638187000,1770898273630754000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898273940191000,1770898273933985000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898274358855000,1770898274351854000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898274569007000,1770898274564655000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898274812342000,1770898274806727000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898275088392000,1770898275084644000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898275618523000,1770898275610781000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898275915784000,1770898275909281000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898276229968000,1770898276223441000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898276948824000,1770898276940787000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898277230385000,1770898277224288000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898277535068000,1770898277526042000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898277921656000,1770898277914833000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898278520915000,1770898278512270000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898278977631000,1770898278970264000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898279190017000,1770898279182683000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898279592253000,1770898279583095000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898280025961000,1770898280018461000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898280375651000,1770898280369778000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,10,1770898281412287000,1770898281406998000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898282707650000,1770898282698884000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898283046165000,1770898283042364000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898283271013000,1770898283265721000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898284682413000,1770898284674346000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898285305798000,1770898285302125000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898285562843000,1770898285557125000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898285943892000,1770898285938171000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898286162090000,1770898286156745000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898286425793000,1770898286417746000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898287206217000,1770898287199009000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898287417875000,1770898287412332000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898287825748000,1770898287818317000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898288097716000,1770898288091203000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898288471340000,1770898288466119000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898288813392000,1770898288806684000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898289151875000,1770898289146183000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898289950575000,1770898289942555000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898290374711000,1770898290368852000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898290652864000,1770898290647451000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898291159743000,1770898291154590000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898291760764000,1770898291756940000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898292157311000,1770898292151944000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898292397342000,1770898292389064000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898292867861000,1770898292862232000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898293081060000,1770898293077558000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898293342206000,1770898293334543000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898293707521000,1770898293702027000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898293990462000,1770898293982784000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898294325756000,1770898294320218000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898294701384000,1770898294695493000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898295205669000,1770898295199934000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898295631658000,1770898295624334000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898295988024000,1770898295981837000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898296272526000,1770898296266923000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898296720762000,1770898296714834000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898297065604000,1770898297058779000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898297393810000,1770898297387600000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898297689203000,1770898297683337000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898298360950000,1770898298354288000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898298724672000,1770898298720213000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898299098197000,1770898299092107000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898299363072000,1770898299357573000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898299684787000,1770898299678867000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898299909799000,1770898299903570000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898300156593000,1770898300150053000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898300749429000,1770898300745356000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898301043203000,1770898301033055000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898301320705000,1770898301315006000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898301655774000,1770898301649777000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898302001298000,1770898301994457000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898302404798000,1770898302400334000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898302965263000,1770898302957036000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898303239895000,1770898303230812000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898303605099000,1770898303599577000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898303896213000,1770898303890408000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898304132910000,1770898304126700000,55,Insert,f,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam raf"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898304363739000,1770898304357572000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam raf "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898304959898000,1770898304955712000,57,Delete, ,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam raf"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898305391473000,1770898305387862000,56,Delete,f,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898306755806000,1770898306751412000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898307058879000,1770898307048219000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898307408385000,1770898307399854000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898307944672000,1770898307940120000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898308150645000,1770898308144400000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898308382518000,1770898308378297000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898308745366000,1770898308739456000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898309859366000,1770898309851850000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898310159191000,1770898310152021000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898310507612000,1770898310503336000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898311037451000,1770898311033117000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898311339985000,1770898311333656000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898311643851000,1770898311637460000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898312174593000,1770898312166886000,68,Insert,o,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba o"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898312796767000,1770898312792681000,69,Delete,o,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898313146790000,1770898313141005000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898313831689000,1770898313826914000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898314326187000,1770898314317231000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898314560669000,1770898314552952000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898314948866000,1770898314942060000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898315381594000,1770898315375401000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898315766670000,1770898315759722000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898316398661000,1770898316387015000,75,Insert,",",76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898316969234000,1770898316963150000,76,Delete,",",75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,11,1770898317361812000,1770898317352360000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898319011697000,1770898319002216000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898319477916000,1770898319472174000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898319726850000,1770898319719744000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898320264611000,1770898320260893000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898320771055000,1770898320763922000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898321057634000,1770898321047929000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898321472080000,1770898321466474000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898321682338000,1770898321678659000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898321987120000,1770898321982195000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898322743056000,1770898322736966000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898322971598000,1770898322967876000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898323381478000,1770898323375769000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898323652449000,1770898323648894000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898324248858000,1770898324242368000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898324719946000,1770898324713417000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898325075299000,1770898325071515000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898325972357000,1770898325964250000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898326449560000,1770898326441392000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898326750648000,1770898326743978000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898327010744000,1770898327005355000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898327710294000,1770898327703524000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898328081636000,1770898328078129000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898328339406000,1770898328333434000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898328759054000,1770898328753905000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898328981410000,1770898328977054000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898329260396000,1770898329256660000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898330904758000,1770898330897409000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898331278555000,1770898331270790000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898331604518000,1770898331600181000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898331902916000,1770898331898204000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898332425839000,1770898332421363000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898332687280000,1770898332680501000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898333067811000,1770898333062570000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898333452624000,1770898333444681000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898333831419000,1770898333825890000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898334160126000,1770898334155739000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898334579541000,1770898334573416000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898334811938000,1770898334803807000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898335221202000,1770898335215360000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898335561774000,1770898335556334000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898336753630000,1770898336745286000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898337029739000,1770898337021397000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898337331015000,1770898337325433000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898337553542000,1770898337547741000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898337815540000,1770898337809640000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898339015009000,1770898339007114000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898339314971000,1770898339308870000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898339641249000,1770898339635672000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898340001070000,1770898339995009000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898340326304000,1770898340319408000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898341029081000,1770898341022380000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898341471054000,1770898341464183000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898341915138000,1770898341908923000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898342307752000,1770898342303551000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898342549655000,1770898342545408000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898342794394000,1770898342787143000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898343077180000,1770898343070271000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898343903252000,1770898343893759000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898344446721000,1770898344442241000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898344666237000,1770898344660577000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898344890872000,1770898344885424000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898345180114000,1770898345173917000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898345915652000,1770898345906274000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898346254286000,1770898346248316000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898346586434000,1770898346581857000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898347024477000,1770898347018245000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898347326669000,1770898347320990000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898347642961000,1770898347636665000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898348006288000,1770898347998555000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898348625579000,1770898348619195000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898349126161000,1770898349120446000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898349378149000,1770898349362780000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898349776572000,1770898349767009000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898350221060000,1770898350214042000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898350557937000,1770898350551146000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,12,1770898351388887000,1770898351378281000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898352660750000,1770898352650682000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898353005093000,1770898353001643000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898353270829000,1770898353265736000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898353668552000,1770898353662494000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898354108308000,1770898354101167000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898354395925000,1770898354391888000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898354759067000,1770898354754900000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898354992234000,1770898354986031000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898355274949000,1770898355271252000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898355637109000,1770898355628623000,9,Insert,s,10,Volam sa s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898356311438000,1770898356305693000,10,Delete,s,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898357110845000,1770898357105552000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898357326631000,1770898357319259000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898357858118000,1770898357852327000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898358138103000,1770898358131711000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898358704494000,1770898358701045000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898359036549000,1770898359033063000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898359368494000,1770898359360781000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898360022539000,1770898360017039000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898360349867000,1770898360342053000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898360602516000,1770898360596982000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898360857641000,1770898360850815000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898361336797000,1770898361329767000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898361699058000,1770898361693527000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898361935767000,1770898361929839000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898362378248000,1770898362372630000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898362590330000,1770898362583885000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898362894593000,1770898362888401000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898363522218000,1770898363514669000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898363778633000,1770898363772515000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898364080643000,1770898364077080000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898364420486000,1770898364416169000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898364881853000,1770898364877220000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898365316541000,1770898365309101000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898365719681000,1770898365713617000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898366002193000,1770898365995305000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898366299530000,1770898366291181000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898366591298000,1770898366587294000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898367022203000,1770898367016788000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898367345793000,1770898367337987000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898367738123000,1770898367732571000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898368096250000,1770898368090346000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898368396411000,1770898368391747000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898368950174000,1770898368943271000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898369225827000,1770898369218120000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898369476946000,1770898369472204000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898369741955000,1770898369732404000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898370109239000,1770898370103158000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898370434864000,1770898370428689000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898370709607000,1770898370702578000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898371697378000,1770898371688809000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898372012387000,1770898372006142000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898372338283000,1770898372332831000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898372678158000,1770898372672400000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898372946068000,1770898372938636000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898373262117000,1770898373254810000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898373518779000,1770898373515010000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898373767652000,1770898373761948000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898374036609000,1770898374029374000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898374328997000,1770898374323458000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898374756811000,1770898374751818000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898374962548000,1770898374957003000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898375186483000,1770898375180811000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898375496695000,1770898375490068000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898375847678000,1770898375840899000,62,Insert, ,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898376445949000,1770898376436265000,63,Insert,i,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898376867730000,1770898376861178000,64,Insert,b,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898377145699000,1770898377139930000,65,Insert,a,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898377466812000,1770898377461592000,66,Insert, ,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898378670428000,1770898378661646000,67,Delete, ,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898378906806000,1770898378903010000,66,Delete,a,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898379163956000,1770898379159539000,65,Delete,b,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898379368397000,1770898379364951000,64,Delete,i,63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898379647614000,1770898379644157000,63,Delete, ,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898380249317000,1770898380241630000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898380565478000,1770898380559099000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898380849247000,1770898380842391000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898381242113000,1770898381236190000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898381522706000,1770898381516212000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898381793316000,1770898381787239000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898382237331000,1770898382231551000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898382790035000,1770898382782806000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898383223476000,1770898383214036000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898383430532000,1770898383425421000,71,Insert,u,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898383746016000,1770898383740365000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penua"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898384044664000,1770898384038738000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penuaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898384287543000,1770898384281396000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penuaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898385114450000,1770898385109117000,75,Delete,e,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penuaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898385351005000,1770898385347464000,74,Delete,z,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penua"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898385559005000,1770898385553883000,73,Delete,a,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898385849201000,1770898385845676000,72,Delete,u,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898386404676000,1770898386396989000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898386871448000,1770898386862852000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898387254846000,1770898387250263000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898387909800000,1770898387903355000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,13,1770898388913252000,1770898388903589000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898390131075000,1770898390124112000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898390442062000,1770898390435080000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898390689633000,1770898390683562000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898391054256000,1770898391048696000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898391488762000,1770898391483151000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898391766510000,1770898391758879000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898392109305000,1770898392103606000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898392332483000,1770898392326396000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898392606643000,1770898392600383000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898393181421000,1770898393173300000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898393378292000,1770898393374954000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898393785777000,1770898393779918000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898394059267000,1770898394053470000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898394538668000,1770898394533166000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898394914131000,1770898394907909000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898395279716000,1770898395272013000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898396045740000,1770898396037166000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898396464911000,1770898396458827000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898396754973000,1770898396749670000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898397005108000,1770898396997761000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898397404973000,1770898397398574000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898397786296000,1770898397780185000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898398003708000,1770898397997551000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898398494322000,1770898398489026000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898398714064000,1770898398708815000,24,Insert,h,25,Volam sa Samuel Bolibruch
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898398967434000,1770898398961348000,25,Insert, ,26,Volam sa Samuel Bolibruch 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898399443613000,1770898399436123000,26,Insert,a,27,Volam sa Samuel Bolibruch a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898399737447000,1770898399729716000,27,Insert, ,28,Volam sa Samuel Bolibruch a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898400026809000,1770898400020789000,28,Insert,t,29,Volam sa Samuel Bolibruch a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898400396756000,1770898400391396000,29,Insert,o,30,Volam sa Samuel Bolibruch a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898400779643000,1770898400773865000,30,Insert,t,31,Volam sa Samuel Bolibruch a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898401005364000,1770898400999521000,31,Insert,o,32,Volam sa Samuel Bolibruch a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898401354963000,1770898401349364000,32,Insert, ,33,Volam sa Samuel Bolibruch a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898401677419000,1770898401671510000,33,Insert,j,34,Volam sa Samuel Bolibruch a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898401992718000,1770898401987227000,34,Insert,e,35,Volam sa Samuel Bolibruch a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898402291055000,1770898402283924000,35,Insert, ,36,Volam sa Samuel Bolibruch a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898402769899000,1770898402762829000,36,Insert,m,37,Volam sa Samuel Bolibruch a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898403059429000,1770898403053751000,37,Insert,o,38,Volam sa Samuel Bolibruch a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898403350033000,1770898403344389000,38,Insert,j,39,Volam sa Samuel Bolibruch a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898403847252000,1770898403841415000,39,Insert,a,40,Volam sa Samuel Bolibruch a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898404158371000,1770898404152364000,40,Insert, ,41,Volam sa Samuel Bolibruch a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898404411069000,1770898404404949000,41,Insert,v,42,Volam sa Samuel Bolibruch a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898404698264000,1770898404692576000,42,Insert,e,43,Volam sa Samuel Bolibruch a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898404978668000,1770898404971611000,43,Insert,t,44,Volam sa Samuel Bolibruch a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898405232243000,1770898405224893000,44,Insert,a,45,Volam sa Samuel Bolibruch a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898406385270000,1770898406368872000,45,Insert,",",46,"Volam sa Samuel Bolibruch a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898406642154000,1770898406636908000,46,Insert, ,47,"Volam sa Samuel Bolibruch a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898406968861000,1770898406963239000,47,Insert,n,48,"Volam sa Samuel Bolibruch a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898407280943000,1770898407277737000,48,Insert,e,49,"Volam sa Samuel Bolibruch a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898407850067000,1770898407845656000,49,Insert,m,50,"Volam sa Samuel Bolibruch a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898408241401000,1770898408235748000,50,Insert,a,51,"Volam sa Samuel Bolibruch a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898408660500000,1770898408654748000,51,Insert,m,52,"Volam sa Samuel Bolibruch a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898408945120000,1770898408939139000,52,Insert, ,53,"Volam sa Samuel Bolibruch a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898409392030000,1770898409386646000,53,Insert,r,54,"Volam sa Samuel Bolibruch a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898409660190000,1770898409654535000,54,Insert,a,55,"Volam sa Samuel Bolibruch a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898409940347000,1770898409933824000,55,Insert,d,56,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898410215941000,1770898410208606000,56,Insert, ,57,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898410650374000,1770898410644689000,57,Insert,s,58,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898411081919000,1770898411075790000,58,Insert,k,59,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898411272289000,1770898411268276000,59,Insert,o,60,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898411511485000,1770898411505922000,60,Insert,l,61,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898411778284000,1770898411772144000,61,Insert,u,62,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898413445357000,1770898413436296000,62,Insert,",",63,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898413721240000,1770898413715105000,63,Insert, ,64,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898414071246000,1770898414065427000,64,Insert,i,65,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898414465173000,1770898414461405000,65,Insert,b,66,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898414785891000,1770898414780682000,66,Insert,a,67,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898415071653000,1770898415064991000,67,Insert, ,68,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898415488776000,1770898415484158000,68,Insert,p,69,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898415974927000,1770898415968645000,69,Insert,e,70,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898416403669000,1770898416395487000,70,Insert,n,71,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898416603874000,1770898416598967000,71,Insert,i,72,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898416924817000,1770898416918849000,72,Insert,a,73,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898417234861000,1770898417228970000,73,Insert,z,74,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898417519622000,1770898417513051000,74,Insert,e,75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898418801264000,1770898418792475000,75,Insert,",",76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898419456641000,1770898419451874000,76,Delete,",",75,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,14,1770898419874851000,1770898419865839000,75,Insert,.,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898421165723000,1770898421159819000,0,Insert,V,1,V
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898421503502000,1770898421497616000,1,Insert,o,2,Vo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898421745866000,1770898421739674000,2,Insert,l,3,Vol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898422086065000,1770898422080884000,3,Insert,a,4,Vola
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898422580005000,1770898422576447000,4,Insert,m,5,Volam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898422868931000,1770898422861862000,5,Insert, ,6,Volam 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898423221758000,1770898423211387000,6,Insert,s,7,Volam s
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898423442849000,1770898423436674000,7,Insert,a,8,Volam sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898423714990000,1770898423709297000,8,Insert, ,9,Volam sa 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898424303532000,1770898424298771000,9,Insert,S,10,Volam sa S
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898424514894000,1770898424509437000,10,Insert,a,11,Volam sa Sa
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898424927307000,1770898424924207000,11,Insert,m,12,Volam sa Sam
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898425230733000,1770898425225087000,12,Insert,u,13,Volam sa Samu
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898425614446000,1770898425608139000,13,Insert,e,14,Volam sa Samue
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898425959980000,1770898425954463000,14,Insert,l,15,Volam sa Samuel
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898426299110000,1770898426292348000,15,Insert, ,16,Volam sa Samuel 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898426943900000,1770898426937469000,16,Insert,B,17,Volam sa Samuel B
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898427257063000,1770898427251735000,17,Insert,o,18,Volam sa Samuel Bo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898427492587000,1770898427486237000,18,Insert,l,19,Volam sa Samuel Bol
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898427747615000,1770898427740774000,19,Insert,i,20,Volam sa Samuel Boli
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898428132786000,1770898428126408000,20,Insert,b,21,Volam sa Samuel Bolib
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898428555891000,1770898428550375000,21,Insert,r,22,Volam sa Samuel Bolibr
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898428798240000,1770898428791841000,22,Insert,u,23,Volam sa Samuel Bolibru
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898429598028000,1770898429590504000,23,Insert,c,24,Volam sa Samuel Bolibruc
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898429808907000,1770898429805151000,24,Insert,j,25,Volam sa Samuel Bolibrucj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898430145388000,1770898430139233000,25,Insert, ,26,Volam sa Samuel Bolibrucj 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898430822595000,1770898430819232000,26,Insert,a,27,Volam sa Samuel Bolibrucj a
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898431074624000,1770898431069494000,27,Insert, ,28,Volam sa Samuel Bolibrucj a 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898431398871000,1770898431394592000,28,Insert,t,29,Volam sa Samuel Bolibrucj a t
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898431692707000,1770898431686595000,29,Insert,o,30,Volam sa Samuel Bolibrucj a to
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898432328610000,1770898432322664000,30,Insert,t,31,Volam sa Samuel Bolibrucj a tot
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898432561498000,1770898432553185000,31,Insert,o,32,Volam sa Samuel Bolibrucj a toto
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898432884416000,1770898432879188000,32,Insert, ,33,Volam sa Samuel Bolibrucj a toto 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898433140598000,1770898433134758000,33,Insert,j,34,Volam sa Samuel Bolibrucj a toto j
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898433451443000,1770898433445493000,34,Insert,e,35,Volam sa Samuel Bolibrucj a toto je
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898433751864000,1770898433748649000,35,Insert, ,36,Volam sa Samuel Bolibrucj a toto je 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898434399394000,1770898434392348000,36,Insert,m,37,Volam sa Samuel Bolibrucj a toto je m
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898434644728000,1770898434638188000,37,Insert,o,38,Volam sa Samuel Bolibrucj a toto je mo
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898435058311000,1770898435051575000,38,Insert,j,39,Volam sa Samuel Bolibrucj a toto je moj
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898435354147000,1770898435348436000,39,Insert,a,40,Volam sa Samuel Bolibrucj a toto je moja
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898435774892000,1770898435768113000,40,Insert, ,41,Volam sa Samuel Bolibrucj a toto je moja 
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898436052656000,1770898436045315000,41,Insert,v,42,Volam sa Samuel Bolibrucj a toto je moja v
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898436333905000,1770898436323296000,42,Insert,e,43,Volam sa Samuel Bolibrucj a toto je moja ve
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898436567172000,1770898436559296000,43,Insert,t,44,Volam sa Samuel Bolibrucj a toto je moja vet
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898436802256000,1770898436797102000,44,Insert,a,45,Volam sa Samuel Bolibrucj a toto je moja veta
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898437823533000,1770898437819235000,45,Insert,",",46,"Volam sa Samuel Bolibrucj a toto je moja veta,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898438088344000,1770898438080848000,46,Insert, ,47,"Volam sa Samuel Bolibrucj a toto je moja veta, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898438369263000,1770898438362835000,47,Insert,n,48,"Volam sa Samuel Bolibrucj a toto je moja veta, n"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898438724251000,1770898438718375000,48,Insert,e,49,"Volam sa Samuel Bolibrucj a toto je moja veta, ne"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898439045966000,1770898439040251000,49,Insert,m,50,"Volam sa Samuel Bolibrucj a toto je moja veta, nem"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898439371810000,1770898439365853000,50,Insert,a,51,"Volam sa Samuel Bolibrucj a toto je moja veta, nema"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898439711104000,1770898439705188000,51,Insert,m,52,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898439976450000,1770898439967382000,52,Insert, ,53,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898440497452000,1770898440494003000,53,Insert,r,54,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam r"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898440747066000,1770898440741260000,54,Insert,a,55,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam ra"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898441006602000,1770898440999852000,55,Insert,f,56,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898441345909000,1770898441338366000,56,Insert, ,57,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898442198955000,1770898442193091000,57,Insert,s,58,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf s"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898442597990000,1770898442592287000,58,Insert,k,59,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf sk"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898442817844000,1770898442810766000,59,Insert,o,60,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf sko"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898443041753000,1770898443034901000,60,Insert,l,61,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skol"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898443301242000,1770898443294751000,61,Insert,u,62,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898443922874000,1770898443915331000,62,Insert,",",63,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu,"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898444258728000,1770898444254664000,63,Insert, ,64,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898444531023000,1770898444526079000,64,Insert,i,65,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, i"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898445141120000,1770898445133275000,65,Insert,b,66,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, ib"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898445436321000,1770898445427574000,66,Insert,a,67,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898445749844000,1770898445743536000,67,Insert, ,68,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba "
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898446191109000,1770898446184464000,68,Insert,p,69,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba p"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898446767010000,1770898446762233000,69,Insert,e,70,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba pe"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898447156014000,1770898447149677000,70,Insert,n,71,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba pen"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898447360994000,1770898447354445000,71,Insert,i,72,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba peni"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898447708919000,1770898447701794000,72,Insert,a,73,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba penia"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898448107969000,1770898448100876000,73,Insert,z,74,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba peniaz"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898448387994000,1770898448381647000,74,Insert,e,75,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba peniaze"
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898449423629000,1770898449413777000,75,Insert,.,76,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam raf skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898451927525000,1770898451898645000,76,Delete,f,75,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam ra skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898452332617000,1770898452326754000,75,Insert,d,76,"Volam sa Samuel Bolibrucj a toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898457911814000,1770898457887157000,76,Delete, ,75,"Volam sa Samuel Bolibrucja toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898458109378000,1770898458106096000,75,Delete,j,74,"Volam sa Samuel Bolibruca toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898458457503000,1770898458451273000,74,Insert,h,75,"Volam sa Samuel Bolibrucha toto je moja veta, nemam rad skolu, iba peniaze."
+LAEk3gnIrrPeEc5m2xw2XMg7Ao63,15,1770898458723374000,1770898458714545000,75,Insert, ,76,"Volam sa Samuel Bolibruch a toto je moja veta, nemam rad skolu, iba peniaze."

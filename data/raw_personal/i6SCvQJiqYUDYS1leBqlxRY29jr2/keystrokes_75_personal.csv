@@ -1,0 +1,1209 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267221311987000,1771267221299889000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267221630190000,1771267221623971000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267222634383000,1771267222627191000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267223828363000,1771267223822539000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267223975562000,1771267223972039000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267224404844000,1771267224401239000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267224584910000,1771267224581239000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267225005228000,1771267224999301000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267225199659000,1771267225196136000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267225345661000,1771267225341877000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267225814935000,1771267225809505000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267226104763000,1771267226097622000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267226290100000,1771267226285028000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267226567594000,1771267226560836000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267226829803000,1771267226821932000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267227951946000,1771267227946164000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267228171461000,1771267228165026000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267228438114000,1771267228431288000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267228853579000,1771267228849955000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267229173488000,1771267229167849000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267229524671000,1771267229521685000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267229794825000,1771267229790497000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267230211357000,1771267230205386000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267231573972000,1771267231566892000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267231779946000,1771267231773507000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267232128332000,1771267232120475000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267232325809000,1771267232321142000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267232532706000,1771267232529269000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267232832584000,1771267232826867000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267233235454000,1771267233229338000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267233923227000,1771267233913871000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267234159339000,1771267234153502000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267234372462000,1771267234368568000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267235957494000,1771267235954060000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267236334249000,1771267236326922000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267236589250000,1771267236583185000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267236792137000,1771267236788553000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267237090516000,1771267237084757000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267237234288000,1771267237230641000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267237489435000,1771267237482403000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267237857298000,1771267237853703000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267238088988000,1771267238082852000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267238239911000,1771267238235522000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267238461475000,1771267238454768000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267238600726000,1771267238596570000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267238819852000,1771267238812704000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267239289125000,1771267239282029000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267239518680000,1771267239512068000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267239652325000,1771267239647730000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267239936934000,1771267239931060000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267240044911000,1771267240039205000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267240258306000,1771267240251221000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267240523497000,1771267240516624000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267240663843000,1771267240659744000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267240914027000,1771267240907735000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267242115283000,1771267242108837000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267242552635000,1771267242545189000,56,Insert,j,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267242983609000,1771267242980003000,57,Delete,j,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267243524015000,1771267243520324000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267243686806000,1771267243682511000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267243987161000,1771267243981306000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267244357046000,1771267244350161000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267244557899000,1771267244553823000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267245307118000,1771267245300054000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267245673891000,1771267245667155000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267246195050000,1771267246190720000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267246379340000,1771267246374898000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267246704157000,1771267246693329000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267246903908000,1771267246899103000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267247128130000,1771267247121102000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267248089072000,1771267248081949000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267248398986000,1771267248391335000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267249280889000,1771267249272335000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267249452476000,1771267249447384000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267250219331000,1771267250212100000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267250386194000,1771267250382447000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,1,1771267250868616000,1771267250861699000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267260678621000,1771267260675090000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267261137804000,1771267261132090000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267261326341000,1771267261322700000,2,Insert,k,3,Zak
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267261664125000,1771267261656444000,3,Insert,t,4,Zakt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267261802931000,1771267261800481000,4,Insert,r,5,Zaktr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267261925023000,1771267261920429000,5,Insert,a,6,Zaktra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267262170124000,1771267262158348000,6,Insert, ,7,Zaktra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267262583271000,1771267262579738000,7,Delete, ,6,Zaktra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267262752380000,1771267262749861000,6,Delete,a,5,Zaktr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267262924076000,1771267262921105000,5,Delete,r,4,Zakt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267263106398000,1771267263101370000,4,Delete,t,3,Zak
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267263778476000,1771267263774251000,3,Delete,k,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267264146926000,1771267264141097000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267264499716000,1771267264494020000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267264634099000,1771267264629279000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267264701057000,1771267264696588000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267265735971000,1771267265727002000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267266140053000,1771267266134770000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267266428626000,1771267266422811000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267266658189000,1771267266651738000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267267333095000,1771267267327155000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267267559228000,1771267267553607000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267267826028000,1771267267819251000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267268075100000,1771267268069578000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267268250139000,1771267268246191000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267268831129000,1771267268827628000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267269084680000,1771267269078088000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267269283909000,1771267269280338000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267269635142000,1771267269628254000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267269683776000,1771267269680085000,19,Insert,v,20,Zajtra doobeda zasvv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267270032052000,1771267270025200000,20,Insert,i,21,Zajtra doobeda zasvvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267270184006000,1771267270180257000,21,Insert,e,22,Zajtra doobeda zasvvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267271179704000,1771267271175392000,22,Delete,e,21,Zajtra doobeda zasvvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267271363334000,1771267271357327000,21,Delete,i,20,Zajtra doobeda zasvv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267271506309000,1771267271503632000,20,Delete,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267272489093000,1771267272478354000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267272747330000,1771267272740941000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267272981585000,1771267272977603000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267273273706000,1771267273267178000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267273544942000,1771267273539091000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267273776346000,1771267273769208000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267274905625000,1771267274898438000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267275183845000,1771267275175708000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267275403442000,1771267275397799000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267275685383000,1771267275679871000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267276631110000,1771267276623431000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267276899115000,1771267276891464000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267277080146000,1771267277075939000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267277233506000,1771267277228440000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267277591697000,1771267277586118000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267277984770000,1771267277979787000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267278202746000,1771267278196112000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267278411609000,1771267278407546000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267278678391000,1771267278672731000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267278878486000,1771267278874653000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267279162767000,1771267279156617000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267279725479000,1771267279716804000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267280003966000,1771267279998259000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267280180933000,1771267280176985000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267280527386000,1771267280523407000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267280770094000,1771267280763713000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267281082294000,1771267281078401000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267282479327000,1771267282472746000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267282713121000,1771267282705377000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267282878154000,1771267282870573000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267283221816000,1771267283217521000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267283463630000,1771267283455968000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267283627796000,1771267283623089000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267283986340000,1771267283982686000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267284199674000,1771267284193550000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267284525380000,1771267284518832000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267285263711000,1771267285253601000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267285551960000,1771267285542481000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267285655860000,1771267285650137000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267285870771000,1771267285863931000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267286123822000,1771267286118020000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267286255568000,1771267286251019000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267286535365000,1771267286527664000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267286760172000,1771267286752643000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267287045055000,1771267287040472000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267287241226000,1771267287237435000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267287522812000,1771267287515691000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267287880145000,1771267287866166000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267288205624000,1771267288199578000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267288512574000,1771267288507653000,68,Insert, ,69,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267288900526000,1771267288896188000,69,Delete, ,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267289476585000,1771267289467206000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267289807673000,1771267289803463000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267290450460000,1771267290442639000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267290584783000,1771267290580954000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267290865176000,1771267290856854000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267291356288000,1771267291348963000,73,Insert,j,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267291817395000,1771267291813795000,74,Delete,j,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267292517332000,1771267292511273000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,2,1771267292703535000,1771267292693950000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267305024596000,1771267305020398000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267305394928000,1771267305387244000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267305549361000,1771267305544677000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267305943581000,1771267305937876000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267306094260000,1771267306089623000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267306186798000,1771267306183290000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267306560965000,1771267306554919000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267307591772000,1771267307588125000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267307701148000,1771267307696426000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267307862634000,1771267307859208000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267308167730000,1771267308161960000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267308350069000,1771267308346375000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267308594841000,1771267308589211000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267308822433000,1771267308816357000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267308995011000,1771267308991189000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267310196319000,1771267310186279000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267310535841000,1771267310527369000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267311194492000,1771267311184025000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267311778261000,1771267311774689000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267312153278000,1771267312147565000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267312401905000,1771267312395570000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267312565382000,1771267312561926000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267312935088000,1771267312928803000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267313248132000,1771267313240678000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267313572617000,1771267313566905000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267314127850000,1771267314123951000,25,Insert,p,26,Zajtra doobeda zasvietim p
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267314393626000,1771267314387792000,26,Insert,a,27,Zajtra doobeda zasvietim pa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267314832578000,1771267314829663000,27,Delete,a,26,Zajtra doobeda zasvietim p
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267314999514000,1771267314996921000,26,Delete,p,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267315996832000,1771267315989511000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267316280972000,1771267316274502000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267316428361000,1771267316424304000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267316690662000,1771267316683487000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267317050481000,1771267317044954000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267317860653000,1771267317850872000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267317963783000,1771267317959650000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267318078578000,1771267318074805000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267318379477000,1771267318373941000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267318719228000,1771267318712867000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267318922366000,1771267318916442000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267319132072000,1771267319128139000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267319421855000,1771267319415520000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267319640247000,1771267319636535000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267319899999000,1771267319892460000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267320422188000,1771267320418393000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267320650609000,1771267320644649000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267320802958000,1771267320798635000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267321003862000,1771267320998222000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267321100105000,1771267321096343000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267321291989000,1771267321287871000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267321510009000,1771267321503951000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267321752285000,1771267321746386000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267321905212000,1771267321901078000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267322127348000,1771267322121305000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267322273874000,1771267322270101000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267322428618000,1771267322424552000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267322684177000,1771267322678401000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267322828692000,1771267322824691000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267323124863000,1771267323117219000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267324057355000,1771267324053354000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267324325705000,1771267324319610000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267324443933000,1771267324440002000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267324643867000,1771267324639761000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267324911419000,1771267324905410000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267325062546000,1771267325058842000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267325310453000,1771267325304166000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267325558362000,1771267325551028000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267325781090000,1771267325776491000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267325885037000,1771267325878820000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267326118857000,1771267326112652000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267326410098000,1771267326405836000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267326664578000,1771267326658482000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267327595341000,1771267327590772000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267327889789000,1771267327885591000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267328261668000,1771267328255063000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267328410565000,1771267328405703000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267328769269000,1771267328762696000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267329000319000,1771267328994046000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,3,1771267329213938000,1771267329209260000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267337537589000,1771267337533036000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267337873920000,1771267337866847000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267338014274000,1771267338010804000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267338306248000,1771267338300397000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267338454337000,1771267338450942000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267338669657000,1771267338663728000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267339018570000,1771267339012379000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267339503356000,1771267339499965000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267339596521000,1771267339593109000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267339779235000,1771267339775837000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267340154358000,1771267340150946000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267340335198000,1771267340331708000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267340585593000,1771267340579862000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267340989388000,1771267340981276000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267341253711000,1771267341248218000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267341967270000,1771267341958263000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267342215704000,1771267342209543000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267342470117000,1771267342461285000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267342916959000,1771267342913052000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267343186910000,1771267343179117000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267343388560000,1771267343384944000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267343539868000,1771267343535817000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267343853672000,1771267343847278000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267344479799000,1771267344473294000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267344657834000,1771267344652640000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267344900069000,1771267344893138000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267345150051000,1771267345141908000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267345277030000,1771267345273447000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267345799435000,1771267345794629000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267346127312000,1771267346120538000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267346816980000,1771267346808077000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267346976323000,1771267346969941000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267347042664000,1771267347038494000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267347345460000,1771267347338972000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267347672695000,1771267347668947000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267347901240000,1771267347895518000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267348074139000,1771267348066598000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267348284384000,1771267348278519000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267348429573000,1771267348426017000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267348653339000,1771267348644902000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267349055930000,1771267349050154000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267349264203000,1771267349258206000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267349372272000,1771267349367347000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267349636856000,1771267349628432000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267349695527000,1771267349691358000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267349902070000,1771267349895002000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267350909702000,1771267350903920000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267351138648000,1771267351132288000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267351278357000,1771267351274366000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267351510467000,1771267351505076000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267351626110000,1771267351622233000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267351860937000,1771267351854836000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267352065080000,1771267352058128000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267352212390000,1771267352208587000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267352288693000,1771267352284041000,54,Insert,m,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najemm
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267352927547000,1771267352918685000,55,Insert, ,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najemm 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267353399295000,1771267353395453000,56,Delete, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najemm
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267353972488000,1771267353968012000,55,Delete,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267354283016000,1771267354275661000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267354705628000,1771267354699072000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267355003619000,1771267354997972000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267355135000000,1771267355128375000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267355322212000,1771267355311771000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267355641936000,1771267355634593000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267355739579000,1771267355735485000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267355990199000,1771267355985868000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267356243453000,1771267356236710000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267356505129000,1771267356499365000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267357244337000,1771267357237844000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267357522048000,1771267357515837000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267357757285000,1771267357750868000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267358062794000,1771267358056887000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267358330864000,1771267358323924000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267358705119000,1771267358698628000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267359297077000,1771267359292783000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267359451282000,1771267359446974000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267360200990000,1771267360191031000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267360439952000,1771267360435106000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,4,1771267361407937000,1771267361400535000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267369206472000,1771267369200778000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267369491207000,1771267369485849000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267369642505000,1771267369638734000,2,Insert,k,3,Zak
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267370410577000,1771267370407182000,3,Delete,k,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267370701074000,1771267370694949000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267371046360000,1771267371040258000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267371182898000,1771267371179499000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267371317791000,1771267371314313000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267371980566000,1771267371974196000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267373577932000,1771267373574192000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267373732160000,1771267373728665000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267373906311000,1771267373902861000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267375751919000,1771267375744012000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267375898369000,1771267375893704000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267376147829000,1771267376142148000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267376438233000,1771267376434865000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267376555661000,1771267376551782000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267377196126000,1771267377189336000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267377434211000,1771267377427346000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267377762979000,1771267377756704000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267377913933000,1771267377910191000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267378183761000,1771267378177587000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267378397127000,1771267378391599000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267378584251000,1771267378580711000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267378881177000,1771267378874479000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267379278621000,1771267379275257000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267379617190000,1771267379610539000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267380157450000,1771267380150640000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267380408150000,1771267380400314000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267380687291000,1771267380682943000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267380960869000,1771267380953824000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267381234176000,1771267381228284000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267382223188000,1771267382215715000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267382441861000,1771267382433397000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267382568053000,1771267382564219000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267383094010000,1771267383090556000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267383440805000,1771267383435009000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267383661688000,1771267383658121000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267383825476000,1771267383822028000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267384043375000,1771267384039831000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267384218858000,1771267384214963000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267384435605000,1771267384427443000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267384888944000,1771267384882605000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267385119860000,1771267385108570000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267385212360000,1771267385207897000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267385621931000,1771267385615231000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267385791171000,1771267385787135000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267386063497000,1771267386057462000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267386248016000,1771267386243920000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267386489435000,1771267386481193000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267386602472000,1771267386598093000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267386882703000,1771267386878359000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267387227290000,1771267387221129000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267387384991000,1771267387381424000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267387686043000,1771267387679713000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267387831061000,1771267387827212000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267388101891000,1771267388095610000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267388874355000,1771267388866561000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267389130355000,1771267389124124000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267389209349000,1771267389204465000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267389549677000,1771267389542197000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267389832916000,1771267389825634000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267390189633000,1771267390183470000,60,Insert,g,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneg
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267390571686000,1771267390568104000,61,Delete,g,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267390880759000,1771267390875002000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267391138283000,1771267391131293000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267391364039000,1771267391357596000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267391575399000,1771267391571181000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267391726420000,1771267391722665000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267391983212000,1771267391976948000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267392222702000,1771267392216364000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267392400861000,1771267392395689000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267392981536000,1771267392973175000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267393291948000,1771267393285193000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267394169614000,1771267394160486000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267394326105000,1771267394320131000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267394650617000,1771267394644891000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267394849263000,1771267394844226000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,5,1771267395196946000,1771267395188915000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267404697419000,1771267404690406000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267405030898000,1771267405025958000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267405154808000,1771267405151333000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267405486824000,1771267405478893000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267405630423000,1771267405626719000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267405854996000,1771267405849503000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267406016002000,1771267406012220000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267406391303000,1771267406386057000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267406474673000,1771267406470757000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267406621324000,1771267406617483000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267406907879000,1771267406900614000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267407073666000,1771267407069425000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267407286098000,1771267407278633000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267407535165000,1771267407531775000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267408489487000,1771267408480614000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267409189197000,1771267409183572000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267409373781000,1771267409369711000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267409692849000,1771267409687293000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267409913643000,1771267409907795000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267410178088000,1771267410172030000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267410349064000,1771267410344005000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267410501025000,1771267410497591000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267410805274000,1771267410798299000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267411395982000,1771267411388453000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267411598438000,1771267411590982000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267411849648000,1771267411843014000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267412063036000,1771267412057167000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267412193987000,1771267412190576000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267412440624000,1771267412433154000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267412734305000,1771267412728357000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267413355845000,1771267413346476000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267413519597000,1771267413515330000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267413557981000,1771267413553927000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267413950844000,1771267413942196000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267414316876000,1771267414311092000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267414564583000,1771267414558495000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267414789768000,1771267414783764000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267415094305000,1771267415088475000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267415252643000,1771267415249071000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267415518420000,1771267415511885000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267415902008000,1771267415897058000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267416157400000,1771267416149945000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267416236877000,1771267416232841000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267416889662000,1771267416883353000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267417018008000,1771267417013682000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267417222448000,1771267417215133000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267417578929000,1771267417575341000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267417826833000,1771267417819629000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267418050266000,1771267418046113000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267418647186000,1771267418643238000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267418836889000,1771267418832575000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267419021814000,1771267419018043000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267419281855000,1771267419276223000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267419374684000,1771267419371163000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267419585323000,1771267419579735000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267419835339000,1771267419827896000,55,Insert,g,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem g
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267420244345000,1771267420240718000,56,Delete,g,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267420566826000,1771267420560950000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267420792559000,1771267420786786000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267420881776000,1771267420877966000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267421058537000,1771267421053480000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267421517913000,1771267421512222000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267421621572000,1771267421617450000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267421866558000,1771267421859471000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267422243228000,1771267422236687000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267423246082000,1771267423237988000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267423452898000,1771267423447294000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267423755779000,1771267423749601000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267423924162000,1771267423918346000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267424168552000,1771267424158825000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267424653185000,1771267424646190000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267424979007000,1771267424974759000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267425536050000,1771267425528674000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267425696707000,1771267425691029000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267425970920000,1771267425962670000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267426255263000,1771267426248666000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,6,1771267426447439000,1771267426442541000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267435534645000,1771267435527292000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267435867716000,1771267435860267000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267435983543000,1771267435979315000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267436418838000,1771267436415015000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267436577186000,1771267436571909000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267436871155000,1771267436865235000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267437248603000,1771267437240439000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267437833831000,1771267437828241000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267437924746000,1771267437920481000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267438088328000,1771267438083707000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267438420717000,1771267438416622000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267438627345000,1771267438621898000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267438854942000,1771267438848028000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267439244022000,1771267439237361000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267439590677000,1771267439584134000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267440977229000,1771267440970818000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267441235546000,1771267441229921000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267441530482000,1771267441526811000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267442506660000,1771267442499145000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267442811584000,1771267442805961000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267443020720000,1771267443016989000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267443719907000,1771267443713164000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267444053966000,1771267444047980000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267444835126000,1771267444828790000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267445051079000,1771267445042984000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267445328063000,1771267445322335000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267445524358000,1771267445514938000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267445628092000,1771267445624352000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267445914813000,1771267445909073000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267446212146000,1771267446206428000,29,Insert,h,30,Zajtra doobeda zasvietim lamph
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267447241218000,1771267447236685000,30,Delete,h,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267447577011000,1771267447571092000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267448600038000,1771267448591844000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267448776762000,1771267448771572000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267448847304000,1771267448842261000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267449308057000,1771267449302285000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267449636710000,1771267449630444000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267449848982000,1771267449842930000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267450011973000,1771267450007371000,36,Insert,k,37,Zajtra doobeda zasvietim lampu a obuk
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267450230546000,1771267450224787000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuke
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267450387537000,1771267450383377000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obukem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267450651419000,1771267450636727000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obukem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267451405273000,1771267451401043000,40,Delete, ,39,Zajtra doobeda zasvietim lampu a obukem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267451556231000,1771267451553608000,39,Delete,m,38,Zajtra doobeda zasvietim lampu a obuke
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267451732849000,1771267451725292000,38,Delete,e,37,Zajtra doobeda zasvietim lampu a obuk
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267451902888000,1771267451899973000,37,Delete,k,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267452528781000,1771267452524293000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267452809075000,1771267452802880000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267452921244000,1771267452917828000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267453121348000,1771267453117646000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267453339210000,1771267453335790000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267453569663000,1771267453566163000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267453709596000,1771267453705536000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267458746093000,1771267458739111000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267460207537000,1771267460199969000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267460389048000,1771267460383561000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267460839338000,1771267460833617000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267461107846000,1771267461099887000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267461306186000,1771267461298231000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267462508719000,1771267462500836000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267462767481000,1771267462763610000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267462855239000,1771267462851205000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267463159880000,1771267463154936000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267463247630000,1771267463243065000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267463430028000,1771267463425278000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267463817297000,1771267463811433000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267464102417000,1771267464094394000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267464169876000,1771267464165256000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267464362363000,1771267464357316000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267464624250000,1771267464618530000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267464714257000,1771267464710163000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267464963141000,1771267464957045000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267465225169000,1771267465218811000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267465931286000,1771267465923401000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267466087052000,1771267466083383000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267466369850000,1771267466363067000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267466623257000,1771267466617368000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267466913257000,1771267466907794000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267467644937000,1771267467636586000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267467912036000,1771267467906333000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267468281845000,1771267468275052000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267468435317000,1771267468431840000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267468771282000,1771267468765540000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267469027114000,1771267469021458000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,7,1771267469223143000,1771267469219082000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267476770372000,1771267476763146000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267477126705000,1771267477123021000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267477242835000,1771267477237873000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267477504522000,1771267477499014000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267477646467000,1771267477642218000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267477876136000,1771267477869389000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267478006052000,1771267478002059000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267478829342000,1771267478821981000,7,Insert,p,8,Zajtra p
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267480020800000,1771267480016703000,8,Delete,p,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267480448491000,1771267480443821000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267480585915000,1771267480582431000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267480736856000,1771267480733447000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267481087320000,1771267481079848000,10,Insert,n,11,Zajtra doon
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267481460494000,1771267481456743000,11,Delete,n,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267481772724000,1771267481766608000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267481932100000,1771267481928641000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267482124356000,1771267482121037000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267482629869000,1771267482623519000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267483158671000,1771267483147857000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267483694429000,1771267483689576000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267483943304000,1771267483939636000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267484318320000,1771267484312848000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267484444009000,1771267484439397000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267484712129000,1771267484706593000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267485020776000,1771267485015108000,20,Insert,t,21,Zajtra doobeda zasvit
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267485438320000,1771267485434895000,21,Delete,t,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267485701515000,1771267485695803000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267486443305000,1771267486436068000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267486783893000,1771267486778110000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267487034225000,1771267487028510000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267487225178000,1771267487220909000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267487499531000,1771267487493647000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267487724501000,1771267487720648000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267487796626000,1771267487792277000,27,Insert,p,28,Zajtra doobeda zasvietim lap
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267488140355000,1771267488136619000,28,Delete,p,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267488735938000,1771267488730327000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267489038933000,1771267489032844000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267489349398000,1771267489341785000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267489888722000,1771267489875764000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267490031836000,1771267490028333000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267490128939000,1771267490125164000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267490681539000,1771267490678525000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267491026121000,1771267491019881000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267491225173000,1771267491219871000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267491399429000,1771267491395694000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267491633303000,1771267491627587000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267491787224000,1771267491783739000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267492032954000,1771267492026483000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267492515568000,1771267492509317000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267492795639000,1771267492789389000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267492956699000,1771267492952310000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267493612319000,1771267493606172000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267493774666000,1771267493767035000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267493976349000,1771267493968762000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267494169318000,1771267494165306000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267494419038000,1771267494408889000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267494681134000,1771267494675033000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267495043791000,1771267495038158000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267495206290000,1771267495202583000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267495337944000,1771267495334482000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267495596448000,1771267495590658000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267495692649000,1771267495688400000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267495906045000,1771267495899880000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267496311578000,1771267496305619000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267496580077000,1771267496574452000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267496711443000,1771267496707192000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267496920156000,1771267496912964000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267497185550000,1771267497179759000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267497290995000,1771267497287466000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267497548256000,1771267497542551000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267497831867000,1771267497825705000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267498031037000,1771267498026931000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267498199726000,1771267498195530000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267498437486000,1771267498431435000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267498624660000,1771267498619735000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267498850394000,1771267498844349000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267499571075000,1771267499561389000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267499812575000,1771267499805310000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267500291904000,1771267500285685000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267500423506000,1771267500419218000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267501226937000,1771267501217890000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267501399106000,1771267501392916000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,8,1771267501780092000,1771267501774168000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267512655389000,1771267512648958000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267512958343000,1771267512952801000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267513630020000,1771267513620635000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267513971166000,1771267513963930000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267514117904000,1771267514114559000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267514370889000,1771267514364160000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267515084273000,1771267515080369000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267515841802000,1771267515834490000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267516005973000,1771267515997934000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267516153223000,1771267516149576000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267516624712000,1771267516618289000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267516910307000,1771267516903578000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267517138660000,1771267517133011000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267517510598000,1771267517503272000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267517837975000,1771267517830393000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267518316918000,1771267518307132000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267518604032000,1771267518595082000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267519022758000,1771267519017214000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267519241159000,1771267519234966000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267520180709000,1771267520172860000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267520355023000,1771267520350630000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267520588266000,1771267520583893000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267520939265000,1771267520933156000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267521816878000,1771267521812498000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267521988571000,1771267521980395000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267522246142000,1771267522241166000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267522444427000,1771267522440770000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267522562227000,1771267522558844000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267523614254000,1771267523610873000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267523941407000,1771267523933271000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267524663319000,1771267524656215000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267524801787000,1771267524798350000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267524863890000,1771267524860086000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267525270159000,1771267525266008000,33,Insert,u,34,Zajtra doobeda zasvietim lampu a u
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267525657109000,1771267525653361000,34,Delete,u,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267525967212000,1771267525963597000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267526327206000,1771267526320774000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267526562740000,1771267526556493000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267526732261000,1771267526728667000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267526932128000,1771267526928137000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267527739331000,1771267527731427000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267527940991000,1771267527934520000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267528266795000,1771267528261050000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267528525182000,1771267528521404000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267528770907000,1771267528764778000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267529040203000,1771267529032276000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267529151256000,1771267529147127000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267529344010000,1771267529339369000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267529778030000,1771267529772241000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267530035108000,1771267530026550000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267530140695000,1771267530136810000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267530592320000,1771267530585211000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267530716242000,1771267530712537000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267530874188000,1771267530870148000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267531148698000,1771267531142747000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267531273914000,1771267531269936000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267531461170000,1771267531457329000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267531872632000,1771267531864500000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267532092979000,1771267532087214000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267532207194000,1771267532203331000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267532839568000,1771267532830980000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267533042888000,1771267533038550000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267533200500000,1771267533196899000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267533506233000,1771267533499781000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267535860740000,1771267535852590000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267537115830000,1771267537105717000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267537361209000,1771267537355341000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267537608805000,1771267537602804000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267537807513000,1771267537803640000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267538052821000,1771267538046775000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267538512079000,1771267538507886000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267538831377000,1771267538826754000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267539416475000,1771267539407209000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267539565903000,1771267539562062000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267539838947000,1771267539830026000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267540037660000,1771267540033919000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,9,1771267540270461000,1771267540264361000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267551296398000,1771267551292591000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267551651378000,1771267551645562000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267551764344000,1771267551759938000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267552090039000,1771267552082474000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267552224803000,1771267552221485000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267552521896000,1771267552515797000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267552630613000,1771267552626170000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267553101230000,1771267553092640000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267553222724000,1771267553218731000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267553381458000,1771267553377523000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267553685971000,1771267553679426000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267553842771000,1771267553837015000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267554871931000,1771267554862214000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267555442794000,1771267555436035000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267555551063000,1771267555547050000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267555838392000,1771267555832398000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267556010872000,1771267556007127000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267556310680000,1771267556304489000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267556501661000,1771267556492365000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267556794791000,1771267556791136000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267557007263000,1771267557000982000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267557181202000,1771267557177510000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267557444924000,1771267557438129000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267557759791000,1771267557752698000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267558020308000,1771267558014423000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267558589177000,1771267558585339000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267558855245000,1771267558846172000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267558981490000,1771267558977536000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267559396148000,1771267559390389000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267559684513000,1771267559680152000,29,Insert,j,30,Zajtra doobeda zasvietim lampj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267559950992000,1771267559946821000,30,Insert, ,31,Zajtra doobeda zasvietim lampj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267560203519000,1771267560197573000,31,Insert,a,32,Zajtra doobeda zasvietim lampj a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267560468970000,1771267560464076000,32,Delete,a,31,Zajtra doobeda zasvietim lampj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267560659393000,1771267560656811000,31,Delete, ,30,Zajtra doobeda zasvietim lampj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267560809863000,1771267560802946000,30,Delete,j,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267561332820000,1771267561326203000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267561552394000,1771267561547675000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267561730186000,1771267561725566000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267561805656000,1771267561801644000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267562920229000,1771267562914627000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267563624877000,1771267563618870000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267563859075000,1771267563851752000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267564026274000,1771267564022372000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267564229152000,1771267564224761000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267564394558000,1771267564390952000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267564627205000,1771267564620269000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267564823858000,1771267564820187000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267565124550000,1771267565117980000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267565421450000,1771267565414663000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267565977509000,1771267565970433000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267566078678000,1771267566074744000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267566281424000,1771267566274818000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267566424458000,1771267566420123000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267566651480000,1771267566645888000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267566782379000,1771267566778025000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267567003637000,1771267566997667000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267567178144000,1771267567174244000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267567305178000,1771267567300473000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267567583128000,1771267567579065000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267567724030000,1771267567719193000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267568063377000,1771267568056577000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267568898656000,1771267568889356000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267569166155000,1771267569157674000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267569232138000,1771267569227937000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267569430577000,1771267569426477000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267569627730000,1771267569622792000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267569753836000,1771267569749713000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267570022623000,1771267570016532000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267570264886000,1771267570258250000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267570507222000,1771267570501026000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267570673504000,1771267570669363000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267570915175000,1771267570908533000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267571100210000,1771267571096000000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267571387097000,1771267571377106000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267571584675000,1771267571580326000,68,Insert, ,69,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267572063380000,1771267572059275000,69,Delete, ,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267572459298000,1771267572452198000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267572729320000,1771267572722338000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267573450106000,1771267573441061000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267573590816000,1771267573585974000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267573867509000,1771267573860010000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267574143702000,1771267574137310000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,10,1771267574367785000,1771267574361405000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267582818064000,1771267582807384000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267583099688000,1771267583093376000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267583317279000,1771267583310450000,2,Insert,k,3,Zak
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267583807720000,1771267583803546000,3,Delete,k,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267584200771000,1771267584194714000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267584584179000,1771267584578202000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267584734614000,1771267584728671000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267584988010000,1771267584979144000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267585103204000,1771267585099432000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267585597574000,1771267585590672000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267585757246000,1771267585753469000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267585906318000,1771267585898759000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267586257519000,1771267586251796000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267586431348000,1771267586427670000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267586637214000,1771267586633315000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267587040898000,1771267587033377000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267587424944000,1771267587416415000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267588169097000,1771267588162711000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267588416407000,1771267588410524000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267588737962000,1771267588731848000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267588843419000,1771267588839734000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267589132116000,1771267589125788000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267589426381000,1771267589415406000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267589597161000,1771267589592482000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267589822441000,1771267589816174000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267590438898000,1771267590431900000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267590710787000,1771267590702697000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267591142014000,1771267591134350000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267591386259000,1771267591380136000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267591598187000,1771267591592034000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267591866846000,1771267591859033000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267592146366000,1771267592142675000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267592538463000,1771267592531635000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267592870945000,1771267592864068000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267592977821000,1771267592973981000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267593295140000,1771267593288476000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267593598447000,1771267593591888000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267593821645000,1771267593815382000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267594007908000,1771267594003574000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267594282456000,1771267594276279000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267594419604000,1771267594415811000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267594653623000,1771267594647263000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267595027237000,1771267595021116000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267595264063000,1771267595257585000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267595373325000,1771267595369030000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267595615706000,1771267595605626000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267595681338000,1771267595677660000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267595899692000,1771267595895737000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267596181544000,1771267596174297000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267596451706000,1771267596441539000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267596536676000,1771267596532708000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267596754058000,1771267596750103000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267596907001000,1771267596902539000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267597088037000,1771267597082724000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267597319453000,1771267597313540000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267597475144000,1771267597471276000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267597726927000,1771267597720087000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267598357468000,1771267598348378000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267598691401000,1771267598685919000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267598792983000,1771267598787959000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267598960808000,1771267598956803000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267599196349000,1771267599187127000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267599265145000,1771267599260958000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267599485954000,1771267599479524000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267599706829000,1771267599699099000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267599896179000,1771267599891319000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267600073370000,1771267600066570000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267600314633000,1771267600308478000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267601237914000,1771267601228567000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267601448588000,1771267601444148000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267601606518000,1771267601600212000,68,Insert, ,69,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267602170834000,1771267602165676000,69,Delete, ,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267602534167000,1771267602527047000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267602774508000,1771267602767030000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267603102087000,1771267603094321000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267603243051000,1771267603236637000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267603514785000,1771267603507214000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267603723079000,1771267603715807000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,11,1771267603945812000,1771267603938694000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267611253829000,1771267611250067000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267611651438000,1771267611642854000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267611819443000,1771267611815563000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267612124976000,1771267612119281000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267612274222000,1771267612270651000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267612439427000,1771267612435273000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267612547698000,1771267612543872000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267612870136000,1771267612864146000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267613350039000,1771267613343458000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267613493646000,1771267613489605000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267613841782000,1771267613835657000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267614029497000,1771267614025944000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267614274146000,1771267614270668000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267614646788000,1771267614640809000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267614928763000,1771267614922485000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267615210699000,1771267615204348000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267615447725000,1771267615441390000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267615718432000,1771267615712177000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267615911053000,1771267615907307000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267616174627000,1771267616167575000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267616352296000,1771267616348663000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267616480235000,1771267616476327000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267616790999000,1771267616784351000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267617030708000,1771267617026904000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267617236686000,1771267617231332000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267617526555000,1771267617520588000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267617715258000,1771267617707731000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267617914411000,1771267617908371000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267618189565000,1771267618182537000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267619569186000,1771267619565464000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267619854138000,1771267619848068000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267620410219000,1771267620406422000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267620572975000,1771267620568862000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267621414804000,1771267621407321000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267621715131000,1771267621708878000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267621926735000,1771267621920328000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267622107397000,1771267622103721000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267622288587000,1771267622284866000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267622878481000,1771267622874836000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267623103580000,1771267623096931000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267623365501000,1771267623359309000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267623570160000,1771267623565772000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267623732946000,1771267623728958000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267624035973000,1771267624030051000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267624121531000,1771267624117511000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267624314641000,1771267624310596000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267624470857000,1771267624467218000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267624684811000,1771267624678563000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267624892271000,1771267624886262000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267625346938000,1771267625340132000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267625490030000,1771267625485501000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267625619367000,1771267625613436000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267625854991000,1771267625848785000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267625962972000,1771267625958349000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267626145572000,1771267626141010000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267626804687000,1771267626778921000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267627067916000,1771267627060286000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267627144668000,1771267627140671000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267627377942000,1771267627370369000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267627569379000,1771267627565371000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267627753169000,1771267627747064000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267628017619000,1771267628011492000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267628316444000,1771267628310056000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267629484533000,1771267629471139000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267629746232000,1771267629739898000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267630017018000,1771267630010778000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267633142465000,1771267633137720000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267633658887000,1771267633654917000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267634324462000,1771267634316218000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267634555598000,1771267634547680000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267634936815000,1771267634929488000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267635088486000,1771267635081074000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267635405095000,1771267635397337000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267635633214000,1771267635627282000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,12,1771267635838747000,1771267635832407000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267649699994000,1771267649693221000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267650079927000,1771267650070528000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267650299076000,1771267650292878000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267650588923000,1771267650584518000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267650732846000,1771267650728863000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267650932144000,1771267650928329000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267651228691000,1771267651220835000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267652544691000,1771267652537295000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267652723681000,1771267652716934000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267652873654000,1771267652869919000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267654049384000,1771267654044121000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267654285911000,1771267654279350000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267654517790000,1771267654510831000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267654943410000,1771267654936041000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267655438202000,1771267655431537000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267656479933000,1771267656472190000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267656660962000,1771267656655265000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267656976503000,1771267656970401000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267657108746000,1771267657104050000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267657383921000,1771267657377240000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267657619292000,1771267657613095000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267657755836000,1771267657751114000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267658121849000,1771267658115674000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267658421413000,1771267658413162000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267658722716000,1771267658715726000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267659122290000,1771267659115953000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267659450781000,1771267659443093000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267659520970000,1771267659516509000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267659788338000,1771267659781304000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267660095999000,1771267660090020000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267660751753000,1771267660743367000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267660877940000,1771267660874271000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267660969577000,1771267660965804000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267661402849000,1771267661394447000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267661740572000,1771267661734574000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267661963230000,1771267661959404000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267662154310000,1771267662148209000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267662363949000,1771267662357983000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267662552591000,1771267662547463000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267662909782000,1771267662899275000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267667982344000,1771267667974307000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267668253277000,1771267668246602000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267668372190000,1771267668367515000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267668681926000,1771267668676818000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267668788819000,1771267668783672000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267669054002000,1771267669047303000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267673010311000,1771267673003390000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267673201299000,1771267673196543000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267673326243000,1771267673321944000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267673553803000,1771267673547469000,49,Insert,b,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa b
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267673679094000,1771267673674849000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa ba
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267673851460000,1771267673842870000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa baj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267674063665000,1771267674057283000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa baje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267674470471000,1771267674464612000,53,Delete,e,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa baj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267674630737000,1771267674627104000,52,Delete,j,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa ba
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267674796503000,1771267674793129000,51,Delete,a,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa b
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267675496467000,1771267675491627000,50,Delete,b,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267675823427000,1771267675815836000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267675910538000,1771267675905539000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267676190072000,1771267676184089000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267676439687000,1771267676432524000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267676545416000,1771267676541367000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267676781381000,1771267676772587000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267677516308000,1771267677509670000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267677808705000,1771267677802692000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267677927544000,1771267677917824000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267678124447000,1771267678119006000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267678423486000,1771267678416476000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267678547357000,1771267678543288000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267678814384000,1771267678808121000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267679090944000,1771267679083232000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267679827599000,1771267679821492000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267680003739000,1771267679998901000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267680766738000,1771267680760659000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267681062846000,1771267681056207000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267681274578000,1771267681269907000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267681698965000,1771267681692253000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267682022930000,1771267682008214000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267682546297000,1771267682539718000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267682691428000,1771267682686091000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267682960019000,1771267682952515000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267683122611000,1771267683118218000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,13,1771267683447300000,1771267683440261000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267694131476000,1771267694125819000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267694447905000,1771267694440978000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267694707514000,1771267694700582000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267696202463000,1771267696193329000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267696353385000,1771267696349296000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267696579221000,1771267696573629000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267696711739000,1771267696707170000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267698106645000,1771267698096591000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267698325305000,1771267698317580000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267698468671000,1771267698464097000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267699472111000,1771267699465141000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267699799734000,1771267699791830000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267700014114000,1771267700008395000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267700840100000,1771267700833619000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267701760627000,1771267701752770000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267702351801000,1771267702345514000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267702499978000,1771267702493934000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267702777494000,1771267702773278000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267702934370000,1771267702930667000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267703205629000,1771267703202091000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267703340332000,1771267703336628000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267703474301000,1771267703470796000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267703762755000,1771267703754203000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267704038657000,1771267704032402000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267704292746000,1771267704286799000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267705048661000,1771267705043233000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267705361490000,1771267705355321000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267705589775000,1771267705583547000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267706597408000,1771267706590592000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267706909694000,1771267706904598000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267707275162000,1771267707268082000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267708591260000,1771267708585927000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267708751244000,1771267708747196000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267709125253000,1771267709117538000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267709426735000,1771267709419941000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267709794830000,1771267709790658000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267709995058000,1771267709989792000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267710157367000,1771267710153823000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267710320330000,1771267710316749000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267710520321000,1771267710516289000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267711190134000,1771267711184019000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267711421068000,1771267711414796000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267711533237000,1771267711528754000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267711819075000,1771267711811861000,43,Insert,j,44,Zajtra doobeda zasvietim lampu a obujem sa j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267711960685000,1771267711956741000,44,Insert,a,45,Zajtra doobeda zasvietim lampu a obujem sa ja
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267712392413000,1771267712387693000,45,Delete,a,44,Zajtra doobeda zasvietim lampu a obujem sa j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267712722340000,1771267712718237000,44,Delete,j,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267713207734000,1771267713201714000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267713348982000,1771267713344706000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267713521093000,1771267713517141000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267713799847000,1771267713793293000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267713987330000,1771267713983103000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267714167501000,1771267714162783000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267714384115000,1771267714370901000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267714458852000,1771267714453694000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267714598793000,1771267714593722000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267714816869000,1771267714809069000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267714890977000,1771267714885933000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267715090922000,1771267715086287000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267715368635000,1771267715363753000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267715608221000,1771267715601123000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267715701969000,1771267715693644000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267715890716000,1771267715886577000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267716159340000,1771267716153041000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267716351369000,1771267716347498000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267716591713000,1771267716584812000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267717228067000,1771267717215709000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267717603397000,1771267717596691000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267717766854000,1771267717760840000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267717964366000,1771267717960315000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267718268714000,1771267718262529000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267718420799000,1771267718415703000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267719717403000,1771267719708876000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267720056466000,1771267720049506000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267720601260000,1771267720597310000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267720734588000,1771267720730314000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267721016005000,1771267721007917000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267721183694000,1771267721178204000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,14,1771267721413552000,1771267721406932000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267731252459000,1771267731238416000,0,Insert,Z,1,Z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267731543752000,1771267731536768000,1,Insert,a,2,Za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267731679500000,1771267731675051000,2,Insert,j,3,Zaj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267732038591000,1771267732032683000,3,Insert,t,4,Zajt
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267732182859000,1771267732179146000,4,Insert,r,5,Zajtr
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267732363267000,1771267732355306000,5,Insert,a,6,Zajtra
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267733160407000,1771267733150870000,6,Insert, ,7,Zajtra 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267733552898000,1771267733547311000,7,Insert,d,8,Zajtra d
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267733696370000,1771267733691650000,8,Insert,o,9,Zajtra do
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267733836583000,1771267733832398000,9,Insert,o,10,Zajtra doo
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267734165350000,1771267734158792000,10,Insert,b,11,Zajtra doob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267734337630000,1771267734334126000,11,Insert,e,12,Zajtra doobe
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267734525641000,1771267734521255000,12,Insert,d,13,Zajtra doobed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267734858734000,1771267734850442000,13,Insert,a,14,Zajtra doobeda
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267735110259000,1771267735103478000,14,Insert, ,15,Zajtra doobeda 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267736221631000,1771267736214906000,15,Insert,z,16,Zajtra doobeda z
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267736448474000,1771267736440153000,16,Insert,a,17,Zajtra doobeda za
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267736759197000,1771267736752967000,17,Insert,s,18,Zajtra doobeda zas
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267736864856000,1771267736861257000,18,Insert,v,19,Zajtra doobeda zasv
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267737130356000,1771267737123298000,19,Insert,i,20,Zajtra doobeda zasvi
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267737272247000,1771267737268759000,20,Insert,e,21,Zajtra doobeda zasvie
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267737428216000,1771267737424600000,21,Insert,t,22,Zajtra doobeda zasviet
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267737762560000,1771267737758868000,22,Insert,i,23,Zajtra doobeda zasvieti
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267738022340000,1771267738015531000,23,Insert,m,24,Zajtra doobeda zasvietim
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267738970463000,1771267738962198000,24,Insert, ,25,Zajtra doobeda zasvietim 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267739263149000,1771267739257080000,25,Insert,l,26,Zajtra doobeda zasvietim l
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267739462330000,1771267739456046000,26,Insert,a,27,Zajtra doobeda zasvietim la
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267739539747000,1771267739536015000,27,Insert,m,28,Zajtra doobeda zasvietim lam
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267739894126000,1771267739887075000,28,Insert,p,29,Zajtra doobeda zasvietim lamp
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267740154027000,1771267740147267000,29,Insert,u,30,Zajtra doobeda zasvietim lampu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267740482171000,1771267740475708000,30,Insert, ,31,Zajtra doobeda zasvietim lampu 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267740699910000,1771267740693309000,31,Insert,a,32,Zajtra doobeda zasvietim lampu a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267740794954000,1771267740790801000,32,Insert, ,33,Zajtra doobeda zasvietim lampu a 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267741400979000,1771267741387115000,33,Insert,o,34,Zajtra doobeda zasvietim lampu a o
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267741711080000,1771267741704607000,34,Insert,b,35,Zajtra doobeda zasvietim lampu a ob
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267741923407000,1771267741917396000,35,Insert,u,36,Zajtra doobeda zasvietim lampu a obu
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267742067675000,1771267742063901000,36,Insert,j,37,Zajtra doobeda zasvietim lampu a obuj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267742224256000,1771267742220508000,37,Insert,e,38,Zajtra doobeda zasvietim lampu a obuje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267742377655000,1771267742372679000,38,Insert,m,39,Zajtra doobeda zasvietim lampu a obujem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267742558553000,1771267742554508000,39,Insert, ,40,Zajtra doobeda zasvietim lampu a obujem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267742679878000,1771267742676279000,40,Insert,s,41,Zajtra doobeda zasvietim lampu a obujem s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267742897334000,1771267742888472000,41,Insert,a,42,Zajtra doobeda zasvietim lampu a obujem sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267742999470000,1771267742994469000,42,Insert, ,43,Zajtra doobeda zasvietim lampu a obujem sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267743164168000,1771267743160404000,43,Insert,a,44,Zajtra doobeda zasvietim lampu a obujem sa a
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267743266856000,1771267743263266000,44,Insert,j,45,Zajtra doobeda zasvietim lampu a obujem sa aj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267743450342000,1771267743445990000,45,Insert, ,46,Zajtra doobeda zasvietim lampu a obujem sa aj 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267743790910000,1771267743784523000,46,Insert,s,47,Zajtra doobeda zasvietim lampu a obujem sa aj s
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267744032685000,1771267744026388000,47,Insert,a,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267744168573000,1771267744160770000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267744835578000,1771267744831213000,50,Delete, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa.
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267745040093000,1771267745035271000,49,Delete,.,48,Zajtra doobeda zasvietim lampu a obujem sa aj sa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267745391126000,1771267745385299000,48,Insert, ,49,Zajtra doobeda zasvietim lampu a obujem sa aj sa 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267746299968000,1771267746292698000,49,Insert,n,50,Zajtra doobeda zasvietim lampu a obujem sa aj sa n
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267746414335000,1771267746409970000,50,Insert,a,51,Zajtra doobeda zasvietim lampu a obujem sa aj sa na
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267746534729000,1771267746530888000,51,Insert,j,52,Zajtra doobeda zasvietim lampu a obujem sa aj sa naj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267746789954000,1771267746782211000,52,Insert,e,53,Zajtra doobeda zasvietim lampu a obujem sa aj sa naje
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267746860695000,1771267746852351000,53,Insert,m,54,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267747073907000,1771267747065115000,54,Insert, ,55,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267747439504000,1771267747432657000,55,Insert,f,56,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem f
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267747665854000,1771267747659306000,56,Insert,a,57,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fa
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267747752128000,1771267747748292000,57,Insert,j,58,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem faj
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267748130641000,1771267748124543000,58,Insert,n,59,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajn
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267748356655000,1771267748348864000,59,Insert,e,60,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajne
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267748500391000,1771267748488247000,60,Insert,h,61,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneh
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267748730685000,1771267748724531000,61,Insert,o,62,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267748961527000,1771267748954436000,62,Insert, ,63,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho 
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267749165706000,1771267749159599000,63,Insert,j,64,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho j
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267749268591000,1771267749263796000,64,Insert,e,65,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho je
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267749499440000,1771267749493065000,65,Insert,d,66,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jed
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267749668548000,1771267749664534000,66,Insert,l,67,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedl
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267749901537000,1771267749895120000,67,Insert,a,68,Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267750576234000,1771267750571012000,68,Insert,",",69,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla,"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267750818093000,1771267750809034000,69,Insert, ,70,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, "
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267751154220000,1771267751147144000,70,Insert,p,71,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, p"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267751312553000,1771267751306398000,71,Insert,o,72,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, po"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267751729924000,1771267751727232000,72,Insert,z,73,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poz"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267751873920000,1771267751868915000,73,Insert,a,74,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, poza"
+i6SCvQJiqYUDYS1leBqlxRY29jr2,15,1771267752197791000,1771267752191521000,74,Insert,j,75,"Zajtra doobeda zasvietim lampu a obujem sa aj sa najem fajneho jedla, pozaj"

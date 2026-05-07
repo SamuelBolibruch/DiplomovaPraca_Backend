@@ -1,0 +1,1273 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213341746669000,1773213341742501000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213342003148000,1773213341994821000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213342168931000,1773213342163473000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213342247342000,1773213342243601000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213342386309000,1773213342382485000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213342589849000,1773213342582301000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213342642213000,1773213342638020000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213342912126000,1773213342905959000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213343057873000,1773213343052675000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213343154132000,1773213343149235000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213343436691000,1773213343430421000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213343637942000,1773213343633012000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213343795859000,1773213343791099000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213343976898000,1773213343970043000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213344104462000,1773213344100329000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213344276721000,1773213344270903000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213344344262000,1773213344340328000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213344459145000,1773213344453563000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213344609075000,1773213344604114000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213344711213000,1773213344705687000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213344837951000,1773213344833163000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213345399278000,1773213345394969000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213345490790000,1773213345486356000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213345667674000,1773213345664007000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213345883973000,1773213345877683000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213345993466000,1773213345989512000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213346115510000,1773213346111460000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213346208302000,1773213346204648000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213346298434000,1773213346294392000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213346528919000,1773213346522551000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213346656518000,1773213346652171000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213346868623000,1773213346861016000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213347046347000,1773213347041535000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348003422000,1773213347990169000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348065271000,1773213348060463000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348247598000,1773213348240432000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348291343000,1773213348286803000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348489886000,1773213348484071000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348550212000,1773213348546599000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348698529000,1773213348694542000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348763935000,1773213348759328000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213348922411000,1773213348917367000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213349066793000,1773213349062805000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213349177533000,1773213349172511000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213349694689000,1773213349688019000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213349767003000,1773213349762450000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213349931717000,1773213349927530000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213350022988000,1773213350015061000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213350256838000,1773213350249530000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213350451223000,1773213350446600000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213350513923000,1773213350509818000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213350726398000,1773213350719894000,51,Insert,z,52,adam dnes cestuje do bratislavy. ide vlakom ako takz
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213351316995000,1773213351311637000,52,Delete,z,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213351574303000,1773213351566768000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213351668830000,1773213351663827000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213352054523000,1773213352048906000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213352146152000,1773213352138347000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213352302293000,1773213352292482000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213352398526000,1773213352394100000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213352565088000,1773213352560582000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213352784366000,1773213352775316000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213352837920000,1773213352834091000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213352972158000,1773213352968089000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213354310978000,1773213354302711000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213354455494000,1773213354451424000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213355004002000,1773213354992116000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213355205321000,1773213355200457000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213355373398000,1773213355369608000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213355481631000,1773213355477868000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213355695494000,1773213355689124000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213355836486000,1773213355832492000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213355956045000,1773213355952320000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213356057332000,1773213356046131000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213356563411000,1773213356557209000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213356757059000,1773213356747789000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213356886103000,1773213356881821000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213356987921000,1773213356983105000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213357154287000,1773213357150126000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,1,1773213357241540000,1773213357233436000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213358470872000,1773213358462873000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213358657263000,1773213358653483000,1,Insert,s,2,as
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213358803934000,1773213358800122000,2,Insert,a,3,asa
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213358881811000,1773213358877944000,3,Insert,m,4,asam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213359010832000,1773213359006387000,4,Insert, ,5,asam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213359280274000,1773213359276761000,5,Delete, ,4,asam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213359444172000,1773213359440370000,4,Delete,m,3,asa
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213359581025000,1773213359578186000,3,Delete,a,2,as
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213359726723000,1773213359723887000,2,Delete,s,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213360267686000,1773213360264272000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213360434244000,1773213360430659000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213360541927000,1773213360538394000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213360670065000,1773213360666490000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213360890188000,1773213360876536000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213360953904000,1773213360950271000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213361055296000,1773213361051616000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213361194940000,1773213361191173000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213361273148000,1773213361268961000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213361471018000,1773213361464909000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213361660365000,1773213361656342000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213361811556000,1773213361807365000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213362038642000,1773213362031362000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213362247477000,1773213362241634000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213362417299000,1773213362413389000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213362493869000,1773213362490078000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213362602213000,1773213362598266000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213362946915000,1773213362940087000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213363033704000,1773213363029917000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213363172542000,1773213363168375000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213363790174000,1773213363783107000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213363902947000,1773213363899076000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213364085924000,1773213364081837000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213364308039000,1773213364301845000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213364413084000,1773213364408747000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213364508260000,1773213364504306000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213364618061000,1773213364614262000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213364687378000,1773213364683267000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213364882368000,1773213364878641000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213364951274000,1773213364947132000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213365766545000,1773213365758427000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213365871558000,1773213365867535000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213366871250000,1773213366866585000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213366985065000,1773213366979864000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213367150729000,1773213367144599000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213367197704000,1773213367192467000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213367440861000,1773213367435659000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213367533466000,1773213367528456000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213367690702000,1773213367687122000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213367771697000,1773213367767219000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213367924282000,1773213367919423000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213368069623000,1773213368064412000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213368205079000,1773213368200275000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213368530037000,1773213368524429000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213368638668000,1773213368631879000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213368803690000,1773213368798085000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213368889189000,1773213368886165000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213369312969000,1773213369307072000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213369507253000,1773213369499627000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213369564764000,1773213369560018000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213369689641000,1773213369685333000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213369785104000,1773213369781057000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213370145490000,1773213370139380000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213370212002000,1773213370208144000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213370375210000,1773213370370755000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213370445894000,1773213370441977000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213370614900000,1773213370610782000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213370831490000,1773213370823836000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213370892433000,1773213370888994000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213371041454000,1773213371033763000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213371750280000,1773213371742388000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213371854575000,1773213371850711000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213372610600000,1773213372601283000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213372803998000,1773213372800145000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213372955174000,1773213372949785000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213373051910000,1773213373047100000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213373208777000,1773213373202592000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213373308653000,1773213373303007000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213373456978000,1773213373453173000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213373580162000,1773213373575371000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213374046515000,1773213374039442000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213374224653000,1773213374221086000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213374351298000,1773213374346964000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213374478448000,1773213374473747000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213374647025000,1773213374642891000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,2,1773213374722862000,1773213374717352000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213374855436000,1773213374852132000,0,Insert, ,1, 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213375457550000,1773213375455442000,1,Delete, ,0,
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213376380744000,1773213376374052000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213376576310000,1773213376572856000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213376735105000,1773213376731466000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213376832995000,1773213376829509000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213376979617000,1773213376975663000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213377200237000,1773213377193334000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213377274317000,1773213377266568000,6,Insert,b,7,adam db
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213377415616000,1773213377411969000,7,Insert,e,8,adam dbe
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213377550290000,1773213377546619000,8,Insert,s,9,adam dbes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213377616387000,1773213377611314000,9,Insert, ,10,adam dbes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213377921441000,1773213377917840000,10,Delete, ,9,adam dbes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213378073667000,1773213378070907000,9,Delete,s,8,adam dbe
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213378217486000,1773213378214290000,8,Delete,e,7,adam db
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213378359139000,1773213378356125000,7,Delete,b,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213379011583000,1773213379003753000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213379193287000,1773213379189803000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213379342680000,1773213379339065000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213379414610000,1773213379410670000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213379826302000,1773213379818653000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213380035073000,1773213380031071000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213380199117000,1773213380193183000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213380379039000,1773213380375363000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213380511578000,1773213380507106000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213380663782000,1773213380660059000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213380751884000,1773213380747931000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213380872797000,1773213380868755000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213381305128000,1773213381299212000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213381379074000,1773213381375191000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213381549190000,1773213381545044000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213382088063000,1773213382078585000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213382188330000,1773213382184490000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213382384609000,1773213382377807000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213382621111000,1773213382614876000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213382751835000,1773213382747915000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213382837681000,1773213382833700000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213382950311000,1773213382945436000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213383045226000,1773213383041159000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213383222944000,1773213383218181000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213383304057000,1773213383298574000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213384026780000,1773213384019798000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213384135538000,1773213384131652000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213385302213000,1773213385295873000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213385436390000,1773213385431367000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213385602640000,1773213385597690000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213385663489000,1773213385658600000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213385896592000,1773213385889896000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213385973205000,1773213385969123000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213386116921000,1773213386112483000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213386191758000,1773213386187595000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213386354956000,1773213386350696000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213386503864000,1773213386500159000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213386611745000,1773213386607423000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213387296381000,1773213387292080000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213387421973000,1773213387417754000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213387618541000,1773213387614340000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213387959395000,1773213387952380000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213388229469000,1773213388221607000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213388418903000,1773213388414887000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213388516363000,1773213388510221000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213388646401000,1773213388641578000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213388747458000,1773213388742543000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213389285512000,1773213389281801000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213389365327000,1773213389359764000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213389514746000,1773213389510851000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213389587265000,1773213389582135000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213389749924000,1773213389745819000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213389939639000,1773213389935688000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213389993231000,1773213389989313000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213390150299000,1773213390146107000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213391391570000,1773213391380547000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213391476214000,1773213391472267000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213392513398000,1773213392502131000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213392706709000,1773213392701018000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213392859014000,1773213392854998000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213392970163000,1773213392965850000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213393101377000,1773213393096172000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213393188506000,1773213393184110000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213393329184000,1773213393323541000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213393403228000,1773213393396892000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213393919545000,1773213393911989000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213394126696000,1773213394119701000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213394257588000,1773213394250821000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213394345128000,1773213394338594000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213394496114000,1773213394492241000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,3,1773213394600974000,1773213394595188000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213395689765000,1773213395677948000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213395878855000,1773213395875359000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213396058588000,1773213396055001000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213396168137000,1773213396164467000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213396366219000,1773213396359682000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213396767386000,1773213396761324000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213396878780000,1773213396875156000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213396970986000,1773213396967426000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213397124817000,1773213397120730000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213397227164000,1773213397223433000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213397707488000,1773213397700565000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213397920483000,1773213397916932000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213398074121000,1773213398070340000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213398272720000,1773213398265429000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213398433282000,1773213398429463000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213398583282000,1773213398579438000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213398651799000,1773213398648136000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213398784877000,1773213398780743000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213399194048000,1773213399186054000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213399284352000,1773213399280576000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213399440395000,1773213399436352000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213399965141000,1773213399960488000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213400071668000,1773213400068070000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213400271535000,1773213400268077000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213400503210000,1773213400497660000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213400603640000,1773213400600058000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213400705357000,1773213400701685000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213400827431000,1773213400823380000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213400909185000,1773213400905315000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213401626422000,1773213401619602000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213401886709000,1773213401879309000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213402037219000,1773213402033393000,31,Insert, ,32,adam dnes cestuje do bratislavy 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213402864939000,1773213402860346000,32,Delete, ,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213404022333000,1773213404013948000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213404122286000,1773213404118475000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213405222041000,1773213405217911000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213405328452000,1773213405324144000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213405487528000,1773213405483461000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213405551347000,1773213405547283000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213405897714000,1773213405893815000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide. l
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213406056722000,1773213406052800000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide. la
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213406137432000,1773213406133357000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide. lak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213406560882000,1773213406556061000,41,Delete,k,40,adam dnes cestuje do bratislavy. ide. la
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213406698804000,1773213406697021000,40,Delete,a,39,adam dnes cestuje do bratislavy. ide. l
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213406840004000,1773213406836035000,39,Delete,l,38,adam dnes cestuje do bratislavy. ide. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213406995439000,1773213406989273000,38,Delete, ,37,adam dnes cestuje do bratislavy. ide.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213407123261000,1773213407120768000,37,Delete,.,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213407396326000,1773213407389149000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213407918190000,1773213407912129000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213408073125000,1773213408066889000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213408231334000,1773213408225431000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213408377440000,1773213408371774000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213408545258000,1773213408541471000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213408721111000,1773213408716390000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213409143422000,1773213409139563000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213409878723000,1773213409875040000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213409970744000,1773213409963261000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213410157175000,1773213410153883000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213410225702000,1773213410221033000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213410459506000,1773213410455450000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213410654092000,1773213410650436000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213410723258000,1773213410719367000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213410853577000,1773213410849768000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213410943573000,1773213410935735000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213411472244000,1773213411463365000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213411535782000,1773213411531769000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213411705263000,1773213411700876000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213411758685000,1773213411754685000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213411974264000,1773213411968308000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213412188742000,1773213412177421000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213412244426000,1773213412240299000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213412371868000,1773213412367628000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213415128445000,1773213415119638000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213415264569000,1773213415259391000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213416227537000,1773213416220472000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213416491230000,1773213416486780000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213416670151000,1773213416664961000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213416789022000,1773213416784679000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213416974673000,1773213416970282000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213418469348000,1773213418460330000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213418544320000,1773213418541341000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213418660525000,1773213418654845000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213418924613000,1773213418918856000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213419110404000,1773213419106103000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213419273410000,1773213419269131000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213419366474000,1773213419362191000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213419525995000,1773213419520779000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,4,1773213419636595000,1773213419631246000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213434308602000,1773213434298750000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213434597865000,1773213434590070000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213434748509000,1773213434744740000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213434870864000,1773213434867253000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213435041457000,1773213435036350000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213435746028000,1773213435737474000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213435824610000,1773213435821107000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213435964278000,1773213435960688000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213436131195000,1773213436127675000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213436186399000,1773213436182593000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213437131589000,1773213437123043000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213437329391000,1773213437325668000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213437498067000,1773213437493468000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213437706531000,1773213437700912000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213437874900000,1773213437871305000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213438019909000,1773213438015971000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213438123454000,1773213438119969000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213438440673000,1773213438430837000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213439257631000,1773213439249346000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213439351520000,1773213439347211000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213439463628000,1773213439459734000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213439633838000,1773213439629931000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213439743548000,1773213439739899000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213439925919000,1773213439921843000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213440158561000,1773213440152303000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213440273563000,1773213440269728000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213440384660000,1773213440381101000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213440481425000,1773213440477761000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213440578825000,1773213440574984000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213440893953000,1773213440886559000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213440978304000,1773213440974699000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213441919964000,1773213441912081000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213442028468000,1773213442024715000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213443021533000,1773213443010963000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213443117549000,1773213443113610000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213443306548000,1773213443302842000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213443351998000,1773213443347796000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213443676086000,1773213443672456000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213443753575000,1773213443749876000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213443927245000,1773213443923426000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213443974075000,1773213443969966000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213444154990000,1773213444151103000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213444302377000,1773213444298059000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213444411563000,1773213444407082000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213445558071000,1773213445549171000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213445665469000,1773213445660880000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213445884244000,1773213445877006000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213445997621000,1773213445993336000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213446353630000,1773213446347838000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213446555921000,1773213446550879000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213446627020000,1773213446623268000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213446772166000,1773213446767135000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213446867495000,1773213446863097000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213447786569000,1773213447782810000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213447891281000,1773213447886355000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213448053446000,1773213448049517000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213448121704000,1773213448117682000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213448316170000,1773213448312074000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213448539459000,1773213448533182000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213448603499000,1773213448599333000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213448758884000,1773213448754418000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213449890345000,1773213449886200000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213449983100000,1773213449979266000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213450957714000,1773213450953637000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213451195018000,1773213451188504000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213451366014000,1773213451362219000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213451459681000,1773213451455555000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213451614198000,1773213451610194000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213451678954000,1773213451674521000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213451842089000,1773213451836978000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213451916105000,1773213451911818000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213452552366000,1773213452548247000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213452777806000,1773213452771730000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213452893836000,1773213452889552000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213453004008000,1773213452998952000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213453174014000,1773213453169645000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,5,1773213453269652000,1773213453263709000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213454139700000,1773213454131354000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213454341061000,1773213454337434000,1,Insert,s,2,as
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213454588588000,1773213454582524000,2,Insert,a,3,asa
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213454993529000,1773213454989202000,3,Delete,a,2,as
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213455133958000,1773213455131638000,2,Delete,s,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213455384833000,1773213455379246000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213455573087000,1773213455569508000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213455702249000,1773213455698593000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213455812169000,1773213455808657000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213456027075000,1773213456021465000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213456083979000,1773213456080977000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213456223233000,1773213456219603000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213456370851000,1773213456367333000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213456430966000,1773213456424424000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213457501672000,1773213457497286000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213457716074000,1773213457710242000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213457870127000,1773213457866381000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213458083039000,1773213458076312000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213458249807000,1773213458245654000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213458541683000,1773213458534521000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213458646943000,1773213458643087000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213458796798000,1773213458793046000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213460162946000,1773213460156125000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213460244553000,1773213460240134000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213460377669000,1773213460373894000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213460534668000,1773213460531217000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213460661640000,1773213460657871000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213460853184000,1773213460849634000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213461070363000,1773213461064118000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213461160663000,1773213461156785000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213461282336000,1773213461277857000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213461392411000,1773213461387450000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213461480950000,1773213461477140000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213462240934000,1773213462233636000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213462367687000,1773213462363954000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213463574173000,1773213463565752000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213463674358000,1773213463670498000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213464981828000,1773213464973892000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213465097074000,1773213465092533000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213465269676000,1773213465265862000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213465322015000,1773213465317962000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213465675067000,1773213465669095000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213465772989000,1773213465768308000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213465935958000,1773213465931505000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213466011308000,1773213466007394000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213466195171000,1773213466191159000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213466356822000,1773213466353143000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213467012820000,1773213467003605000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213467542747000,1773213467538641000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213467651712000,1773213467647508000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213467846134000,1773213467842443000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213467919466000,1773213467914889000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213468165324000,1773213468159254000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213468371617000,1773213468364879000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213468457905000,1773213468452545000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213468563620000,1773213468559803000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213468672084000,1773213468667122000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213469155793000,1773213469148046000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213469231342000,1773213469226829000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213469416793000,1773213469408303000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213469468609000,1773213469465172000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213469637157000,1773213469632227000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213469867531000,1773213469860466000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213469928401000,1773213469923985000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213470074310000,1773213470070396000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213471235397000,1773213471227500000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213471339858000,1773213471335970000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213472372063000,1773213472362741000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213472606530000,1773213472600579000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213472770967000,1773213472766564000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213472872090000,1773213472867560000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213473046334000,1773213473042256000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213473287502000,1773213473281444000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213473404971000,1773213473400561000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213473539384000,1773213473534655000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213474194174000,1773213474186719000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213474391236000,1773213474385865000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213474552618000,1773213474548779000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213474639985000,1773213474633941000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213474802055000,1773213474797849000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,6,1773213474900937000,1773213474895464000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213476472439000,1773213476468722000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213476749295000,1773213476743685000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213476930895000,1773213476927464000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213477039615000,1773213477036080000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213477183780000,1773213477180159000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213477554935000,1773213477548404000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213477656171000,1773213477652562000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213477749498000,1773213477745743000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213477895859000,1773213477892257000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213477991205000,1773213477987530000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213479017054000,1773213479013102000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213479232781000,1773213479226309000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213479388510000,1773213479384943000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213479630217000,1773213479624542000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213479891367000,1773213479885485000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213480040935000,1773213480037418000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213480159861000,1773213480156223000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213480297423000,1773213480293667000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213481172479000,1773213481165192000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213481282908000,1773213481278956000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213482171740000,1773213482163464000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213482796032000,1773213482788930000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213482941376000,1773213482937773000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213483143156000,1773213483136387000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213483407826000,1773213483401001000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213483550053000,1773213483545972000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213483655856000,1773213483651285000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213483764040000,1773213483758193000,27,Insert,k,28,adam dnes cestuje do bratisk
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213483849295000,1773213483845494000,28,Insert,a,29,adam dnes cestuje do bratiska
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213484283785000,1773213484274793000,29,Insert,v,30,adam dnes cestuje do bratiskav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213484391146000,1773213484387303000,30,Insert,y,31,adam dnes cestuje do bratiskavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213485167476000,1773213485163334000,31,Delete,y,30,adam dnes cestuje do bratiskav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213485311907000,1773213485309233000,30,Delete,v,29,adam dnes cestuje do bratiska
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213485474068000,1773213485470483000,29,Delete,a,28,adam dnes cestuje do bratisk
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213485873944000,1773213485869690000,28,Delete,k,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213486382171000,1773213486374682000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213486530435000,1773213486526867000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213486828321000,1773213486821150000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213486980451000,1773213486976868000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213488195178000,1773213488188133000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213488295457000,1773213488291700000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213489329320000,1773213489320940000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213489478768000,1773213489474334000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213489690082000,1773213489681897000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213489737687000,1773213489733714000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213490070250000,1773213490064437000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213490182977000,1773213490178709000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213490382392000,1773213490374315000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213490445537000,1773213490441395000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213490618979000,1773213490615068000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213490777221000,1773213490771792000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213491021095000,1773213491015292000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213491886974000,1773213491879409000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213491986442000,1773213491977668000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213492190092000,1773213492182596000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213492280568000,1773213492275629000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213492521549000,1773213492514817000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213492729045000,1773213492721441000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213492803181000,1773213492799265000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213492919930000,1773213492916128000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213493021065000,1773213493016936000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213494318100000,1773213494310308000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213494438788000,1773213494434759000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213494637406000,1773213494629683000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213494703718000,1773213494699757000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213494885909000,1773213494881586000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213495123801000,1773213495116669000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213495180876000,1773213495177185000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213495333792000,1773213495331329000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213497141336000,1773213497134245000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213497265681000,1773213497261075000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213498441259000,1773213498435505000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213498710356000,1773213498705781000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213498880660000,1773213498876539000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213498981411000,1773213498977595000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213499170399000,1773213499165401000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213500315453000,1773213500305784000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213500388283000,1773213500379662000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213500545677000,1773213500540914000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213500905655000,1773213500898027000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213501089162000,1773213501084723000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213501251685000,1773213501247149000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213501364586000,1773213501360573000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213501531038000,1773213501526657000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,7,1773213501625578000,1773213501620373000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213502564375000,1773213502558158000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213502752243000,1773213502748753000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213502926433000,1773213502919876000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213503029590000,1773213503025859000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213503206582000,1773213503200582000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213503458261000,1773213503452094000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213503540916000,1773213503536657000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213503628762000,1773213503624587000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213503779371000,1773213503774790000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213503858564000,1773213503854617000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213504400792000,1773213504397280000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213504615188000,1773213504608396000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213504766106000,1773213504762594000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213504987162000,1773213504978696000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213505211821000,1773213505204523000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213505371822000,1773213505368117000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213505461206000,1773213505457634000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213505589216000,1773213505585506000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213506383048000,1773213506379443000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213506492049000,1773213506488557000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213506618528000,1773213506614742000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213506766525000,1773213506761440000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213506899800000,1773213506894659000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213507067199000,1773213507062532000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213507304445000,1773213507298673000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213507401628000,1773213507395555000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213507564289000,1773213507559449000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213507688552000,1773213507684764000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213507783967000,1773213507780086000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213508456415000,1773213508450804000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213508549341000,1773213508545732000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213508667294000,1773213508662836000,31,Insert, ,32,adam dnes cestuje do bratislavy 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213509309901000,1773213509304398000,32,Delete, ,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213510005747000,1773213509997240000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213510092540000,1773213510087210000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213511233209000,1773213511226335000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213511378751000,1773213511372629000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213511539391000,1773213511534714000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213511613058000,1773213511609038000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213511871592000,1773213511865866000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213511971212000,1773213511967486000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213512133660000,1773213512130014000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213512203852000,1773213512200309000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213512386965000,1773213512382511000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213512543644000,1773213512539571000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213512654375000,1773213512650069000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213513010130000,1773213513004475000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213513110152000,1773213513105596000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213513272430000,1773213513268582000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213513357609000,1773213513353210000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213513572154000,1773213513565437000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213513728234000,1773213513724095000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213513752072000,1773213513747603000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213514025691000,1773213514019311000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213514442709000,1773213514430297000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213514809111000,1773213514803150000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213514897271000,1773213514893508000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213515080773000,1773213515075639000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213515145057000,1773213515141051000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213515334002000,1773213515329591000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213515576914000,1773213515571069000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213515641371000,1773213515637047000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213515789801000,1773213515785390000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213517475551000,1773213517467702000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213517576147000,1773213517572227000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213518428837000,1773213518424585000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213518701541000,1773213518696060000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213518882619000,1773213518878546000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213518976509000,1773213518971467000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213519152447000,1773213519147778000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213519290084000,1773213519286413000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213519411795000,1773213519408781000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213519521302000,1773213519516022000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213520085610000,1773213520081199000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213520285843000,1773213520279753000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213520426775000,1773213520422272000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213520522689000,1773213520515140000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213520717918000,1773213520713880000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,8,1773213520800623000,1773213520792823000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213522057115000,1773213522050001000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213522305209000,1773213522296124000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213522632007000,1773213522626537000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213522722043000,1773213522718499000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213522899186000,1773213522893668000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213523163451000,1773213523157654000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213523261841000,1773213523258118000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213523378332000,1773213523373553000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213523531640000,1773213523528089000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213523598631000,1773213523594845000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213524147895000,1773213524139959000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213524374774000,1773213524368917000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213524529338000,1773213524523383000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213524752086000,1773213524746099000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213524956870000,1773213524949554000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213525135217000,1773213525130849000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213525203729000,1773213525199865000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213525354996000,1773213525350525000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213525937967000,1773213525934122000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213526040427000,1773213526036992000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213526607467000,1773213526599278000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213527184829000,1773213527174933000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213527271899000,1773213527267425000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213527471310000,1773213527465298000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213527672344000,1773213527668765000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213527765233000,1773213527761537000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213527884627000,1773213527879196000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213527969882000,1773213527965801000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213528066085000,1773213528062361000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213528802537000,1773213528794040000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213528997404000,1773213528993294000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213529102399000,1773213529097910000,31,Insert, ,32,adam dnes cestuje do bratislavy 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213529590920000,1773213529586220000,32,Delete, ,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213530184864000,1773213530176943000,31,Insert, ,32,adam dnes cestuje do bratislavy 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213530267490000,1773213530258707000,32,Insert,.,33,adam dnes cestuje do bratislavy .
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213530711241000,1773213530706472000,33,Delete,.,32,adam dnes cestuje do bratislavy 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213530869493000,1773213530866588000,32,Delete, ,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213531424144000,1773213531415349000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213531519340000,1773213531515426000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213532550616000,1773213532542732000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213532664334000,1773213532659756000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213532836170000,1773213532831525000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213532881436000,1773213532877869000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213533186904000,1773213533182633000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide. l
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213533356574000,1773213533353375000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide. la
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213533402100000,1773213533399943000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide. lak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213533589736000,1773213533585910000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide. lako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213533750580000,1773213533746381000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide. lakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213534105014000,1773213534101175000,43,Delete,m,42,adam dnes cestuje do bratislavy. ide. lako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213534254063000,1773213534251399000,42,Delete,o,41,adam dnes cestuje do bratislavy. ide. lak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213534401797000,1773213534399771000,41,Delete,k,40,adam dnes cestuje do bratislavy. ide. la
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213534545672000,1773213534543195000,40,Delete,a,39,adam dnes cestuje do bratislavy. ide. l
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213534717261000,1773213534714382000,39,Delete,l,38,adam dnes cestuje do bratislavy. ide. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213534866013000,1773213534862961000,38,Delete, ,37,adam dnes cestuje do bratislavy. ide.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213535074090000,1773213535071930000,37,Delete,.,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213535459892000,1773213535453395000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213535994672000,1773213535990850000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213536109003000,1773213536105315000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213536259972000,1773213536255922000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213536356007000,1773213536351961000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213536518664000,1773213536514913000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213536685123000,1773213536681730000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213537557788000,1773213537550454000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213538544698000,1773213538535423000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213538651058000,1773213538647020000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213538827061000,1773213538822605000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213538891430000,1773213538887280000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213539129785000,1773213539125713000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213539337409000,1773213539333379000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213539463961000,1773213539460065000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213539795636000,1773213539788046000,51,Insert, ,52,adam dnes cestuje do bratislavy. ide vlakom ako tak 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213540288840000,1773213540284651000,52,Delete, ,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213540837256000,1773213540820659000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213540985196000,1773213540981268000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213542055569000,1773213542049255000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213542151505000,1773213542145087000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213542315317000,1773213542309148000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213542403498000,1773213542399331000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213542593974000,1773213542588697000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213542860096000,1773213542853825000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213542916425000,1773213542910997000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213543073844000,1773213543069836000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213544457950000,1773213544451180000,61,Insert, ,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213545141144000,1773213545135475000,62,Delete, ,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213545714645000,1773213545705579000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213545906489000,1773213545902587000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213546829045000,1773213546821970000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213547033893000,1773213547029496000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213547227408000,1773213547223673000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213547353964000,1773213547349967000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213547570747000,1773213547564787000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213547770913000,1773213547759104000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213547874235000,1773213547869679000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213547995411000,1773213547990146000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213548609989000,1773213548603882000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213548813347000,1773213548806622000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213548959347000,1773213548955454000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213549044961000,1773213549038872000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213549221428000,1773213549215573000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,9,1773213549334010000,1773213549325341000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213550745823000,1773213550734897000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213550991440000,1773213550985894000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213551169174000,1773213551165556000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213551260574000,1773213551257107000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213551409094000,1773213551405361000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213551680832000,1773213551676658000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213551797624000,1773213551794053000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213551911413000,1773213551906624000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213552061613000,1773213552058015000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213552141498000,1773213552136039000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213552712117000,1773213552702679000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213552945349000,1773213552939377000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213553089299000,1773213553084768000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213553297271000,1773213553289757000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213553474697000,1773213553471148000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213553621007000,1773213553617462000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213553722724000,1773213553719183000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213553883370000,1773213553880978000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213554659926000,1773213554654234000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213554776128000,1773213554772647000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213554909971000,1773213554906093000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213555058940000,1773213555055040000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213555206816000,1773213555203087000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213555396383000,1773213555392821000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213555635823000,1773213555628984000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213555722116000,1773213555718547000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213555860266000,1773213555856677000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213555945854000,1773213555941824000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213556055420000,1773213556051706000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213556960089000,1773213556953124000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213557210994000,1773213557203829000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213558496133000,1773213558489146000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213558637834000,1773213558633839000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213560059844000,1773213560050650000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213560179818000,1773213560175201000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213560348595000,1773213560344786000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213560451140000,1773213560446681000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213561422243000,1773213561418243000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213561576839000,1773213561572403000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213561732428000,1773213561725617000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213561836341000,1773213561832012000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213562026877000,1773213562023042000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213562205338000,1773213562201853000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213562594758000,1773213562588581000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213563327680000,1773213563317967000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213563403680000,1773213563399354000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213563593420000,1773213563589154000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213563713791000,1773213563709875000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213563974504000,1773213563967127000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213564177522000,1773213564173762000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213564218491000,1773213564214849000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213564404371000,1773213564400686000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213564526879000,1773213564522371000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213565106973000,1773213565102982000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213565209113000,1773213565205441000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213565395900000,1773213565392166000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213565501524000,1773213565497566000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213565701108000,1773213565696826000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213565932862000,1773213565926986000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213566008959000,1773213566005272000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213566163257000,1773213566158702000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213567663304000,1773213567655996000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213567790835000,1773213567786849000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213568738902000,1773213568730320000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213569038893000,1773213569032843000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213569222811000,1773213569218954000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213569316776000,1773213569310654000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213569496913000,1773213569491885000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213569565257000,1773213569559053000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213569727435000,1773213569723055000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213569833342000,1773213569824952000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213570739862000,1773213570731061000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213570951776000,1773213570945200000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213571124579000,1773213571120431000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213571208033000,1773213571205968000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213571367568000,1773213571363040000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,10,1773213571501584000,1773213571496746000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213572456872000,1773213572448341000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213572692042000,1773213572685493000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213572844899000,1773213572841205000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213572962248000,1773213572958772000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213573104273000,1773213573100777000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213573686895000,1773213573683500000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213573805536000,1773213573802055000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213573942898000,1773213573938244000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213574106648000,1773213574103152000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213574169859000,1773213574166210000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213574752668000,1773213574746318000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213575014887000,1773213575009222000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213575188030000,1773213575184034000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213575451837000,1773213575445704000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213575628754000,1773213575625025000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213575820439000,1773213575816229000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213575849369000,1773213575844363000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213577006751000,1773213576998804000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213577340538000,1773213577332720000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213577445618000,1773213577441779000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213577576051000,1773213577571905000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213577728510000,1773213577725055000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213577838452000,1773213577834251000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213578016291000,1773213578012709000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213578246299000,1773213578240333000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213578323187000,1773213578319103000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213578466312000,1773213578462797000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213578561125000,1773213578557594000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213578646390000,1773213578642709000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213579512554000,1773213579502720000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213579676918000,1773213579673248000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213580997239000,1773213580985740000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213581066953000,1773213581063013000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213582024830000,1773213582020833000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213582159327000,1773213582155433000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213582334594000,1773213582330794000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213582417146000,1773213582412878000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213582738420000,1773213582734388000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide. l
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213582867872000,1773213582864381000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide. la
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213582951724000,1773213582948000000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide. lak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213583319677000,1773213583315231000,41,Delete,k,40,adam dnes cestuje do bratislavy. ide. la
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213583479027000,1773213583476612000,40,Delete,a,39,adam dnes cestuje do bratislavy. ide. l
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213583616224000,1773213583613610000,39,Delete,l,38,adam dnes cestuje do bratislavy. ide. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213583757281000,1773213583754855000,38,Delete, ,37,adam dnes cestuje do bratislavy. ide.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213583902593000,1773213583899964000,37,Delete,.,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213584297918000,1773213584291597000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213584687038000,1773213584679695000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213584812553000,1773213584808856000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213584952547000,1773213584947161000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213585088420000,1773213585082576000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213585245019000,1773213585241227000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213585400135000,1773213585396323000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213586664850000,1773213586658463000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213588126536000,1773213588119212000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213588244150000,1773213588239298000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213588426066000,1773213588421285000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213588527773000,1773213588523482000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213588778749000,1773213588772887000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213589173624000,1773213589167806000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213589326402000,1773213589322127000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213589461745000,1773213589458085000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213589648402000,1773213589643863000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213590133507000,1773213590129604000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213590236273000,1773213590230850000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213590397596000,1773213590393522000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213590483664000,1773213590477723000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213590654298000,1773213590649310000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213590869002000,1773213590861459000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213590925471000,1773213590921785000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213591093570000,1773213591089571000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213591827295000,1773213591817582000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213591904279000,1773213591898772000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213592840813000,1773213592835227000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213593093044000,1773213593089075000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213593258880000,1773213593254543000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213593364371000,1773213593360309000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213593539979000,1773213593535556000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213593612738000,1773213593608728000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213593771829000,1773213593767680000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213593857405000,1773213593852927000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213594649482000,1773213594644379000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213594847635000,1773213594842163000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213594990245000,1773213594984989000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213595069618000,1773213595065009000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213595236219000,1773213595231983000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,11,1773213595321894000,1773213595316791000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213596281658000,1773213596274735000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213596523720000,1773213596518162000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213596684272000,1773213596680476000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213596811151000,1773213596807690000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213596937606000,1773213596932496000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213597164163000,1773213597158099000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213597269782000,1773213597265955000,6,Insert,b,7,adam db
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213597421630000,1773213597418179000,7,Insert,e,8,adam dbe
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213597579323000,1773213597575209000,8,Insert,s,9,adam dbes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213598005131000,1773213598001148000,9,Delete,s,8,adam dbe
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213598160390000,1773213598157923000,8,Delete,e,7,adam db
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213598312854000,1773213598310221000,7,Delete,b,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213598964677000,1773213598957299000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213599149939000,1773213599146274000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213599300242000,1773213599296637000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213599418728000,1773213599414818000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213600023910000,1773213600016027000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213600266021000,1773213600257134000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213600416299000,1773213600411846000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213600632630000,1773213600626591000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213600801701000,1773213600797596000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213600957087000,1773213600951553000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213601054250000,1773213601050176000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213601218935000,1773213601215037000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213602006110000,1773213601997692000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213602108742000,1773213602104361000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213602243957000,1773213602238826000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213602405215000,1773213602401287000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213602599763000,1773213602595765000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213603006631000,1773213603001027000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213603265789000,1773213603261397000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213603372895000,1773213603367269000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213603481142000,1773213603475454000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213603570135000,1773213603565223000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213603666765000,1773213603662889000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213603870324000,1773213603865454000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213603934461000,1773213603928133000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213604479774000,1773213604476084000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213604573892000,1773213604569921000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213606035348000,1773213606026792000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213606123228000,1773213606116822000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213606310830000,1773213606299404000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213606360732000,1773213606358002000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213607125874000,1773213607118362000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213607228969000,1773213607224735000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213607399327000,1773213607394896000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213607460952000,1773213607457263000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213607644945000,1773213607639982000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213607805656000,1773213607801950000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213607938874000,1773213607934973000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213609122791000,1773213609116563000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213609222476000,1773213609218677000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213609416167000,1773213609407993000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213609507395000,1773213609503162000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213609747139000,1773213609741236000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213609951697000,1773213609947923000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213610027411000,1773213610023014000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213610259750000,1773213610253032000,51,Insert, ,52,adam dnes cestuje do bratislavy. ide vlakom ako tak 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213610794929000,1773213610790996000,52,Delete, ,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213611405116000,1773213611400559000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213611532774000,1773213611528569000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213612060130000,1773213612055308000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213612136788000,1773213612133015000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213612318110000,1773213612313904000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213612394110000,1773213612389244000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213612571966000,1773213612567810000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213612781595000,1773213612776882000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213612840069000,1773213612831361000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213612989844000,1773213612985360000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213613800607000,1773213613791301000,61,Insert, ,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213614146097000,1773213614141783000,62,Delete, ,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213614642723000,1773213614634289000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213614910800000,1773213614904569000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213616096105000,1773213616088085000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213616295453000,1773213616290026000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213616466895000,1773213616462211000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213616640505000,1773213616635853000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213617010774000,1773213617003747000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213617224095000,1773213617217143000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213617364692000,1773213617360867000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213617474924000,1773213617470938000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213618087239000,1773213618079977000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213618271535000,1773213618267434000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213618437434000,1773213618432841000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213618522757000,1773213618517498000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213618695607000,1773213618691213000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,12,1773213618770663000,1773213618764420000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213620342376000,1773213620338336000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213620594639000,1773213620589153000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213620768388000,1773213620764893000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213620886162000,1773213620882566000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213621019777000,1773213621016010000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213621294402000,1773213621288894000,5,Insert,s,6,adam s
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213621384905000,1773213621381275000,6,Insert,b,7,adam sb
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213621533966000,1773213621529917000,7,Insert,e,8,adam sbe
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213621669415000,1773213621665621000,8,Insert,s,9,adam sbes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213621764735000,1773213621754875000,9,Insert, ,10,adam sbes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213622186901000,1773213622182933000,10,Delete, ,9,adam sbes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213622337417000,1773213622334886000,9,Delete,s,8,adam sbe
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213622480635000,1773213622476821000,8,Delete,e,7,adam sb
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213622628544000,1773213622626196000,7,Delete,b,6,adam s
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213622776862000,1773213622774468000,6,Delete,s,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213623418231000,1773213623412239000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213623495648000,1773213623492217000,6,Insert,b,7,adam db
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213623638109000,1773213623634419000,7,Insert,e,8,adam dbe
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213623799105000,1773213623795067000,8,Insert,s,9,adam dbes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213623915398000,1773213623911538000,9,Insert, ,10,adam dbes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213624252448000,1773213624248631000,10,Delete, ,9,adam dbes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213624413182000,1773213624410840000,9,Delete,s,8,adam dbe
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213624558076000,1773213624555552000,8,Delete,e,7,adam db
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213624702469000,1773213624699829000,7,Delete,b,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213625427297000,1773213625423728000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213625642032000,1773213625638451000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213625797148000,1773213625793746000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213625912228000,1773213625908461000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213626507948000,1773213626504172000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213626734139000,1773213626727252000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213626894539000,1773213626890578000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213627115906000,1773213627110017000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213627312999000,1773213627309579000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213627482729000,1773213627479049000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213627575980000,1773213627572520000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213627748090000,1773213627744164000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213628719485000,1773213628712970000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213628844791000,1773213628841201000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213630216122000,1773213630206867000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213631239186000,1773213631232069000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213631487879000,1773213631482147000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213631686320000,1773213631680403000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213631965896000,1773213631953335000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213632053046000,1773213632049246000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213632188109000,1773213632183889000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213632279919000,1773213632276111000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213632374448000,1773213632370269000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213633104635000,1773213633096550000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213633453479000,1773213633446592000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213633707081000,1773213633697864000,31,Insert, ,32,adam dnes cestuje do bratislavy 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213634265544000,1773213634262926000,32,Delete, ,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213634962311000,1773213634950360000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213635063824000,1773213635056498000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213636059379000,1773213636051425000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213636173713000,1773213636169600000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213636343523000,1773213636339258000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213636419836000,1773213636415587000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213636619019000,1773213636614955000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213636727087000,1773213636721517000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213636883025000,1773213636879238000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213636957478000,1773213636953300000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213637126963000,1773213637121734000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213637289249000,1773213637285577000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213637903770000,1773213637899784000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213638423832000,1773213638418056000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213638552225000,1773213638544440000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213638735993000,1773213638731838000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213638823872000,1773213638820061000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213639083417000,1773213639075936000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213639271221000,1773213639263479000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213639330504000,1773213639326866000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213639457809000,1773213639454148000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213639586020000,1773213639582089000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213640166801000,1773213640162027000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213640243040000,1773213640238993000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213640412840000,1773213640408440000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213640522653000,1773213640514767000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213640694334000,1773213640690074000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213640917331000,1773213640911551000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213640992284000,1773213640988431000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213641130658000,1773213641126872000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213642302166000,1773213642295790000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213642410066000,1773213642406061000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213643309568000,1773213643300960000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213643557051000,1773213643550149000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213643731605000,1773213643723118000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213643838978000,1773213643834801000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213644002194000,1773213643996770000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213644088105000,1773213644084499000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213644237491000,1773213644233287000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213644349807000,1773213644344126000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213644971546000,1773213644967193000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213645174403000,1773213645168709000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213645325542000,1773213645321720000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213645423288000,1773213645419200000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213645584424000,1773213645577293000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,13,1773213645692645000,1773213645687271000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213646747491000,1773213646737238000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213646960755000,1773213646955510000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213647146214000,1773213647142543000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213647253978000,1773213647250237000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213647433169000,1773213647429538000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213647727229000,1773213647721664000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213647834682000,1773213647831013000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213647935447000,1773213647931612000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213648101827000,1773213648098055000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213648195606000,1773213648191886000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213648794199000,1773213648791530000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213649007072000,1773213649000914000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213649165749000,1773213649162254000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213649378598000,1773213649371675000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213649566978000,1773213649563430000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213649729843000,1773213649726325000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213649789454000,1773213649785434000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213649982311000,1773213649978451000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213650773898000,1773213650765699000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213650893474000,1773213650888803000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213651033640000,1773213651029861000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213651497000000,1773213651489130000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213651556313000,1773213651552677000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213651730352000,1773213651726603000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213651952544000,1773213651945611000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213652036633000,1773213652033173000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213652171224000,1773213652167631000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213652262812000,1773213652258251000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213652365179000,1773213652359735000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213653053294000,1773213653046719000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213653167166000,1773213653163691000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213654332316000,1773213654325276000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213654434085000,1773213654430394000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213655524603000,1773213655516860000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213655625827000,1773213655621854000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213655796168000,1773213655791421000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213655848623000,1773213655844481000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213656061943000,1773213656055108000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213656144040000,1773213656140310000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213656316145000,1773213656312160000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213656388403000,1773213656384379000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213656551251000,1773213656546388000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213656704416000,1773213656700359000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213656834760000,1773213656830948000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213657873949000,1773213657870225000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213658022936000,1773213658018291000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213658238153000,1773213658230936000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213658370948000,1773213658361427000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213658629401000,1773213658619572000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213658854317000,1773213658848248000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213658931920000,1773213658928227000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213659061625000,1773213659057935000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213659172135000,1773213659168009000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213659689466000,1773213659682437000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213659752512000,1773213659747981000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213659928865000,1773213659924625000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213659998628000,1773213659994758000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213660188590000,1773213660184068000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213660403584000,1773213660399354000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213660481818000,1773213660477999000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213660640069000,1773213660636248000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213661539225000,1773213661526557000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213661640542000,1773213661636539000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213662701466000,1773213662694921000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213662941531000,1773213662935412000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213663113031000,1773213663106962000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213663202444000,1773213663198332000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213663353256000,1773213663348849000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213663438549000,1773213663434260000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213663602263000,1773213663598201000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213663688388000,1773213663683819000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213664335172000,1773213664327828000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213664529071000,1773213664525354000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213664687725000,1773213664683286000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213664752606000,1773213664748883000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213664922424000,1773213664918097000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,14,1773213665031596000,1773213665024690000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213665922401000,1773213665918654000,0,Insert,a,1,a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213666127420000,1773213666121129000,1,Insert,d,2,ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213666297561000,1773213666293505000,2,Insert,a,3,ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213666414116000,1773213666410144000,3,Insert,m,4,adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213666592966000,1773213666589146000,4,Insert, ,5,adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213666875334000,1773213666869339000,5,Insert,d,6,adam d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213666960003000,1773213666956402000,6,Insert,n,7,adam dn
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213667071689000,1773213667068584000,7,Insert,e,8,adam dne
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213667235391000,1773213667229738000,8,Insert,s,9,adam dnes
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213667307353000,1773213667302919000,9,Insert, ,10,adam dnes 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213668044324000,1773213668036385000,10,Insert,c,11,adam dnes c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213668255747000,1773213668247808000,11,Insert,e,12,adam dnes ce
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213668425342000,1773213668421847000,12,Insert,s,13,adam dnes ces
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213668836910000,1773213668831183000,13,Insert,t,14,adam dnes cest
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213669084064000,1773213669078694000,14,Insert,u,15,adam dnes cestu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213669243577000,1773213669239923000,15,Insert,j,16,adam dnes cestuj
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213669341226000,1773213669337741000,16,Insert,e,17,adam dnes cestuje
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213669466964000,1773213669462826000,17,Insert, ,18,adam dnes cestuje 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213669752832000,1773213669749002000,18,Insert,d,19,adam dnes cestuje d
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213669849973000,1773213669845483000,19,Insert,o,20,adam dnes cestuje do
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213670011611000,1773213670007923000,20,Insert, ,21,adam dnes cestuje do 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213670802206000,1773213670795626000,21,Insert,b,22,adam dnes cestuje do b
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213670927851000,1773213670922703000,22,Insert,r,23,adam dnes cestuje do br
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213671113383000,1773213671109777000,23,Insert,a,24,adam dnes cestuje do bra
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213671322557000,1773213671316713000,24,Insert,t,25,adam dnes cestuje do brat
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213671401545000,1773213671398084000,25,Insert,i,26,adam dnes cestuje do brati
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213671530052000,1773213671526492000,26,Insert,s,27,adam dnes cestuje do bratis
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213671621607000,1773213671618167000,27,Insert,l,28,adam dnes cestuje do bratisl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213671723533000,1773213671719900000,28,Insert,a,29,adam dnes cestuje do bratisla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213672465836000,1773213672458248000,29,Insert,v,30,adam dnes cestuje do bratislav
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213672568477000,1773213672564670000,30,Insert,y,31,adam dnes cestuje do bratislavy
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213673475238000,1773213673466472000,31,Insert,.,32,adam dnes cestuje do bratislavy.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213673557380000,1773213673552869000,32,Insert, ,33,adam dnes cestuje do bratislavy. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213674594325000,1773213674590520000,33,Insert,i,34,adam dnes cestuje do bratislavy. i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213674711158000,1773213674707390000,34,Insert,d,35,adam dnes cestuje do bratislavy. id
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213674882806000,1773213674879169000,35,Insert,e,36,adam dnes cestuje do bratislavy. ide
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213674942513000,1773213674937952000,36,Insert, ,37,adam dnes cestuje do bratislavy. ide 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213675121140000,1773213675116536000,37,Insert,v,38,adam dnes cestuje do bratislavy. ide v
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213675230272000,1773213675226183000,38,Insert,l,39,adam dnes cestuje do bratislavy. ide vl
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213675406237000,1773213675402439000,39,Insert,a,40,adam dnes cestuje do bratislavy. ide vla
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213675457029000,1773213675453144000,40,Insert,k,41,adam dnes cestuje do bratislavy. ide vlak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213675627095000,1773213675621178000,41,Insert,o,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213675793183000,1773213675784041000,42,Insert, ,43,adam dnes cestuje do bratislavy. ide vlako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213677344981000,1773213677341029000,43,Delete, ,42,adam dnes cestuje do bratislavy. ide vlako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213678009057000,1773213678001357000,42,Insert,m,43,adam dnes cestuje do bratislavy. ide vlakom
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213678120885000,1773213678116591000,43,Insert, ,44,adam dnes cestuje do bratislavy. ide vlakom 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213678869911000,1773213678866209000,44,Insert,a,45,adam dnes cestuje do bratislavy. ide vlakom a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213678993585000,1773213678989700000,45,Insert,k,46,adam dnes cestuje do bratislavy. ide vlakom ak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213679165836000,1773213679161649000,46,Insert,o,47,adam dnes cestuje do bratislavy. ide vlakom ako
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213679308919000,1773213679305104000,47,Insert, ,48,adam dnes cestuje do bratislavy. ide vlakom ako 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213679836723000,1773213679826623000,48,Insert,t,49,adam dnes cestuje do bratislavy. ide vlakom ako t
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213680054288000,1773213680050089000,49,Insert,a,50,adam dnes cestuje do bratislavy. ide vlakom ako ta
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213680139919000,1773213680135330000,50,Insert,k,51,adam dnes cestuje do bratislavy. ide vlakom ako tak
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213680265964000,1773213680262378000,51,Insert,y,52,adam dnes cestuje do bratislavy. ide vlakom ako taky
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213680376355000,1773213680371945000,52,Insert, ,53,adam dnes cestuje do bratislavy. ide vlakom ako taky 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213681011404000,1773213681003712000,53,Insert,c,54,adam dnes cestuje do bratislavy. ide vlakom ako taky c
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213681133721000,1773213681127695000,54,Insert,h,55,adam dnes cestuje do bratislavy. ide vlakom ako taky ch
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213681305741000,1773213681302179000,55,Insert,u,56,adam dnes cestuje do bratislavy. ide vlakom ako taky chu
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213681406859000,1773213681402833000,56,Insert,d,57,adam dnes cestuje do bratislavy. ide vlakom ako taky chud
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213681615733000,1773213681609978000,57,Insert,a,58,adam dnes cestuje do bratislavy. ide vlakom ako taky chuda
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213681831841000,1773213681825486000,58,Insert,c,59,adam dnes cestuje do bratislavy. ide vlakom ako taky chudac
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213681931444000,1773213681927096000,59,Insert,i,60,adam dnes cestuje do bratislavy. ide vlakom ako taky chudaci
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213682074381000,1773213682070502000,60,Insert,k,61,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213683191470000,1773213683183976000,61,Insert,.,62,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik.
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213683315719000,1773213683311962000,62,Insert, ,63,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213684432833000,1773213684427856000,63,Insert,a,64,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. a
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213684653331000,1773213684645895000,64,Insert,d,65,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ad
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213684833013000,1773213684829213000,65,Insert,a,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213684947648000,1773213684942218000,66,Insert,n,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adan
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213685066036000,1773213685062077000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adan 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213685145256000,1773213685141006000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adan m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213685320284000,1773213685315606000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adan ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213685661779000,1773213685657254000,70,Delete,a,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adan m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213685800148000,1773213685797089000,69,Delete,m,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adan 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213685945160000,1773213685942493000,68,Delete, ,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adan
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213686088627000,1773213686085460000,67,Delete,n,66,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. ada
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213686778111000,1773213686772431000,66,Insert,m,67,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213686869476000,1773213686864707000,67,Insert, ,68,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213687261876000,1773213687255871000,68,Insert,m,69,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam m
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213687413144000,1773213687407958000,69,Insert,a,70,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213687529313000,1773213687524266000,70,Insert, ,71,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma 
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213688215428000,1773213688208576000,71,Insert,i,72,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma i
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213688424519000,1773213688414803000,72,Insert,p,73,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ip
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213688546829000,1773213688543017000,73,Insert,h,74,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iph
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213688916145000,1773213688909487000,74,Insert,o,75,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma ipho
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213689112689000,1773213689108957000,75,Insert,n,76,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphon
+WiOvfjiIXHdwNpm5Z4XQkAvGRI23,15,1773213689217221000,1773213689211856000,76,Insert,e,77,adam dnes cestuje do bratislavy. ide vlakom ako taky chudacik. adam ma iphone

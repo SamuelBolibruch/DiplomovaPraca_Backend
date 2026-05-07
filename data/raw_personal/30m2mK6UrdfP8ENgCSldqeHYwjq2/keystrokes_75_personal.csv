@@ -1,0 +1,1248 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615575089187000,1776615575062627000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615575367931000,1776615575364035000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615575792294000,1776615575784197000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615576080013000,1776615576066103000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615576287407000,1776615576283220000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615576535317000,1776615576527533000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615576824579000,1776615576818802000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615577002037000,1776615576997331000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615577184917000,1776615577180794000,8,Insert,o,9,Ak mi pro
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615577275758000,1776615577272371000,9,Insert,d,10,Ak mi prod
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615577433529000,1776615577429205000,10,Insert,e,11,Ak mi prode
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615577618271000,1776615577614321000,11,Insert,s,12,Ak mi prodes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615578185524000,1776615578182736000,12,Delete,s,11,Ak mi prode
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615578415417000,1776615578409750000,11,Delete,e,10,Ak mi prod
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615578600990000,1776615578598625000,10,Delete,d,9,Ak mi pro
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615578799905000,1776615578796355000,9,Delete,o,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615578971257000,1776615578968510000,8,Delete,r,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615579929150000,1776615579921546000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615580072132000,1776615580067002000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615580316223000,1776615580309870000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615580535984000,1776615580529171000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615580812181000,1776615580806724000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615581077102000,1776615581070477000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615581489151000,1776615581483158000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615581998600000,1776615581991295000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615582294145000,1776615582285958000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615582509551000,1776615582503328000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615582581476000,1776615582577372000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615582857903000,1776615582851794000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615583018332000,1776615583014274000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615583304383000,1776615583298743000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615583434964000,1776615583430380000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615583648831000,1776615583642367000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615583855103000,1776615583845034000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615584099633000,1776615584092102000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615584317175000,1776615584309552000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615584420726000,1776615584417033000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615584621645000,1776615584612083000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615584844826000,1776615584837979000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615585240560000,1776615585234308000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615585445203000,1776615585438787000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615585629123000,1776615585622774000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615585823636000,1776615585819835000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615586030783000,1776615586025975000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615586221792000,1776615586211652000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615586508034000,1776615586502740000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615586885767000,1776615586881872000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615587085366000,1776615587081498000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615587204837000,1776615587200176000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615587332865000,1776615587328925000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615587511753000,1776615587499249000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615587692459000,1776615587686772000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615587788087000,1776615587783457000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615588069856000,1776615588059853000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615588247225000,1776615588243332000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615588440612000,1776615588436220000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615588650586000,1776615588644771000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615588866805000,1776615588860335000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615589147261000,1776615589139589000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615589461384000,1776615589454019000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615590043260000,1776615590037641000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615590359255000,1776615590351919000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615590675242000,1776615590669559000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615590763363000,1776615590759332000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615591084750000,1776615591074666000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615591349285000,1776615591339803000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615591448850000,1776615591444689000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615591649441000,1776615591645188000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615591809284000,1776615591803627000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615592100057000,1776615592090750000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615592333656000,1776615592327054000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615592451242000,1776615592447100000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615592623475000,1776615592619706000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615592813481000,1776615592809108000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615592947808000,1776615592943111000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615593190761000,1776615593183417000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615593290125000,1776615593285671000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615593555523000,1776615593549003000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615593770941000,1776615593761231000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615593986312000,1776615593979549000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615594131689000,1776615594125258000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615594502066000,1776615594497362000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615594756631000,1776615594750083000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615594955288000,1776615594945436000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,1,1776615595296666000,1776615595284393000,74,Insert,.,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo.
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615599764244000,1776615599754659000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615599928674000,1776615599924730000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615600245633000,1776615600236930000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615600488047000,1776615600479303000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615600687243000,1776615600683588000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615601145061000,1776615601141269000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615601457847000,1776615601454096000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615601726010000,1776615601719858000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615601882179000,1776615601878378000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615601972470000,1776615601968779000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615602145897000,1776615602142306000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615602366928000,1776615602357994000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615602493630000,1776615602489695000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615602843858000,1776615602836795000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615603039756000,1776615603035880000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615603289180000,1776615603283127000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615603504565000,1776615603498391000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615603916251000,1776615603912550000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615604189623000,1776615604183512000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615604353679000,1776615604349796000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615604597026000,1776615604588317000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615604701678000,1776615604697539000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615604915411000,1776615604907664000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615605119307000,1776615605113114000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615605381622000,1776615605375666000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615605579850000,1776615605572969000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615605678786000,1776615605674929000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615605916269000,1776615605909795000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615606173593000,1776615606166044000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615606667319000,1776615606659736000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615606861361000,1776615606857560000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615607315523000,1776615607307744000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615607503626000,1776615607499714000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615607729845000,1776615607725884000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615607868014000,1776615607864255000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615608245131000,1776615608234595000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615608408989000,1776615608403147000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615608595984000,1776615608591194000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615608709952000,1776615608705635000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615608839202000,1776615608834341000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615608998974000,1776615608994903000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615609366912000,1776615609359859000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615609415756000,1776615609411949000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615609729297000,1776615609719944000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615609997655000,1776615609993206000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615610175500000,1776615610168715000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615610361111000,1776615610357090000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615610597256000,1776615610590275000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615610855729000,1776615610849255000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615611112129000,1776615611105777000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615611547367000,1776615611536842000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615611807993000,1776615611801519000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615612024868000,1776615612016093000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615612128250000,1776615612123249000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615612545867000,1776615612534988000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615612822857000,1776615612815496000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615612956070000,1776615612951580000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615613171037000,1776615613164975000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615613422823000,1776615613412820000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615614115935000,1776615614104721000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615614380340000,1776615614372439000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615614547411000,1776615614538777000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615614730640000,1776615614726459000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615614970447000,1776615614965697000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615615238564000,1776615615225899000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615615503626000,1776615615492414000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615615604408000,1776615615595834000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615615877634000,1776615615873361000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615615994297000,1776615615981883000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615616255069000,1776615616247635000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615616362719000,1776615616355972000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615616633897000,1776615616627010000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615616842582000,1776615616834110000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615617047968000,1776615617041056000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,2,1776615617383516000,1776615617371231000,74,Insert,.,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo.
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615620991959000,1776615620987406000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615621122607000,1776615621118449000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615621441192000,1776615621434173000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615621736867000,1776615621724488000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615621942090000,1776615621938107000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615622193416000,1776615622185537000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615622486949000,1776615622482154000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615622697322000,1776615622691573000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615622866271000,1776615622862684000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615622983432000,1776615622979810000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615623158251000,1776615623154721000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615623358970000,1776615623351052000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615623459081000,1776615623448788000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615623889821000,1776615623880921000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615624150969000,1776615624144545000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615624446854000,1776615624437652000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615624691006000,1776615624684357000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615624785384000,1776615624782172000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615625053284000,1776615625045894000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615625281498000,1776615625274740000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615625676891000,1776615625670834000,20,Insert,p,21,Ak mi prides pomoct p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615626076960000,1776615626071513000,21,Delete,p,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615626251637000,1776615626247802000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615626595766000,1776615626587322000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615626823572000,1776615626815614000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615627014021000,1776615627008684000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615627307777000,1776615627298567000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615627463543000,1776615627459828000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615627574813000,1776615627570224000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615628205793000,1776615628199005000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615628391622000,1776615628385965000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615628746895000,1776615628739785000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615628962641000,1776615628954918000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615629160766000,1776615629156961000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615629398996000,1776615629389782000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615629598322000,1776615629593524000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615629781243000,1776615629777088000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615630116003000,1776615630107676000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615630291113000,1776615630283086000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615630525161000,1776615630515995000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615631363497000,1776615631350127000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615631501533000,1776615631497392000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615631668390000,1776615631664475000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615631809297000,1776615631805042000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615631966468000,1776615631958072000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615632248321000,1776615632238387000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615632788661000,1776615632781921000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615632904301000,1776615632897855000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615633116147000,1776615633107074000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615633346775000,1776615633338458000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615633650734000,1776615633639779000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615633972912000,1776615633965845000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615634345083000,1776615634338013000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615634608176000,1776615634603854000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615634800735000,1776615634791638000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615634940698000,1776615634936692000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615635424577000,1776615635419898000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615635811317000,1776615635805190000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615636095647000,1776615636089046000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615636315681000,1776615636308550000,57,Insert,f,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo kef
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615636510871000,1776615636506758000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo kef 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615636779599000,1776615636774577000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo kef b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615637211985000,1776615637208383000,60,Delete,b,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo kef 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615637428949000,1776615637424227000,59,Delete, ,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo kef
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615637639108000,1776615637634153000,58,Delete,f,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615638099745000,1776615638092627000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615638329389000,1776615638319438000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615638659449000,1776615638650361000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615638882091000,1776615638870697000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615638986848000,1776615638982510000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615639149233000,1776615639144279000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615639346572000,1776615639338195000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615639468791000,1776615639463568000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615639715633000,1776615639706618000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615639836635000,1776615639831475000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615640096634000,1776615640086642000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615640225406000,1776615640220682000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615640447565000,1776615640439283000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615640586016000,1776615640581590000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615640869540000,1776615640864844000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615641068660000,1776615641063851000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615641281320000,1776615641274577000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,3,1776615641545518000,1776615641538921000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615645714536000,1776615645708810000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615646015457000,1776615646009697000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615646354564000,1776615646346809000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615646629795000,1776615646620623000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615646863776000,1776615646856272000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615647092677000,1776615647086255000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615647385997000,1776615647380045000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615647562966000,1776615647559342000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615647688688000,1776615647684393000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615647826491000,1776615647822944000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615648012195000,1776615648008097000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615648215424000,1776615648211716000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615648379353000,1776615648374992000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615648847204000,1776615648843694000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615649063112000,1776615649055167000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615649320758000,1776615649311222000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615649545761000,1776615649539838000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615649691009000,1776615649687356000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615649963791000,1776615649956518000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615650143996000,1776615650140060000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615650858809000,1776615650849880000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615650984652000,1776615650980139000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615651210893000,1776615651206693000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615651401521000,1776615651397657000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615651663549000,1776615651654043000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615651832492000,1776615651827817000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615651935303000,1776615651930511000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615652130445000,1776615652125335000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615652281431000,1776615652276945000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615652505349000,1776615652496873000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615652754689000,1776615652750766000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615652944351000,1776615652936714000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615653146499000,1776615653142497000,32,Insert,s,33,Ak mi prides pomoct dokoncit ters
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615653334772000,1776615653330772000,33,Insert,s,34,Ak mi prides pomoct dokoncit terss
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615653549385000,1776615653544578000,34,Insert, ,35,Ak mi prides pomoct dokoncit terss 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615654017436000,1776615654012763000,35,Delete, ,34,Ak mi prides pomoct dokoncit terss
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615654221827000,1776615654216482000,34,Delete,s,33,Ak mi prides pomoct dokoncit ters
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615654508860000,1776615654502945000,33,Insert,u,34,Ak mi prides pomoct dokoncit tersu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615654814854000,1776615654804930000,34,Insert, ,35,Ak mi prides pomoct dokoncit tersu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615655285373000,1776615655278979000,35,Delete, ,34,Ak mi prides pomoct dokoncit tersu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615655476919000,1776615655472940000,34,Delete,u,33,Ak mi prides pomoct dokoncit ters
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615655684767000,1776615655679489000,33,Delete,s,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615656296629000,1776615656292370000,32,Insert,e,33,Ak mi prides pomoct dokoncit tere
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615656741042000,1776615656736740000,33,Delete,e,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615656939324000,1776615656929304000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615657275661000,1776615657267588000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615657427452000,1776615657423087000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615657704048000,1776615657695093000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615657863673000,1776615657858952000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615658051986000,1776615658048142000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615658151242000,1776615658147506000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615658310011000,1776615658306056000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615658455262000,1776615658450328000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615658592590000,1776615658587070000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615658748513000,1776615658743491000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615658993289000,1776615658987210000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615659252391000,1776615659246456000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615659397714000,1776615659392910000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615659597351000,1776615659589977000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615659816479000,1776615659810282000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615660083309000,1776615660076997000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615660338835000,1776615660332076000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615660650125000,1776615660641916000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615660908715000,1776615660898847000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615661094738000,1776615661090846000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615661225078000,1776615661221009000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615661651065000,1776615661639441000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615662103807000,1776615662097603000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615662349185000,1776615662343325000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615662535816000,1776615662531704000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615662934895000,1776615662920117000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615663150395000,1776615663141890000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615663356978000,1776615663351898000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615663463664000,1776615663459948000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615663643487000,1776615663639788000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615663826581000,1776615663822283000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615663940875000,1776615663935271000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615664201954000,1776615664192832000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615664296041000,1776615664291832000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615664568263000,1776615664561386000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615664731331000,1776615664723747000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615664894832000,1776615664890187000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615665351058000,1776615665341665000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615665615895000,1776615665609306000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615665825167000,1776615665815674000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615666031953000,1776615666027141000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,4,1776615666333006000,1776615666321429000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615668233211000,1776615668225947000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615668358354000,1776615668354796000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615668653163000,1776615668644580000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615668881308000,1776615668873778000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615669080115000,1776615669075443000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615669306605000,1776615669300435000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615669588559000,1776615669582726000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615669784023000,1776615669779087000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615669941789000,1776615669937673000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615670069689000,1776615670064781000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615670233305000,1776615670228895000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615670446043000,1776615670438942000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615670563357000,1776615670559051000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615670912079000,1776615670903914000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615671107527000,1776615671103722000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615671346604000,1776615671340791000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615671583807000,1776615671577706000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615671926839000,1776615671920459000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615672207934000,1776615672201546000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615672365249000,1776615672360689000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615672550123000,1776615672546446000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615672709914000,1776615672705232000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615672935912000,1776615672929639000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615673132196000,1776615673124681000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615673411924000,1776615673403048000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615673596194000,1776615673587781000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615673777359000,1776615673771014000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615673927751000,1776615673923370000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615674650228000,1776615674637641000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615675334830000,1776615675327828000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615675595910000,1776615675589646000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615675802884000,1776615675796834000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615676047272000,1776615676041390000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615676296322000,1776615676290462000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615676473330000,1776615676468729000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615676874494000,1776615676867791000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615677851772000,1776615677841560000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615678039839000,1776615678034805000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615678165412000,1776615678161024000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615678310196000,1776615678305908000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615678457132000,1776615678449638000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615678620568000,1776615678616767000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615678755614000,1776615678747869000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615679008813000,1776615678999370000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615679299854000,1776615679292119000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615679479334000,1776615679474977000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615679688853000,1776615679678986000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615679910671000,1776615679904044000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615680232879000,1776615680224836000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615680581083000,1776615680573610000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615681034932000,1776615681026372000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615681300936000,1776615681291970000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615681611539000,1776615681600213000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615681705967000,1776615681699458000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615682090714000,1776615682080311000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615683548003000,1776615683535820000,55,Insert,l,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo l
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615683764644000,1776615683757120000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo le
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615683973093000,1776615683968247000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo led
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615684146068000,1776615684141983000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo led 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615684411464000,1776615684403430000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo led b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615684860770000,1776615684855360000,60,Delete,b,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo led 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615685062526000,1776615685059582000,59,Delete, ,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo led
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615685271212000,1776615685265084000,58,Delete,d,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo le
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615685462524000,1776615685457837000,57,Delete,e,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo l
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615685665448000,1776615685659155000,56,Delete,l,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615686110241000,1776615686102659000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615686335405000,1776615686328732000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615686540619000,1776615686532656000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615686667553000,1776615686663332000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615686949410000,1776615686943076000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615687200356000,1776615687189112000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615687313154000,1776615687308691000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615687504422000,1776615687500359000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615687693130000,1776615687688950000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615687820933000,1776615687814615000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615688042952000,1776615688034396000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615688154398000,1776615688147988000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615688408145000,1776615688401483000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615688550191000,1776615688544904000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615688857319000,1776615688849814000,69,Insert,s,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615688975468000,1776615688970211000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615689219209000,1776615689211355000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat sip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615689430717000,1776615689424070000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat sipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615689630572000,1776615689625364000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat siplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615690443548000,1776615690435819000,74,Delete,o,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat sipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615690497835000,1776615690491204000,73,Delete,l,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat sip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615690551048000,1776615690546337000,72,Delete,p,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615690601690000,1776615690598093000,71,Delete,i,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615691040679000,1776615691034685000,70,Delete,s,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615691479510000,1776615691473046000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615691644085000,1776615691637344000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615691930124000,1776615691920113000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615692166970000,1776615692158586000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615692425760000,1776615692415129000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,5,1776615692693134000,1776615692686129000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615695082889000,1776615695075403000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615695243511000,1776615695237614000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615695542177000,1776615695533756000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615695801960000,1776615695794319000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615696019547000,1776615696014864000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615696288256000,1776615696280701000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615696603970000,1776615696597913000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615696788975000,1776615696784292000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615696961639000,1776615696957858000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615697027449000,1776615697023729000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615697215743000,1776615697210065000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615697419298000,1776615697414969000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615697647692000,1776615697641104000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615697990324000,1776615697982117000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615698195230000,1776615698189398000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615698448357000,1776615698442265000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615698693329000,1776615698687142000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615698852531000,1776615698847559000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615699109714000,1776615699104035000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615699271677000,1776615699266874000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615699483935000,1776615699477965000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615699627914000,1776615699623391000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615699841943000,1776615699834785000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615700043542000,1776615700039790000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615700326356000,1776615700317136000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615700595909000,1776615700592251000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615700691187000,1776615700686511000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615700940535000,1776615700934246000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615701117057000,1776615701113157000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615701509948000,1776615701504265000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615701732182000,1776615701724404000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615701915706000,1776615701911472000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615702127692000,1776615702121512000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615702329654000,1776615702325038000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615702462039000,1776615702456737000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615702786092000,1776615702777594000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615703416613000,1776615703407619000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615703596905000,1776615703590880000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615703734024000,1776615703729248000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615703870060000,1776615703857684000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615704038995000,1776615704034333000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615704189671000,1776615704183589000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615704337592000,1776615704333297000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615704584479000,1776615704577943000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615704758500000,1776615704753710000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615704980007000,1776615704972480000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615705180535000,1776615705174274000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615705411829000,1776615705406136000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615705682391000,1776615705676011000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615705975431000,1776615705967955000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615706346115000,1776615706338753000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615706649388000,1776615706641797000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615707066515000,1776615707060091000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615707219078000,1776615707213971000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615707933157000,1776615707922778000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615708440594000,1776615708434303000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615708589338000,1776615708584695000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615708787070000,1776615708783135000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615708910471000,1776615708905681000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615709174612000,1776615709166053000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615709417976000,1776615709409172000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615709545636000,1776615709541675000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615709743541000,1776615709739532000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615709947082000,1776615709942543000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615710170289000,1776615710159365000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615710423627000,1776615710415385000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615710523902000,1776615710518481000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615710804244000,1776615710797781000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615710979682000,1776615710974923000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615711520877000,1776615711501733000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615711626466000,1776615711621068000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615711904377000,1776615711897397000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615712136513000,1776615712124586000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615712342031000,1776615712334718000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,6,1776615712681079000,1776615712673832000,74,Insert,k,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615715428676000,1776615715423027000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615715587583000,1776615715583967000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615715879193000,1776615715869061000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615716111809000,1776615716106306000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615716348482000,1776615716341850000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615716576002000,1776615716567967000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615716875217000,1776615716869427000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615717092130000,1776615717088211000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615717199231000,1776615717195485000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615717327767000,1776615717323309000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615717505053000,1776615717500942000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615717702581000,1776615717696608000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615717882274000,1776615717876655000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615718229489000,1776615718219979000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615718424897000,1776615718420710000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615718692023000,1776615718687919000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615718922613000,1776615718915977000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615719073759000,1776615719070263000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615719325803000,1776615719318571000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615719494312000,1776615719490677000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615719702771000,1776615719696527000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615719859707000,1776615719855898000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615720116966000,1776615720110891000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615720341025000,1776615720334778000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615720618552000,1776615720610062000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615720846246000,1776615720837999000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615720963446000,1776615720959001000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615721167991000,1776615721161266000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615721359538000,1776615721355160000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615721547650000,1776615721543800000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615721809443000,1776615721802609000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615721997132000,1776615721990248000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615722198070000,1776615722194188000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615722412282000,1776615722408353000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615722565892000,1776615722562001000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615722924387000,1776615722915131000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615723928183000,1776615723921151000,36,Insert,s,37,Ak mi prides pomoct dokoncit terasu s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615724133727000,1776615724129745000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu sa
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615724469716000,1776615724460588000,38,Delete,a,37,Ak mi prides pomoct dokoncit terasu s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615724657231000,1776615724654329000,37,Delete,s,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615725009869000,1776615725001231000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615725203888000,1776615725199609000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615725335239000,1776615725330542000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615725458016000,1776615725454251000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615725591088000,1776615725586793000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615725719008000,1776615725714685000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615725895035000,1776615725891066000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615726207156000,1776615726195606000,43,Insert,b,44,Ak mi prides pomoct dokoncit terasu dame sib
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615726399433000,1776615726394970000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame sibs
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615726668724000,1776615726658526000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame sibsp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615726863026000,1776615726859046000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame sibspo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615727308856000,1776615727303404000,47,Delete,o,46,Ak mi prides pomoct dokoncit terasu dame sibsp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615727537169000,1776615727531954000,46,Delete,p,45,Ak mi prides pomoct dokoncit terasu dame sibs
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615727722846000,1776615727717645000,45,Delete,s,44,Ak mi prides pomoct dokoncit terasu dame sib
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615727941973000,1776615727937279000,44,Delete,b,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615728301538000,1776615728291097000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615728869096000,1776615728852464000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615728966322000,1776615728960572000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615729171067000,1776615729167026000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615729366625000,1776615729360654000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615729645701000,1776615729639254000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615729951075000,1776615729941986000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615730445559000,1776615730439051000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615730702024000,1776615730692607000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615730951732000,1776615730943412000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615731053075000,1776615731047250000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615731509158000,1776615731504111000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615731968796000,1776615731964149000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615732124436000,1776615732118255000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615732347196000,1776615732340986000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615732482656000,1776615732475050000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615732782295000,1776615732772738000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615733147723000,1776615733140889000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615733332008000,1776615733328075000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615733512956000,1776615733508411000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615733722114000,1776615733715653000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615734187178000,1776615734176189000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615734456907000,1776615734449828000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615734557157000,1776615734552558000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615734830716000,1776615734824433000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615734959207000,1776615734954782000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615735189752000,1776615735182281000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615735319083000,1776615735314180000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615735596100000,1776615735586803000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615735836804000,1776615735826326000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615736041120000,1776615736033749000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,7,1776615736325476000,1776615736318711000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615739341216000,1776615739335644000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615739517754000,1776615739511477000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615739805452000,1776615739798881000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615740089369000,1776615740084504000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615740286524000,1776615740282997000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615740547487000,1776615740542741000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615740861486000,1776615740851920000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615741183526000,1776615741176575000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615741335511000,1776615741331172000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615741440809000,1776615741437142000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615741644692000,1776615741641000000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615741893809000,1776615741883336000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615742006967000,1776615742000983000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615742849938000,1776615742839738000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615743079667000,1776615743066980000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615743319827000,1776615743312498000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615743555556000,1776615743549501000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615743709953000,1776615743706121000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615743975992000,1776615743968964000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615744123564000,1776615744119616000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615744567911000,1776615744559966000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615744649622000,1776615744645896000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615744954983000,1776615744950755000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615745180964000,1776615745174329000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615745436279000,1776615745430069000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615745650026000,1776615745643861000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615745778341000,1776615745774707000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615745998099000,1776615745990281000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615746196508000,1776615746189203000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615746835224000,1776615746827508000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615747056492000,1776615747050446000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615747239816000,1776615747232847000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615747445989000,1776615747442176000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615747603893000,1776615747596334000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615747690695000,1776615747686849000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615748071969000,1776615748063739000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615748917669000,1776615748909444000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615749111269000,1776615749106120000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615749277787000,1776615749273536000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615749375965000,1776615749372119000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615749663435000,1776615749659021000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615749831486000,1776615749827325000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615749954370000,1776615749950097000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615750283778000,1776615750274905000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615750451368000,1776615750446596000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615750675509000,1776615750666167000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615750880877000,1776615750876220000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615751098919000,1776615751092725000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615751433959000,1776615751427434000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615751827053000,1776615751819288000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615752196838000,1776615752187136000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615752453830000,1776615752444250000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615752692490000,1776615752682215000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615752790795000,1776615752786112000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615753125167000,1776615753120859000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615753408784000,1776615753398880000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615753575349000,1776615753567711000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615753787029000,1776615753782979000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615753982300000,1776615753977809000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615754360164000,1776615754346284000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615754606312000,1776615754595539000,60,Insert,h,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bh
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615754767049000,1776615754760485000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bhd
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615754949237000,1776615754942556000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bhde
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615755305410000,1776615755301444000,63,Delete,e,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bhd
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615755508652000,1776615755505743000,62,Delete,d,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bh
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615755719853000,1776615755714887000,61,Delete,h,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615756194733000,1776615756189606000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615756435815000,1776615756429469000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615756608429000,1776615756601446000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615756827430000,1776615756812251000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615756929611000,1776615756920187000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615757183402000,1776615757176141000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615757298264000,1776615757294499000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615757575045000,1776615757567443000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615757744114000,1776615757736893000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615757934050000,1776615757929547000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615758073911000,1776615758067161000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615758743582000,1776615758734249000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615758951657000,1776615758942259000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615759179018000,1776615759168780000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,8,1776615759521973000,1776615759512818000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615761363038000,1776615761357631000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615761556757000,1776615761553372000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615761861424000,1776615761851085000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615763005073000,1776615762998027000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615763256244000,1776615763250256000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615763501729000,1776615763495430000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615763826062000,1776615763819340000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615764054398000,1776615764047761000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615764180502000,1776615764176649000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615764313644000,1776615764309965000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615764503744000,1776615764500292000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615764786176000,1776615764782751000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615765051114000,1776615765042711000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615765573247000,1776615765569264000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615765800765000,1776615765790983000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615766087001000,1776615766074983000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615766364454000,1776615766355558000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615766441651000,1776615766437521000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615766777732000,1776615766768051000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615766988768000,1776615766979789000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615767532736000,1776615767524615000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615767691958000,1776615767687566000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615767931206000,1776615767924406000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615768148725000,1776615768144564000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615768428124000,1776615768419868000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615768596905000,1776615768592951000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615768734001000,1776615768729266000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615768917834000,1776615768913779000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615769189304000,1776615769182298000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615770090230000,1776615770081003000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615770320662000,1776615770313348000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615770496269000,1776615770489220000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615770707949000,1776615770704134000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615770978876000,1776615770963582000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615771103828000,1776615771099456000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615771683415000,1776615771679289000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615772101890000,1776615772097191000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615772326832000,1776615772318374000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615772643565000,1776615772637413000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615772965735000,1776615772959502000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615773309179000,1776615773300115000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615773627141000,1776615773611797000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615773707145000,1776615773702742000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615774002749000,1776615773992142000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615774154468000,1776615774150254000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615774449087000,1776615774438980000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615774641784000,1776615774636700000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615774886713000,1776615774879181000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615775196973000,1776615775188572000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615775545297000,1776615775541118000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615776551295000,1776615776540295000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615776813038000,1776615776803170000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615777148954000,1776615777142351000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615777252492000,1776615777247971000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615777606057000,1776615777596293000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615777863951000,1776615777856850000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615778031870000,1776615778028004000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615778232307000,1776615778227565000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615778443201000,1776615778433138000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615778701068000,1776615778691536000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615778950256000,1776615778941561000,60,Insert,h,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bh
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615779049251000,1776615779040646000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bhd
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615779231576000,1776615779227239000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bhde
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615779442996000,1776615779435483000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bhdes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615779735026000,1776615779731011000,64,Delete,s,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bhde
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615779944130000,1776615779938241000,63,Delete,e,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bhd
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615780165864000,1776615780160364000,62,Delete,d,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bh
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615780377407000,1776615780373420000,61,Delete,h,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615780916768000,1776615780903571000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615781178312000,1776615781173890000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615781350125000,1776615781345232000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615781604842000,1776615781589847000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615781703780000,1776615781698751000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615781976166000,1776615781967009000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615782095302000,1776615782089626000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615782373951000,1776615782366555000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615782639866000,1776615782629219000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615783308873000,1776615783297122000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615783482107000,1776615783476631000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615783786186000,1776615783775550000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615783993093000,1776615783985794000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615784191470000,1776615784184412000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,9,1776615784519039000,1776615784512243000,74,Insert,.,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo.
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615787637010000,1776615787633549000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615787807110000,1776615787803483000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615788100503000,1776615788094115000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615788348874000,1776615788341596000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615788561668000,1776615788555898000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615788803495000,1776615788793623000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615789096294000,1776615789088076000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615789280756000,1776615789277183000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615789409388000,1776615789405769000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615789532764000,1776615789529239000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615789694467000,1776615789691001000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615789909260000,1776615789902576000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615790060983000,1776615790056837000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615790388824000,1776615790382745000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615790612379000,1776615790603472000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615790889367000,1776615790882341000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615791144643000,1776615791138260000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615791698448000,1776615791694815000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615791995827000,1776615791988945000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615792164312000,1776615792156059000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615792646684000,1776615792640440000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615792777545000,1776615792772650000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615793030145000,1776615793017568000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615793228541000,1776615793223711000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615793482672000,1776615793473282000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615793625758000,1776615793621883000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615793766720000,1776615793762853000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615793951438000,1776615793947427000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615794182143000,1776615794173779000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615794510219000,1776615794504003000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615795136753000,1776615795132554000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615795343320000,1776615795339254000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615795546599000,1776615795540850000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615795771726000,1776615795762340000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615795990049000,1776615795981209000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615796324781000,1776615796314898000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615796778584000,1776615796772839000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615797000666000,1776615796994916000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615797163111000,1776615797158997000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615797264883000,1776615797259246000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615797484963000,1776615797479005000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615797706479000,1776615797699812000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615797787076000,1776615797783565000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615798099568000,1776615798084549000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615798277531000,1776615798273017000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615798487128000,1776615798478039000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615798686071000,1776615798679632000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615798925931000,1776615798916306000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615799225009000,1776615799215597000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615799516896000,1776615799508091000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615800623235000,1776615800618459000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615800882908000,1776615800873094000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615801441954000,1776615801437171000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615801586141000,1776615801580594000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615801884936000,1776615801875838000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615802153278000,1776615802147460000,55,Insert,l,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo l
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615802305209000,1776615802291362000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo le
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615802499526000,1776615802494044000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo led
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615802666696000,1776615802660412000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo led 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615803096705000,1776615803093796000,59,Delete, ,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo led
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615803312945000,1776615803306105000,58,Delete,d,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo le
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615803515430000,1776615803511618000,57,Delete,e,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo l
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615803745878000,1776615803740628000,56,Delete,l,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615804097808000,1776615804091545000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615804342026000,1776615804332985000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615804630028000,1776615804621689000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615804727165000,1776615804722916000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615805038775000,1776615805027870000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615805304187000,1776615805296767000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615805414478000,1776615805409198000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615805599805000,1776615805595351000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615805836057000,1776615805827734000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615805949163000,1776615805944941000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615806251465000,1776615806242897000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615806349740000,1776615806345861000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615806648438000,1776615806639893000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615806804705000,1776615806799787000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615807095486000,1776615807091568000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615807223297000,1776615807218904000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615807507649000,1776615807498122000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615807713517000,1776615807706865000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615807924681000,1776615807919673000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,10,1776615808521188000,1776615808515856000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615810288128000,1776615810283159000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615810447572000,1776615810444016000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615810759086000,1776615810749788000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615811029390000,1776615811021607000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615811249266000,1776615811244174000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615811513691000,1776615811504684000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615811827744000,1776615811818934000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615812031372000,1776615812024801000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615812152999000,1776615812149414000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615812287706000,1776615812284332000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615812465565000,1776615812461321000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615812665306000,1776615812658604000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615812785624000,1776615812781080000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615813109332000,1776615813099795000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615813312885000,1776615813306061000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615813583035000,1776615813577154000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615813861499000,1776615813852393000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615813995919000,1776615813991375000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615814265516000,1776615814259232000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615814479697000,1776615814470280000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615814723119000,1776615814716848000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615814839399000,1776615814833449000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615815042385000,1776615815038650000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615815264157000,1776615815259000000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615815547532000,1776615815536038000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615815676057000,1776615815671620000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615815841440000,1776615815836951000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615816038497000,1776615816032496000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615816372298000,1776615816364279000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615816626388000,1776615816619669000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615816866703000,1776615816857120000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615817079820000,1776615817076352000,31,Insert,t,32,Ak mi prides pomoct dokoncit tet
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615817301101000,1776615817297071000,32,Insert,s,33,Ak mi prides pomoct dokoncit tets
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615817496223000,1776615817491849000,33,Insert,s,34,Ak mi prides pomoct dokoncit tetss
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615817840407000,1776615817832003000,34,Delete,s,33,Ak mi prides pomoct dokoncit tets
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615818039264000,1776615818035985000,33,Delete,s,32,Ak mi prides pomoct dokoncit tet
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615818273873000,1776615818268937000,32,Delete,t,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615819096976000,1776615819088089000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615819679756000,1776615819675675000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615819894640000,1776615819888702000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615820081849000,1776615820071335000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615820369319000,1776615820360642000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615820509119000,1776615820505296000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615821059252000,1776615821053018000,37,Delete,d,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615821707160000,1776615821697605000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615821905413000,1776615821900921000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615822072148000,1776615822067531000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615822185203000,1776615822180123000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615822361728000,1776615822357779000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615822528349000,1776615822523923000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615822651822000,1776615822647937000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615822926388000,1776615822918362000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615823131458000,1776615823127368000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615823344149000,1776615823337044000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615823546131000,1776615823542377000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615823765734000,1776615823761826000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615824047302000,1776615824037268000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615824344550000,1776615824337741000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615825107745000,1776615825099988000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615825348478000,1776615825344184000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615825641946000,1776615825629570000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615825732971000,1776615825726208000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615826081435000,1776615826071277000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615826333507000,1776615826327384000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615826473898000,1776615826470155000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615826688703000,1776615826683490000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615826813639000,1776615826809356000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615827068963000,1776615827063009000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615827287494000,1776615827280909000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615827402529000,1776615827396058000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615827599836000,1776615827594286000,62,Insert,d,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budd
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615827803433000,1776615827797100000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budds
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615827952186000,1776615827942259000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budds 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615828284646000,1776615828278211000,65,Delete, ,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budds
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615828520148000,1776615828514773000,64,Delete,s,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budd
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615828725552000,1776615828719385000,63,Delete,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615829166459000,1776615829159913000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615829418496000,1776615829409431000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615829607920000,1776615829600861000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615829968031000,1776615829958621000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615830128503000,1776615830122909000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615830422624000,1776615830416421000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615831273601000,1776615831260335000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615831592708000,1776615831583182000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615831885363000,1776615831877549000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615832159825000,1776615832153357000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615832418863000,1776615832408572000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615832647795000,1776615832638943000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,11,1776615832904202000,1776615832895473000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615835076206000,1776615835070769000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615835252244000,1776615835247925000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615835514329000,1776615835504263000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615835772083000,1776615835764928000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615835998237000,1776615835991747000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615836264550000,1776615836256689000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615836578062000,1776615836570597000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615836756466000,1776615836751935000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615836895901000,1776615836891092000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615837008391000,1776615837004820000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615837196096000,1776615837187311000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615837424583000,1776615837414520000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615837568454000,1776615837563588000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615837941334000,1776615837935371000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615838160258000,1776615838154296000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615838448164000,1776615838438953000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615838680898000,1776615838670907000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615838764651000,1776615838760696000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615839042117000,1776615839036408000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615839233652000,1776615839229324000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615839549911000,1776615839539966000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615839649516000,1776615839646307000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615839879366000,1776615839875539000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615840087254000,1776615840083570000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615840342951000,1776615840331986000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615840451900000,1776615840447726000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615840589823000,1776615840585058000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615840775241000,1776615840770931000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615841045928000,1776615841035547000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615841345746000,1776615841338897000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615841555218000,1776615841550220000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615841737102000,1776615841731227000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615841944092000,1776615841940281000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615842145195000,1776615842138531000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615842254474000,1776615842250741000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615842657667000,1776615842648612000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615845290606000,1776615845283689000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615845518997000,1776615845511712000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615845679046000,1776615845674912000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615845777358000,1776615845773354000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615846375826000,1776615846363617000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615846509426000,1776615846503711000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615846690339000,1776615846684660000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615846979092000,1776615846969630000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615847121073000,1776615847115986000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615847367764000,1776615847359454000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615847568726000,1776615847560354000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615847785448000,1776615847779143000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615848052520000,1776615848044548000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615848396197000,1776615848389777000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615848778371000,1776615848770254000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615849057029000,1776615849048557000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615849365996000,1776615849357332000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615849455484000,1776615849451474000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615849788584000,1776615849780467000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615850074009000,1776615850068611000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615850232996000,1776615850228928000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615850477938000,1776615850471731000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615850644621000,1776615850637963000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615850895228000,1776615850885971000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615851155966000,1776615851146627000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615851281591000,1776615851277245000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615851473850000,1776615851464113000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615851706315000,1776615851699815000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615851938869000,1776615851929548000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615852243710000,1776615852236439000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615852395494000,1776615852390631000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615852710762000,1776615852702825000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615852960007000,1776615852947864000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615853336812000,1776615853327566000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615853525820000,1776615853520620000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615853820912000,1776615853810018000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615854041452000,1776615854032372000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615854251854000,1776615854247108000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,12,1776615854539144000,1776615854529822000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615856354133000,1776615856348465000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615856554862000,1776615856551289000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615856845395000,1776615856837752000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615857084522000,1776615857080799000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615857304658000,1776615857295142000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615857564598000,1776615857558360000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615857858300000,1776615857848790000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615858052289000,1776615858046119000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615858198748000,1776615858193445000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615858314079000,1776615858309926000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615858501870000,1776615858496603000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615858731494000,1776615858723999000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615858851555000,1776615858845857000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615859287145000,1776615859280088000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615859484343000,1776615859480703000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615859784413000,1776615859773325000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615860101691000,1776615860093445000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615860304600000,1776615860299974000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615860491833000,1776615860486263000,18,Insert,o,19,Ak mi prides pomoco
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615860623927000,1776615860618438000,19,Insert,t,20,Ak mi prides pomocot
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615860885513000,1776615860878056000,20,Insert, ,21,Ak mi prides pomocot 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615861331381000,1776615861326974000,21,Delete, ,20,Ak mi prides pomocot
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615861545137000,1776615861540013000,20,Delete,t,19,Ak mi prides pomoco
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615861740961000,1776615861738392000,19,Delete,o,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615861966803000,1776615861961526000,18,Delete,c,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615862756360000,1776615862749918000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615863020101000,1776615863014378000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615863217430000,1776615863207480000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615863376739000,1776615863372669000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615863499183000,1776615863495153000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615863725785000,1776615863717150000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615863926974000,1776615863919689000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615864170074000,1776615864161535000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615864308608000,1776615864304680000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615864478105000,1776615864474557000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615864664607000,1776615864660676000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615864884245000,1776615864874134000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615865141476000,1776615865137223000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615865387456000,1776615865380681000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615865579451000,1776615865570206000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615865786785000,1776615865780725000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615865972198000,1776615865961384000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615866097890000,1776615866094329000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615866442670000,1776615866435058000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615866988935000,1776615866982509000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615867169672000,1776615867165831000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615867329828000,1776615867325183000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615867377632000,1776615867373682000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615867664169000,1776615867659483000,40,Insert,s,41,Ak mi prides pomoct dokoncit terasu dames
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615867897005000,1776615867884271000,41,Insert, ,42,Ak mi prides pomoct dokoncit terasu dames 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615868360881000,1776615868357232000,42,Delete, ,41,Ak mi prides pomoct dokoncit terasu dames
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615868568109000,1776615868563621000,41,Delete,s,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615868887140000,1776615868878553000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615869038554000,1776615869033559000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615869218647000,1776615869213621000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615869504214000,1776615869495240000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615869692957000,1776615869688140000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615869815531000,1776615869810810000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615870577654000,1776615870567392000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615870809020000,1776615870803302000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615871111666000,1776615871105874000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615871482085000,1776615871471755000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615873013663000,1776615873005428000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615873245803000,1776615873237629000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615873435370000,1776615873431217000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615873539260000,1776615873532201000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615873849014000,1776615873841058000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615874120162000,1776615874113516000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615874241121000,1776615874233658000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615874460089000,1776615874455668000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615874602702000,1776615874597143000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615874863055000,1776615874855496000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615875095983000,1776615875088963000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615875243107000,1776615875238583000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615875454039000,1776615875447509000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615875664255000,1776615875656174000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615875847363000,1776615875843210000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615876495390000,1776615876488714000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615876620051000,1776615876614851000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615876887431000,1776615876879732000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615877089916000,1776615877085206000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615877217392000,1776615877212283000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615877389694000,1776615877384645000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615877677097000,1776615877667322000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615877856102000,1776615877851929000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615878066878000,1776615878056008000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,13,1776615878638660000,1776615878634259000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615880157891000,1776615880151747000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615880327778000,1776615880323888000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615880625914000,1776615880616900000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615880863858000,1776615880857893000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615881082191000,1776615881076332000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615881355428000,1776615881348353000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615881662921000,1776615881656676000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615881831049000,1776615881825822000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615881973213000,1776615881968135000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615882061522000,1776615882057101000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615882236849000,1776615882232881000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615882428188000,1776615882424582000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615882597320000,1776615882589967000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615882968782000,1776615882962149000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615883181163000,1776615883174856000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615883442789000,1776615883432447000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615883680787000,1776615883671973000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615883755360000,1776615883752094000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615884025780000,1776615884018622000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615884203208000,1776615884198046000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615884359769000,1776615884355133000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615884520437000,1776615884511537000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615884730271000,1776615884723844000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615884963003000,1776615884955972000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615885210818000,1776615885204012000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615885357422000,1776615885353607000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615885500266000,1776615885496388000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615885670804000,1776615885667210000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615885971228000,1776615885963077000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615886765815000,1776615886757558000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615886994222000,1776615886987928000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615887176965000,1776615887171068000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615887386137000,1776615887382272000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615887529523000,1776615887521451000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615887629667000,1776615887625827000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615888299068000,1776615888294145000,35,Delete,u,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615889140916000,1776615889132824000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615889430002000,1776615889422746000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615889573902000,1776615889570007000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615889853268000,1776615889847244000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615890017867000,1776615890013895000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615890112617000,1776615890109022000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615890295773000,1776615890291885000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615890404193000,1776615890400067000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615890565995000,1776615890562140000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615890833724000,1776615890826802000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615891086230000,1776615891082259000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615891291428000,1776615891284843000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615891506350000,1776615891502593000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615891724208000,1776615891716586000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615892010899000,1776615892002111000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615892289274000,1776615892279943000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615892610104000,1776615892606273000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615892833372000,1776615892829273000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615893025071000,1776615893021023000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615893162849000,1776615893158532000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615893502247000,1776615893495474000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615894427223000,1776615894411780000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615894532671000,1776615894527987000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615894754612000,1776615894746924000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615894862964000,1776615894858043000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615895106157000,1776615895096756000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615895309863000,1776615895305651000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615895416126000,1776615895408774000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615895598690000,1776615895594991000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615895814010000,1776615895809022000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615895944046000,1776615895935128000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615896198219000,1776615896186953000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615896311354000,1776615896306850000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615896597500000,1776615896590478000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615896805335000,1776615896799482000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615897136993000,1776615897130299000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615897301941000,1776615897296026000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615897582063000,1776615897575314000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615897804417000,1776615897799456000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615898020282000,1776615898012598000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,14,1776615898256663000,1776615898250031000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615900550282000,1776615900541663000,0,Insert,a,1,a
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615900912904000,1776615900908511000,1,Delete,a,0,
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615901234666000,1776615901228053000,0,Insert,A,1,A
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615901437343000,1776615901430005000,1,Insert,k,2,Ak
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615901812411000,1776615901806137000,2,Insert, ,3,Ak 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615902099203000,1776615902095498000,3,Insert,m,4,Ak m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615902323507000,1776615902316401000,4,Insert,i,5,Ak mi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615902577263000,1776615902570221000,5,Insert, ,6,Ak mi 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615902867054000,1776615902853723000,6,Insert,p,7,Ak mi p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615903041487000,1776615903037443000,7,Insert,r,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615903196084000,1776615903191877000,8,Insert,o,9,Ak mi pro
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615903288159000,1776615903284149000,9,Insert,d,10,Ak mi prod
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615903469487000,1776615903464378000,10,Insert,e,11,Ak mi prode
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615903682501000,1776615903678706000,11,Insert,s,12,Ak mi prodes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615904161292000,1776615904157738000,12,Delete,s,11,Ak mi prode
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615904365191000,1776615904361463000,11,Delete,e,10,Ak mi prod
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615904563981000,1776615904561238000,10,Delete,d,9,Ak mi pro
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615904791270000,1776615904786642000,9,Delete,o,8,Ak mi pr
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615905087636000,1776615905082279000,8,Insert,i,9,Ak mi pri
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615905319405000,1776615905313554000,9,Insert,d,10,Ak mi prid
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615905506113000,1776615905500914000,10,Insert,e,11,Ak mi pride
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615905717400000,1776615905711744000,11,Insert,s,12,Ak mi prides
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615905856591000,1776615905852689000,12,Insert, ,13,Ak mi prides 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615906427921000,1776615906417784000,13,Insert,p,14,Ak mi prides p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615906629555000,1776615906626065000,14,Insert,o,15,Ak mi prides po
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615906896568000,1776615906890946000,15,Insert,m,16,Ak mi prides pom
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615907135731000,1776615907129957000,16,Insert,o,17,Ak mi prides pomo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615907246889000,1776615907243128000,17,Insert,c,18,Ak mi prides pomoc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615907530077000,1776615907524836000,18,Insert,t,19,Ak mi prides pomoct
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615907716492000,1776615907711384000,19,Insert, ,20,Ak mi prides pomoct 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615908413897000,1776615908406778000,20,Insert,d,21,Ak mi prides pomoct d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615908585466000,1776615908581165000,21,Insert,o,22,Ak mi prides pomoct do
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615908805623000,1776615908795658000,22,Insert,k,23,Ak mi prides pomoct dok
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615908985979000,1776615908979398000,23,Insert,o,24,Ak mi prides pomoct doko
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615909233135000,1776615909219259000,24,Insert,n,25,Ak mi prides pomoct dokon
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615909394255000,1776615909386314000,25,Insert,c,26,Ak mi prides pomoct dokonc
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615909487626000,1776615909483882000,26,Insert,i,27,Ak mi prides pomoct dokonci
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615909745254000,1776615909737375000,27,Insert,t,28,Ak mi prides pomoct dokoncit
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615909998931000,1776615909989897000,28,Insert, ,29,Ak mi prides pomoct dokoncit 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615910540825000,1776615910533846000,29,Insert,t,30,Ak mi prides pomoct dokoncit t
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615910751333000,1776615910746853000,30,Insert,e,31,Ak mi prides pomoct dokoncit te
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615910925338000,1776615910921644000,31,Insert,r,32,Ak mi prides pomoct dokoncit ter
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615911148426000,1776615911144405000,32,Insert,a,33,Ak mi prides pomoct dokoncit tera
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615911368714000,1776615911357567000,33,Insert,s,34,Ak mi prides pomoct dokoncit teras
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615911477693000,1776615911473602000,34,Insert,u,35,Ak mi prides pomoct dokoncit terasu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615911887459000,1776615911877221000,35,Insert, ,36,Ak mi prides pomoct dokoncit terasu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615912362148000,1776615912356403000,36,Insert,d,37,Ak mi prides pomoct dokoncit terasu d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615912564295000,1776615912560293000,37,Insert,a,38,Ak mi prides pomoct dokoncit terasu da
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615912709887000,1776615912706242000,38,Insert,m,39,Ak mi prides pomoct dokoncit terasu dam
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615912800173000,1776615912795720000,39,Insert,e,40,Ak mi prides pomoct dokoncit terasu dame
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615913043024000,1776615913035303000,40,Insert, ,41,Ak mi prides pomoct dokoncit terasu dame 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615913233537000,1776615913229548000,41,Insert,s,42,Ak mi prides pomoct dokoncit terasu dame s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615913371311000,1776615913364206000,42,Insert,i,43,Ak mi prides pomoct dokoncit terasu dame si
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615913632029000,1776615913626018000,43,Insert, ,44,Ak mi prides pomoct dokoncit terasu dame si 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615913855696000,1776615913847387000,44,Insert,s,45,Ak mi prides pomoct dokoncit terasu dame si s
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615914103425000,1776615914093552000,45,Insert,p,46,Ak mi prides pomoct dokoncit terasu dame si sp
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615914291903000,1776615914282784000,46,Insert,o,47,Ak mi prides pomoct dokoncit terasu dame si spo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615914510230000,1776615914504074000,47,Insert,l,48,Ak mi prides pomoct dokoncit terasu dame si spol
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615914789061000,1776615914782464000,48,Insert,u,49,Ak mi prides pomoct dokoncit terasu dame si spolu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615915477157000,1776615915463930000,49,Insert, ,50,Ak mi prides pomoct dokoncit terasu dame si spolu 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615916515698000,1776615916497843000,50,Insert,p,51,Ak mi prides pomoct dokoncit terasu dame si spolu p
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615916753348000,1776615916743609000,51,Insert,i,52,Ak mi prides pomoct dokoncit terasu dame si spolu pi
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615917129035000,1776615917121542000,52,Insert,v,53,Ak mi prides pomoct dokoncit terasu dame si spolu piv
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615917234802000,1776615917230483000,53,Insert,o,54,Ak mi prides pomoct dokoncit terasu dame si spolu pivo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615917526249000,1776615917519808000,54,Insert, ,55,Ak mi prides pomoct dokoncit terasu dame si spolu pivo 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615917781850000,1776615917775823000,55,Insert,k,56,Ak mi prides pomoct dokoncit terasu dame si spolu pivo k
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615917905491000,1776615917900776000,56,Insert,e,57,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ke
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615918118826000,1776615918110710000,57,Insert,d,58,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615918271692000,1776615918266504000,58,Insert, ,59,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615918504798000,1776615918498841000,59,Insert,b,60,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked b
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615918688054000,1776615918683071000,60,Insert,u,61,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bu
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615918784712000,1776615918781250000,61,Insert,d,62,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bud
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615918971657000,1776615918966349000,62,Insert,e,63,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked bude
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615919181293000,1776615919176466000,63,Insert,s,64,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615919339789000,1776615919324678000,64,Insert, ,65,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615919851843000,1776615919844006000,65,Insert,m,66,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes m
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615919942890000,1776615919938605000,66,Insert,a,67,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes ma
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615920205856000,1776615920198956000,67,Insert,t,68,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615920373260000,1776615920368697000,68,Insert, ,69,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat 
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615920589219000,1776615920584401000,69,Insert,d,70,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat d
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615920765078000,1776615920759130000,70,Insert,i,71,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat di
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615921063028000,1776615921055760000,71,Insert,p,72,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dip
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615921294702000,1776615921284657000,72,Insert,l,73,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat dipl
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615921490499000,1776615921485742000,73,Insert,o,74,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplo
+30m2mK6UrdfP8ENgCSldqeHYwjq2,15,1776615921767178000,1776615921756504000,74,Insert,m,75,Ak mi prides pomoct dokoncit terasu dame si spolu pivo ked budes mat diplom

@@ -1,0 +1,1348 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565172895202000,1772565172882602000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565172995877000,1772565172991890000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565173120526000,1772565173116651000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565173243914000,1772565173239052000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565173383411000,1772565173379069000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565173536094000,1772565173531087000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565173637288000,1772565173633331000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565173762846000,1772565173757873000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565173831153000,1772565173827715000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565173936349000,1772565173932256000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565174050844000,1772565174047298000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565174102613000,1772565174099034000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565174264636000,1772565174259724000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565174315714000,1772565174312045000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565174485755000,1772565174482008000,14,Insert,y,15,Absolutne neroy
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565174822141000,1772565174817993000,15,Delete,y,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565174951017000,1772565174944923000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565175068370000,1772565175064287000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565175256867000,1772565175253157000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565175427295000,1772565175423771000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565175501403000,1772565175497436000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565175615337000,1772565175611232000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565176164648000,1772565176157345000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565176259516000,1772565176255441000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565176398845000,1772565176394836000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565176812886000,1772565176807165000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565176908847000,1772565176904080000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177034910000,1772565177031324000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177126618000,1772565177121626000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177261192000,1772565177258918000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177436695000,1772565177432554000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177481885000,1772565177478511000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177636941000,1772565177632603000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177696723000,1772565177692168000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177836714000,1772565177832773000,32,Insert,n,33,"Absolutne nerozumiem, ze som sa n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565177932270000,1772565177928207000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565178325923000,1772565178323366000,34,Delete,a,33,"Absolutne nerozumiem, ze som sa n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565178490997000,1772565178488506000,33,Delete,n,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565178625546000,1772565178621316000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565178821073000,1772565178816942000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565178858381000,1772565178855699000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179049249000,1772565179044778000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179179086000,1772565179174980000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179242095000,1772565179237981000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179375911000,1772565179362507000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179497248000,1772565179493433000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179596075000,1772565179592174000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179692771000,1772565179689084000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179740467000,1772565179737494000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565179929590000,1772565179925578000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565180058083000,1772565180053750000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565180156824000,1772565180153215000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565180262130000,1772565180258080000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565180424586000,1772565180419846000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565180482989000,1772565180478856000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565180611437000,1772565180605966000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565180689911000,1772565180684912000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565180775014000,1772565180769886000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565181437321000,1772565181429053000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565181692282000,1772565181685466000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182039871000,1772565182031380000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182168324000,1772565182164277000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182262139000,1772565182256538000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182370361000,1772565182365379000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182481075000,1772565182475215000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182601041000,1772565182596205000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182758785000,1772565182754732000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182807014000,1772565182802185000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565182968009000,1772565182958762000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565183125961000,1772565183122135000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565183311182000,1772565183306983000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565183458814000,1772565183454389000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565183617648000,1772565183610767000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565183668932000,1772565183665034000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565183834619000,1772565183830791000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565183893551000,1772565183888834000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565184113607000,1772565184107192000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565184258122000,1772565184253691000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565184343394000,1772565184339692000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565184426623000,1772565184422583000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,1,1772565184580915000,1772565184575209000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187012079000,1772565187005953000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187126454000,1772565187123023000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187295557000,1772565187291795000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187387305000,1772565187383744000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187512753000,1772565187509258000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187667225000,1772565187662967000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187769026000,1772565187764975000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187895110000,1772565187891193000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565187973997000,1772565187970422000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565188054547000,1772565188050054000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565188178358000,1772565188174916000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565188237586000,1772565188231185000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565188375182000,1772565188371590000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565188454678000,1772565188450286000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565188729520000,1772565188723605000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565188841834000,1772565188833031000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565189052367000,1772565189046262000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565189218610000,1772565189214831000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565189317619000,1772565189311889000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565189406446000,1772565189402693000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565189878515000,1772565189872390000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565190069606000,1772565190064905000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565190237440000,1772565190233627000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565190427360000,1772565190421426000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565190544067000,1772565190538291000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565190639141000,1772565190634483000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565190772581000,1772565190768261000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565190930918000,1772565190926572000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565191112275000,1772565191108263000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565191163424000,1772565191156663000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565191346364000,1772565191340336000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565191435209000,1772565191429897000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565191531659000,1772565191527870000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565191720828000,1772565191716928000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565191769876000,1772565191765021000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565191956092000,1772565191952182000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192091393000,1772565192087627000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192161543000,1772565192157606000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192259081000,1772565192254383000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192393705000,1772565192389310000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192489736000,1772565192480419000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192581353000,1772565192577624000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192629019000,1772565192624898000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192822709000,1772565192818784000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565192940862000,1772565192935726000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565193036675000,1772565193031780000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565193151852000,1772565193146653000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565193328717000,1772565193324353000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565193394714000,1772565193390596000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565193492497000,1772565193488029000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565193576868000,1772565193572713000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565193667900000,1772565193663301000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565193860892000,1772565193856882000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565194308470000,1772565194300427000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565194480207000,1772565194476049000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565194893923000,1772565194886152000,55,Insert, ,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,  "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565195036032000,1772565195030036000,56,Insert,a,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,  a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565195284329000,1772565195280025000,57,Delete,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,  "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565195452989000,1772565195450408000,56,Delete, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565195633352000,1772565195629483000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565195731709000,1772565195727720000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565195833289000,1772565195829544000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565195963649000,1772565195958124000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565196060421000,1772565196055649000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565196218698000,1772565196214901000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565196266589000,1772565196261977000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565196417252000,1772565196413354000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565196573446000,1772565196566726000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565196729530000,1772565196724626000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565196880228000,1772565196876251000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197027733000,1772565197022758000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197058691000,1772565197055510000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197221331000,1772565197216232000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197286537000,1772565197281817000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197500783000,1772565197494694000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197645944000,1772565197641514000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197732637000,1772565197723232000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197808914000,1772565197804276000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,2,1772565197961340000,1772565197954794000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565199927745000,1772565199917365000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200004275000,1772565200000708000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200156269000,1772565200152518000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200248113000,1772565200242201000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200386930000,1772565200383099000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200537412000,1772565200533619000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200671819000,1772565200668223000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200773994000,1772565200770454000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200871947000,1772565200868375000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565200944300000,1772565200940731000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565201069167000,1772565201065036000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565201114970000,1772565201111307000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565201253479000,1772565201249852000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565201327266000,1772565201323341000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565201544287000,1772565201538110000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565201678958000,1772565201675354000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565201874350000,1772565201870398000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565202050400000,1772565202046460000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565202133825000,1772565202130300000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565202254842000,1772565202251338000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565202777601000,1772565202773083000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203042577000,1772565203035729000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203135537000,1772565203131949000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203338962000,1772565203332093000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203420684000,1772565203416620000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203536050000,1772565203532255000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203639731000,1772565203634228000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203793320000,1772565203786396000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203932057000,1772565203927956000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565203991194000,1772565203987128000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565204182101000,1772565204172441000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565204253089000,1772565204249082000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565204333754000,1772565204330033000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565204484352000,1772565204479983000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565204537143000,1772565204533856000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565204714407000,1772565204705726000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565204842458000,1772565204837927000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565204900766000,1772565204896612000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205022834000,1772565205018811000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205137907000,1772565205133522000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205236089000,1772565205231751000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205340508000,1772565205335970000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205392869000,1772565205388672000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205580862000,1772565205576751000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205710746000,1772565205706457000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205800304000,1772565205796521000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565205928715000,1772565205923563000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565206122523000,1772565206118582000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565206175838000,1772565206171755000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565206287544000,1772565206280027000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565206391318000,1772565206385414000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565206454384000,1772565206450453000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565206576685000,1772565206572947000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565207561685000,1772565207552972000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565207818485000,1772565207810288000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565207918812000,1772565207914490000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565208052963000,1772565208049235000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565208129963000,1772565208126078000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565208537965000,1772565208533879000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565208653641000,1772565208649621000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565208818525000,1772565208814561000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565208872653000,1772565208867918000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565209028276000,1772565209024016000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565209181675000,1772565209177258000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565209357468000,1772565209353087000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565209552215000,1772565209548051000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565209717639000,1772565209713707000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565209781552000,1772565209777869000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565209935771000,1772565209931117000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565209974584000,1772565209970816000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565210190574000,1772565210184543000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565210339515000,1772565210335699000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565210450629000,1772565210445851000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565210553615000,1772565210549237000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565210827794000,1772565210823117000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565210984670000,1772565210981776000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565211136983000,1772565211134347000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565211252077000,1772565211249191000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565211463261000,1772565211459163000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565211608806000,1772565211603718000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565211713955000,1772565211709061000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565211816236000,1772565211811553000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,3,1772565211960324000,1772565211956331000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565213933529000,1772565213927694000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214045946000,1772565214042173000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214183572000,1772565214177037000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214276319000,1772565214272880000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214412291000,1772565214408209000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214561907000,1772565214558420000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214660016000,1772565214655385000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214767527000,1772565214763426000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214860947000,1772565214857487000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565214961522000,1772565214956425000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565215103167000,1772565215099512000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565215169240000,1772565215164254000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565215316041000,1772565215312000000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565215373818000,1772565215369988000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565215542904000,1772565215540255000,14,Insert,u,15,Absolutne nerou
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565215763214000,1772565215756691000,15,Insert,z,16,Absolutne nerouz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565215952231000,1772565215948137000,16,Delete,z,15,Absolutne nerou
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565216105009000,1772565216101020000,15,Delete,u,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565216199347000,1772565216195754000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565216311738000,1772565216306236000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565216480649000,1772565216476857000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565216653339000,1772565216647345000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565216726850000,1772565216723192000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565216820294000,1772565216816461000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565217200010000,1772565217192440000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565217939131000,1772565217929813000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565218384994000,1772565218381335000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565218596059000,1772565218586669000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565218728097000,1772565218721145000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565218815748000,1772565218811277000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565218968211000,1772565218963431000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565219119702000,1772565219115855000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565219308486000,1772565219304183000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565219354294000,1772565219350911000,29,Insert,a,30,"Absolutne nerozumiem, ze som a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565219559421000,1772565219553021000,30,Insert,a,31,"Absolutne nerozumiem, ze som aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565219649202000,1772565219644629000,31,Insert, ,32,"Absolutne nerozumiem, ze som aa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565220169717000,1772565220165393000,32,Delete, ,31,"Absolutne nerozumiem, ze som aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565220319843000,1772565220315897000,31,Delete,a,30,"Absolutne nerozumiem, ze som a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565220484178000,1772565220481594000,30,Delete,a,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565221207077000,1772565221203540000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565221394314000,1772565221390372000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565221490845000,1772565221487106000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565221595111000,1772565221590834000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565221773090000,1772565221769160000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565221819862000,1772565221816157000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565221989238000,1772565221985174000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565222130735000,1772565222126466000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565222199371000,1772565222195955000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565222305785000,1772565222300758000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565222426578000,1772565222422785000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565222538324000,1772565222531683000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565222617874000,1772565222613379000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565222675222000,1772565222670788000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565222877945000,1772565222873820000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223023939000,1772565223020014000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223113483000,1772565223108680000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223248462000,1772565223242480000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223395384000,1772565223391427000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223470232000,1772565223466374000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223589007000,1772565223583601000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223680934000,1772565223675507000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223738555000,1772565223734579000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565223874024000,1772565223868966000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565224565301000,1772565224558465000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565224757671000,1772565224753821000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565224884704000,1772565224881030000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565224994287000,1772565224989166000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565225074656000,1772565225068806000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565225210723000,1772565225205690000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565225308413000,1772565225300542000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565225434877000,1772565225430275000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565225466785000,1772565225463643000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565225632502000,1772565225628423000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565225797818000,1772565225791956000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565225967098000,1772565225962992000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565226125246000,1772565226121383000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565226296842000,1772565226291450000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565226349221000,1772565226339067000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565226512279000,1772565226508258000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565226581227000,1772565226575878000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565226807159000,1772565226799892000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565226947250000,1772565226939823000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565227035121000,1772565227031063000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565227128564000,1772565227122797000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,4,1772565227285294000,1772565227281183000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565229698675000,1772565229691850000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565229818959000,1772565229812988000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565229946964000,1772565229942989000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230066350000,1772565230062453000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230207032000,1772565230202464000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230357981000,1772565230354096000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230460750000,1772565230457289000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230582654000,1772565230578677000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230668296000,1772565230664923000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230746361000,1772565230742780000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230864229000,1772565230860822000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565230928767000,1772565230925323000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565231056958000,1772565231052692000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565231208776000,1772565231205382000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565231342601000,1772565231339165000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565231464138000,1772565231460474000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565231647250000,1772565231643566000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565231827241000,1772565231823457000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565231887949000,1772565231884311000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565231984461000,1772565231980796000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565232380805000,1772565232375334000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565232843895000,1772565232837655000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565232949666000,1772565232946013000,22,Insert,s,23,"Absolutne nerozumiem, s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565233173808000,1772565233168021000,23,Insert,e,24,"Absolutne nerozumiem, se"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565233261032000,1772565233258964000,24,Insert, ,25,"Absolutne nerozumiem, se "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565233497006000,1772565233495385000,25,Delete, ,24,"Absolutne nerozumiem, se"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565233654988000,1772565233653544000,24,Delete,e,23,"Absolutne nerozumiem, s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565233802920000,1772565233801385000,23,Delete,s,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565233868893000,1772565233866699000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565234045111000,1772565234042783000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565234117343000,1772565234114864000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565234249338000,1772565234247319000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565234358907000,1772565234356851000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565234510430000,1772565234508475000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565234711796000,1772565234707555000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565234756811000,1772565234752951000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565234932434000,1772565234928593000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235019052000,1772565235014934000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235092121000,1772565235087714000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235268050000,1772565235264096000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235308857000,1772565235306039000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235497090000,1772565235493166000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235633908000,1772565235629923000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235695996000,1772565235692652000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235819829000,1772565235815006000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565235995327000,1772565235991542000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565236074001000,1772565236070161000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565236171552000,1772565236166568000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565236225961000,1772565236221641000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565236424526000,1772565236416482000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565236589815000,1772565236581377000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565236662457000,1772565236658467000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565236796533000,1772565236792136000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565236986366000,1772565236980401000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565237070851000,1772565237065903000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565237148859000,1772565237144971000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565237259411000,1772565237255036000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565237313270000,1772565237309304000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565237481678000,1772565237477893000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565238108972000,1772565238098534000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565238275889000,1772565238267121000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565238399776000,1772565238394869000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565238509063000,1772565238504096000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565238569329000,1772565238565504000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565238703576000,1772565238697868000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565238792627000,1772565238786800000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565238973338000,1772565238967643000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565239012268000,1772565239008209000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565239170305000,1772565239165109000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565239335506000,1772565239330655000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565239497395000,1772565239493520000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565239720694000,1772565239713344000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565239893534000,1772565239889811000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565239918552000,1772565239915384000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565240124177000,1772565240121853000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565240179329000,1772565240173121000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565240397447000,1772565240391558000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565240548097000,1772565240543895000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565240621773000,1772565240617552000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565240736667000,1772565240732630000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565240996323000,1772565240992662000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565241141828000,1772565241139368000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565241301353000,1772565241295541000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565241431550000,1772565241429019000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565241636805000,1772565241630127000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565241778746000,1772565241774119000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565241906504000,1772565241902402000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565242027299000,1772565242022793000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,5,1772565242178461000,1772565242174351000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565245351416000,1772565245344722000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565245451203000,1772565245447290000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565245583667000,1772565245579600000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565245699042000,1772565245694687000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565245830687000,1772565245826722000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565245984278000,1772565245979573000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246105037000,1772565246101400000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246190896000,1772565246186444000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246305129000,1772565246301329000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246366397000,1772565246362488000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246507342000,1772565246503402000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246560510000,1772565246556140000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246711627000,1772565246708173000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246784290000,1772565246780881000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565246967455000,1772565246963529000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565247045700000,1772565247042118000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565247226042000,1772565247222414000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565247400505000,1772565247396758000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565247452747000,1772565247448949000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565247573742000,1772565247570133000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565248035319000,1772565248024829000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565248417100000,1772565248408966000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565248667301000,1772565248661841000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565248860152000,1772565248856603000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565248976420000,1772565248972524000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565249105142000,1772565249101228000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565249205963000,1772565249202154000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565249362594000,1772565249358934000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565249536525000,1772565249532402000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565249575775000,1772565249572079000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565249746656000,1772565249742681000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565249825611000,1772565249821446000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565249940288000,1772565249936495000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565250129301000,1772565250125258000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565250163509000,1772565250159709000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565250364142000,1772565250360263000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565250505700000,1772565250501501000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565250582903000,1772565250579519000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565250700110000,1772565250695944000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565250869347000,1772565250865192000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565250950113000,1772565250945570000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565251040118000,1772565251036034000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565251098937000,1772565251095093000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565251288477000,1772565251283685000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565251424679000,1772565251419609000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565251511582000,1772565251507755000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565251646348000,1772565251641416000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565251834861000,1772565251829906000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565251918155000,1772565251914410000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565252003047000,1772565251999219000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565252108440000,1772565252103841000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565252161878000,1772565252157526000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565252324772000,1772565252321080000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565253315645000,1772565253307979000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565253602112000,1772565253596362000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565253769323000,1772565253765070000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565253876257000,1772565253870086000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565253963299000,1772565253959139000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565254078529000,1772565254072328000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565254180898000,1772565254172609000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565254300724000,1772565254296521000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565254343754000,1772565254340458000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565254506617000,1772565254499942000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565254656545000,1772565254652220000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565254843645000,1772565254839594000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565255032792000,1772565255025266000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565255199743000,1772565255196624000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565255237525000,1772565255233521000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565255883150000,1772565255876944000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565256025584000,1772565256021369000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565256321199000,1772565256314732000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565256476816000,1772565256472005000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565256556031000,1772565256551693000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565256659158000,1772565256654545000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,6,1772565256804587000,1772565256800741000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565258857337000,1772565258850450000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565258939987000,1772565258934570000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565259323267000,1772565259317922000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565259425089000,1772565259421633000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565259577749000,1772565259570773000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565259726511000,1772565259722741000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565259814876000,1772565259812718000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565259926886000,1772565259922842000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565260001143000,1772565259997754000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565260783360000,1772565260773382000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565261234959000,1772565261230813000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565261296768000,1772565261292814000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565261472898000,1772565261469235000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565261649087000,1772565261645455000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565261789434000,1772565261785435000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565261873463000,1772565261869796000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565262064702000,1772565262057637000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565262231577000,1772565262226285000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565262310006000,1772565262306530000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565262406972000,1772565262403339000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565263001716000,1772565262993375000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565263236958000,1772565263228845000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565264059100000,1772565264053202000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565264222248000,1772565264217389000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565264338078000,1772565264333598000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565264464610000,1772565264461144000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565264603815000,1772565264598969000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565264784869000,1772565264781317000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565264978800000,1772565264975088000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565265615416000,1772565265605562000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565265796131000,1772565265791936000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565265865361000,1772565265861598000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565266046420000,1772565266042631000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565266243209000,1772565266239454000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565266275017000,1772565266272106000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565266954674000,1772565266945052000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565267277431000,1772565267269728000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565267369754000,1772565267365973000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565267480613000,1772565267475568000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565267819279000,1772565267812519000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565267888084000,1772565267879326000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565267983053000,1772565267978873000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565268041081000,1772565268037468000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565268258380000,1772565268251820000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565268406997000,1772565268402016000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565268486122000,1772565268482335000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565268630889000,1772565268626112000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565268813452000,1772565268809305000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565268847106000,1772565268843168000,48,Insert,c,49,"Absolutne nerozumiem, ze som sa dal na toto nahoc"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565268970458000,1772565268966027000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahoco"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565269051507000,1772565269047413000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahocor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565269148218000,1772565269142589000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahocori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565269394842000,1772565269391086000,52,Delete,i,51,"Absolutne nerozumiem, ze som sa dal na toto nahocor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565269538742000,1772565269536308000,51,Delete,r,50,"Absolutne nerozumiem, ze som sa dal na toto nahoco"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565269703123000,1772565269700760000,50,Delete,o,49,"Absolutne nerozumiem, ze som sa dal na toto nahoc"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565269835849000,1772565269833188000,49,Delete,c,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565270514444000,1772565270505869000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565270614245000,1772565270610453000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565270755381000,1772565270751546000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565270809260000,1772565270804850000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565270929891000,1772565270925762000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565271561660000,1772565271552449000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565271817154000,1772565271810545000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565271967448000,1772565271963397000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565272063364000,1772565272058839000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565272135909000,1772565272131737000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565272288849000,1772565272284446000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565272336333000,1772565272332304000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565272551235000,1772565272545104000,60,Insert,a,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565272641000000,1772565272636400000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aap"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565272816491000,1772565272812436000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aapo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565273077357000,1772565273073672000,63,Delete,o,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aap"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565273220911000,1772565273218056000,62,Delete,p,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565273372582000,1772565273370040000,61,Delete,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565273501701000,1772565273498257000,60,Delete,a,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565273559896000,1772565273556079000,59,Insert,s,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565273733108000,1772565273727885000,60,Insert,p,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale sp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565274013643000,1772565274008761000,61,Delete,p,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565274168986000,1772565274166050000,60,Delete,s,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565274780246000,1772565274776182000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565274969111000,1772565274965553000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565275053539000,1772565275049495000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565275198551000,1772565275194609000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565275332659000,1772565275328328000,63,Insert,j,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspoj"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565275531995000,1772565275523376000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspoj "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565275688252000,1772565275684669000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspoj b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565275957191000,1772565275953530000,66,Delete,b,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspoj "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565276117138000,1772565276106628000,65,Delete, ,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspoj"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565276258272000,1772565276254256000,64,Delete,j,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565276442601000,1772565276438402000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565276676312000,1772565276669948000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565276972804000,1772565276964711000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565277122520000,1772565277118719000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565277156723000,1772565277153566000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565277329105000,1772565277324832000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565277395666000,1772565277391460000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565277603535000,1772565277596350000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565277749454000,1772565277743126000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565277822631000,1772565277816402000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565277952932000,1772565277948907000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565278198324000,1772565278194404000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565278348662000,1772565278345360000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565278498956000,1772565278495716000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565278639266000,1772565278636075000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565278895289000,1772565278888876000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565279047232000,1772565279041059000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565279163648000,1772565279156820000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565279269737000,1772565279264413000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,7,1772565279417930000,1772565279413936000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565281555201000,1772565281551503000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565281662083000,1772565281657743000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565282021493000,1772565282016987000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565282392848000,1772565282386828000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565282568301000,1772565282564105000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565282723601000,1772565282719993000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565282838922000,1772565282835079000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565282935938000,1772565282932466000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283027348000,1772565283024033000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283106091000,1772565283102356000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283234839000,1772565283231173000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283306390000,1772565283303411000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283452005000,1772565283448497000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283536857000,1772565283528176000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283739176000,1772565283735089000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283795799000,1772565283792425000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565283967316000,1772565283962925000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565284149384000,1772565284145934000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565284209487000,1772565284206088000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565284327391000,1772565284323711000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565284793358000,1772565284786360000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565285222663000,1772565285215213000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565285352853000,1772565285347082000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565285580705000,1772565285573940000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565285693549000,1772565285689805000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565285790200000,1772565285786675000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565285917041000,1772565285913519000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286079809000,1772565286075874000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286240640000,1772565286236604000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286278763000,1772565286276115000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286455356000,1772565286451940000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286542630000,1772565286538709000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286613826000,1772565286609879000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286767092000,1772565286763069000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286806788000,1772565286802452000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565286993643000,1772565286986325000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565287137668000,1772565287133305000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565287214441000,1772565287209998000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565287306531000,1772565287302302000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565287464034000,1772565287460080000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565287548914000,1772565287544871000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565287647717000,1772565287643628000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565287701155000,1772565287697347000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565288201204000,1772565288193845000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565288578429000,1772565288570711000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565288672199000,1772565288667400000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565288767359000,1772565288763222000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565288953254000,1772565288945508000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565289021712000,1772565289017605000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565289107365000,1772565289103165000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565289225400000,1772565289221212000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565289276819000,1772565289273152000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565289473730000,1772565289469896000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565290418046000,1772565290406680000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565290705485000,1772565290699019000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565290807423000,1772565290803647000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565290917008000,1772565290910952000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565290977189000,1772565290972551000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565291122143000,1772565291117812000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565291348962000,1772565291342716000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565291499217000,1772565291495239000,60,Insert,a,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565291576311000,1772565291572316000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aap"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565291726529000,1772565291722745000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aapo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565291880319000,1772565291875919000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aapon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565292162383000,1772565292158545000,64,Delete,n,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aapo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565292305709000,1772565292303204000,63,Delete,o,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aap"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565292463971000,1772565292461399000,62,Delete,p,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565292614243000,1772565292611152000,61,Delete,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565292737334000,1772565292732624000,60,Insert,a,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565292867522000,1772565292863766000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aap"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565293012441000,1772565293008809000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aapo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565293393196000,1772565293388443000,63,Delete,o,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aap"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565293541991000,1772565293539417000,62,Delete,p,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565293681793000,1772565293679274000,61,Delete,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565293796076000,1772565293793014000,60,Delete,a,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565294029926000,1772565294022633000,59,Insert,s,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565294306400000,1772565294302539000,60,Delete,s,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565294526969000,1772565294520933000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565294695983000,1772565294691455000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565294803836000,1772565294800032000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565294944203000,1772565294940237000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565295107228000,1772565295102868000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565295583235000,1772565295577023000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565295762529000,1772565295756749000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565295922580000,1772565295918189000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565295971720000,1772565295968498000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565296142457000,1772565296138576000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565296193181000,1772565296189695000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565296385622000,1772565296381792000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565296539123000,1772565296535094000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565296623624000,1772565296619786000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565296722532000,1772565296718642000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565296977330000,1772565296972899000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565297138992000,1772565297136479000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565297290218000,1772565297287712000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565297429854000,1772565297426680000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565297875855000,1772565297869206000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565298062677000,1772565298058855000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565298254728000,1772565298250603000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565298328803000,1772565298324119000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,8,1772565298466826000,1772565298462992000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565304420138000,1772565304416625000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565304563373000,1772565304559248000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565304749278000,1772565304745770000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565304868307000,1772565304862838000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565305007063000,1772565305003692000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565305155700000,1772565305152273000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565305271815000,1772565305268416000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565305406502000,1772565305402748000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565305496137000,1772565305492656000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565306343801000,1772565306336975000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565306933556000,1772565306929951000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565307056359000,1772565307050843000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565307917572000,1772565307914372000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565308018431000,1772565308014780000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565308133810000,1772565308130328000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565308266303000,1772565308262609000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565308443708000,1772565308439596000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565308625759000,1772565308615583000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565308669859000,1772565308666176000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565308787259000,1772565308783915000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565309235549000,1772565309228242000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565309383211000,1772565309378949000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565309509850000,1772565309506433000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565309697081000,1772565309693533000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565309795863000,1772565309791963000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565309898240000,1772565309894714000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565310019096000,1772565310015004000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565310176144000,1772565310172373000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565310343418000,1772565310339106000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565310381992000,1772565310378885000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565310566186000,1772565310562361000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565310633531000,1772565310629551000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565311264767000,1772565311259064000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565311461870000,1772565311454345000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565311504985000,1772565311501171000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565311751078000,1772565311744250000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565312034217000,1772565312030008000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565312220534000,1772565312216717000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565312502703000,1772565312496228000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565312681960000,1772565312677890000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565312767180000,1772565312762852000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565312866272000,1772565312861608000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565312916554000,1772565312913056000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565313456405000,1772565313448545000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565313647637000,1772565313643227000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565313947442000,1772565313939680000,45,Insert,h,46,"Absolutne nerozumiem, ze som sa dal na toto nh"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565314333396000,1772565314329645000,46,Delete,h,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565314481506000,1772565314477062000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565314560975000,1772565314557250000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565314747764000,1772565314740844000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565314809936000,1772565314805567000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565314908285000,1772565314904308000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565315021526000,1772565315019189000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565315090897000,1772565315086833000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565315199141000,1772565315194771000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565315752184000,1772565315744696000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565315974916000,1772565315966809000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565316401437000,1772565316395901000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565316473800000,1772565316469202000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565316577659000,1772565316571098000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565316685213000,1772565316680698000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565316822929000,1772565316819235000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565316962339000,1772565316955252000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565317018766000,1772565317014881000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565317170775000,1772565317167443000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565317327592000,1772565317323446000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565317705846000,1772565317697418000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565317884246000,1772565317876905000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565318056453000,1772565318052774000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565318106857000,1772565318101858000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565318286659000,1772565318282466000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565318336883000,1772565318332150000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565318521789000,1772565318517455000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565318670868000,1772565318664610000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565318765885000,1772565318761990000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565318857258000,1772565318853060000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565319076082000,1772565319072345000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565319235134000,1772565319228994000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565319390612000,1772565319388061000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565319523270000,1772565319519699000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565319739998000,1772565319733830000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565319882619000,1772565319878087000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565320010893000,1772565320004872000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565320125819000,1772565320120937000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,9,1772565320288621000,1772565320283612000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565322716132000,1772565322709636000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565324725971000,1772565324718967000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565324822964000,1772565324818520000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565324954758000,1772565324951149000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325083106000,1772565325079142000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325228807000,1772565325224927000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325332797000,1772565325328689000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325458949000,1772565325455433000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325537645000,1772565325534210000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325640249000,1772565325636568000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325757512000,1772565325754114000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325835309000,1772565325831346000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565325993883000,1772565325990226000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565326226128000,1772565326219864000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565326516787000,1772565326510048000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565326677241000,1772565326673763000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565326854242000,1772565326850046000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565327027532000,1772565327021563000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565327078821000,1772565327075269000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565327182128000,1772565327177634000,19,Insert,n,20,Absolutne nerozumien
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565327787837000,1772565327785063000,20,Delete,n,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565328477191000,1772565328468680000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565330222821000,1772565330217248000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565330931086000,1772565330922836000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565331422916000,1772565331417267000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565331603983000,1772565331600449000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565331706468000,1772565331702786000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565331793044000,1772565331789443000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565331931333000,1772565331926871000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332085313000,1772565332081129000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332237081000,1772565332232785000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332279901000,1772565332276866000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332446769000,1772565332443253000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332522046000,1772565332518281000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332616238000,1772565332611722000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332753134000,1772565332748809000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332803286000,1772565332799090000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565332992458000,1772565332988472000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333127268000,1772565333123623000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333197612000,1772565333194168000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333289055000,1772565333284961000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333434069000,1772565333430311000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333520494000,1772565333515941000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333594752000,1772565333590797000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333659031000,1772565333655066000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333842320000,1772565333837550000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565333970781000,1772565333966578000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565334061013000,1772565334056950000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565334163938000,1772565334160394000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565334346685000,1772565334342628000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565334419827000,1772565334415036000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565334508966000,1772565334504053000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565334626597000,1772565334617474000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565334672176000,1772565334667957000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565334924762000,1772565334918706000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565336132098000,1772565336124566000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565336351380000,1772565336344722000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565336719293000,1772565336713647000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565336790742000,1772565336785729000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565336912757000,1772565336907829000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565337113030000,1772565337108405000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565337446146000,1772565337442401000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565337628991000,1772565337625342000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565337720092000,1772565337716373000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565337869581000,1772565337865449000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565338017786000,1772565338012628000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565338205359000,1772565338200808000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565338438889000,1772565338430662000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565338593117000,1772565338589097000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565338652917000,1772565338648671000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565338820654000,1772565338815594000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565338874523000,1772565338870429000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565339079239000,1772565339073360000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565339231826000,1772565339226002000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565339337894000,1772565339334025000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565339434881000,1772565339430136000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,10,1772565339587904000,1772565339582620000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565347292979000,1772565347288852000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565347434747000,1772565347431108000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565347574363000,1772565347570772000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565347691345000,1772565347687820000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565347837068000,1772565347831312000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565347987116000,1772565347983350000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565348077794000,1772565348074244000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565348188531000,1772565348184375000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565348266484000,1772565348262909000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565349688782000,1772565349677951000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565349834465000,1772565349828892000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565349895381000,1772565349892297000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565350051104000,1772565350046428000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565350114468000,1772565350110945000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565350376850000,1772565350369262000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565350462104000,1772565350457189000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565350645990000,1772565350641427000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565350818164000,1772565350811707000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565350874891000,1772565350870620000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565350989856000,1772565350985227000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565351591995000,1772565351588153000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565352407808000,1772565352401159000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565352599087000,1772565352592030000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565352772553000,1772565352769061000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565352869110000,1772565352865248000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565352973182000,1772565352969545000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565353085819000,1772565353082221000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565353231698000,1772565353227794000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565353429883000,1772565353425228000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565353480611000,1772565353476763000,29,Insert,a,30,"Absolutne nerozumiem, ze som a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565353639962000,1772565353636197000,30,Insert,a,31,"Absolutne nerozumiem, ze som aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565353706658000,1772565353702807000,31,Insert, ,32,"Absolutne nerozumiem, ze som aa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565353844245000,1772565353841206000,32,Insert,d,33,"Absolutne nerozumiem, ze som aa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565354230011000,1772565354225954000,33,Delete,d,32,"Absolutne nerozumiem, ze som aa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565354383106000,1772565354380753000,32,Delete, ,31,"Absolutne nerozumiem, ze som aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565354550739000,1772565354547742000,31,Delete,a,30,"Absolutne nerozumiem, ze som a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565354685950000,1772565354683899000,30,Delete,a,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565354809343000,1772565354806825000,29,Delete, ,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565355293194000,1772565355285553000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565355369123000,1772565355364320000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565355586733000,1772565355581122000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565355666476000,1772565355662487000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565355891172000,1772565355884220000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356062035000,1772565356057367000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356100414000,1772565356097683000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356284142000,1772565356280351000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356436015000,1772565356431862000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356509283000,1772565356504979000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356610211000,1772565356603004000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356777886000,1772565356773889000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356850909000,1772565356844935000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356942843000,1772565356937424000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565356994183000,1772565356990445000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565357264809000,1772565357258027000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565357454229000,1772565357449999000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565357545678000,1772565357541893000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565357699024000,1772565357694081000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565357911233000,1772565357899387000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565357980738000,1772565357977015000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565358079846000,1772565358075699000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565358201693000,1772565358197859000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565358267594000,1772565358263298000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565358437679000,1772565358433809000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565359398114000,1772565359390241000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565359577053000,1772565359572515000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565359810805000,1772565359805001000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565359894442000,1772565359889413000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565360009548000,1772565360005778000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565360219655000,1772565360212232000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565360817117000,1772565360810114000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565360994038000,1772565360989578000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565361080931000,1772565361076991000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565361219789000,1772565361213162000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565361371952000,1772565361367909000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565361542078000,1772565361537936000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565361716786000,1772565361713011000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565361907144000,1772565361901200000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565362101704000,1772565362095850000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565362282276000,1772565362277731000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565362787082000,1772565362780917000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565363046460000,1772565363041832000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565363184003000,1772565363180208000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565363294474000,1772565363289740000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565363386678000,1772565363381179000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,11,1772565363524176000,1772565363519366000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565365989881000,1772565365983336000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366072288000,1772565366068138000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366204614000,1772565366200390000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366294983000,1772565366291054000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366423642000,1772565366420052000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366569940000,1772565366565662000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366677228000,1772565366673735000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366800427000,1772565366796960000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366884273000,1772565366880764000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565366970507000,1772565366966596000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565367080158000,1772565367076350000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565367138276000,1772565367134874000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565367290915000,1772565367287397000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565367371813000,1772565367368426000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565367509219000,1772565367505609000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565367623071000,1772565367619615000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565367782586000,1772565367778705000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565367952670000,1772565367949216000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565368012284000,1772565368008638000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565368103156000,1772565368099542000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565368599180000,1772565368592308000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565368765271000,1772565368761128000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565368879630000,1772565368876011000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369073721000,1772565369070062000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369165222000,1772565369161400000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369267603000,1772565369263920000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369371179000,1772565369367182000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369524298000,1772565369519103000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369682929000,1772565369679340000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369729189000,1772565369725655000,29,Insert,a,30,"Absolutne nerozumiem, ze som a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369914542000,1772565369908812000,30,Insert,a,31,"Absolutne nerozumiem, ze som aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565369990364000,1772565369985881000,31,Insert, ,32,"Absolutne nerozumiem, ze som aa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565370050648000,1772565370047649000,32,Insert,d,33,"Absolutne nerozumiem, ze som aa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565370325219000,1772565370321440000,33,Delete,d,32,"Absolutne nerozumiem, ze som aa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565370476505000,1772565370473387000,32,Delete, ,31,"Absolutne nerozumiem, ze som aa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565370623271000,1772565370620017000,31,Delete,a,30,"Absolutne nerozumiem, ze som a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565370754576000,1772565370751695000,30,Delete,a,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565370890498000,1772565370885573000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565371152800000,1772565371147195000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565371264920000,1772565371261060000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565371351109000,1772565371346262000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565371549614000,1772565371541888000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565371596245000,1772565371592059000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565371768945000,1772565371765028000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565371904849000,1772565371900941000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565371963271000,1772565371959133000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372065236000,1772565372061292000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372200595000,1772565372196419000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372297980000,1772565372294267000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372384359000,1772565372380143000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372430848000,1772565372426531000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372612400000,1772565372608059000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372739278000,1772565372735944000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372823571000,1772565372819900000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565372939818000,1772565372935432000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565373106381000,1772565373102405000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565373164224000,1772565373160394000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565373266610000,1772565373262710000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565373359747000,1772565373355389000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565373430906000,1772565373426822000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565373534450000,1772565373530055000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565373973660000,1772565373969252000,53,Insert,z,54,"Absolutne nerozumiem, ze som sa dal na toto nahovoritz"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565374457631000,1772565374452524000,54,Delete,z,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565374552895000,1772565374549109000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565374773385000,1772565374767130000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565374923910000,1772565374920151000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565375015416000,1772565375010217000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565375110127000,1772565375105375000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565375286172000,1772565375280285000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565375403680000,1772565375399431000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565375561739000,1772565375556006000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565375634335000,1772565375630019000,61,Insert,l,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asl"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565375784594000,1772565375779756000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aslo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565375949308000,1772565375944566000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aslon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565376241749000,1772565376236988000,64,Delete,n,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aslo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565376402334000,1772565376399584000,63,Delete,o,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asl"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565376545233000,1772565376541867000,62,Delete,l,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565376793376000,1772565376787787000,61,Insert,l,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asl"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565376954749000,1772565376950003000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aslo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565377131601000,1772565377127651000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aslon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565377392915000,1772565377386936000,64,Delete,n,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aslo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565377541988000,1772565377539204000,63,Delete,o,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asl"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565377701449000,1772565377698239000,62,Delete,l,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565378289511000,1772565378280203000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565378428561000,1772565378424281000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565378644598000,1772565378636645000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565378834434000,1772565378830317000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565379092229000,1772565379086365000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565379231586000,1772565379225485000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565379290561000,1772565379288160000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565379455541000,1772565379447200000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565379534245000,1772565379529678000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565379738332000,1772565379733370000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565379884096000,1772565379879968000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565379974885000,1772565379970976000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565380072004000,1772565380068204000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565380344041000,1772565380339381000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565380499779000,1772565380493329000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565380656218000,1772565380652685000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565380796183000,1772565380792659000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565381103784000,1772565381097474000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565381273746000,1772565381268301000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565381451109000,1772565381442545000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565381524909000,1772565381519716000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,12,1772565381665870000,1772565381662169000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565385320998000,1772565385312723000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565385411342000,1772565385406499000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565385562163000,1772565385556226000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565385647991000,1772565385643220000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565385780436000,1772565385774804000,4,Insert,k,5,Absok
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565385918410000,1772565385914834000,5,Insert,u,6,Absoku
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565386008248000,1772565386004585000,6,Insert,t,7,Absokut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565386114121000,1772565386108530000,7,Insert,n,8,Absokutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565386368298000,1772565386364642000,8,Delete,n,7,Absokut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565386525526000,1772565386522648000,7,Delete,t,6,Absoku
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565386674666000,1772565386672181000,6,Delete,u,5,Absok
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565386820779000,1772565386817971000,5,Delete,k,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565387377167000,1772565387370804000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565387540843000,1772565387537283000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565387683454000,1772565387678016000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565387821395000,1772565387809034000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565387876039000,1772565387872342000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565387974624000,1772565387970818000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565388114346000,1772565388110167000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565388166438000,1772565388161358000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565388299868000,1772565388295213000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565388398453000,1772565388392697000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565388555609000,1772565388551401000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565388652670000,1772565388647729000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565388819402000,1772565388815699000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565388986369000,1772565388982336000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565389026823000,1772565389023598000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565389136719000,1772565389131785000,19,Insert,n,20,Absolutne nerozumien
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565389581546000,1772565389574389000,20,Insert,",",21,"Absolutne nerozumien,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565389774606000,1772565389769151000,21,Insert, ,22,"Absolutne nerozumien, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565389999026000,1772565389993016000,22,Insert,z,23,"Absolutne nerozumien, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565390446258000,1772565390442381000,23,Delete,z,22,"Absolutne nerozumien, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565390610592000,1772565390608054000,22,Delete, ,21,"Absolutne nerozumien,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565390755142000,1772565390750912000,21,Delete,",",20,Absolutne nerozumien
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565390898551000,1772565390894009000,20,Delete,n,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565391057696000,1772565391053962000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565391618815000,1772565391604089000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565391817359000,1772565391813193000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565391934164000,1772565391930110000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565392097042000,1772565392092610000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565392226172000,1772565392219224000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565392306964000,1772565392303368000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565392449862000,1772565392445389000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565392598964000,1772565392593777000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565392771073000,1772565392766561000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565392814364000,1772565392806093000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565392993531000,1772565392989052000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565393079734000,1772565393073527000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565393179142000,1772565393170808000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565393378546000,1772565393372840000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565393408955000,1772565393405789000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565393593869000,1772565393589331000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565393739528000,1772565393734068000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565393829887000,1772565393825612000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565393897240000,1772565393892326000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565394074509000,1772565394068914000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565394144812000,1772565394140808000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565394239638000,1772565394233725000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565394290644000,1772565394286651000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565394493297000,1772565394486913000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565394639127000,1772565394633647000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565394720590000,1772565394716482000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565394842892000,1772565394837732000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565395021649000,1772565395009808000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565395085258000,1772565395081206000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565395168915000,1772565395165120000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565395268049000,1772565395259052000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565395321885000,1772565395317516000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565395461216000,1772565395457423000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396075666000,1772565396066188000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396223611000,1772565396219427000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396352118000,1772565396347021000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396448056000,1772565396444022000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396546059000,1772565396542093000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396678865000,1772565396675015000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396776399000,1772565396772352000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396923601000,1772565396918536000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565396963175000,1772565396960454000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565397139930000,1772565397131789000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565397305854000,1772565397299031000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565397524496000,1772565397517661000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565397761448000,1772565397755328000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565397941690000,1772565397937732000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565397977601000,1772565397973306000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565398144169000,1772565398140449000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565398192268000,1772565398186703000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565398393416000,1772565398385836000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565398535808000,1772565398531779000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565398633517000,1772565398629342000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565398743370000,1772565398738353000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565398991395000,1772565398986355000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565399124368000,1772565399121321000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565399283227000,1772565399280062000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565399393489000,1772565399388566000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565399636811000,1772565399629630000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565399811967000,1772565399805807000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565399957251000,1772565399951155000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565400039801000,1772565400035807000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,13,1772565400185772000,1772565400182070000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565403561337000,1772565403557579000,0,Insert,a,1,a
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565403660831000,1772565403657004000,1,Insert,b,2,ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565403761766000,1772565403758349000,2,Insert,s,3,abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565404015609000,1772565404011264000,3,Delete,s,2,ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565404181274000,1772565404177981000,2,Delete,b,1,a
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565404319811000,1772565404317822000,1,Delete,a,0,
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565405006368000,1772565404998648000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565405309836000,1772565405304003000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565405453794000,1772565405449734000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565405638400000,1772565405633821000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565405781821000,1772565405778389000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565405935315000,1772565405931408000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565406322886000,1772565406319066000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565406457372000,1772565406452905000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565406619249000,1772565406615446000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565406772160000,1772565406767010000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565406960535000,1772565406957256000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565407038664000,1772565407035048000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565407195881000,1772565407190291000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565407639502000,1772565407635920000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565407783911000,1772565407775627000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565407891342000,1772565407888016000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565408050591000,1772565408046391000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565408216276000,1772565408210944000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565408285727000,1772565408282227000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565408377851000,1772565408373771000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565410087283000,1772565410079345000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565410968505000,1772565410961937000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565411213790000,1772565411207082000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565411327733000,1772565411324144000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565411428535000,1772565411424703000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565411531758000,1772565411528311000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565411646450000,1772565411642858000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565411798147000,1772565411794484000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565411969753000,1772565411965606000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565412009432000,1772565412005661000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565412185973000,1772565412182452000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565412247401000,1772565412243676000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565412362417000,1772565412358391000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565412474660000,1772565412470180000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565412532377000,1772565412529291000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565412697613000,1772565412693409000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565412910264000,1772565412906808000,36,Delete, ,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565413067301000,1772565413064564000,35,Delete,l,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565413217825000,1772565413215023000,34,Delete,a,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565413369463000,1772565413366909000,33,Delete,d,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565413522003000,1772565413519344000,32,Delete, ,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565413669233000,1772565413666361000,31,Delete,a,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565414232245000,1772565414228095000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565414346284000,1772565414342449000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565414592869000,1772565414585528000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565414773140000,1772565414769005000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565414814904000,1772565414809799000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565414988741000,1772565414984838000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415116450000,1772565415112719000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415192954000,1772565415189428000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415293267000,1772565415289453000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415457851000,1772565415453989000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415522473000,1772565415518768000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415605042000,1772565415600475000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415654957000,1772565415651774000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415842849000,1772565415832673000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565415976543000,1772565415972371000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565416058159000,1772565416054336000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565416172123000,1772565416168133000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565416367048000,1772565416363243000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565416464467000,1772565416459779000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565416535733000,1772565416531733000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565416658071000,1772565416654311000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565416705704000,1772565416701849000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565416840241000,1772565416835970000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565417338383000,1772565417330648000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565417527134000,1772565417519069000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565417668036000,1772565417664301000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565417762552000,1772565417757791000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565417832247000,1772565417828145000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565417949332000,1772565417945596000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565418051708000,1772565418047809000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565418194322000,1772565418190417000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565418246297000,1772565418242080000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565418393574000,1772565418385812000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565418559225000,1772565418555411000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565418712728000,1772565418708936000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565418870772000,1772565418866393000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565419037400000,1772565419029605000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565419081157000,1772565419077707000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565419230378000,1772565419226478000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565419275250000,1772565419271117000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565419472977000,1772565419466625000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565419621243000,1772565419617387000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565419718879000,1772565419714784000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565419817043000,1772565419812208000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565420102503000,1772565420098045000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565420265185000,1772565420262639000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565420410086000,1772565420407658000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565420549633000,1772565420546561000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565421006269000,1772565420999685000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565421181346000,1772565421175004000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565421431651000,1772565421425751000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565421525586000,1772565421521728000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,14,1772565421671164000,1772565421667403000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565423763558000,1772565423759920000,0,Insert,A,1,A
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565423876908000,1772565423873408000,1,Insert,b,2,Ab
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565423992882000,1772565423989436000,2,Insert,s,3,Abs
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565424094895000,1772565424091303000,3,Insert,o,4,Abso
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565424237556000,1772565424233409000,4,Insert,l,5,Absol
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565424399560000,1772565424396207000,5,Insert,u,6,Absolu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565424733748000,1772565424727084000,6,Insert,t,7,Absolut
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565424855945000,1772565424852562000,7,Insert,n,8,Absolutn
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565424958296000,1772565424955012000,8,Insert,e,9,Absolutne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565425030955000,1772565425027558000,9,Insert, ,10,Absolutne 
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565425181943000,1772565425178676000,10,Insert,n,11,Absolutne n
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565425286733000,1772565425283107000,11,Insert,e,12,Absolutne ne
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565425460004000,1772565425456473000,12,Insert,r,13,Absolutne ner
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565425522319000,1772565425518287000,13,Insert,o,14,Absolutne nero
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565425828580000,1772565425821397000,14,Insert,z,15,Absolutne neroz
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565425977438000,1772565425973601000,15,Insert,u,16,Absolutne nerozu
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565426133766000,1772565426130428000,16,Insert,m,17,Absolutne nerozum
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565426291714000,1772565426288334000,17,Insert,i,18,Absolutne nerozumi
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565426353042000,1772565426349655000,18,Insert,e,19,Absolutne nerozumie
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565426455993000,1772565426451842000,19,Insert,m,20,Absolutne nerozumiem
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565427153348000,1772565427144643000,20,Insert,",",21,"Absolutne nerozumiem,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565427317707000,1772565427314190000,21,Insert, ,22,"Absolutne nerozumiem, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565427514199000,1772565427506952000,22,Insert,z,23,"Absolutne nerozumiem, z"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565427576650000,1772565427572188000,23,Insert,e,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565427693231000,1772565427689347000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565427783710000,1772565427780273000,25,Insert,a,26,"Absolutne nerozumiem, ze a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565427916296000,1772565427912703000,26,Insert,o,27,"Absolutne nerozumiem, ze ao"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565428074092000,1772565428070096000,27,Insert,m,28,"Absolutne nerozumiem, ze aom"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565428440896000,1772565428437149000,28,Delete,m,27,"Absolutne nerozumiem, ze ao"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565428591576000,1772565428589226000,27,Delete,o,26,"Absolutne nerozumiem, ze a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565428755191000,1772565428752725000,26,Delete,a,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565428875390000,1772565428873023000,25,Delete, ,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565428936513000,1772565428932802000,24,Insert,s,25,"Absolutne nerozumiem, zes"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565429306782000,1772565429303750000,25,Delete,s,24,"Absolutne nerozumiem, ze"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565429534590000,1772565429526627000,24,Insert, ,25,"Absolutne nerozumiem, ze "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565429647146000,1772565429642491000,25,Insert,s,26,"Absolutne nerozumiem, ze s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565429766847000,1772565429763295000,26,Insert,o,27,"Absolutne nerozumiem, ze so"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565429918468000,1772565429914800000,27,Insert,m,28,"Absolutne nerozumiem, ze som"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565430109196000,1772565430099318000,28,Insert, ,29,"Absolutne nerozumiem, ze som "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565430141601000,1772565430138471000,29,Insert,s,30,"Absolutne nerozumiem, ze som s"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565430320525000,1772565430313980000,30,Insert,a,31,"Absolutne nerozumiem, ze som sa"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565430408885000,1772565430405173000,31,Insert, ,32,"Absolutne nerozumiem, ze som sa "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565430476962000,1772565430472856000,32,Insert,d,33,"Absolutne nerozumiem, ze som sa d"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565430669831000,1772565430662278000,33,Insert,a,34,"Absolutne nerozumiem, ze som sa da"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565430704439000,1772565430701247000,34,Insert,l,35,"Absolutne nerozumiem, ze som sa dal"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565430883259000,1772565430879160000,35,Insert, ,36,"Absolutne nerozumiem, ze som sa dal "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431026794000,1772565431022515000,36,Insert,n,37,"Absolutne nerozumiem, ze som sa dal n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431089900000,1772565431085401000,37,Insert,a,38,"Absolutne nerozumiem, ze som sa dal na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431194475000,1772565431187632000,38,Insert, ,39,"Absolutne nerozumiem, ze som sa dal na "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431345511000,1772565431341592000,39,Insert,t,40,"Absolutne nerozumiem, ze som sa dal na t"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431427928000,1772565431422325000,40,Insert,o,41,"Absolutne nerozumiem, ze som sa dal na to"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431517148000,1772565431512722000,41,Insert,t,42,"Absolutne nerozumiem, ze som sa dal na tot"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431560578000,1772565431558482000,42,Insert,o,43,"Absolutne nerozumiem, ze som sa dal na toto"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431742805000,1772565431740286000,43,Insert, ,44,"Absolutne nerozumiem, ze som sa dal na toto "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431875925000,1772565431867142000,44,Insert,n,45,"Absolutne nerozumiem, ze som sa dal na toto n"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565431939054000,1772565431935137000,45,Insert,a,46,"Absolutne nerozumiem, ze som sa dal na toto na"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565432078806000,1772565432075090000,46,Insert,h,47,"Absolutne nerozumiem, ze som sa dal na toto nah"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565432274024000,1772565432265464000,47,Insert,o,48,"Absolutne nerozumiem, ze som sa dal na toto naho"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565432333503000,1772565432329607000,48,Insert,v,49,"Absolutne nerozumiem, ze som sa dal na toto nahov"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565432422351000,1772565432419602000,49,Insert,o,50,"Absolutne nerozumiem, ze som sa dal na toto nahovo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565433078528000,1772565433068193000,50,Insert,r,51,"Absolutne nerozumiem, ze som sa dal na toto nahovor"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565433137575000,1772565433135336000,51,Insert,i,52,"Absolutne nerozumiem, ze som sa dal na toto nahovori"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565433260740000,1772565433257424000,52,Insert,t,53,"Absolutne nerozumiem, ze som sa dal na toto nahovorit"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565433899101000,1772565433886513000,53,Insert,",",54,"Absolutne nerozumiem, ze som sa dal na toto nahovorit,"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565434217187000,1772565434211923000,54,Insert, ,55,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435002427000,1772565434993540000,55,Insert,a,56,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435034865000,1772565435032127000,56,Insert,l,57,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, al"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435159193000,1772565435153774000,57,Insert,e,58,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435276714000,1772565435271920000,58,Insert, ,59,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435364607000,1772565435360037000,59,Insert,a,60,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale a"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435533716000,1772565435524205000,60,Insert,s,61,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale as"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435570702000,1772565435566990000,61,Insert,p,62,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale asp"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435722242000,1772565435717815000,62,Insert,o,63,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspo"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565435893687000,1772565435889113000,63,Insert,n,64,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565436061852000,1772565436057458000,64,Insert, ,65,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565436219744000,1772565436215124000,65,Insert,b,66,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon b"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565436384395000,1772565436379835000,66,Insert,u,67,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bu"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565436436863000,1772565436433527000,67,Insert,d,68,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bud"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565436600430000,1772565436596909000,68,Insert,e,69,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565436651192000,1772565436647534000,69,Insert, ,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565436843065000,1772565436839206000,70,Insert,l,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565437002672000,1772565436996804000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565437086942000,1772565437082985000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565437182263000,1772565437178473000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565437415548000,1772565437411825000,74,Delete,k,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude lif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565437570484000,1772565437567733000,73,Delete,f,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude li"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565437728833000,1772565437725106000,72,Delete,i,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude l"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565437869439000,1772565437865860000,71,Delete,l,70,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude "
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565438394496000,1772565438389770000,70,Insert,p,71,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude p"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565438542342000,1772565438537252000,71,Insert,i,72,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pi"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565438696873000,1772565438684523000,72,Insert,f,73,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pif"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565438761468000,1772565438756700000,73,Insert,k,74,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifk"
+DJldbpv8XEYPwLseK8tAlA0EFfV2,15,1772565438921428000,1772565438915803000,74,Insert,o,75,"Absolutne nerozumiem, ze som sa dal na toto nahovorit, ale aspon bude pifko"

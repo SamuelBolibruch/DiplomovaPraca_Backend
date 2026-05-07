@@ -1,0 +1,1200 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727284619335000,1777727284609012000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727284728097000,1777727284724035000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727284835408000,1777727284831790000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727285059589000,1777727285053618000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727285154891000,1777727285150606000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727285370646000,1777727285368213000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727285485440000,1777727285483024000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727285594956000,1777727285589063000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727285809374000,1777727285803345000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727285939372000,1777727285934210000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727286179285000,1777727286173190000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727286411427000,1777727286405282000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727286501914000,1777727286497925000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727286624059000,1777727286619617000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727286720104000,1777727286715271000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727287040603000,1777727287035132000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727287218961000,1777727287213402000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727287385115000,1777727287379662000,17,Insert,s,18,Dnes je krasne pos
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727287620013000,1777727287613139000,18,Insert,a,19,Dnes je krasne posa
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727287890245000,1777727287887476000,19,Delete,a,18,Dnes je krasne pos
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727288057247000,1777727288054815000,18,Delete,s,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727288209224000,1777727288205297000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727288559535000,1777727288555383000,18,Delete,c,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727289339454000,1777727289333281000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727289472495000,1777727289467970000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727289738460000,1777727289731378000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727289815179000,1777727289811286000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727289957997000,1777727289953976000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727290262403000,1777727290256133000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727290376541000,1777727290372700000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727290672805000,1777727290666341000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727290775994000,1777727290770906000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727290962514000,1777727290957386000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727291213650000,1777727291205110000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727291329365000,1777727291324189000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727291560269000,1777727291556653000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727291795316000,1777727291789484000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727291879167000,1777727291875201000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727292063058000,1777727292057615000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727292164081000,1777727292158744000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727292340841000,1777727292336962000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727292558159000,1777727292552201000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727292722000000,1777727292718024000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727292929173000,1777727292924830000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727293112606000,1777727293104271000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727293359383000,1777727293353134000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727293604039000,1777727293598344000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727293816610000,1777727293811927000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727293990570000,1777727293985259000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727294306339000,1777727294299784000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727294547016000,1777727294540973000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727294739460000,1777727294735147000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727294926632000,1777727294922293000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727295100196000,1777727295095962000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727295349953000,1777727295343192000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727295427158000,1777727295423328000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727299553802000,1777727299524665000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727299813217000,1777727299803007000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727299982305000,1777727299978065000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727300173585000,1777727300167947000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727300416130000,1777727300410171000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727300859981000,1777727300853233000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727301029275000,1777727301024939000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727301322827000,1777727301316172000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727301596943000,1777727301590663000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727301707942000,1777727301703164000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727301972762000,1777727301965201000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727302064225000,1777727302060133000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727302248903000,1777727302244860000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727302455046000,1777727302451037000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727302671252000,1777727302662684000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727302926542000,1777727302917885000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727303141191000,1777727303132832000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727303295169000,1777727303281885000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727303619291000,1777727303612357000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727303830926000,1777727303826699000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727304014282000,1777727304009143000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727304152461000,1777727304148248000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727304244983000,1777727304239908000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727304485623000,1777727304478367000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,1,1777727304749095000,1777727304740209000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727307776254000,1777727307769736000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727307991746000,1777727307987799000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727308070451000,1777727308066677000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727308308569000,1777727308300875000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727308388236000,1777727308382196000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727308591745000,1777727308587408000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727308679078000,1777727308675048000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727308806389000,1777727308798797000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727309013653000,1777727309005377000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727309110941000,1777727309107110000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727309370532000,1777727309366405000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727309625050000,1777727309618653000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727309748013000,1777727309744170000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727309878640000,1777727309874633000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727309969563000,1777727309965261000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727310223561000,1777727310217114000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727310408093000,1777727310403946000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727310839771000,1777727310833303000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727311085534000,1777727311081246000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727311349101000,1777727311342884000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727311475443000,1777727311467037000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727311595826000,1777727311590526000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727311976126000,1777727311967069000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727312147543000,1777727312142162000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727312416748000,1777727312409850000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727312525077000,1777727312519168000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727312710604000,1777727312706136000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727312946649000,1777727312939907000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727313066150000,1777727313057941000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727313291840000,1777727313285179000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727313537879000,1777727313531700000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727313649308000,1777727313645142000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727313870169000,1777727313863723000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727313982645000,1777727313974388000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727314168828000,1777727314163902000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727314399296000,1777727314392647000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727314578881000,1777727314573292000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727314801554000,1777727314793265000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727314966667000,1777727314958771000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727315226231000,1777727315219520000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727315436779000,1777727315429644000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727315664150000,1777727315657626000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727315863027000,1777727315856781000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727316020264000,1777727316014441000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727316248022000,1777727316241573000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727316481783000,1777727316474340000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727316667250000,1777727316663017000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727316947765000,1777727316940513000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727317091321000,1777727317087209000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727317395315000,1777727317388688000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727318907052000,1777727318896602000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727319182497000,1777727319174357000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727319318677000,1777727319312868000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727319541136000,1777727319534721000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727319781107000,1777727319774372000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727320060133000,1777727320053470000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727320200802000,1777727320190079000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727320510490000,1777727320505706000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727320779185000,1777727320772164000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727320886552000,1777727320880098000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727321120973000,1777727321112587000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727321171144000,1777727321165140000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727321364551000,1777727321358011000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727321499832000,1777727321495085000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727321602431000,1777727321598334000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727321835897000,1777727321825578000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727322169895000,1777727322163442000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727323519384000,1777727323508535000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727323961483000,1777727323956927000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727324192745000,1777727324181788000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727324371980000,1777727324365873000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727324507260000,1777727324501483000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727324597592000,1777727324592156000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727324830963000,1777727324823901000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,2,1777727325078975000,1777727325071830000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727326984247000,1777727326977038000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727327120762000,1777727327115980000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727327225341000,1777727327220797000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727327465734000,1777727327456826000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727327533479000,1777727327529861000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727327758572000,1777727327749275000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727327875092000,1777727327871109000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727327980085000,1777727327976083000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727328209283000,1777727328203226000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727328325929000,1777727328321889000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727328573612000,1777727328566622000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727328817398000,1777727328809363000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727328982348000,1777727328976175000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727329129922000,1777727329125592000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727329210763000,1777727329205371000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727329684845000,1777727329681022000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727329931545000,1777727329925206000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727330154903000,1777727330148193000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727330395495000,1777727330389613000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727330633559000,1777727330625838000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727331203195000,1777727331194597000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727331320732000,1777727331312992000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727331692093000,1777727331685540000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727331857603000,1777727331853312000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727332042090000,1777727332035616000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727332146470000,1777727332142135000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727332327161000,1777727332323065000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727332570135000,1777727332563274000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727332669166000,1777727332665216000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727332909758000,1777727332903248000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727333152837000,1777727333146302000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727333243443000,1777727333239254000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727333447476000,1777727333438711000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727333557038000,1777727333552824000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727333739744000,1777727333735633000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727333955806000,1777727333949665000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727334141033000,1777727334136620000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727334346911000,1777727334342169000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727334520214000,1777727334516218000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727334794226000,1777727334779214000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727335154814000,1777727335150157000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727335457621000,1777727335452087000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727335656910000,1777727335652384000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727335789705000,1777727335785002000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727336028540000,1777727336023262000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727336226355000,1777727336220041000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727336408666000,1777727336405778000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727336642454000,1777727336634711000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727336778579000,1777727336773417000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727336884929000,1777727336879710000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727337344680000,1777727337333587000,50,Insert,",",51,"Dnes je krasne pocasie, doobeda som bol bicyklovat,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727337521224000,1777727337517075000,51,Insert, ,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727337829176000,1777727337821370000,52,Insert,t,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat, t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727338179863000,1777727338175387000,53,Delete,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727338387444000,1777727338382659000,52,Delete, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727338746693000,1777727338741194000,51,Delete,",",50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727339717973000,1777727339708075000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727340007314000,1777727339997723000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727340197342000,1777727340190673000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727340405544000,1777727340398236000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727340670523000,1777727340661727000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727340925424000,1777727340916356000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727341049072000,1777727341044760000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727341317877000,1777727341311198000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727341574071000,1777727341568040000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727341670581000,1777727341665837000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727341921482000,1777727341912042000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727341964369000,1777727341960749000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727342157516000,1777727342151645000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727342306716000,1777727342301596000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727342374520000,1777727342369887000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727342614573000,1777727342606785000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727342829464000,1777727342822990000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727342991768000,1777727342987354000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727343305181000,1777727343298704000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727343497016000,1777727343492003000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727343682831000,1777727343678286000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727343842172000,1777727343837851000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727343911163000,1777727343906650000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727344145877000,1777727344137631000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,3,1777727344369880000,1777727344362816000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727345865902000,1777727345858707000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727346000187000,1777727345995803000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727346124894000,1777727346120893000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727346354435000,1777727346348497000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727346461142000,1777727346456708000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727346654191000,1777727346649511000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727346759142000,1777727346755282000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727346890214000,1777727346885445000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727347113817000,1777727347104059000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727347221781000,1777727347217920000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727347465972000,1777727347459426000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727347713520000,1777727347706551000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727347871111000,1777727347866119000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727347996450000,1777727347991948000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727348128550000,1777727348124582000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727348379390000,1777727348372943000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727348575680000,1777727348570355000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727348710001000,1777727348704713000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727348954905000,1777727348948119000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727349206639000,1777727349196202000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727349272019000,1777727349267965000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727349432530000,1777727349426416000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727349857647000,1777727349849021000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727350038788000,1777727350034627000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727350277465000,1777727350271234000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727350421424000,1777727350417366000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727350615832000,1777727350611756000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727350841499000,1777727350835135000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727350946242000,1777727350942274000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727351194608000,1777727351188534000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727351433161000,1777727351426165000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727351522685000,1777727351518476000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727351690275000,1777727351686108000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727351807481000,1777727351800076000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727352005058000,1777727351998962000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727352223065000,1777727352215610000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727352460700000,1777727352453205000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727352681513000,1777727352675307000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727352862957000,1777727352858800000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727353127408000,1777727353119405000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727353329286000,1777727353325121000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727353597205000,1777727353587352000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727353894324000,1777727353887755000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727354100919000,1777727354093448000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727354393479000,1777727354385513000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727354587198000,1777727354583639000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727354789416000,1777727354783016000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727355012225000,1777727355004305000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727355271261000,1777727355264241000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727355359526000,1777727355355428000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727356946347000,1777727356936831000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727357225677000,1777727357218772000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727357473089000,1777727357468325000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727357684757000,1777727357677984000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727357923209000,1777727357915818000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727358179342000,1777727358172546000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727358287407000,1777727358284299000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727358534987000,1777727358529923000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727358764914000,1777727358758365000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727358848978000,1777727358843937000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727359100917000,1777727359092623000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727359140573000,1777727359132384000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727359373536000,1777727359366569000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727359630723000,1777727359624118000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727359792059000,1777727359784913000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727360032219000,1777727360024976000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727360250749000,1777727360246035000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727360352210000,1777727360347332000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727360964199000,1777727360953953000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727361158192000,1777727361153098000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727361333952000,1777727361330716000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727361467287000,1777727361463766000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727361547985000,1777727361543036000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727362355632000,1777727362350326000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,4,1777727362643295000,1777727362635549000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727366702459000,1777727366697709000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727366889259000,1777727366884144000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727366985892000,1777727366981927000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727367224475000,1777727367210582000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727367282784000,1777727367278050000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727367511785000,1777727367497244000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727367596086000,1777727367590201000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727367736747000,1777727367730347000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727367990985000,1777727367986704000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727368080834000,1777727368076805000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727368339813000,1777727368329113000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727368570569000,1777727368564341000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727368678005000,1777727368672894000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727368808640000,1777727368804022000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727368917749000,1777727368913717000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727369228032000,1777727369219045000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727369406778000,1777727369401119000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727369528133000,1777727369522027000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727369767873000,1777727369761699000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727370042379000,1777727370038441000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727370153522000,1777727370148596000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727370269706000,1777727370265753000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727370605837000,1777727370598731000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727370791879000,1777727370787401000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727371063000000,1777727371059108000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727371147998000,1777727371143883000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727371322706000,1777727371317594000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727371553659000,1777727371546240000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727371628028000,1777727371623920000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727371869304000,1777727371863042000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727372123470000,1777727372115750000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727372204978000,1777727372200842000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727372370989000,1777727372367242000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727372472472000,1777727372468406000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727372650169000,1777727372646252000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727372852031000,1777727372846402000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727373044389000,1777727373040079000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727373249034000,1777727373243986000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727373425788000,1777727373417875000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727373670124000,1777727373665530000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727373865091000,1777727373860523000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727374081380000,1777727374076980000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727374248605000,1777727374243262000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727374433368000,1777727374429083000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727374673043000,1777727374665270000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727374879130000,1777727374870422000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727375071776000,1777727375066280000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727375229307000,1777727375224530000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727375494974000,1777727375488745000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727375552105000,1777727375548326000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727375802477000,1777727375795839000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727377510013000,1777727377501849000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727377652865000,1777727377644380000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727377855767000,1777727377851012000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727378099179000,1777727378092477000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727378348339000,1777727378341291000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727378513721000,1777727378509336000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727380438212000,1777727380430147000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727381231330000,1777727381223273000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727381355258000,1777727381348568000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727381577866000,1777727381571213000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727381605445000,1777727381601070000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727381810779000,1777727381801258000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727381928950000,1777727381921740000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727382129774000,1777727382122290000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727382736038000,1777727382731719000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727383073509000,1777727383067425000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727383203112000,1777727383198342000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727383476258000,1777727383469440000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727383663310000,1777727383658967000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727383835703000,1777727383831378000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727383966147000,1777727383961394000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727384035406000,1777727384030158000,72,Insert,n,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijen"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727384267990000,1777727384259187000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijen "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727384631205000,1777727384627792000,74,Delete, ,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijen"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727384804573000,1777727384800156000,73,Delete,n,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727385323917000,1777727385317065000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727385558957000,1777727385550657000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,5,1777727385781397000,1777727385773707000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727388525249000,1777727388518773000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727388693178000,1777727388686995000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727388817729000,1777727388814049000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727389053822000,1777727389046990000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727389132064000,1777727389128401000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727389332953000,1777727389328124000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727389418396000,1777727389414605000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727389543457000,1777727389538955000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727389875436000,1777727389868912000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727390123552000,1777727390116928000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727390362371000,1777727390356183000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727390591486000,1777727390583968000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727390729827000,1777727390724652000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727390839521000,1777727390835501000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727390961817000,1777727390955062000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727391221719000,1777727391214793000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727391399225000,1777727391395240000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727391544939000,1777727391540387000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727391778834000,1777727391772411000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727392038663000,1777727392032199000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727392142207000,1777727392137121000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727392284021000,1777727392279792000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727393079759000,1777727393072283000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727393275374000,1777727393270926000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727393589837000,1777727393583261000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727393705737000,1777727393701190000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727393896109000,1777727393891907000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727394192474000,1777727394185871000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727394326642000,1777727394318370000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727394559888000,1777727394552313000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727394803442000,1777727394796278000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727394896932000,1777727394891270000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727395064583000,1777727395060317000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727395168287000,1777727395163743000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727395351115000,1777727395346026000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727395562229000,1777727395554210000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727395748851000,1777727395744004000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727395955316000,1777727395950783000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727396137621000,1777727396133527000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727396436815000,1777727396430109000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727396628448000,1777727396623817000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727396850697000,1777727396844153000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727397034123000,1777727397029255000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727397152703000,1777727397148476000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727397413503000,1777727397406779000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727397611174000,1777727397606415000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727397792993000,1777727397789048000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727397954271000,1777727397950069000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727398234268000,1777727398227596000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727398513274000,1777727398505679000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727398867236000,1777727398860168000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727399632803000,1777727399623064000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727399855551000,1777727399849518000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727400059420000,1777727400047916000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727400290338000,1777727400283721000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727400549143000,1777727400542659000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727400688282000,1777727400681515000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727400956495000,1777727400952025000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727401334044000,1777727401328169000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727401446894000,1777727401441853000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727401690373000,1777727401682584000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727401738198000,1777727401733346000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727401920296000,1777727401916325000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727402085312000,1777727402081340000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727402143894000,1777727402137306000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727402374295000,1777727402366987000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727402596562000,1777727402590800000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727402734506000,1777727402729045000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727403061524000,1777727403054632000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727403267023000,1777727403260722000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727403446067000,1777727403441673000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727403606031000,1777727403601285000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727403672360000,1777727403669746000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727403905441000,1777727403897943000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,6,1777727404124863000,1777727404116381000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727406217997000,1777727406211890000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727406385266000,1777727406381188000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727406519268000,1777727406515542000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727406758701000,1777727406751661000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727406814452000,1777727406810598000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727407034100000,1777727407027766000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727407141611000,1777727407137754000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727407252769000,1777727407247390000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727407597614000,1777727407591430000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727407737185000,1777727407733236000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727407990612000,1777727407984428000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727408207692000,1777727408201066000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727408282493000,1777727408278031000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727408440176000,1777727408436139000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727408527952000,1777727408523749000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727408826417000,1777727408817495000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727409001597000,1777727408996289000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727409101953000,1777727409097430000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727409342554000,1777727409336275000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727409608159000,1777727409600059000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727409697922000,1777727409690011000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727409830160000,1777727409822798000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727410305117000,1777727410300840000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727410486681000,1777727410482284000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727410747334000,1777727410738004000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727410854240000,1777727410849663000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727411041986000,1777727411036965000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727411276041000,1777727411269971000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727411384115000,1777727411378712000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727411609022000,1777727411601446000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727411862967000,1777727411855403000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727411950033000,1777727411946462000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727412132453000,1777727412126237000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727412228102000,1777727412222942000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727412406819000,1777727412401904000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727412610554000,1777727412605319000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727412786817000,1777727412779772000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727412997555000,1777727412992527000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727413169198000,1777727413165263000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727413419959000,1777727413412987000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727413623187000,1777727413612997000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727413816903000,1777727413812703000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727413926241000,1777727413921415000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727414073202000,1777727414068709000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727414302237000,1777727414295749000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727414499196000,1777727414494402000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727414690830000,1777727414685851000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727414835208000,1777727414830654000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727415110719000,1777727415104300000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727415217179000,1777727415212934000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727415498190000,1777727415493472000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727416649513000,1777727416641954000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727416879263000,1777727416873032000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727417091964000,1777727417083658000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727417322217000,1777727417315784000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727417570348000,1777727417563165000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727417685011000,1777727417677520000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727417985608000,1777727417980404000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727418254664000,1777727418248813000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727418383533000,1777727418378658000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727418641261000,1777727418634572000,60,Insert,f,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obef"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727418694344000,1777727418690071000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obefu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727418878923000,1777727418874624000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obefuj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727419014034000,1777727419007998000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obefuje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727419491645000,1777727419488958000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obefujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727420064926000,1777727420060865000,65,Delete,m,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obefuje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727420229145000,1777727420226258000,64,Delete,e,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obefuj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727420407790000,1777727420404943000,63,Delete,j,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obefu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727420579366000,1777727420576434000,62,Delete,u,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obef"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727420724788000,1777727420719953000,61,Delete,f,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727421242253000,1777727421237682000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727421418662000,1777727421412162000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727421609076000,1777727421604502000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727421746236000,1777727421742217000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727421843090000,1777727421838746000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727422065681000,1777727422061472000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727422240405000,1777727422236362000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727422327998000,1777727422323913000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727422607499000,1777727422600933000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727422797500000,1777727422792447000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727422969869000,1777727422965368000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727423088916000,1777727423084659000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727423199425000,1777727423195227000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727423501859000,1777727423497919000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,7,1777727423742053000,1777727423737469000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727426562044000,1777727426556081000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727426714631000,1777727426710496000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727426826101000,1777727426821871000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727427031034000,1777727427023805000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727427085987000,1777727427080390000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727427286764000,1777727427282919000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727427385877000,1777727427381980000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727427482136000,1777727427477899000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727427682275000,1777727427678361000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727427760894000,1777727427757554000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727428000620000,1777727427996692000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727428244096000,1777727428237926000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727428327209000,1777727428322811000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727428477547000,1777727428472995000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727428537748000,1777727428533690000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727428798214000,1777727428791589000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727428981621000,1777727428977722000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727429079920000,1777727429076129000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727429319286000,1777727429312601000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727429544288000,1777727429536346000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727429625456000,1777727429621597000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727429761696000,1777727429755754000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727430010959000,1777727430004157000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727430120466000,1777727430116134000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727430307180000,1777727430303218000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727430411379000,1777727430406582000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727430604041000,1777727430600038000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727430830353000,1777727430820924000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727430930837000,1777727430925671000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727431169494000,1777727431163543000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727431407063000,1777727431400572000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727431489605000,1777727431485735000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727431661610000,1777727431655993000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727431748813000,1777727431744794000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727431918145000,1777727431914036000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727432132431000,1777727432120937000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727432280516000,1777727432276531000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727432492590000,1777727432488502000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727432670789000,1777727432666172000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727432917161000,1777727432909884000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727433096807000,1777727433092119000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727433298372000,1777727433291685000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727433430007000,1777727433424528000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727433559378000,1777727433550939000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727433795789000,1777727433789849000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727433988481000,1777727433982097000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727434164245000,1777727434159849000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727434294099000,1777727434290071000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727434559680000,1777727434555255000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727434624825000,1777727434620067000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727435715814000,1777727435705081000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727435916529000,1777727435913741000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727436143601000,1777727436134681000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727436366811000,1777727436361072000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727436605200000,1777727436598765000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727436850782000,1777727436844541000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727436942675000,1777727436938338000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727437240564000,1777727437234147000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727437497323000,1777727437492407000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727437584821000,1777727437580535000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727437863549000,1777727437854367000,60,Insert,u,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727438053543000,1777727438049012000,61,Insert,j,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeuj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727438407539000,1777727438403352000,62,Delete,j,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727439094940000,1777727439089601000,61,Delete,u,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727439481597000,1777727439473421000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727439585045000,1777727439579638000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727439778085000,1777727439773339000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727439924627000,1777727439920260000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727440008903000,1777727440004953000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727440227010000,1777727440219083000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727440389260000,1777727440384830000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727440525611000,1777727440516578000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727440788634000,1777727440782624000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727440977653000,1777727440971947000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727441155791000,1777727441146588000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727441256370000,1777727441252339000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727441349788000,1777727441345739000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727441564943000,1777727441560237000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,8,1777727441779936000,1777727441771779000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727444622338000,1777727444618444000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727444753336000,1777727444749257000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727444895100000,1777727444891163000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727445136205000,1777727445125156000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727445150499000,1777727445147030000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727445398590000,1777727445394163000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727445508898000,1777727445504941000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727445637120000,1777727445629761000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727445854134000,1777727445850046000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727445946427000,1777727445942611000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727446193456000,1777727446186807000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727446425493000,1777727446418105000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727446515069000,1777727446510721000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727446652583000,1777727446648464000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727446726407000,1777727446722048000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727446999160000,1777727446992743000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727447188979000,1777727447185088000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727447267911000,1777727447264068000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727447503407000,1777727447497036000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727447739831000,1777727447732022000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727447817882000,1777727447813230000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727447965436000,1777727447961508000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727448301342000,1777727448293621000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727449512056000,1777727449504158000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727449792688000,1777727449786403000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727449885059000,1777727449879990000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727450062379000,1777727450057352000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727450277395000,1777727450271294000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727450393282000,1777727450386490000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727450604442000,1777727450599859000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727450853408000,1777727450846504000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727450956433000,1777727450951750000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727451104775000,1777727451100502000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727451260053000,1777727451254191000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727451440511000,1777727451435553000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727451685892000,1777727451677041000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727452784055000,1777727452779768000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727452988458000,1777727452984115000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727453166483000,1777727453162108000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727453381756000,1777727453374706000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727453575190000,1777727453570337000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727453772353000,1777727453766142000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727453889615000,1777727453885546000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727454006652000,1777727454001798000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727454237576000,1777727454231352000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727454437349000,1777727454430010000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727454618657000,1777727454611939000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727454745460000,1777727454740606000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727454998670000,1777727454992431000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727455112063000,1777727455107669000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727455379603000,1777727455374950000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727455659658000,1777727455654905000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727455917320000,1777727455908266000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727456125341000,1777727456117510000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727456365628000,1777727456360572000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727456646135000,1777727456639795000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727456807740000,1777727456799270000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727457798804000,1777727457792545000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727458025245000,1777727458018933000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727458111042000,1777727458103766000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727458347705000,1777727458338979000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727458388847000,1777727458384833000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727458595772000,1777727458588207000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727458758648000,1777727458752432000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727458850491000,1777727458845866000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727459074128000,1777727459066211000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727459288259000,1777727459280939000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727459423628000,1777727459418479000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727459718913000,1777727459712270000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727459913567000,1777727459909090000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727460092728000,1777727460087919000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727460196356000,1777727460192311000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727460310202000,1777727460306001000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727460536966000,1777727460528830000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,9,1777727460758774000,1777727460752099000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727462786439000,1777727462780237000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727462960905000,1777727462957237000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727463073470000,1777727463069231000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727463294288000,1777727463283139000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727463331851000,1777727463329383000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727463529107000,1777727463524187000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727463630440000,1777727463626609000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727463735165000,1777727463731117000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727463919948000,1777727463916307000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727464000761000,1777727463997148000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727464235219000,1777727464231155000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727464462430000,1777727464458419000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727464544025000,1777727464539916000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727464678809000,1777727464674476000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727464754694000,1777727464750884000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727465034360000,1777727465029798000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727465220812000,1777727465216805000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727465327690000,1777727465322166000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727465565175000,1777727465558755000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727465806592000,1777727465800162000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727465861540000,1777727465855633000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727466004544000,1777727466000628000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727466428890000,1777727466422266000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727466601911000,1777727466593274000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727466807681000,1777727466803353000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727466898205000,1777727466894125000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727467072653000,1777727467068635000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727467286395000,1777727467279300000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727467404355000,1777727467400606000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727467641921000,1777727467635556000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727467881320000,1777727467874426000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727467964632000,1777727467961048000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727468122665000,1777727468118640000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727468220086000,1777727468216071000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727468398134000,1777727468393981000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727468595329000,1777727468590904000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727468924559000,1777727468912702000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727469147342000,1777727469141359000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727469328017000,1777727469322303000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727469553449000,1777727469544714000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727469746253000,1777727469742424000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727469925686000,1777727469921236000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727470085665000,1777727470080438000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727470258645000,1777727470250953000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727470464017000,1777727470456210000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727470651479000,1777727470647528000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727470831200000,1777727470827092000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727470965149000,1777727470961274000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727471202362000,1777727471195674000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727471416823000,1777727471410717000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727472038393000,1777727472030358000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727472282494000,1777727472276210000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727472506277000,1777727472499774000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727472708101000,1777727472701609000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727472945535000,1777727472941151000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727473205165000,1777727473198696000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727473322700000,1777727473315942000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727473572701000,1777727473563748000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727473791239000,1777727473783396000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727473887417000,1777727473883214000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727474123217000,1777727474116418000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727474174557000,1777727474170140000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727474358931000,1777727474354610000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727474516844000,1777727474510991000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727474563027000,1777727474557723000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727474792133000,1777727474785360000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727475027738000,1777727475021423000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727475157296000,1777727475148735000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727475422208000,1777727475415495000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727475626025000,1777727475619377000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727475803870000,1777727475797810000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727475930231000,1777727475924026000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727476021607000,1777727476016335000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727476248115000,1777727476239021000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,10,1777727476475256000,1777727476468577000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727478684137000,1777727478676389000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727478807684000,1777727478802117000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727478919584000,1777727478914335000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727479139986000,1777727479131991000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727479202748000,1777727479199501000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727479390029000,1777727479385934000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727479487677000,1777727479483846000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727479593238000,1777727479588844000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727479793830000,1777727479785149000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727479864930000,1777727479860779000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727480115792000,1777727480111787000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727480350237000,1777727480343656000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727480457672000,1777727480453897000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727480584410000,1777727480580580000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727480672932000,1777727480669006000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727480929130000,1777727480922741000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727481117571000,1777727481112634000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727481231701000,1777727481227911000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727481481501000,1777727481475332000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727481736868000,1777727481731144000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727481812260000,1777727481808668000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727481945835000,1777727481941916000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727482514584000,1777727482510437000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727482655833000,1777727482651285000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727482846081000,1777727482842168000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727482956227000,1777727482952214000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727483126507000,1777727483122749000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727483341531000,1777727483333430000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727483434907000,1777727483430744000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727483679761000,1777727483673582000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727483920150000,1777727483914042000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727484063374000,1777727484059092000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727484250888000,1777727484247131000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727484336146000,1777727484332346000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727484514094000,1777727484510254000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727484728820000,1777727484721601000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727484894698000,1777727484890971000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727485095978000,1777727485091896000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727485281936000,1777727485278107000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727485515764000,1777727485509343000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727485696070000,1777727485692314000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727485901826000,1777727485895091000,41,Insert,u,42,"Dnes je krasne pocasie, doobeda som bol bu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727486214430000,1777727486210177000,42,Delete,u,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727486465342000,1777727486460722000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727486696905000,1777727486691014000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727486856940000,1777727486853040000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727487083210000,1777727487076701000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727487271149000,1777727487267174000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727487447299000,1777727487443088000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727487558961000,1777727487554710000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727487797372000,1777727487791242000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727488020809000,1777727488014769000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727488188579000,1777727488180679000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727488880875000,1777727488874366000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727489035436000,1777727489031231000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727489268820000,1777727489261950000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727489501191000,1777727489492528000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727489741719000,1777727489733238000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727489817983000,1777727489813797000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727490081181000,1777727490074993000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727490301086000,1777727490294043000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727490391889000,1777727490386947000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727490622538000,1777727490615124000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727490675041000,1777727490666770000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727490848344000,1777727490843866000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727490997840000,1777727490991880000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727491060598000,1777727491056311000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727491270027000,1777727491265720000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727491376503000,1777727491372163000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727491502463000,1777727491498073000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727491800313000,1777727491793334000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727491984336000,1777727491979997000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727492159052000,1777727492154437000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727492271173000,1777727492266892000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727492360535000,1777727492352603000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727492583830000,1777727492576112000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,11,1777727492836543000,1777727492830364000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727495001184000,1777727494995354000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727495153287000,1777727495149577000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727495249378000,1777727495245439000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727495474915000,1777727495467424000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727495539868000,1777727495535104000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727495727231000,1777727495723345000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727495824869000,1777727495820657000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727495940144000,1777727495932530000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727496155682000,1777727496146738000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727496225800000,1777727496221739000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727496472726000,1777727496466656000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727496689540000,1777727496683318000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727496776825000,1777727496773034000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727496924699000,1777727496920843000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727496996206000,1777727496991972000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727497267206000,1777727497260084000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727497439630000,1777727497435735000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727497526609000,1777727497522236000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727497759562000,1777727497752933000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727497977321000,1777727497972936000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727498062991000,1777727498059168000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727498189371000,1777727498184722000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727498784492000,1777727498778236000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727498907064000,1777727498902318000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727499140226000,1777727499133636000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727499236933000,1777727499232838000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727499431339000,1777727499427009000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727499807338000,1777727499801400000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727499916393000,1777727499912219000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727500144761000,1777727500137876000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727500386269000,1777727500381259000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727500479992000,1777727500475906000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727500641588000,1777727500637549000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727500719212000,1777727500714661000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727500897883000,1777727500893405000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727501117064000,1777727501108027000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727501280064000,1777727501275653000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727501501367000,1777727501494077000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727501683123000,1777727501674637000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727501907102000,1777727501900497000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727502095806000,1777727502090680000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727502290510000,1777727502286406000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727502410147000,1777727502405866000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727502518091000,1777727502513023000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727502769814000,1777727502763845000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727502958266000,1777727502954154000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727503138211000,1777727503134376000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727503333372000,1777727503327683000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727503574269000,1777727503567328000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727503707764000,1777727503703070000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727504011655000,1777727504005079000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727504275161000,1777727504268991000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727504510544000,1777727504504102000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727504710552000,1777727504706071000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727504961133000,1777727504954388000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727505270310000,1777727505264054000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727505493959000,1777727505486756000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727505755513000,1777727505749061000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727506001396000,1777727505994015000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727506077431000,1777727506072209000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727506340616000,1777727506333581000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727506430270000,1777727506426065000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727506607053000,1777727506603136000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727506752873000,1777727506748924000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727506833905000,1777727506830028000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727507066118000,1777727507058040000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727507188649000,1777727507184281000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727507318795000,1777727507313414000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727507631037000,1777727507624534000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727507824347000,1777727507819671000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727507999691000,1777727507994428000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727508103479000,1777727508098049000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727508196629000,1777727508192183000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727508429005000,1777727508421520000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,12,1777727508658635000,1777727508652143000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727511986029000,1777727511980051000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727512225470000,1777727512219313000,1,Insert,N,2,DN
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727512344970000,1777727512341385000,2,Insert,E,3,DNE
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727512578717000,1777727512572636000,3,Insert,S,4,DNES
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727512671068000,1777727512667009000,4,Insert, ,5,DNES 
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727512896887000,1777727512890219000,5,Insert,J,6,DNES J
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727513008541000,1777727513003835000,6,Insert,E,7,DNES JE
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727513321628000,1777727513317506000,7,Delete,E,6,DNES J
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727513525023000,1777727513520822000,6,Delete,J,5,DNES 
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727513690336000,1777727513687409000,5,Delete, ,4,DNES
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727513871386000,1777727513868579000,4,Delete,S,3,DNE
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727514030185000,1777727514027242000,3,Delete,E,2,DN
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727514210189000,1777727514204970000,2,Delete,N,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727515397955000,1777727515393499000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727515935013000,1777727515931251000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727516180005000,1777727516173712000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727516291151000,1777727516288105000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727516513230000,1777727516507219000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727516633527000,1777727516629809000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727516717236000,1777727516713305000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727516894606000,1777727516892041000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727516989142000,1777727516985039000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727517225108000,1777727517219157000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727517450494000,1777727517441449000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727517524258000,1777727517520440000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727517670792000,1777727517666034000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727517746493000,1777727517742967000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727518007378000,1777727518003062000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727518194561000,1777727518189327000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727518294577000,1777727518290560000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727518518739000,1777727518512564000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727518746408000,1777727518740385000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727518847656000,1777727518843144000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727518964364000,1777727518960644000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727521050139000,1777727521041791000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727521273418000,1777727521267122000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727521502106000,1777727521495653000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727521607857000,1777727521603965000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727521942950000,1777727521936663000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727522180761000,1777727522175970000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727522274107000,1777727522269821000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727522487836000,1777727522481758000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727522738454000,1777727522731412000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727522835936000,1777727522830316000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727523012230000,1777727523008302000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727523110364000,1777727523105865000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727523274921000,1777727523271029000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727523467245000,1777727523463161000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727523641203000,1777727523637095000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727523845264000,1777727523840236000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727524016215000,1777727524011430000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727524243423000,1777727524235561000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727524428551000,1777727524424278000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727524628989000,1777727524624033000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727524766105000,1777727524761904000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727524896846000,1777727524892214000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727525124347000,1777727525119701000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727525315990000,1777727525309376000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727525485040000,1777727525480057000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727525605975000,1777727525601593000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727525844996000,1777727525840805000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727526070777000,1777727526063931000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727527172246000,1777727527161765000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727527502184000,1777727527494923000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727527612083000,1777727527607685000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727527827990000,1777727527821562000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727528058061000,1777727528051721000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727528301681000,1777727528295757000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727528392689000,1777727528388018000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727528633434000,1777727528626442000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727528843237000,1777727528836566000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727528985599000,1777727528980631000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727529326679000,1777727529320324000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727529413843000,1777727529409834000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727529589173000,1777727529584861000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727529748854000,1777727529744535000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727529811894000,1777727529807326000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727530037173000,1777727530031112000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727530229769000,1777727530225672000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727530392067000,1777727530387205000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727530717107000,1777727530708903000,68,Insert,l,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a l"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727530900544000,1777727530895685000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a li"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727531070382000,1777727531065419000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727531169656000,1777727531164851000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727531261002000,1777727531256699000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727531678371000,1777727531672441000,73,Delete,m,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727531860887000,1777727531857702000,72,Delete,e,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727532040448000,1777727532037708000,71,Delete,j,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a li"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727532193478000,1777727532191008000,70,Delete,i,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a l"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727532698104000,1777727532693219000,69,Delete,l,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727533114985000,1777727533108273000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727533477439000,1777727533468074000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727533695880000,1777727533688983000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727533822972000,1777727533817043000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727533933715000,1777727533930120000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727534337676000,1777727534329447000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,13,1777727534663840000,1777727534650913000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727537128178000,1777727537122095000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727537308308000,1777727537304550000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727537418634000,1777727537414824000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727537636061000,1777727537627801000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727537693856000,1777727537690438000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727537882385000,1777727537878464000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727537971304000,1777727537967536000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727538116379000,1777727538108490000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727538317786000,1777727538313171000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727538412438000,1777727538408655000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727538648933000,1777727538641183000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727538886995000,1777727538877786000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727538955218000,1777727538951225000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727539110763000,1777727539105513000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727539155848000,1777727539149326000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727539440059000,1777727539433647000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727539623883000,1777727539619012000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727539741017000,1777727539737147000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727539966194000,1777727539960823000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727540197933000,1777727540191634000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727540267788000,1777727540263632000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727540423037000,1777727540415730000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727540950379000,1777727540942595000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727541174099000,1777727541166393000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727541385044000,1777727541377823000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727541498369000,1777727541492263000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727541683107000,1777727541677783000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727541903493000,1777727541894940000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727541978070000,1777727541972519000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727542221647000,1777727542214332000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727542478258000,1777727542471499000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727542556019000,1777727542551680000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727542731927000,1777727542726504000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727542820679000,1777727542816581000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727542995875000,1777727542990601000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727543194672000,1777727543189702000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727543355394000,1777727543351068000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727543576039000,1777727543570301000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727543748342000,1777727543743626000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727543986190000,1777727543979255000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727544176030000,1777727544171172000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727544372635000,1777727544366975000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727544508530000,1777727544504495000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727544649776000,1777727544645714000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727544885383000,1777727544877584000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727545088600000,1777727545080392000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727545268264000,1777727545264038000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727545385900000,1777727545381132000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727545636589000,1777727545628377000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727545854805000,1777727545850897000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727548987940000,1777727548981470000,50,Insert,",",51,"Dnes je krasne pocasie, doobeda som bol bicyklovat,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727550548851000,1777727550540524000,51,Insert, ,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727552856679000,1777727552849187000,52,Insert,t,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat, t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727553013979000,1777727553009445000,53,Insert,e,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat, te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727553259507000,1777727553253339000,54,Insert,r,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat, ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727553542273000,1777727553538328000,55,Delete,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat, te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727553721043000,1777727553715931000,54,Delete,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat, t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727553900061000,1777727553897125000,53,Delete,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727554075279000,1777727554071657000,52,Delete, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727554247150000,1777727554243305000,51,Delete,",",50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727554711696000,1777727554704288000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727554986210000,1777727554979977000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727555138010000,1777727555133897000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727555360939000,1777727555352768000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727555592759000,1777727555585012000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727555836993000,1777727555827830000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727555913396000,1777727555909634000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727556173519000,1777727556168593000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727556403161000,1777727556399147000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727556502256000,1777727556497998000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727556737896000,1777727556729617000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727556804509000,1777727556800164000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727556985356000,1777727556980987000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727557119570000,1777727557114433000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727557183236000,1777727557176547000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727557401752000,1777727557395094000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727557519997000,1777727557514308000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727557666819000,1777727557659665000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727557991789000,1777727557985351000,68,Insert,l,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a l"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727558203887000,1777727558198663000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a li"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727558377775000,1777727558373263000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727558501831000,1777727558497081000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727558596079000,1777727558592194000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727558957960000,1777727558953584000,73,Delete,m,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727559141412000,1777727559138457000,72,Delete,e,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a lij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727559318740000,1777727559312815000,71,Delete,j,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a li"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727559490627000,1777727559487568000,70,Delete,i,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a l"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727559922825000,1777727559916978000,69,Delete,l,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727560423075000,1777727560418374000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727560652546000,1777727560643210000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727560875469000,1777727560866686000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727560984033000,1777727560979994000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727561124295000,1777727561101718000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727561396678000,1777727561386362000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,14,1777727561662433000,1777727561658236000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727564321641000,1777727564313994000,0,Insert,D,1,D
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727564490273000,1777727564484364000,1,Insert,n,2,Dn
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727564605809000,1777727564602072000,2,Insert,e,3,Dne
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727564840571000,1777727564828107000,3,Insert,s,4,Dnes
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727564921398000,1777727564916497000,4,Insert, ,5,Dnes 
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727565126584000,1777727565121524000,5,Insert,j,6,Dnes j
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727565222918000,1777727565219149000,6,Insert,e,7,Dnes je
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727565350588000,1777727565345290000,7,Insert, ,8,Dnes je 
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727565558694000,1777727565551004000,8,Insert,k,9,Dnes je k
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727565648337000,1777727565644494000,9,Insert,r,10,Dnes je kr
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727565890956000,1777727565887043000,10,Insert,a,11,Dnes je kra
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727566126542000,1777727566119105000,11,Insert,s,12,Dnes je kras
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727566212662000,1777727566208185000,12,Insert,n,13,Dnes je krasn
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727566365062000,1777727566360159000,13,Insert,e,14,Dnes je krasne
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727566461509000,1777727566458555000,14,Insert, ,15,Dnes je krasne 
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727566737722000,1777727566730462000,15,Insert,p,16,Dnes je krasne p
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727566930569000,1777727566924818000,16,Insert,o,17,Dnes je krasne po
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727567010625000,1777727567006830000,17,Insert,c,18,Dnes je krasne poc
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727567246940000,1777727567243046000,18,Insert,a,19,Dnes je krasne poca
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727567487472000,1777727567483213000,19,Insert,s,20,Dnes je krasne pocas
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727567567609000,1777727567563480000,20,Insert,i,21,Dnes je krasne pocasi
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727567693292000,1777727567688925000,21,Insert,e,22,Dnes je krasne pocasie
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727568215403000,1777727568208323000,22,Insert,",",23,"Dnes je krasne pocasie,"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727568367214000,1777727568362098000,23,Insert, ,24,"Dnes je krasne pocasie, "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727568651199000,1777727568644204000,24,Insert,d,25,"Dnes je krasne pocasie, d"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727568766070000,1777727568758613000,25,Insert,o,26,"Dnes je krasne pocasie, do"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727568951400000,1777727568947446000,26,Insert,o,27,"Dnes je krasne pocasie, doo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727569172889000,1777727569166349000,27,Insert,b,28,"Dnes je krasne pocasie, doob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727569269983000,1777727569266135000,28,Insert,e,29,"Dnes je krasne pocasie, doobe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727569511369000,1777727569507137000,29,Insert,d,30,"Dnes je krasne pocasie, doobed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727569761745000,1777727569751643000,30,Insert,a,31,"Dnes je krasne pocasie, doobeda"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727569865364000,1777727569856587000,31,Insert, ,32,"Dnes je krasne pocasie, doobeda "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727570040610000,1777727570036127000,32,Insert,s,33,"Dnes je krasne pocasie, doobeda s"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727570140629000,1777727570136641000,33,Insert,o,34,"Dnes je krasne pocasie, doobeda so"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727570319322000,1777727570315112000,34,Insert,m,35,"Dnes je krasne pocasie, doobeda som"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727570535740000,1777727570527662000,35,Insert, ,36,"Dnes je krasne pocasie, doobeda som "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727570706039000,1777727570700833000,36,Insert,b,37,"Dnes je krasne pocasie, doobeda som b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727570923137000,1777727570916721000,37,Insert,o,38,"Dnes je krasne pocasie, doobeda som bo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727571090759000,1777727571086010000,38,Insert,l,39,"Dnes je krasne pocasie, doobeda som bol"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727571369571000,1777727571358662000,39,Insert, ,40,"Dnes je krasne pocasie, doobeda som bol "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727571749509000,1777727571744435000,40,Insert,b,41,"Dnes je krasne pocasie, doobeda som bol b"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727571953308000,1777727571945855000,41,Insert,i,42,"Dnes je krasne pocasie, doobeda som bol bi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727572072500000,1777727572067550000,42,Insert,c,43,"Dnes je krasne pocasie, doobeda som bol bic"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727572252338000,1777727572247979000,43,Insert,y,44,"Dnes je krasne pocasie, doobeda som bol bicy"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727572498212000,1777727572491893000,44,Insert,k,45,"Dnes je krasne pocasie, doobeda som bol bicyk"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727572687568000,1777727572681568000,45,Insert,l,46,"Dnes je krasne pocasie, doobeda som bol bicykl"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727572858296000,1777727572853436000,46,Insert,o,47,"Dnes je krasne pocasie, doobeda som bol bicyklo"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727572979184000,1777727572975063000,47,Insert,v,48,"Dnes je krasne pocasie, doobeda som bol bicyklov"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727573255059000,1777727573246461000,48,Insert,a,49,"Dnes je krasne pocasie, doobeda som bol bicyklova"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727573507210000,1777727573500845000,49,Insert,t,50,"Dnes je krasne pocasie, doobeda som bol bicyklovat"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727574549702000,1777727574538643000,50,Insert, ,51,"Dnes je krasne pocasie, doobeda som bol bicyklovat "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727574815573000,1777727574809748000,51,Insert,t,52,"Dnes je krasne pocasie, doobeda som bol bicyklovat t"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727574974834000,1777727574970272000,52,Insert,e,53,"Dnes je krasne pocasie, doobeda som bol bicyklovat te"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727575193164000,1777727575189099000,53,Insert,r,54,"Dnes je krasne pocasie, doobeda som bol bicyklovat ter"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727575433501000,1777727575427866000,54,Insert,a,55,"Dnes je krasne pocasie, doobeda som bol bicyklovat tera"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727575681093000,1777727575676659000,55,Insert,z,56,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727575783138000,1777727575779425000,56,Insert, ,57,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727576041716000,1777727576032241000,57,Insert,o,58,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz o"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727576280638000,1777727576268996000,58,Insert,b,59,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz ob"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727576350998000,1777727576345939000,59,Insert,e,60,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obe"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727576592436000,1777727576582191000,60,Insert,d,61,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obed"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727576649257000,1777727576645608000,61,Insert,u,62,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedu"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727576850885000,1777727576839134000,62,Insert,j,63,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduj"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727576987940000,1777727576985500000,63,Insert,e,64,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obeduje"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727577076562000,1777727577071841000,64,Insert,m,65,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727577315364000,1777727577308059000,65,Insert, ,66,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727577675558000,1777727577669707000,66,Insert,a,67,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727577823193000,1777727577817136000,67,Insert, ,68,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727578093003000,1777727578086975000,68,Insert,p,69,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a p"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727578279721000,1777727578272750000,69,Insert,i,70,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pi"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727578444406000,1777727578439036000,70,Insert,j,71,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pij"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727578563351000,1777727578557310000,71,Insert,e,72,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pije"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727578643477000,1777727578637726000,72,Insert,m,73,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem"
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727578873236000,1777727578866446000,73,Insert, ,74,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem "
+tQ67DG0meybtvwgtlI6rCkNYmU93,15,1777727579121224000,1777727579116767000,74,Insert,k,75,"Dnes je krasne pocasie, doobeda som bol bicyklovat teraz obedujem a pijem k"

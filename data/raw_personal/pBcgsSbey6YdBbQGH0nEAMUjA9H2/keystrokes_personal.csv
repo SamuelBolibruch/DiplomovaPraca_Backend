@@ -1,0 +1,1306 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075009305746000,1771075009294423000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075009814636000,1771075009809145000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075010235331000,1771075010229438000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075010478191000,1771075010471169000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075010997891000,1771075010993904000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075011829039000,1771075011819881000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075012125911000,1771075012120182000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075012416155000,1771075012411389000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075012824769000,1771075012818368000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075013127874000,1771075013120191000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075013521104000,1771075013514653000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075013801797000,1771075013793860000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075014228941000,1771075014225304000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075014551611000,1771075014544619000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075014934756000,1771075014929159000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075015275468000,1771075015269658000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075015810678000,1771075015799939000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075016217633000,1771075016213749000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075016590010000,1771075016584104000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075017205212000,1771075017201543000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075017465861000,1771075017460031000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075017874754000,1771075017868851000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075018362454000,1771075018358937000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075018611894000,1771075018605804000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075019086151000,1771075019080344000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075019746093000,1771075019742509000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075021792768000,1771075021786008000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075022147910000,1771075022144267000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075022487187000,1771075022481729000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075022742621000,1771075022736128000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075023180065000,1771075023172969000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075026305336000,1771075026296015000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075026672409000,1771075026666723000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075027025123000,1771075027018712000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075027297887000,1771075027291640000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075027750016000,1771075027744640000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075028030760000,1771075028024896000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075028432064000,1771075028424958000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075028791729000,1771075028785934000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075029109615000,1771075029104003000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075029403353000,1771075029396814000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075029764609000,1771075029757374000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075030054668000,1771075030048267000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075031483645000,1771075031472167000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075031770793000,1771075031762837000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075034775613000,1771075034767309000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075035080523000,1771075035074583000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075036811031000,1771075036802979000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075037157203000,1771075037150298000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075037482053000,1771075037475606000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075037880242000,1771075037874318000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075038100769000,1771075038094430000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075038402908000,1771075038396395000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075038670533000,1771075038664204000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075038972640000,1771075038967031000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075039199007000,1771075039193094000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075039428069000,1771075039422288000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075039882846000,1771075039876294000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075040191107000,1771075040181510000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075040478736000,1771075040471106000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075040676605000,1771075040669908000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075041397434000,1771075041389476000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075042428933000,1771075042420393000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075043895919000,1771075043886285000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075044234475000,1771075044228423000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075044425817000,1771075044421187000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075044804987000,1771075044798297000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075045397378000,1771075045392143000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075045591843000,1771075045585310000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075046128426000,1771075046123935000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075046445703000,1771075046438762000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075046808656000,1771075046803475000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075047040784000,1771075047034835000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075047634306000,1771075047629877000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075048039158000,1771075048033156000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075048252915000,1771075048245853000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075048667598000,1771075048663703000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075048932222000,1771075048922755000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075049366577000,1771075049360347000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075049857128000,1771075049851415000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075050142020000,1771075050136008000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075050728575000,1771075050723331000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,1,1771075051082181000,1771075051074035000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075060266782000,1771075060263868000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075061150611000,1771075061144957000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075061510026000,1771075061504058000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075061751428000,1771075061744610000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075062621062000,1771075062617491000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075063024374000,1771075063017393000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075063308111000,1771075063302611000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075063604249000,1771075063600481000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075063983920000,1771075063977091000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075064303542000,1771075064296540000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075064630550000,1771075064623770000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075064911170000,1771075064904221000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075065400327000,1771075065393954000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075065723525000,1771075065719881000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075066059458000,1771075066053574000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075066322164000,1771075066316440000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075066602989000,1771075066592267000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075067084704000,1771075067078290000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075067402382000,1771075067392664000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075067739719000,1771075067733410000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075068016233000,1771075068006774000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075068400949000,1771075068393664000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075068806839000,1771075068799573000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075069096647000,1771075069090699000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075069489445000,1771075069483848000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075069806724000,1771075069800028000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075073515247000,1771075073506927000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075073975446000,1771075073968696000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075074265460000,1771075074258419000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075074492481000,1771075074485424000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075075364817000,1771075075355797000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075075617122000,1771075075611182000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075075913056000,1771075075900264000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075076210079000,1771075076204441000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075076484031000,1771075076477723000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075076779367000,1771075076775347000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075077080013000,1771075077071216000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075077604845000,1771075077595834000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075078719351000,1771075078714490000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075079040589000,1771075079029007000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075079305051000,1771075079295663000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075079725095000,1771075079718333000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075079985863000,1771075079979909000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075080415902000,1771075080409781000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075081401027000,1771075081393093000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075084198303000,1771075084189400000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075084486470000,1771075084481070000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075084699021000,1771075084692449000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075084934730000,1771075084929068000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075085257923000,1771075085250666000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075085660425000,1771075085655536000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075085866092000,1771075085858720000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075086220204000,1771075086214355000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075086493878000,1771075086486829000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075086864057000,1771075086858159000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075087085594000,1771075087079504000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075087316985000,1771075087310599000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075087792976000,1771075087784935000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075088076310000,1771075088069722000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075088383756000,1771075088380186000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075088587590000,1771075088583641000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075088906433000,1771075088892948000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075089825496000,1771075089819951000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075094956718000,1771075094947135000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075095351580000,1771075095344583000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075095562539000,1771075095556076000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075095927052000,1771075095920716000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075096485203000,1771075096480864000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075096671186000,1771075096666620000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075097152549000,1771075097145584000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075097417131000,1771075097410738000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075097793954000,1771075097788073000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075098042178000,1771075098035717000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075098431681000,1771075098425737000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075098818217000,1771075098812084000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075099012565000,1771075099006915000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075099347936000,1771075099340397000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075099611843000,1771075099605598000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075100363809000,1771075100354630000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075100642723000,1771075100636841000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075100936902000,1771075100928626000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075101418697000,1771075101411743000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,2,1771075101683485000,1771075101674467000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075104535559000,1771075104524884000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075105044135000,1771075105039126000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075105311770000,1771075105305480000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075105546676000,1771075105541038000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075105946077000,1771075105941824000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075106905870000,1771075106894689000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075107251548000,1771075107244382000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075107552735000,1771075107546017000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075107870080000,1771075107861991000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075108200599000,1771075108193918000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075108478005000,1771075108472578000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075108744453000,1771075108733967000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075109190316000,1771075109182306000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075109508312000,1771075109501408000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075109794232000,1771075109790617000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075110112081000,1771075110106081000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075110323167000,1771075110316133000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075110736245000,1771075110730059000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075111079750000,1771075111074222000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075111500272000,1771075111493500000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075111752757000,1771075111747204000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075112178229000,1771075112172310000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075112588179000,1771075112584606000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075112824735000,1771075112821110000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075113254933000,1771075113250971000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075113621755000,1771075113613759000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075115764879000,1771075115753124000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075116249347000,1771075116243493000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075116502225000,1771075116493752000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075116694326000,1771075116690481000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075117150381000,1771075117146757000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075117413073000,1771075117406640000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075117703293000,1771075117697395000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075117994207000,1771075117988177000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075118219677000,1771075118211922000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075118476162000,1771075118472507000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075118757489000,1771075118751780000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075119207004000,1771075119201347000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075119557464000,1771075119551656000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075119894729000,1771075119890993000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075120162902000,1771075120156132000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075120491393000,1771075120484132000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075120762138000,1771075120756220000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075121822132000,1771075121813122000,43,Insert,y,44,Vcera som bol na turistike dnes ma bolia noy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075123212911000,1771075123209687000,44,Delete,y,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075124104428000,1771075124097935000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075125139669000,1771075125133091000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075127262211000,1771075127254639000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075127585362000,1771075127580761000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075127834812000,1771075127828166000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075128085756000,1771075128081926000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075128386275000,1771075128380302000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075128809327000,1771075128803449000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075128988522000,1771075128984455000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075129332316000,1771075129325081000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075129603851000,1771075129597352000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075129980555000,1771075129974031000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075130210025000,1771075130203780000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075130443789000,1771075130435108000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075130877061000,1771075130868860000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075131128508000,1771075131123143000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075131497144000,1771075131492362000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075131705121000,1771075131701061000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075131977282000,1771075131971053000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075133044773000,1771075133040484000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075133405587000,1771075133399129000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075133844413000,1771075133840317000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075134077963000,1771075134070132000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075134391894000,1771075134384960000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075134923204000,1771075134919272000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075135287406000,1771075135281715000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075135785043000,1771075135779165000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075136078814000,1771075136069186000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075136465042000,1771075136459445000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075136789310000,1771075136783226000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075137239635000,1771075137233249000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075137827833000,1771075137820189000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075138063410000,1771075138055915000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075138444007000,1771075138437890000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075138704444000,1771075138696086000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075139408301000,1771075139401411000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075139721458000,1771075139714793000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075140019905000,1771075140008826000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075140603665000,1771075140592472000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,3,1771075140882818000,1771075140873086000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075143526704000,1771075143516844000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075143984665000,1771075143979112000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075144724983000,1771075144716192000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075144935742000,1771075144930274000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075145367630000,1771075145361949000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075146377054000,1771075146369073000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075146725250000,1771075146718658000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075146991263000,1771075146985710000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075147343318000,1771075147336984000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075147629265000,1771075147621965000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075148134118000,1771075148128419000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075148409298000,1771075148403851000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075148916839000,1771075148911229000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075149250825000,1771075149244162000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075149580999000,1771075149575590000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075149867683000,1771075149861543000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075150082729000,1771075150079040000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075150557969000,1771075150552362000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075150859795000,1771075150849651000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075151165145000,1771075151159550000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075151426254000,1771075151420505000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075151855797000,1771075151849674000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075152280797000,1771075152274446000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075152515338000,1771075152509581000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075152892317000,1771075152886352000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075153179259000,1771075153175832000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075154781153000,1771075154775296000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075155226941000,1771075155223015000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075155522300000,1771075155515683000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075155751323000,1771075155743405000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075156195066000,1771075156188961000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075157672260000,1771075157663501000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075157981314000,1771075157974822000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075158264621000,1771075158258909000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075158481511000,1771075158475702000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075158780851000,1771075158774294000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075159076451000,1771075159070699000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075159512520000,1771075159506983000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075159846931000,1771075159840066000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075160160659000,1771075160155110000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075160444757000,1771075160438383000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075160765966000,1771075160756518000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075161057003000,1771075161051181000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075161767590000,1771075161757814000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075162721871000,1771075162714773000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075165475057000,1771075165466291000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075165742291000,1771075165736401000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075166076070000,1771075166067982000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075166309236000,1771075166304059000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075166560441000,1771075166554259000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075166953957000,1771075166944073000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075167097850000,1771075167093673000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075167520296000,1771075167512935000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075167795274000,1771075167785030000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075168142317000,1771075168136675000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075168373087000,1771075168365660000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075168705282000,1771075168699077000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075169826478000,1771075169822113000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075170119921000,1771075170113598000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075170562896000,1771075170558567000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075170753162000,1771075170748564000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075170999204000,1771075170995198000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075171723838000,1771075171716084000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075172834212000,1771075172823852000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075173131237000,1771075173124210000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075173343508000,1771075173335181000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075173753002000,1771075173746945000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075174709668000,1771075174703608000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075175124252000,1771075175117022000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075175594338000,1771075175587615000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075176137732000,1771075176127884000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075176524264000,1771075176515834000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075176743626000,1771075176737407000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075177121155000,1771075177114760000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075177531365000,1771075177525017000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075177750521000,1771075177744053000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075178178312000,1771075178173363000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075178470378000,1771075178464113000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075179213689000,1771075179206802000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075179446510000,1771075179439533000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075179723148000,1771075179713725000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075180251376000,1771075180244336000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,4,1771075180545962000,1771075180536860000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075183923524000,1771075183913793000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075184242368000,1771075184236352000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075184662978000,1771075184656673000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075184905520000,1771075184899998000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075185365056000,1771075185358244000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075185857460000,1771075185851180000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075186092632000,1771075186086054000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075186431108000,1771075186427525000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075186826123000,1771075186819278000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075187123020000,1771075187120399000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075187421504000,1771075187417196000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075187701746000,1771075187697512000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075188160966000,1771075188153989000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075188462388000,1771075188456264000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075188806475000,1771075188801160000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075189072457000,1771075189066649000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075189304448000,1771075189297300000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075189771794000,1771075189765586000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075190126440000,1771075190121730000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075190539310000,1771075190533559000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075190812750000,1771075190807236000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075191139989000,1771075191134122000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075191605292000,1771075191598266000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075191860272000,1771075191854619000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075192525625000,1771075192517737000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075192760447000,1771075192751301000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075198655742000,1771075198642253000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075199105575000,1771075199098509000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075199368641000,1771075199360660000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075199551596000,1771075199547890000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075200024588000,1771075200018007000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075200423677000,1771075200417534000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075200711017000,1771075200704864000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075200949349000,1771075200944495000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075201168494000,1771075201162801000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075201448589000,1771075201441690000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075201715822000,1771075201710007000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075202117818000,1771075202111515000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075202511032000,1771075202503430000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075202829798000,1771075202824026000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075203111915000,1771075203104529000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075203412820000,1771075203406375000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075203732044000,1771075203722540000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075204550483000,1771075204540672000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075205649241000,1771075205647359000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075208053240000,1771075208042947000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075208363980000,1771075208358324000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075210491723000,1771075210484700000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075210843605000,1771075210837460000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075211169942000,1771075211164500000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075211572023000,1771075211566038000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075211727391000,1771075211722353000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075212080449000,1771075212074389000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075212375055000,1771075212361713000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075212816694000,1771075212810074000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075213050514000,1771075213044966000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075213267898000,1771075213261971000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075213797025000,1771075213790468000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075214056216000,1771075214050297000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075214403359000,1771075214396152000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075214608831000,1771075214604346000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075214916427000,1771075214907966000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075215762420000,1771075215753533000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075216383769000,1771075216371470000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075216704313000,1771075216699884000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075216931150000,1771075216924476000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075218007935000,1771075218002948000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075218746138000,1771075218738703000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075218983542000,1771075218977560000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075219563780000,1771075219559354000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075220197670000,1771075220191969000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075220575748000,1771075220567701000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075220814488000,1771075220808037000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075221158288000,1771075221151681000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075221562908000,1771075221557138000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075221793801000,1771075221788054000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075222138956000,1771075222134748000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075222415956000,1771075222411387000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075223021733000,1771075223017491000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075223291400000,1771075223284378000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075223599917000,1771075223590451000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075224090054000,1771075224084484000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,5,1771075224359119000,1771075224350748000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075231646693000,1771075231641185000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075231960294000,1771075231954817000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075232244731000,1771075232240971000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075232464934000,1771075232459348000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075232995966000,1771075232992629000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075234031730000,1771075234021015000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075234651714000,1771075234646050000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075234889339000,1771075234883812000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075235258673000,1771075235253202000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075235564185000,1771075235559571000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075235808422000,1771075235801581000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075236080192000,1771075236076140000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075236488107000,1771075236484399000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075236864880000,1771075236858051000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075237271678000,1771075237265243000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075237525041000,1771075237519279000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075237760801000,1771075237754717000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075238252117000,1771075238246309000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075238643357000,1771075238639793000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075238966405000,1771075238960771000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075239260078000,1771075239251995000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075239581594000,1771075239577830000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075240005064000,1771075239997664000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075240249983000,1771075240244283000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075240626613000,1771075240620351000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075240882346000,1771075240876637000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075249191588000,1771075249182479000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075249452238000,1771075249445476000,27,Insert,b,28,Vcera som bol na turistike b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075250076102000,1771075250068576000,28,Delete,b,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075250474290000,1771075250468703000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075250802101000,1771075250793129000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075250964487000,1771075250960920000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075251406483000,1771075251402958000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075251628965000,1771075251622050000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075251875285000,1771075251868861000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075252284661000,1771075252263138000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075252555101000,1771075252549597000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075252947305000,1771075252940684000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075253216392000,1771075253209465000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075253590618000,1771075253584839000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075254265181000,1771075254254190000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075254478541000,1771075254474367000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075254743729000,1771075254734889000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075255028696000,1771075255024327000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075255279507000,1771075255273790000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075255763876000,1771075255759347000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075256654025000,1771075256650572000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075259192232000,1771075259183850000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075259442314000,1771075259436382000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075259711022000,1771075259704418000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075259916582000,1771075259910763000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075260170175000,1771075260164214000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075260653305000,1771075260647401000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075261005202000,1771075260999246000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075261346356000,1771075261340541000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075262222088000,1771075262211596000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075262508346000,1771075262503876000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075262701294000,1771075262696960000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075262890247000,1771075262884741000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075263110233000,1771075263103572000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075263430240000,1771075263423965000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075263726594000,1771075263720661000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075263934345000,1771075263928545000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075264200207000,1771075264190976000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075265054812000,1771075265047334000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075266215948000,1771075266207776000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075266783809000,1771075266775011000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075266993606000,1771075266986706000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075268522897000,1771075268513428000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075269075942000,1771075269071929000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075269330361000,1771075269324457000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075269948375000,1771075269939733000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075270316150000,1771075270306009000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075270710704000,1771075270700908000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075270930678000,1771075270924811000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075271209717000,1771075271203318000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075271626349000,1771075271620637000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075271859316000,1771075271852244000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075272251116000,1771075272245588000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075272511008000,1771075272504529000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075273057398000,1771075273053320000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075273592506000,1771075273587180000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075273883352000,1771075273877505000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075274299327000,1771075274292990000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,6,1771075274592771000,1771075274584547000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075276720273000,1771075276716544000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075277248053000,1771075277241823000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075277537907000,1771075277534093000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075277771969000,1771075277765503000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075278281215000,1771075278273145000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075279152502000,1771075279143261000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075279456521000,1771075279449158000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075279753409000,1771075279747088000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075280085151000,1771075280079371000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075280420208000,1771075280412915000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075280770788000,1771075280765016000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075281051627000,1771075281044697000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075281500667000,1771075281494015000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075281779736000,1771075281772362000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075282113291000,1771075282109701000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075282400982000,1771075282397479000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075282619453000,1771075282612717000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075283067994000,1771075283062609000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075283734615000,1771075283725247000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075284136262000,1771075284129556000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075284425043000,1771075284419165000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075284868848000,1771075284862564000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075285415729000,1771075285407840000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075285663163000,1771075285656929000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075286096442000,1771075286086969000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075286487556000,1771075286480833000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075289409024000,1771075289395160000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075289767288000,1771075289760857000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075290051436000,1771075290045683000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075290251961000,1771075290245696000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075290655506000,1771075290651147000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075290906980000,1771075290902801000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075291189357000,1771075291185254000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075291490531000,1771075291484498000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075291707418000,1771075291699730000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075291997364000,1771075291990678000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075292295076000,1771075292289138000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075292731993000,1771075292726368000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075293120222000,1771075293114643000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075293400082000,1771075293393758000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075293693608000,1771075293684184000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075294052477000,1771075294047170000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075294344377000,1771075294338760000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075295011613000,1771075295002437000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075296004315000,1771075295997066000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075297689912000,1771075297680014000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075297978530000,1771075297972640000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075298188503000,1771075298184270000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075298390683000,1771075298384774000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075298627286000,1771075298621276000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075299309503000,1771075299296982000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075299497194000,1771075299488675000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075299850834000,1771075299846957000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075300132771000,1771075300123718000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075300427881000,1771075300422413000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075300664643000,1771075300658692000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075301195682000,1771075301191081000,56,Insert,d,57,Vcera som bol na turistike dnes ma bolia nohy a davam sad
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075303050537000,1771075303045972000,57,Delete,d,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075304011745000,1771075304000452000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075304613807000,1771075304609319000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075304942149000,1771075304936248000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075305416251000,1771075305410334000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075305651002000,1771075305645030000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075305972271000,1771075305966395000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075306860259000,1771075306851225000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075308145658000,1771075308136130000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075308469835000,1771075308462425000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075308703360000,1771075308697759000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075309049072000,1771075309043503000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075309850476000,1771075309842427000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075310164956000,1771075310158986000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075310620370000,1771075310614213000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075311000460000,1771075310993207000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075311469530000,1771075311461437000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075311708239000,1771075311702198000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075312139906000,1771075312133707000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075312599789000,1771075312593344000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075312818018000,1771075312810955000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075313121614000,1771075313115536000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075313410804000,1771075313404413000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075314222473000,1771075314212934000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075314457540000,1771075314450739000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075314739733000,1771075314731864000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075315197561000,1771075315191612000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,7,1771075315432664000,1771075315424534000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075317900618000,1771075317892934000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075318321140000,1771075318315272000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075318634000000,1771075318627692000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075318883937000,1771075318875761000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075319369949000,1771075319366166000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075319682761000,1771075319675366000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075319962485000,1771075319954312000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075320269770000,1771075320264348000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075320658077000,1771075320652624000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075320948937000,1771075320942066000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075321754754000,1771075321749898000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075322051499000,1771075322048169000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075322450928000,1771075322445255000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075322831705000,1771075322825515000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075323157220000,1771075323151595000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075323419990000,1771075323414364000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075323644156000,1771075323640024000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075324147545000,1771075324141686000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075324455141000,1771075324449665000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075324830768000,1771075324826161000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075325111393000,1771075325105612000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075325503675000,1771075325497655000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075325963497000,1771075325957517000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075326268782000,1771075326265207000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075326680627000,1771075326674461000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075326935477000,1771075326927716000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075330957059000,1771075330947935000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075331350957000,1771075331344678000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075331616689000,1771075331608200000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075331848819000,1771075331842605000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075332295687000,1771075332290074000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075332551082000,1771075332543797000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075332860162000,1771075332852413000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075333121753000,1771075333115331000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075333331911000,1771075333324669000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075333639369000,1771075333632821000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075333976132000,1771075333967306000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075334437650000,1771075334433607000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075334784991000,1771075334779547000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075335088354000,1771075335082912000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075335383991000,1771075335377503000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075335724322000,1771075335716817000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075336010996000,1771075336002922000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075337436530000,1771075337427778000,43,Insert,y,44,Vcera som bol na turistike dnes ma bolia noy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075339218162000,1771075339213917000,44,Delete,y,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075339650653000,1771075339643834000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075340303890000,1771075340295257000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075342198305000,1771075342187985000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075342920939000,1771075342911233000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075343132284000,1771075343126113000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075343339508000,1771075343333717000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075343610287000,1771075343604633000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075344069789000,1771075344059464000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075344240065000,1771075344236146000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075344784867000,1771075344776025000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075345101040000,1771075345095032000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075345662275000,1771075345658291000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075345845569000,1771075345840686000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075346102463000,1771075346096320000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075346396163000,1771075346389575000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075346682685000,1771075346677592000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075347303453000,1771075347299451000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075347829262000,1771075347821734000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075348090513000,1771075348083073000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075348847684000,1771075348840159000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075350061377000,1771075350049501000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075350364791000,1771075350358324000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075350613576000,1771075350607459000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075350964844000,1771075350956547000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075351448306000,1771075351442606000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075351785294000,1771075351772860000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075352133391000,1771075352127130000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075352486787000,1771075352483203000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075352924918000,1771075352917248000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075353182253000,1771075353176328000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075353597103000,1771075353588099000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075353986958000,1771075353981338000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075354229121000,1771075354223283000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075354600714000,1771075354594581000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075354901780000,1771075354891390000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075355637581000,1771075355631746000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075355925743000,1771075355919980000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075356220902000,1771075356213921000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075356884573000,1771075356868742000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,8,1771075357041027000,1771075357036106000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075361180800000,1771075361171068000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075361590159000,1771075361584610000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075361911785000,1771075361907089000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075362141882000,1771075362136258000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075362686493000,1771075362683201000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075363155397000,1771075363149487000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075363529790000,1771075363524193000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075363794083000,1771075363790352000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075364166779000,1771075364160198000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075364468219000,1771075364462749000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075364766019000,1771075364759185000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075365044268000,1771075365036394000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075365438265000,1771075365432669000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075365748043000,1771075365741149000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075366037896000,1771075366034409000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075366330745000,1771075366322841000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075366571218000,1771075366564778000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075367072404000,1771075367064527000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075367598657000,1771075367593404000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075368048160000,1771075368041963000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075368422968000,1771075368417381000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075368894566000,1771075368888960000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075369355951000,1771075369349546000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075369579154000,1771075369573538000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075369967752000,1771075369962036000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075370227502000,1771075370221192000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075373100158000,1771075373096886000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075373586423000,1771075373581290000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075373812879000,1771075373806793000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075374031349000,1771075374023801000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075374526233000,1771075374518513000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075374823389000,1771075374821096000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075375205346000,1771075375200021000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075375507398000,1771075375501451000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075375787397000,1771075375780798000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075376167573000,1771075376161442000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075376487022000,1771075376479916000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075376934426000,1771075376926405000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075377216205000,1771075377209809000,38,Insert,a,39,Vcera som bol na turistike dnes ma bola
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075378916953000,1771075378910413000,39,Delete,a,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075380108685000,1771075380100250000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075380475712000,1771075380468428000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075381330135000,1771075381321501000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075381698456000,1771075381692574000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075381962109000,1771075381956294000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075382498124000,1771075382494243000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075383412026000,1771075383403823000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075385548813000,1771075385539933000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075385776386000,1771075385770737000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075386036004000,1771075386029290000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075386228183000,1771075386223488000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075386460400000,1771075386454063000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075386846899000,1771075386838091000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075386980391000,1771075386976186000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075387304699000,1771075387297456000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075388232934000,1771075388223919000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075388532914000,1771075388526499000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075388715421000,1771075388711678000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075388918629000,1771075388912530000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075389184796000,1771075389179026000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075389496462000,1771075389490257000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075389885202000,1771075389877382000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075390093940000,1771075390089569000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075390385150000,1771075390373682000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075391498922000,1771075391490842000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075392966814000,1771075392956534000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075393311660000,1771075393298103000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075393576191000,1771075393570294000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075393931313000,1771075393926687000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075394963940000,1771075394958058000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075395259443000,1771075395252997000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075395831864000,1771075395823550000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075397064056000,1771075397056432000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075397467511000,1771075397460244000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075397692925000,1771075397687371000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075398021593000,1771075398015884000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075398594756000,1771075398590351000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075399076619000,1771075399070313000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075399524703000,1771075399518697000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075399823256000,1771075399816107000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075400394611000,1771075400389906000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075400939056000,1771075400931262000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075401240327000,1771075401235115000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075401666795000,1771075401661036000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,9,1771075401943970000,1771075401935863000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075404038831000,1771075404035585000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075405057565000,1771075405052989000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075405331431000,1771075405325217000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075405596299000,1771075405592874000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075406079645000,1771075406076254000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075406373111000,1771075406359541000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075406663357000,1771075406657470000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075406967543000,1771075406961583000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075407373657000,1771075407367565000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075407649833000,1771075407643697000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075408097204000,1771075408092492000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075408359654000,1771075408352319000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075408650439000,1771075408644443000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075412527330000,1771075412520566000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075414115624000,1771075414112019000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075414366611000,1771075414361078000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075414606825000,1771075414600873000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075415020696000,1771075415013768000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075415380088000,1771075415374391000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075415863713000,1771075415857546000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075416135454000,1771075416128303000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075416505206000,1771075416499934000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075417118605000,1771075417114937000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075417476829000,1771075417470065000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075418004675000,1771075417997811000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075418224317000,1771075418220702000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075419798920000,1771075419794723000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075420450409000,1771075420441987000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075420747400000,1771075420739864000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075420976911000,1771075420969482000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075421447974000,1771075421442332000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075421750748000,1771075421747115000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075422087172000,1771075422083652000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075422368767000,1771075422362803000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075422649598000,1771075422640955000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075422932600000,1771075422925776000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075423210649000,1771075423204959000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075423636547000,1771075423629776000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075424246956000,1771075424242817000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075424496528000,1771075424489647000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075425777692000,1771075425769537000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075426273182000,1771075426267850000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075426560961000,1771075426552949000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075427146393000,1771075427142086000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075427852277000,1771075427843923000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075429699473000,1771075429690528000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075430187419000,1771075430183306000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075430456730000,1771075430447632000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075430640522000,1771075430635582000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075430883998000,1771075430876998000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075431366646000,1771075431363199000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075431525239000,1771075431520770000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075431876356000,1771075431872377000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075432761045000,1771075432754296000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075433068917000,1771075433062343000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075433279308000,1771075433273586000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075433459100000,1771075433454904000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075433720883000,1771075433715445000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075434008980000,1771075434002951000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075434385761000,1771075434380428000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075434637541000,1771075434632894000,60,Insert,p,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokp
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075435664451000,1771075435660509000,61,Insert,y,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokpy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075437019656000,1771075437014567000,62,Delete,y,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokp
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075437263946000,1771075437260077000,61,Delete,p,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075438278793000,1771075438271675000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075438513328000,1771075438507047000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075439652014000,1771075439648483000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075441067602000,1771075441056699000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075441421390000,1771075441415805000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075441651514000,1771075441644812000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075442347974000,1771075442337944000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075442772850000,1771075442766678000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075442978189000,1771075442973863000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075443433423000,1771075443427467000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075444149116000,1771075444140670000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075444668388000,1771075444661331000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075444937859000,1771075444928634000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075445301238000,1771075445295537000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075445650900000,1771075445645036000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075445858297000,1771075445852471000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075446157596000,1771075446152443000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075446512889000,1771075446505059000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075447747655000,1771075447740494000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075448248513000,1771075448242611000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075448580781000,1771075448571760000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075449065406000,1771075449059482000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,10,1771075449224509000,1771075449218585000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075450855770000,1771075450849560000,0,Insert, ,1, 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075452737287000,1771075452732858000,1,Delete, ,0,
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075454146930000,1771075454143350000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075454635587000,1771075454629643000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075454917840000,1771075454914180000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075455684795000,1771075455676666000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075455945475000,1771075455939982000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075456299651000,1771075456290272000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075456612262000,1771075456606353000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075456919405000,1771075456915829000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075457260811000,1771075457254490000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075457563639000,1771075457559896000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075457925417000,1771075457919696000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075458202615000,1771075458199162000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075458611312000,1771075458605693000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075458910139000,1771075458903318000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075459196037000,1771075459187526000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075459372000000,1771075459368422000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075459670039000,1771075459663835000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075459956132000,1771075459949724000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075460349517000,1771075460342323000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075460832550000,1771075460827006000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075461112215000,1771075461106825000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075461445795000,1771075461439134000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075461857107000,1771075461851833000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075462148582000,1771075462144701000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075462501386000,1771075462494830000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075462724186000,1771075462717888000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075464955894000,1771075464948649000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075465484282000,1771075465480165000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075465805259000,1771075465797243000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075466004517000,1771075466000766000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075466416253000,1771075466412152000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075467339844000,1771075467327999000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075467591898000,1771075467585162000,32,Insert,s,33,Vcera som bol na turistike dnes s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075467801783000,1771075467794994000,33,Insert,a,34,Vcera som bol na turistike dnes sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075468214124000,1771075468207825000,34,Insert,d,35,Vcera som bol na turistike dnes sad
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075469921186000,1771075469913961000,35,Delete,d,34,Vcera som bol na turistike dnes sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075470933357000,1771075470923292000,34,Insert, ,35,Vcera som bol na turistike dnes sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075471308939000,1771075471300795000,35,Insert,d,36,Vcera som bol na turistike dnes sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075471716101000,1771075471708351000,36,Insert,a,37,Vcera som bol na turistike dnes sa da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075472213141000,1771075472202909000,37,Insert,v,38,Vcera som bol na turistike dnes sa dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075472365376000,1771075472360911000,38,Insert,a,39,Vcera som bol na turistike dnes sa dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075472738295000,1771075472732656000,39,Insert,m,40,Vcera som bol na turistike dnes sa davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075473046518000,1771075473039488000,40,Insert, ,41,Vcera som bol na turistike dnes sa davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075473537649000,1771075473531464000,41,Insert,d,42,Vcera som bol na turistike dnes sa davam d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075473840261000,1771075473834658000,42,Insert,o,43,Vcera som bol na turistike dnes sa davam do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075474228666000,1771075474222227000,43,Insert,k,44,Vcera som bol na turistike dnes sa davam dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075474445356000,1771075474439246000,44,Insert,o,45,Vcera som bol na turistike dnes sa davam doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075474721996000,1771075474714324000,45,Insert,p,46,Vcera som bol na turistike dnes sa davam dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075475438239000,1771075475429741000,46,Insert,y,47,Vcera som bol na turistike dnes sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075485958483000,1771075485927141000,47,Insert, ,48,Vcera som bol na turistike dnes  sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075486384848000,1771075486378255000,48,Insert,m,49,Vcera som bol na turistike dnes m sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075486619387000,1771075486612980000,49,Insert,a,50,Vcera som bol na turistike dnes ma sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075488619184000,1771075488606334000,50,Insert, ,51,Vcera som bol na turistike dnes ma  sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075488892900000,1771075488885688000,51,Insert,b,52,Vcera som bol na turistike dnes ma b sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075489147442000,1771075489141450000,52,Insert,o,53,Vcera som bol na turistike dnes ma bo sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075489673745000,1771075489661022000,53,Insert,l,54,Vcera som bol na turistike dnes ma bol sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075489928397000,1771075489919847000,54,Insert,i,55,Vcera som bol na turistike dnes ma boli sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075490146924000,1771075490140866000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075491148210000,1771075491137746000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia  sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075492030593000,1771075492026730000,57,Insert,n,58,Vcera som bol na turistike dnes ma bolia n sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075492288321000,1771075492282024000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia no sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075492712381000,1771075492705947000,59,Insert,h,60,Vcera som bol na turistike dnes ma bolia noh sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075493861486000,1771075493853581000,60,Insert,y,61,Vcera som bol na turistike dnes ma bolia nohy sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075499006559000,1771075498989026000,61,Insert, ,62,Vcera som bol na turistike dnes ma bolia nohy  sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075499264678000,1771075499254591000,62,Insert,a,63,Vcera som bol na turistike dnes ma bolia nohy a sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075499520035000,1771075499513304000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a  sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075499747650000,1771075499740289000,64,Insert,d,65,Vcera som bol na turistike dnes ma bolia nohy a d sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075500101734000,1771075500096653000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a da sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075500525808000,1771075500515975000,66,Insert,v,67,Vcera som bol na turistike dnes ma bolia nohy a dav sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075500664789000,1771075500659942000,67,Insert,a,68,Vcera som bol na turistike dnes ma bolia nohy a dava sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075501043362000,1771075501036447000,68,Insert,m,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa davam dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075510530389000,1771075510502188000,69,Delete,m,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dava dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075510698570000,1771075510692780000,68,Delete,a,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dav dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075510849810000,1771075510844719000,67,Delete,v,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa da dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075511011011000,1771075511006463000,66,Delete,a,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa d dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075511580805000,1771075511573492000,65,Delete,d,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075514345519000,1771075514323626000,64,Insert, ,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075515280720000,1771075515271589000,65,Insert,z,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075515468899000,1771075515463874000,66,Insert,a,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075515801264000,1771075515795269000,67,Insert,j,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075517154158000,1771075517145889000,68,Insert,t,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075517330755000,1771075517326696000,69,Insert,r,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075517847696000,1771075517841312000,70,Insert,a,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075518214208000,1771075518208264000,71,Insert, ,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075518587843000,1771075518581123000,72,Insert,p,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075518821320000,1771075518815254000,73,Insert,o,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075519176608000,1771075519168758000,74,Insert,j,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075519588452000,1771075519581626000,75,Insert,d,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075519824619000,1771075519817882000,76,Insert,e,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075520221847000,1771075520211121000,77,Insert,m,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075520517301000,1771075520509406000,78,Insert, ,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075521148759000,1771075521138220000,79,Insert,z,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075521436059000,1771075521428285000,80,Insert,n,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075521713601000,1771075521707114000,81,Insert,o,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075522304534000,1771075522297587000,82,Insert,v,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075522686151000,1771075522676694000,83,Insert,a,84,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075549103754000,1771075549083283000,84,Delete,y,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dokop zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075549267636000,1771075549253737000,83,Delete,p,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa  doko zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075549424600000,1771075549414211000,82,Delete,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa  dok zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075549576155000,1771075549571007000,81,Delete,k,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa  do zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075549731791000,1771075549721315000,80,Delete,o,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa  d zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075549890112000,1771075549885827000,79,Delete,d,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa   zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075550009230000,1771075550006322000,78,Delete, ,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa  zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075551922489000,1771075551915466000,77,Delete, ,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075553449863000,1771075553440710000,76,Insert, ,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa  zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075554487188000,1771075554481487000,77,Insert,d,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa d zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075554740044000,1771075554733334000,78,Insert,o,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa do zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075555097861000,1771075555090339000,79,Insert,k,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075555302214000,1771075555297930000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075555560072000,1771075555553341000,81,Insert,p,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,11,1771075556699779000,1771075556691279000,82,Insert,y,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075558873928000,1771075558869472000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075559952703000,1771075559947429000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075560720420000,1771075560712636000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075561004071000,1771075561000987000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075561513526000,1771075561505715000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075563470359000,1771075563457935000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075563993107000,1771075563988687000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075564278047000,1771075564272271000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075564619830000,1771075564612884000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075564936177000,1771075564926780000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075565426940000,1771075565423011000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075565704251000,1771075565697260000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075566065640000,1771075566059138000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075568187799000,1771075568179729000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075568469457000,1771075568463380000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075568731132000,1771075568721449000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075568964806000,1771075568956785000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075569418951000,1771075569415977000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075569876203000,1771075569866144000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075570343804000,1771075570337810000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075570629129000,1771075570622035000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075570979695000,1771075570973270000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075571437141000,1771075571428451000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075571737459000,1771075571731303000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075572072758000,1771075572065262000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075572415699000,1771075572409103000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075575042019000,1771075575025418000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075575514086000,1771075575505949000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075575781335000,1771075575772931000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075575980208000,1771075575971157000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075576435697000,1771075576428610000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075576707655000,1771075576700513000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075576988771000,1771075576981426000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075577277603000,1771075577270667000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075577501198000,1771075577492246000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075577786494000,1771075577781971000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075578095378000,1771075578087449000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075578529591000,1771075578520892000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075578880597000,1771075578874554000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075579142624000,1771075579133796000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075580048445000,1771075580040389000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075580464561000,1771075580460261000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075580758111000,1771075580747468000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075581853660000,1771075581849018000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075582881908000,1771075582875828000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075584672720000,1771075584662131000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075585004802000,1771075584998324000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075585299918000,1771075585293188000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075585584678000,1771075585578018000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075585850386000,1771075585843939000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075586295463000,1771075586287012000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075586473126000,1771075586468649000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075586827768000,1771075586823522000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075589740368000,1771075589726430000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075590123969000,1771075590116763000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075590321410000,1771075590316596000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075590555112000,1771075590550424000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075590782433000,1771075590776268000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075591103717000,1771075591097053000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075594823506000,1771075594816067000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075595009762000,1771075595005393000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075595234680000,1771075595230439000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075596105239000,1771075596100853000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075598985158000,1771075598970381000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075601115348000,1771075601109583000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075601328732000,1771075601322281000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075601848750000,1771075601838992000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075602365137000,1771075602356417000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075602616386000,1771075602609862000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075603120488000,1771075603113808000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075604094283000,1771075604084889000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075604555551000,1771075604550699000,71,Insert,s,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075604723740000,1771075604718787000,72,Insert,a,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075606327200000,1771075606321750000,73,Delete,a,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075607393810000,1771075607388789000,72,Delete,s,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075608273725000,1771075608268897000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075608546057000,1771075608539915000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075608952696000,1771075608946103000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075609352869000,1771075609346393000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075609563656000,1771075609557339000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075609885329000,1771075609879028000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075610179426000,1771075610169256000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075610630591000,1771075610622736000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075610935358000,1771075610927617000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075611240696000,1771075611230909000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075611622468000,1771075611616129000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,12,1771075611909149000,1771075611901650000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075614985238000,1771075614978528000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075615399991000,1771075615396297000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075615756468000,1771075615748591000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075616052875000,1771075616045204000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075616519023000,1771075616512859000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075617773389000,1771075617763990000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075618104432000,1771075618097149000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075618407029000,1771075618401238000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075618797435000,1771075618789804000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075619104337000,1771075619101764000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075619382105000,1771075619378496000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075619679288000,1771075619670849000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075620086454000,1771075620080656000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075620449816000,1771075620442118000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075620745948000,1771075620740303000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075621087394000,1771075621081502000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075621361546000,1771075621354059000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075621913402000,1771075621909641000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075622261662000,1771075622254195000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075622660431000,1771075622654330000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075622954062000,1771075622949935000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075623315529000,1771075623308815000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075624133701000,1771075624127430000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075624390717000,1771075624384643000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075624802443000,1771075624796034000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075625085573000,1771075625079381000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075631851127000,1771075631841024000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075633371028000,1771075633364194000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075633661101000,1771075633649901000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075633852135000,1771075633847982000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075634297421000,1771075634290386000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075634554451000,1771075634549311000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075634868144000,1771075634860106000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075635145430000,1771075635141310000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075635421870000,1771075635411816000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075635722199000,1771075635714753000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075636005715000,1771075635998573000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075636379056000,1771075636368149000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075636668600000,1771075636661162000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075636913208000,1771075636909045000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075637243352000,1771075637236229000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075637601277000,1771075637593652000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075637905539000,1771075637898194000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075638394104000,1771075638383942000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075639105600000,1771075639101508000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075640370179000,1771075640359825000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075642502248000,1771075642493843000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075642754258000,1771075642746172000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075642989679000,1771075642982135000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075643425963000,1771075643417773000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075643932519000,1771075643922988000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075644077201000,1771075644072608000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075644405400000,1771075644398597000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075647451923000,1771075647433601000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075647738038000,1771075647729565000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075647960148000,1771075647950710000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075648160860000,1771075648154300000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075648470780000,1771075648463492000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075648772876000,1771075648766255000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075649179311000,1771075649172794000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075649397706000,1771075649391343000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075649666955000,1771075649658419000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075650435349000,1771075650427337000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075652755308000,1771075652743966000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075653487828000,1771075653481163000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075653697843000,1771075653690282000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075654060235000,1771075654053763000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075654549928000,1771075654542470000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075654742609000,1771075654737616000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075655240990000,1771075655233369000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075655522278000,1771075655516363000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075655907078000,1771075655903039000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075656163876000,1771075656158828000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075656464298000,1771075656457877000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075656845679000,1771075656839263000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075657076274000,1771075657069356000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075657468618000,1771075657462656000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075657765212000,1771075657755182000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075659010233000,1771075659001577000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075659390634000,1771075659380340000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075659770618000,1771075659765323000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075660523745000,1771075660508427000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,13,1771075660726820000,1771075660721642000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075662994260000,1771075662984883000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075663383726000,1771075663377708000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075663736051000,1771075663729875000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075665156381000,1771075665148922000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075665621176000,1771075665613740000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075666669603000,1771075666661523000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075666953154000,1771075666945812000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075667249076000,1771075667242630000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075667593308000,1771075667587525000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075668511516000,1771075668503614000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075668932045000,1771075668925581000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075669211553000,1771075669205320000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075669676728000,1771075669669776000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075670005091000,1771075669998301000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075670281979000,1771075670272428000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075670536904000,1771075670530666000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075670786347000,1771075670778496000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075671229569000,1771075671223305000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075671531188000,1771075671524572000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075671846538000,1771075671840775000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075672111877000,1771075672109200000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075672529543000,1771075672525515000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075672931799000,1771075672924351000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075673222935000,1771075673215176000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075673620828000,1771075673614592000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075673875217000,1771075673868255000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075675670708000,1771075675658602000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075676109876000,1771075676103487000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075676380613000,1771075676375534000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075676570279000,1771075676561845000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075676995052000,1771075676988624000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075678048751000,1771075678045106000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075678362037000,1771075678356730000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075678580426000,1771075678574181000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075678849126000,1771075678841067000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075679163401000,1771075679156481000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075679438175000,1771075679432065000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075679817362000,1771075679811290000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075680736866000,1771075680728994000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075680974155000,1771075680968186000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075682005905000,1771075682000728000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075682386760000,1771075682381135000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075682660317000,1771075682653927000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075683744431000,1771075683736434000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075684361736000,1771075684354141000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075686432102000,1771075686421857000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075686724634000,1771075686717319000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075686969087000,1771075686963272000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075687164143000,1771075687159784000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075687456509000,1771075687449210000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075687893087000,1771075687884451000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075688108258000,1771075688103227000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075688439939000,1771075688432405000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075691226834000,1771075691209487000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075691554257000,1771075691542560000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075691790970000,1771075691786216000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075691937266000,1771075691932245000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075692180632000,1771075692173748000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075692470684000,1771075692464287000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075692794343000,1771075692789089000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075692977353000,1771075692973097000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075693452518000,1771075693443213000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075694336475000,1771075694327637000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075698316485000,1771075698305475000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075700553711000,1771075700541408000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075700753438000,1771075700747323000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075701070388000,1771075701063061000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075701553424000,1771075701546725000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075701832306000,1771075701826048000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075702297249000,1771075702291153000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075702705906000,1771075702697700000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075703100892000,1771075703092251000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075703358528000,1771075703351874000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075703713094000,1771075703703313000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075704050507000,1771075704044143000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075704268107000,1771075704262101000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075704605032000,1771075704597124000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075704885429000,1771075704873863000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075705557596000,1771075705550823000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075705811924000,1771075705802669000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075706074200000,1771075706068096000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075706604893000,1771075706595866000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,14,1771075706846707000,1771075706837540000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075711036383000,1771075711025724000,0,Insert,V,1,V
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075711346574000,1771075711340535000,1,Insert,c,2,Vc
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075712107260000,1771075712098807000,2,Insert,e,3,Vce
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075712315484000,1771075712309149000,3,Insert,r,4,Vcer
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075712759004000,1771075712751358000,4,Insert,a,5,Vcera
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075713248138000,1771075713238089000,5,Insert, ,6,Vcera 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075713981937000,1771075713972631000,6,Insert,s,7,Vcera s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075714279655000,1771075714273090000,7,Insert,o,8,Vcera so
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075714706042000,1771075714697942000,8,Insert,m,9,Vcera som
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075714969783000,1771075714962312000,9,Insert, ,10,Vcera som 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075715289628000,1771075715282768000,10,Insert,b,11,Vcera som b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075715557795000,1771075715550053000,11,Insert,o,12,Vcera som bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075715970097000,1771075715966202000,12,Insert,l,13,Vcera som bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075716279931000,1771075716273504000,13,Insert, ,14,Vcera som bol 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075716564997000,1771075716558474000,14,Insert,n,15,Vcera som bol n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075716826048000,1771075716820213000,15,Insert,a,16,Vcera som bol na
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075717095834000,1771075717084864000,16,Insert, ,17,Vcera som bol na 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075717434080000,1771075717425816000,17,Insert,t,18,Vcera som bol na t
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075717800518000,1771075717794295000,18,Insert,u,19,Vcera som bol na tu
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075718159169000,1771075718152469000,19,Insert,r,20,Vcera som bol na tur
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075718494696000,1771075718487463000,20,Insert,i,21,Vcera som bol na turi
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075719001591000,1771075718995528000,21,Insert,s,22,Vcera som bol na turis
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075719406039000,1771075719399177000,22,Insert,t,23,Vcera som bol na turist
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075719693085000,1771075719686196000,23,Insert,i,24,Vcera som bol na turisti
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075720092569000,1771075720085091000,24,Insert,k,25,Vcera som bol na turistik
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075720334134000,1771075720327982000,25,Insert,e,26,Vcera som bol na turistike
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075722225477000,1771075722215892000,26,Insert, ,27,Vcera som bol na turistike 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075722770843000,1771075722765899000,27,Insert,d,28,Vcera som bol na turistike d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075723043408000,1771075723037214000,28,Insert,n,29,Vcera som bol na turistike dn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075723256526000,1771075723249539000,29,Insert,e,30,Vcera som bol na turistike dne
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075723932914000,1771075723926384000,30,Insert,s,31,Vcera som bol na turistike dnes
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075724172147000,1771075724163941000,31,Insert, ,32,Vcera som bol na turistike dnes 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075724477944000,1771075724472495000,32,Insert,m,33,Vcera som bol na turistike dnes m
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075724800962000,1771075724794467000,33,Insert,a,34,Vcera som bol na turistike dnes ma
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075725093044000,1771075725088244000,34,Insert, ,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075725479620000,1771075725474474000,35,Insert,p,36,Vcera som bol na turistike dnes ma p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075725735649000,1771075725729482000,36,Insert,o,37,Vcera som bol na turistike dnes ma po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075726220519000,1771075726214001000,37,Insert,k,38,Vcera som bol na turistike dnes ma pok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075727065198000,1771075727059550000,38,Delete,k,37,Vcera som bol na turistike dnes ma po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075727436631000,1771075727429160000,37,Insert,l,38,Vcera som bol na turistike dnes ma pol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075727735258000,1771075727725713000,38,Insert,i,39,Vcera som bol na turistike dnes ma poli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075727944705000,1771075727939983000,39,Insert,a,40,Vcera som bol na turistike dnes ma polia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075729264786000,1771075729259153000,40,Delete,a,39,Vcera som bol na turistike dnes ma poli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075729440133000,1771075729437236000,39,Delete,i,38,Vcera som bol na turistike dnes ma pol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075729615520000,1771075729612647000,38,Delete,l,37,Vcera som bol na turistike dnes ma po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075729731503000,1771075729728129000,37,Delete,o,36,Vcera som bol na turistike dnes ma p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075730384778000,1771075730376058000,36,Delete,p,35,Vcera som bol na turistike dnes ma 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075731318375000,1771075731309251000,35,Insert,b,36,Vcera som bol na turistike dnes ma b
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075731633391000,1771075731626478000,36,Insert,o,37,Vcera som bol na turistike dnes ma bo
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075732033467000,1771075732027668000,37,Insert,l,38,Vcera som bol na turistike dnes ma bol
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075732397547000,1771075732391222000,38,Insert,i,39,Vcera som bol na turistike dnes ma boli
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075732773663000,1771075732765657000,39,Insert,a,40,Vcera som bol na turistike dnes ma bolia
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075733559569000,1771075733551843000,40,Insert, ,41,Vcera som bol na turistike dnes ma bolia 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075733952953000,1771075733946811000,41,Insert,n,42,Vcera som bol na turistike dnes ma bolia n
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075734246682000,1771075734240929000,42,Insert,o,43,Vcera som bol na turistike dnes ma bolia no
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075734899175000,1771075734890672000,43,Insert,h,44,Vcera som bol na turistike dnes ma bolia noh
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075735648944000,1771075735644521000,44,Insert,y,45,Vcera som bol na turistike dnes ma bolia nohy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075738986761000,1771075738972507000,45,Insert, ,46,Vcera som bol na turistike dnes ma bolia nohy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075739350309000,1771075739342181000,46,Insert,a,47,Vcera som bol na turistike dnes ma bolia nohy a
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075739548538000,1771075739543985000,47,Insert, ,48,Vcera som bol na turistike dnes ma bolia nohy a 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075739730798000,1771075739725480000,48,Insert,d,49,Vcera som bol na turistike dnes ma bolia nohy a d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075739973042000,1771075739968419000,49,Insert,a,50,Vcera som bol na turistike dnes ma bolia nohy a da
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075740336776000,1771075740330394000,50,Insert,v,51,Vcera som bol na turistike dnes ma bolia nohy a dav
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075740510596000,1771075740505700000,51,Insert,a,52,Vcera som bol na turistike dnes ma bolia nohy a dava
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075740847482000,1771075740840565000,52,Insert,m,53,Vcera som bol na turistike dnes ma bolia nohy a davam
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075741997674000,1771075741985198000,53,Insert, ,54,Vcera som bol na turistike dnes ma bolia nohy a davam 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075742249376000,1771075742243694000,54,Insert,s,55,Vcera som bol na turistike dnes ma bolia nohy a davam s
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075742411257000,1771075742406918000,55,Insert,a,56,Vcera som bol na turistike dnes ma bolia nohy a davam sa
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075743683695000,1771075743672758000,56,Insert, ,57,Vcera som bol na turistike dnes ma bolia nohy a davam sa 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075744202293000,1771075744198056000,57,Insert,d,58,Vcera som bol na turistike dnes ma bolia nohy a davam sa d
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075744451263000,1771075744444775000,58,Insert,o,59,Vcera som bol na turistike dnes ma bolia nohy a davam sa do
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075744724303000,1771075744716148000,59,Insert,k,60,Vcera som bol na turistike dnes ma bolia nohy a davam sa dok
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075744925790000,1771075744920768000,60,Insert,o,61,Vcera som bol na turistike dnes ma bolia nohy a davam sa doko
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075745156919000,1771075745152864000,61,Insert,p,62,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokop
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075746263572000,1771075746256015000,62,Insert,y,63,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075748344453000,1771075748334380000,63,Insert, ,64,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075749017605000,1771075749010775000,64,Insert,z,65,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075749232093000,1771075749225193000,65,Insert,a,66,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy za
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075750055485000,1771075750049079000,66,Insert,j,67,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zaj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075750445469000,1771075750437337000,67,Insert,t,68,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajt
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075750660649000,1771075750653828000,68,Insert,r,69,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtr
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075751159007000,1771075751152113000,69,Insert,a,70,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075752417075000,1771075752407542000,70,Insert, ,71,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075752829233000,1771075752820188000,71,Insert,p,72,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra p
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075753046102000,1771075753040175000,72,Insert,o,73,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra po
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075753398455000,1771075753392181000,73,Insert,j,74,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra poj
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075753727208000,1771075753721247000,74,Insert,d,75,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojd
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075753944957000,1771075753938691000,75,Insert,e,76,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojde
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075754289475000,1771075754282559000,76,Insert,m,77,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075754575428000,1771075754566591000,77,Insert, ,78,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem 
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075754948366000,1771075754942470000,78,Insert,z,79,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem z
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075755261069000,1771075755252980000,79,Insert,n,80,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zn
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075755538957000,1771075755531677000,80,Insert,o,81,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem zno
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075756018917000,1771075756011245000,81,Insert,v,82,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znov
+pBcgsSbey6YdBbQGH0nEAMUjA9H2,15,1771075756334150000,1771075756324339000,82,Insert,a,83,Vcera som bol na turistike dnes ma bolia nohy a davam sa dokopy zajtra pojdem znova

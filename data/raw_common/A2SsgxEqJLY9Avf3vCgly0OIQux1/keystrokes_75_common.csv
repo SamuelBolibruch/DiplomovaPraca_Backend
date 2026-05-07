@@ -1,0 +1,1311 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616155260312000,1776616155241584000,0,Insert,d,1,d
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616155331138000,1776616155324723000,1,Insert,n,2,dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616155439299000,1776616155434518000,2,Insert,e,3,dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616155674967000,1776616155670367000,3,Insert,s,4,dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616155839096000,1776616155834494000,4,Insert, ,5,dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616156327390000,1776616156319421000,5,Insert,j,6,dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616157256408000,1776616157249386000,6,Delete,j,5,dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616157301882000,1776616157299475000,5,Delete, ,4,dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616157354981000,1776616157352160000,4,Delete,s,3,dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616157406381000,1776616157403664000,3,Delete,e,2,dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616157459159000,1776616157456214000,2,Delete,n,1,d
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616157512099000,1776616157509623000,1,Delete,d,0,
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616158231792000,1776616158227788000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616158417942000,1776616158413338000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616158503410000,1776616158499719000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616158742669000,1776616158733323000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616158898763000,1776616158894067000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616159131594000,1776616159127487000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616159252581000,1776616159248147000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616159376644000,1776616159372144000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616159635060000,1776616159627474000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616159891600000,1776616159887088000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616160121809000,1776616160117605000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616160348011000,1776616160340220000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616160518939000,1776616160514861000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616160767774000,1776616160759085000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616161020327000,1776616161016229000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616161116360000,1776616161112153000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616161271863000,1776616161267361000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616161469518000,1776616161465042000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616161523291000,1776616161519036000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616162224688000,1776616162216628000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616162550171000,1776616162543769000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616162927491000,1776616162922110000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616163041924000,1776616163037192000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616163246370000,1776616163243005000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616163361291000,1776616163357096000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616163580068000,1776616163575747000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616163822083000,1776616163815011000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616164055728000,1776616164050737000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616164281214000,1776616164275989000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616164458536000,1776616164453979000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616165164713000,1776616165160345000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616165265489000,1776616165260996000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616165497298000,1776616165490078000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616165738700000,1776616165734266000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616165843988000,1776616165837865000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616165953689000,1776616165948828000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616166131571000,1776616166127446000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616167136271000,1776616167126924000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616167348092000,1776616167342803000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616167427191000,1776616167422686000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616167605106000,1776616167600543000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616167715598000,1776616167707529000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616167926016000,1776616167917493000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616168087519000,1776616168075647000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616168163481000,1776616168158967000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616169023913000,1776616169009086000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616169104644000,1776616169099230000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616169233870000,1776616169225937000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616169460783000,1776616169451836000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616169662796000,1776616169656722000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616169743247000,1776616169738855000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616169945822000,1776616169940932000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616169999692000,1776616169994562000,52,Insert, ,53,"Dnes je vonku pekne, idem von so psom na dvor a bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616170825108000,1776616170821948000,54,Delete, ,53,"Dnes je vonku pekne, idem von so psom na dvor a bude."
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616171062931000,1776616171059171000,53,Delete,.,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616171246188000,1776616171241138000,52,Insert,.,53,"Dnes je vonku pekne, idem von so psom na dvor a bude."
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616171395949000,1776616171391581000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a bude. "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616172052648000,1776616172048378000,54,Delete, ,53,"Dnes je vonku pekne, idem von so psom na dvor a bude."
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616172229095000,1776616172225228000,53,Delete,.,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616172461298000,1776616172454759000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616174375451000,1776616174366377000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616174634835000,1776616174629924000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616174744134000,1776616174739478000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616175032450000,1776616175022815000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616176056828000,1776616176051694000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616176170487000,1776616176161403000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616176389088000,1776616176382181000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616176579477000,1776616176574184000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616176885260000,1776616176877739000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616177130797000,1776616177126786000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616177343060000,1776616177333374000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616177461580000,1776616177455062000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616177564983000,1776616177558960000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616177819048000,1776616177812190000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616178025222000,1776616178019223000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616179625640000,1776616179620225000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616179884381000,1776616179877142000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616180134128000,1776616180127824000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616180343501000,1776616180333071000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616180416113000,1776616180411652000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616180608474000,1776616180604009000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,1,1776616181445048000,1776616181436998000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616187883895000,1776616187879563000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616188020624000,1776616188016220000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616188114913000,1776616188111037000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616188337635000,1776616188329807000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616188483092000,1776616188477479000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616188943006000,1776616188938861000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616189022763000,1776616189018671000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616189289580000,1776616189281196000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616189539560000,1776616189535568000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616189805372000,1776616189798834000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616190021011000,1776616190016094000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616190236757000,1776616190230247000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616190421297000,1776616190417244000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616190733200000,1776616190724631000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616191034492000,1776616191030577000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616191144644000,1776616191140252000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616191286211000,1776616191282130000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616191478782000,1776616191474711000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616191549804000,1776616191546190000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616191840202000,1776616191835592000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616192051970000,1776616192047379000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616192760780000,1776616192752420000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616192909242000,1776616192903965000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616193139908000,1776616193128654000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616193209067000,1776616193203899000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616193459419000,1776616193452498000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616193666371000,1776616193661480000,26,Insert,b,27,"Dnes je vonku pekne, idem b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616193868173000,1776616193863497000,27,Insert,o,28,"Dnes je vonku pekne, idem bo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616194157284000,1776616194153001000,28,Insert,n,29,"Dnes je vonku pekne, idem bon"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616194521762000,1776616194517217000,29,Delete,n,28,"Dnes je vonku pekne, idem bo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616194693215000,1776616194688726000,28,Delete,o,27,"Dnes je vonku pekne, idem b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616194883745000,1776616194879253000,27,Delete,b,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616195397596000,1776616195393558000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616195636657000,1776616195628230000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616195836463000,1776616195829255000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616196060685000,1776616196053514000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616197380872000,1776616197371247000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616197523064000,1776616197518686000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616197784926000,1776616197776469000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616198057133000,1776616198047107000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616198175913000,1776616198166247000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616198315242000,1776616198311389000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616198527030000,1776616198518938000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616199473109000,1776616199462700000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616199652707000,1776616199647225000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616199732620000,1776616199728130000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616199909455000,1776616199904321000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616200022863000,1776616200015647000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616200266305000,1776616200259635000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616200388713000,1776616200384447000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616200508734000,1776616200501386000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616201340442000,1776616201331172000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616201463087000,1776616201453914000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616201566077000,1776616201561338000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616201787419000,1776616201780647000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616201981328000,1776616201975756000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616202050956000,1776616202047155000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616202250891000,1776616202246331000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616202377711000,1776616202372265000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616203241564000,1776616203230007000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616203534993000,1776616203529662000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616203756570000,1776616203748283000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616203910042000,1776616203904761000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616204125924000,1776616204118031000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616204222066000,1776616204216175000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616204428035000,1776616204420323000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616204544519000,1776616204537104000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616204773681000,1776616204766240000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616204972408000,1776616204968188000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616205200988000,1776616205193984000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616205300798000,1776616205295245000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616205436288000,1776616205431532000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616205662628000,1776616205653982000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616205867167000,1776616205862650000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616206685192000,1776616206675371000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616206947879000,1776616206942115000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616207178088000,1776616207171333000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616207366823000,1776616207361076000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616207455957000,1776616207451394000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616207673976000,1776616207666446000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,2,1776616207793660000,1776616207788682000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616211319637000,1776616211313163000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616211491982000,1776616211485683000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616211564605000,1776616211561155000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616211786018000,1776616211776803000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616211930798000,1776616211926199000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616212408898000,1776616212402766000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616212525045000,1776616212520717000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616213026833000,1776616213019500000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616213286075000,1776616213278724000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616213519811000,1776616213512835000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616213751837000,1776616213744094000,10,Insert,b,11,Dnes je vob
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616213979961000,1776616213975874000,11,Insert,l,12,Dnes je vobl
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616214126735000,1776616214122214000,12,Insert,u,13,Dnes je voblu
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616214547394000,1776616214543052000,13,Delete,u,12,Dnes je vobl
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616214716024000,1776616214713459000,12,Delete,l,11,Dnes je vob
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616214886770000,1776616214884189000,11,Delete,b,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616215384121000,1776616215377583000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616215606347000,1776616215599167000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616215765541000,1776616215761602000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616216001202000,1776616215993106000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616216252354000,1776616216248135000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616216357354000,1776616216353487000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616216500356000,1776616216496284000,16,Insert,n,17,Dnes je vonku pen
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616216692285000,1776616216688090000,17,Insert, ,18,Dnes je vonku pen 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616216795616000,1776616216791417000,18,Insert,e,19,Dnes je vonku pen e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616217357899000,1776616217352900000,19,Delete,e,18,Dnes je vonku pen 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616217542794000,1776616217540187000,18,Delete, ,17,Dnes je vonku pen
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616217726820000,1776616217723800000,17,Delete,n,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616218271595000,1776616218267224000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616218510332000,1776616218501923000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616218579955000,1776616218576509000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616219616073000,1776616219605651000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616219792785000,1776616219786114000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616220027429000,1776616220018175000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616220110596000,1776616220106635000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616220321574000,1776616220314163000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616220432105000,1776616220427739000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616221550928000,1776616221541238000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616221773232000,1776616221765087000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616222012685000,1776616222004915000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616222212835000,1776616222208000000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616222428312000,1776616222422740000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616222581506000,1776616222576727000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616222707350000,1776616222703269000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616222937076000,1776616222929621000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616223220620000,1776616223213771000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616223369100000,1776616223364182000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616223477076000,1776616223472563000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616223658336000,1776616223654054000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616224651125000,1776616224640915000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616224830899000,1776616224825586000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616224972463000,1776616224967326000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616225074926000,1776616225070111000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616225223475000,1776616225218305000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616225429452000,1776616225425019000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616225539488000,1776616225535241000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616225675243000,1776616225670537000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616226216624000,1776616226207897000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616226325720000,1776616226321095000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616226448754000,1776616226443921000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616226651605000,1776616226647407000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616226809598000,1776616226804624000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616226895518000,1776616226891297000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616227099188000,1776616227092466000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616227231496000,1776616227227322000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616227538268000,1776616227533763000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616228003026000,1776616227996277000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616228175562000,1776616228167083000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616228277172000,1776616228272817000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616228503354000,1776616228491672000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616228605851000,1776616228601263000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616228809276000,1776616228803464000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616228922347000,1776616228918140000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616229162388000,1776616229154904000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616229349136000,1776616229344037000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616229569787000,1776616229562946000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616229712170000,1776616229702470000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616229788875000,1776616229784837000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616230026570000,1776616230022721000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616230212790000,1776616230208060000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616232324427000,1776616232312727000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616232474806000,1776616232468314000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616232709159000,1776616232702065000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616232903066000,1776616232897547000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616233000489000,1776616232996043000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616233204059000,1776616233199858000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,3,1776616233795567000,1776616233785628000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616237542667000,1776616237537426000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616237685125000,1776616237671733000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616237764528000,1776616237760146000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616237966034000,1776616237961654000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616238172854000,1776616238168496000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616238722982000,1776616238712651000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616238846602000,1776616238842187000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616238970606000,1776616238962613000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616239229654000,1776616239222206000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616239489920000,1776616239485440000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616239716872000,1776616239708961000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616239953123000,1776616239946745000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616240103096000,1776616240097482000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616240727673000,1776616240717494000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616240999166000,1776616240994830000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616241155028000,1776616241150893000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616241290601000,1776616241286619000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616241486908000,1776616241482781000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616241588676000,1776616241583391000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616243371893000,1776616243363652000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616243553507000,1776616243549417000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616243804059000,1776616243796760000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616243922135000,1776616243918181000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616244151471000,1776616244145558000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616244299679000,1776616244295830000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616244586198000,1776616244578721000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616244985452000,1776616244967354000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616245232905000,1776616245226637000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616245426995000,1776616245423083000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616245644826000,1776616245637122000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616245792672000,1776616245788729000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616245995814000,1776616245989434000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616246276759000,1776616246269151000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616246571885000,1776616246563721000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616246727463000,1776616246722710000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616246858878000,1776616246853182000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616247100723000,1776616247092675000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616247672363000,1776616247660929000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616247859832000,1776616247851211000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616247983654000,1776616247979340000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616248138214000,1776616248131913000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616248312965000,1776616248308966000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616248544549000,1776616248536040000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616248718194000,1776616248712958000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616248845702000,1776616248841065000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616249148054000,1776616249140590000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616249285918000,1776616249281690000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616249476258000,1776616249470516000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616249688024000,1776616249683131000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616249880559000,1776616249875860000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616250000071000,1776616249995417000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616250215604000,1776616250209056000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616250617974000,1776616250610089000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616250847131000,1776616250838231000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616251094714000,1776616251088066000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616251228095000,1776616251223720000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616251373188000,1776616251368942000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616251597934000,1776616251592461000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616251750265000,1776616251746030000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616252011706000,1776616252000351000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616252233411000,1776616252226882000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616252475450000,1776616252466238000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616252679648000,1776616252672803000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616252912013000,1776616252905814000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616253063498000,1776616253059127000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616253155886000,1776616253151684000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616253397328000,1776616253390590000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616253577801000,1776616253573659000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616254427065000,1776616254417006000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616254666334000,1776616254661341000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616254896582000,1776616254889179000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616255112108000,1776616255105583000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616255197384000,1776616255188585000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616255428902000,1776616255420565000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,4,1776616255697033000,1776616255688928000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616259874851000,1776616259868237000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616260087051000,1776616260079199000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616260184294000,1776616260179631000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616260391575000,1776616260387501000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616260623472000,1776616260616737000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616261430262000,1776616261415811000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616261528199000,1776616261524472000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616261971761000,1776616261965408000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616262380486000,1776616262373297000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616262633213000,1776616262629226000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616262845735000,1776616262839218000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616263050111000,1776616263045790000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616263240699000,1776616263236637000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616263562529000,1776616263556543000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616263825273000,1776616263821432000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616263943122000,1776616263939017000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616264087071000,1776616264083038000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616264281927000,1776616264276737000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616264400429000,1776616264395275000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616264584814000,1776616264580718000,19,Insert, ,20,Dnes je vonku pekne 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616265117450000,1776616265109689000,20,Insert,",",21,"Dnes je vonku pekne ,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616265539746000,1776616265536154000,21,Delete,",",20,Dnes je vonku pekne 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616265731047000,1776616265726120000,20,Delete, ,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616265847506000,1776616265841785000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616266068663000,1776616266061157000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616266589263000,1776616266584893000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616266719314000,1776616266715369000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616266944937000,1776616266937831000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616267018759000,1776616267014723000,24,Insert,n,25,"Dnes je vonku pekne, iden"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616267291514000,1776616267287060000,25,Insert, ,26,"Dnes je vonku pekne, iden "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616268272426000,1776616268267561000,26,Delete, ,25,"Dnes je vonku pekne, iden"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616268465508000,1776616268461226000,25,Delete,n,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616268696755000,1776616268690648000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616268949349000,1776616268941650000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616269389395000,1776616269383719000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616269653612000,1776616269645488000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616269846145000,1776616269841420000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616270033257000,1776616270027879000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616271215436000,1776616271207934000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616271364979000,1776616271358822000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616271650143000,1776616271644966000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616271962079000,1776616271954832000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616272152643000,1776616272147493000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616272342124000,1776616272338127000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616273171618000,1776616273163407000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616273949763000,1776616273941798000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616274152013000,1776616274145129000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616274267491000,1776616274260265000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616274411035000,1776616274406563000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616274515791000,1776616274510974000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616274725706000,1776616274720685000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616274875990000,1776616274870354000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616275021461000,1776616275016704000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616276114272000,1776616276105695000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616276270560000,1776616276264776000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616276397636000,1776616276393376000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616276621531000,1776616276616597000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616276815028000,1776616276808954000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616276900487000,1776616276896228000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616277116649000,1776616277109021000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616277282623000,1776616277277722000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616277546130000,1776616277541270000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616277812834000,1776616277805469000,54,Insert,f,55,"Dnes je vonku pekne, idem von so psom na dvor a budem f"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616277963223000,1776616277958123000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem fa"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616278118300000,1776616278113634000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem fam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616278667106000,1776616278663453000,57,Delete,m,56,"Dnes je vonku pekne, idem von so psom na dvor a budem fa"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616278877973000,1776616278873413000,56,Delete,a,55,"Dnes je vonku pekne, idem von so psom na dvor a budem f"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616279319003000,1776616279313861000,55,Delete,f,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616279748186000,1776616279739240000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616279915066000,1776616279911076000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616280231038000,1776616280224440000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616280895295000,1776616280888845000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616281068200000,1776616281063871000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616281277578000,1776616281270001000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616281469015000,1776616281463881000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616281887805000,1776616281879338000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616282241429000,1776616282230811000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616282461934000,1776616282453282000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616282640397000,1776616282631814000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616282780280000,1776616282775956000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616283010576000,1776616283005915000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616283191912000,1776616283187617000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616284239020000,1776616284228693000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616284484448000,1776616284477201000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616284720497000,1776616284714778000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616284929435000,1776616284919311000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616285029921000,1776616285023386000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616285247403000,1776616285242354000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,5,1776616286938037000,1776616286925959000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616292397221000,1776616292385677000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616292554507000,1776616292549150000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616292617528000,1776616292614101000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616292836075000,1776616292824678000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616293409417000,1776616293405002000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616293658232000,1776616293652173000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616293755324000,1776616293751305000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616293915862000,1776616293911742000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616294107717000,1776616294103893000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616294359995000,1776616294353948000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616294590525000,1776616294584137000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616294816316000,1776616294809814000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616294982126000,1776616294977941000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616295322205000,1776616295315332000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616295609241000,1776616295603489000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616295738104000,1776616295734346000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616295883061000,1776616295879100000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616296089253000,1776616296085185000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616296217348000,1776616296213635000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616296981218000,1776616296974077000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616297265853000,1776616297261500000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616297501665000,1776616297495216000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616297652292000,1776616297646961000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616297899384000,1776616297890822000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616297996109000,1776616297989374000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616298232607000,1776616298228269000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616298788364000,1776616298780481000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616299052788000,1776616299045916000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616299255859000,1776616299246366000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616299476537000,1776616299469721000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616299571444000,1776616299567289000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616299731714000,1776616299727507000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616299959090000,1776616299955382000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616300216864000,1776616300208685000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616300344976000,1776616300339014000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616300501351000,1776616300494474000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616300756860000,1776616300749489000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616301006123000,1776616300999757000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616301210346000,1776616301204875000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616301358732000,1776616301353486000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616301502592000,1776616301494391000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616301603899000,1776616301599078000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616301831897000,1776616301825546000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616301996192000,1776616301992041000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616302144977000,1776616302141018000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616302491016000,1776616302484753000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616302657253000,1776616302648956000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616302896106000,1776616302888964000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616303115388000,1776616303107751000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616303299291000,1776616303294731000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616303437428000,1776616303432136000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616303630651000,1776616303625950000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616303799282000,1776616303795077000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616304038628000,1776616304030241000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616304156162000,1776616304150950000,54,Insert,z,55,"Dnes je vonku pekne, idem von so psom na dvor a budem z"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616304468572000,1776616304464978000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem za"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616304997847000,1776616304993797000,56,Delete,a,55,"Dnes je vonku pekne, idem von so psom na dvor a budem z"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616305148168000,1776616305145002000,55,Delete,z,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616305814019000,1776616305805003000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616305926889000,1776616305922661000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616306207641000,1776616306200171000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616306438007000,1776616306430010000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616306753238000,1776616306745427000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616306956000000,1776616306948857000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616307161729000,1776616307154868000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616307384843000,1776616307378207000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616307595726000,1776616307589203000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616307820366000,1776616307809567000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616307938184000,1776616307928066000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616308066836000,1776616308059921000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616308299129000,1776616308292038000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616308487194000,1776616308479742000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616308892514000,1776616308886045000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616309115347000,1776616309108583000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616309316667000,1776616309310123000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616309511621000,1776616309504699000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616309623976000,1776616309619182000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616309849072000,1776616309841475000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,6,1776616309973638000,1776616309964168000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616312979936000,1776616312963629000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616313148577000,1776616313144722000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616313232067000,1776616313228320000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616313474025000,1776616313470337000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616313733062000,1776616313727122000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616313947069000,1776616313940340000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616314050446000,1776616314046123000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616314190240000,1776616314186282000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616314380981000,1776616314377299000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616314632657000,1776616314626563000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616314858726000,1776616314852467000,10,Insert,b,11,Dnes je vob
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616315093433000,1776616315087388000,11,Insert,k,12,Dnes je vobk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616315254275000,1776616315250322000,12,Insert,u,13,Dnes je vobku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616315772000000,1776616315767738000,13,Delete,u,12,Dnes je vobk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616315939400000,1776616315936927000,12,Delete,k,11,Dnes je vob
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616316141131000,1776616316137079000,11,Delete,b,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616316480104000,1776616316472973000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616316693421000,1776616316687065000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616316858749000,1776616316854761000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616317082119000,1776616317078558000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616317339448000,1776616317332209000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616317400491000,1776616317397183000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616317585002000,1776616317581130000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616317781011000,1776616317776655000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616317872085000,1776616317868100000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616318244130000,1776616318236582000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616318446335000,1776616318440953000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616318671919000,1776616318664469000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616318763428000,1776616318756974000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616318982763000,1776616318976500000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616319070076000,1776616319065840000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616319313807000,1776616319306852000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616319535739000,1776616319528235000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616319797853000,1776616319788621000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616320037245000,1776616320033046000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616320229053000,1776616320224642000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616320330922000,1776616320326825000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616320498526000,1776616320489578000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616320737555000,1776616320731744000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616321013988000,1776616321003940000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616321180363000,1776616321176287000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616321309676000,1776616321305331000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616321535121000,1776616321531280000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616321765030000,1776616321759123000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616321987438000,1776616321982270000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616322111734000,1776616322106714000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616322247857000,1776616322242760000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616322379639000,1776616322367940000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616322566959000,1776616322561712000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616322782993000,1776616322778398000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616322955345000,1776616322951412000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616323254126000,1776616323244646000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616323387338000,1776616323382900000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616323592265000,1776616323587154000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616323819914000,1776616323812393000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616324022040000,1776616324017481000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616324109524000,1776616324105388000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616324336067000,1776616324329465000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616324457064000,1776616324453061000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616324777466000,1776616324773212000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616324925070000,1776616324921006000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616325211136000,1776616325203854000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616325313527000,1776616325308869000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616325539296000,1776616325530374000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616325629171000,1776616325620053000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616325818750000,1776616325814474000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616325930381000,1776616325926174000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616326168070000,1776616326159698000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616326366919000,1776616326361731000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616326572814000,1776616326568388000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616326726174000,1776616326721980000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616326887576000,1776616326883663000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616327186244000,1776616327176202000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616327433152000,1776616327425805000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616327938358000,1776616327933064000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616328149724000,1776616328143199000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616328363975000,1776616328357460000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616328522304000,1776616328517899000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616328619732000,1776616328614826000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616328840759000,1776616328834260000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,7,1776616328989804000,1776616328980939000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616331524581000,1776616331518939000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616331706365000,1776616331700906000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616331791862000,1776616331787733000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616332004302000,1776616331997974000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616332329367000,1776616332322399000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616332571173000,1776616332566083000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616332651445000,1776616332647456000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616332819738000,1776616332815421000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616333025155000,1776616333019027000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616333278208000,1776616333271244000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616333488206000,1776616333481458000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616333710242000,1776616333703416000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616333861944000,1776616333854781000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616334133512000,1776616334126893000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616334653033000,1776616334648469000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616334806922000,1776616334801563000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616334928855000,1776616334924876000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616335143088000,1776616335138283000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616335203487000,1776616335200146000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616335528763000,1776616335520679000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616335740042000,1776616335732410000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616335986499000,1776616335976457000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616336068419000,1776616336064640000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616336313839000,1776616336307680000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616336408385000,1776616336404594000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616336739028000,1776616336734503000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616336989370000,1776616336982914000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616337221951000,1776616337213646000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616337394073000,1776616337389330000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616337630040000,1776616337623644000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616337746241000,1776616337741920000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616337889120000,1776616337885072000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616338117643000,1776616338112256000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616338392655000,1776616338384489000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616338514662000,1776616338509803000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616338660329000,1776616338654599000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616338916525000,1776616338910399000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616339133966000,1776616339127868000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616339324897000,1776616339321079000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616339465581000,1776616339460952000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616339588906000,1776616339584561000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616339719553000,1776616339713580000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616339931882000,1776616339924997000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616340146893000,1776616340140486000,43,Insert,i,44,"Dnes je vonku pekne, idem von so psom na dvi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616340266670000,1776616340262082000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvir"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616340528891000,1776616340521703000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvir "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616340661727000,1776616340656033000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvir a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616341083039000,1776616341078648000,47,Delete,a,46,"Dnes je vonku pekne, idem von so psom na dvir "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616341271059000,1776616341267798000,46,Delete, ,45,"Dnes je vonku pekne, idem von so psom na dvir"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616341440813000,1776616341436220000,45,Delete,r,44,"Dnes je vonku pekne, idem von so psom na dvi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616341927765000,1776616341923916000,44,Delete,i,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616342168229000,1776616342158881000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616342271645000,1776616342266153000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616342550299000,1776616342543161000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616342643680000,1776616342639760000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616342770210000,1776616342765795000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616342975475000,1776616342971014000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616343166125000,1776616343162233000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616343288387000,1776616343283547000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616343516783000,1776616343510278000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616343716577000,1776616343711245000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616345188732000,1776616345180157000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616346034833000,1776616346026557000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616346577792000,1776616346573825000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616346763788000,1776616346759320000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616346990687000,1776616346983833000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616347089191000,1776616347084399000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616347305335000,1776616347298538000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616347515497000,1776616347509105000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616347787754000,1776616347778615000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616347999935000,1776616347994931000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616348234454000,1776616348228544000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616348354902000,1776616348349249000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616348471495000,1776616348467402000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616348728522000,1776616348721687000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616348936280000,1776616348929158000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616349485379000,1776616349481167000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616349736039000,1776616349729027000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616349976395000,1776616349970321000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616350189299000,1776616350180105000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616350282820000,1776616350276558000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616350497324000,1776616350491029000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,8,1776616350822782000,1776616350812739000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616354221552000,1776616354216555000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616354387879000,1776616354383920000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616354471431000,1776616354468205000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616354664773000,1776616354661083000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616354837019000,1776616354833005000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616355308780000,1776616355299881000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616355416427000,1776616355412235000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616355576149000,1776616355572202000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616355795585000,1776616355789262000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616356036999000,1776616356032109000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616356239129000,1776616356235021000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616356457242000,1776616356451466000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616356635772000,1776616356631807000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616356928633000,1776616356923202000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616357210055000,1776616357202523000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616357304325000,1776616357298335000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616357444623000,1776616357440099000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616357646663000,1776616357640165000,17,Insert, ,18,Dnes je vonku pek 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616357774755000,1776616357770450000,18,Insert,e,19,Dnes je vonku pek e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616358094876000,1776616358081590000,19,Insert, ,20,Dnes je vonku pek e 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616358540357000,1776616358536265000,20,Delete, ,19,Dnes je vonku pek e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616358723802000,1776616358720906000,19,Delete,e,18,Dnes je vonku pek 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616358975558000,1776616358972830000,18,Delete, ,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616359619752000,1776616359612800000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616359715665000,1776616359708406000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616360118131000,1776616360111635000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616360395014000,1776616360386877000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616360777524000,1776616360772956000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616360887459000,1776616360880398000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616361097631000,1776616361091559000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616361208939000,1776616361204282000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616361458394000,1776616361452084000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616361679661000,1776616361676067000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616361921359000,1776616361915234000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616362131642000,1776616362122101000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616363269111000,1776616363260213000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616363390574000,1776616363385511000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616363530987000,1776616363525939000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616363780187000,1776616363776501000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616364067533000,1776616364057898000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616364215979000,1776616364211851000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616364379676000,1776616364373815000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616364623678000,1776616364619836000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616364873105000,1776616364865456000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616365094742000,1776616365087406000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616365259372000,1776616365253865000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616365386588000,1776616365382360000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616365525209000,1776616365520721000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616365713728000,1776616365709764000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616365952996000,1776616365946098000,43,Insert,i,44,"Dnes je vonku pekne, idem von so psom na dvi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616366130610000,1776616366125849000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvir"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616366314941000,1776616366310595000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvir "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616366466461000,1776616366461060000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvir a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616366847960000,1776616366843819000,47,Delete,a,46,"Dnes je vonku pekne, idem von so psom na dvir "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616367026924000,1776616367023687000,46,Delete, ,45,"Dnes je vonku pekne, idem von so psom na dvir"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616367210613000,1776616367205631000,45,Delete,r,44,"Dnes je vonku pekne, idem von so psom na dvi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616367630998000,1776616367626556000,44,Delete,i,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616367881427000,1776616367875664000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616368061792000,1776616368057699000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616368496668000,1776616368489340000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616368638161000,1776616368633724000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616368761084000,1776616368754128000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616368980721000,1776616368971751000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616369153433000,1776616369148793000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616369234742000,1776616369230033000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616369455160000,1776616369448848000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616369583098000,1776616369579139000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616369826784000,1776616369814969000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616369928785000,1776616369923255000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616370237505000,1776616370230798000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616370367887000,1776616370359430000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616370608065000,1776616370601166000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616370724808000,1776616370720629000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616370921685000,1776616370912740000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616371102309000,1776616371098098000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616371342909000,1776616371335958000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616371546141000,1776616371541465000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616371776304000,1776616371769655000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616371881663000,1776616371877433000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616371979867000,1776616371975394000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616372227585000,1776616372220472000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616372403190000,1776616372398648000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616372701657000,1776616372690290000,68,Insert, ,69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616372844106000,1776616372837887000,69,Insert,a,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616372975505000,1776616372963516000,70,Insert, ,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616373179060000,1776616373170006000,71,Insert,b,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616373367338000,1776616373362251000,72,Insert,u,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616373491572000,1776616373487503000,73,Insert,d,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616378813077000,1776616378808240000,74,Delete,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616379010734000,1776616379006062000,73,Delete,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616379208911000,1776616379205583000,72,Delete,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616379388047000,1776616379384162000,71,Delete, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616379589638000,1776616379586184000,70,Delete,a,69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616380067036000,1776616380062250000,69,Delete, ,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616380485607000,1776616380480756000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616380795732000,1776616380788283000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616381148887000,1776616381144788000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616381349215000,1776616381335026000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616381418884000,1776616381414817000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616381645720000,1776616381639194000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,9,1776616381756473000,1776616381751576000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616384239686000,1776616384235702000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616384430040000,1776616384426072000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616384504044000,1776616384498710000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616384735105000,1776616384729203000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616384933814000,1776616384927768000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616385209627000,1776616385202614000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616385321836000,1776616385316953000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616385472600000,1776616385468617000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616385692763000,1776616385687199000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616385934314000,1776616385928299000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616386143674000,1776616386140045000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616386350010000,1776616386346339000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616386518130000,1776616386513614000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616386761029000,1776616386753944000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616387030105000,1776616387022552000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616387126268000,1776616387121985000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616387296864000,1776616387292771000,16,Insert,n,17,Dnes je vonku pen
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616387508147000,1776616387504334000,17,Insert, ,18,Dnes je vonku pen 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616387644778000,1776616387641057000,18,Insert,e,19,Dnes je vonku pen e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616388294638000,1776616388289505000,19,Delete,e,18,Dnes je vonku pen 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616388497545000,1776616388493637000,18,Delete, ,17,Dnes je vonku pen
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616388723947000,1776616388718991000,17,Insert,k,18,Dnes je vonku penk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616388950127000,1776616388939234000,18,Insert, ,19,Dnes je vonku penk 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616389049038000,1776616389045176000,19,Insert,e,20,Dnes je vonku penk e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616389694724000,1776616389688204000,20,Delete,e,19,Dnes je vonku penk 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616389896191000,1776616389892727000,19,Delete, ,18,Dnes je vonku penk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616390112063000,1776616390108186000,18,Insert,b,19,Dnes je vonku penkb
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616390191959000,1776616390188444000,19,Insert,e,20,Dnes je vonku penkbe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616390664361000,1776616390656410000,20,Insert,",",21,"Dnes je vonku penkbe,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616390888522000,1776616390882132000,21,Insert, ,22,"Dnes je vonku penkbe, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616391877078000,1776616391873027000,22,Delete, ,21,"Dnes je vonku penkbe,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616392048072000,1776616392045329000,21,Delete,",",20,Dnes je vonku penkbe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616392229596000,1776616392226398000,20,Delete,e,19,Dnes je vonku penkb
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616392438842000,1776616392435120000,19,Delete,b,18,Dnes je vonku penk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616393075689000,1776616393068495000,18,Insert,n,19,Dnes je vonku penkn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616393172432000,1776616393168865000,19,Insert,e,20,Dnes je vonku penkne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616393582141000,1776616393572601000,20,Insert,",",21,"Dnes je vonku penkne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616393752056000,1776616393746746000,21,Insert, ,22,"Dnes je vonku penkne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616393994773000,1776616393987904000,22,Insert,i,23,"Dnes je vonku penkne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616394188014000,1776616394184080000,23,Insert,d,24,"Dnes je vonku penkne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616394626154000,1776616394621415000,24,Delete,d,23,"Dnes je vonku penkne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616394811720000,1776616394808155000,23,Delete,i,22,"Dnes je vonku penkne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616394997468000,1776616394994649000,22,Delete, ,21,"Dnes je vonku penkne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616395187599000,1776616395184225000,21,Delete,",",20,Dnes je vonku penkne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616395378285000,1776616395365941000,20,Delete,e,19,Dnes je vonku penkn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616395545125000,1776616395542350000,19,Delete,n,18,Dnes je vonku penk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616395734180000,1776616395730953000,18,Delete,k,17,Dnes je vonku pen
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616396094534000,1776616396090705000,17,Delete,n,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616396379246000,1776616396373387000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616396584577000,1776616396576991000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616396650070000,1776616396646136000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616397178901000,1776616397173791000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616397388952000,1776616397384626000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616398097867000,1776616398089588000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616398186533000,1776616398182119000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616398403379000,1776616398397134000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616398503199000,1776616398498781000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616398728030000,1776616398721394000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616398930454000,1776616398923833000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616399164056000,1776616399156187000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616399361306000,1776616399355763000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616400132258000,1776616400127491000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616400544306000,1776616400536368000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616400636440000,1776616400632125000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616400871736000,1776616400867089000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616401148777000,1776616401140184000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616401273888000,1776616401265127000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616401599131000,1776616401592827000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616401828000000,1776616401820951000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616402687244000,1776616402679324000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616402915798000,1776616402904084000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616403008326000,1776616403003301000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616403182127000,1776616403172636000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616403280552000,1776616403276803000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616403476695000,1776616403472002000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616403600626000,1776616403596680000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616403698384000,1776616403693726000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616404647917000,1776616404639439000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616404788410000,1776616404785420000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616404944811000,1776616404937040000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616405169629000,1776616405158899000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616405343118000,1776616405338054000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616405439125000,1776616405434496000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616405670992000,1776616405658765000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616405761907000,1776616405758512000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616406142899000,1776616406138195000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616406611887000,1776616406606076000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616406769847000,1776616406765534000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616406984225000,1776616406976430000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616407238102000,1776616407231407000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616414588150000,1776616414579125000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616414771565000,1776616414766495000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616414941228000,1776616414937116000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616415654548000,1776616415645848000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616415863603000,1776616415854763000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616416081753000,1776616416075771000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616416213318000,1776616416207018000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616416304423000,1776616416299522000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616416554665000,1776616416548398000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616416741240000,1776616416735209000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616417302186000,1776616417292999000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616417547525000,1776616417539333000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616417754235000,1776616417750080000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616417940823000,1776616417934719000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616418049217000,1776616418042579000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616418246957000,1776616418241569000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,10,1776616418419446000,1776616418413919000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616423353920000,1776616423346300000,0,Insert,F,1,F
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616423504133000,1776616423498491000,1,Insert,n,2,Fn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616423589625000,1776616423586168000,2,Insert,e,3,Fne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616423807909000,1776616423798475000,3,Insert,s,4,Fnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616423949842000,1776616423945286000,4,Insert, ,5,Fnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616424329589000,1776616424325791000,5,Delete, ,4,Fnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616424519987000,1776616424517273000,4,Delete,s,3,Fne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616424703762000,1776616424700921000,3,Delete,e,2,Fn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616424897985000,1776616424893887000,2,Delete,n,1,F
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616425109020000,1776616425105629000,1,Delete,F,0,
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616426028756000,1776616426023498000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616426258257000,1776616426249552000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616426308771000,1776616426305054000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616426538251000,1776616426531772000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616426701751000,1776616426697547000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616426925678000,1776616426922135000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616427067937000,1776616427063927000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616427260752000,1776616427256479000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616427475070000,1776616427468364000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616427721157000,1776616427714749000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616427915689000,1776616427912185000,10,Insert,b,11,Dnes je vob
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616428148182000,1776616428142152000,11,Insert,k,12,Dnes je vobk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616428701967000,1776616428697565000,12,Delete,k,11,Dnes je vob
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616428892570000,1776616428890115000,11,Delete,b,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616429413387000,1776616429406536000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616429641385000,1776616429635223000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616429779067000,1776616429775535000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616430420493000,1776616430413544000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616430725358000,1776616430719953000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616430841284000,1776616430836411000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616430996105000,1776616430991277000,16,Insert,n,17,Dnes je vonku pen
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616431205381000,1776616431197996000,17,Insert, ,18,Dnes je vonku pen 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616431309508000,1776616431305707000,18,Insert,e,19,Dnes je vonku pen e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616431915030000,1776616431909980000,19,Delete,e,18,Dnes je vonku pen 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616432081405000,1776616432078985000,18,Delete, ,17,Dnes je vonku pen
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616432302128000,1776616432298653000,17,Delete,n,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616432502220000,1776616432496246000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616432713135000,1776616432709174000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616432789707000,1776616432786257000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616433677575000,1776616433667642000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616433992438000,1776616433986964000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616434224816000,1776616434219134000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616434327456000,1776616434320546000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616434539987000,1776616434533954000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616434663037000,1776616434658762000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616434909841000,1776616434903663000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616435248711000,1776616435240830000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616435487059000,1776616435483175000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616435730982000,1776616435723948000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616435956943000,1776616435949486000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616436162606000,1776616436156702000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616436299406000,1776616436294821000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616436539158000,1776616436532592000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616436819685000,1776616436809351000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616436949312000,1776616436945272000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616437092588000,1776616437087081000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616437324625000,1776616437318448000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616437550649000,1776616437544236000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616437724779000,1776616437718594000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616437873037000,1776616437866056000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616438467521000,1776616438462355000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616438601295000,1776616438595392000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616438822783000,1776616438815236000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616438965314000,1776616438961073000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616439088024000,1776616439083892000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616439468656000,1776616439462015000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616439615056000,1776616439608645000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616439781465000,1776616439774250000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616439990473000,1776616439984658000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616440170253000,1776616440164304000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616440302030000,1776616440297719000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616440503210000,1776616440499334000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616440614948000,1776616440610243000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616440818737000,1776616440811875000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616441038171000,1776616441031621000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616441185532000,1776616441177628000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616441332582000,1776616441327886000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616441590003000,1776616441581154000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616441692949000,1776616441688439000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616441890213000,1776616441879926000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616442021330000,1776616442017392000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616442272540000,1776616442266154000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616442454386000,1776616442450302000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616442689285000,1776616442683145000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616442824931000,1776616442820723000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616442923202000,1776616442918111000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616443144485000,1776616443140535000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616443348988000,1776616443344900000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616443538596000,1776616443534231000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616443717910000,1776616443708442000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616443909085000,1776616443903831000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616444097373000,1776616444093012000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616444209296000,1776616444204997000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616444425183000,1776616444412434000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,11,1776616444521426000,1776616444517030000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616446898997000,1776616446895261000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616447128929000,1776616447120756000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616447182122000,1776616447178661000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616447432189000,1776616447425458000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616447579618000,1776616447575928000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616447802902000,1776616447796696000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616447895863000,1776616447892098000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616448090025000,1776616448086303000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616448320091000,1776616448313361000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616448556435000,1776616448551699000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616448767128000,1776616448760639000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616448978928000,1776616448971988000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616449148668000,1776616449144863000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616449401215000,1776616449396225000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616449664483000,1776616449656985000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616449832816000,1776616449828803000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616450000363000,1776616449996066000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616450276269000,1776616450272260000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616450577351000,1776616450570841000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616451580225000,1776616451570108000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616451770975000,1776616451767228000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616452004438000,1776616451995222000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616452100968000,1776616452097244000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616452297557000,1776616452291278000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616452422987000,1776616452419363000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616452668578000,1776616452664548000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616452890805000,1776616452880851000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616453141223000,1776616453133949000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616453310740000,1776616453306301000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616453522795000,1776616453516435000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616453648538000,1776616453641782000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616453761194000,1776616453757472000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616453988724000,1776616453980426000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616454282757000,1776616454274159000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616454458812000,1776616454449339000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616454610646000,1776616454605881000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616454854834000,1776616454848627000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616455107734000,1776616455100365000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616455420866000,1776616455414290000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616455533876000,1776616455529745000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616455704182000,1776616455698346000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616455810359000,1776616455805791000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616456026346000,1776616456022514000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616456175232000,1776616456170946000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616456306827000,1776616456302370000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616457093704000,1776616457084576000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616457186534000,1776616457182790000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616457316105000,1776616457308906000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616457535962000,1776616457530012000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616457737542000,1776616457730950000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616457868016000,1776616457862066000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616458060799000,1776616458056024000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616458176905000,1776616458172910000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616458418581000,1776616458412093000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616458508982000,1776616458504475000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616458835141000,1776616458823572000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616458878309000,1776616458871590000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616459134243000,1776616459127423000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616459285016000,1776616459280946000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616459467064000,1776616459458811000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616459596674000,1776616459592726000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616459819253000,1776616459811610000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616460009554000,1776616460005017000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616460230097000,1776616460223695000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616460386915000,1776616460382459000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616460551061000,1776616460541334000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616460796040000,1776616460787758000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616460967239000,1776616460963153000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616461809053000,1776616461795238000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616462030190000,1776616462022150000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616462235555000,1776616462228928000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616462436446000,1776616462432574000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616462526448000,1776616462522380000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616462717894000,1776616462713784000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,12,1776616462859734000,1776616462854468000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616464960262000,1776616464954576000,0,Insert, ,1, 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616466114743000,1776616466110670000,1,Delete, ,0,
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616466607931000,1776616466598902000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616466751406000,1776616466746840000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616466837921000,1776616466834716000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616467033856000,1776616467026878000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616467345939000,1776616467339923000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616467577846000,1776616467571885000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616467695021000,1776616467691164000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616467836907000,1776616467832258000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616468035130000,1776616468028737000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616468263337000,1776616468256418000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616468464058000,1776616468460121000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616468676363000,1776616468670582000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616468840550000,1776616468836667000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616469065866000,1776616469059493000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616469366866000,1776616469360978000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616469467339000,1776616469462778000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616469620374000,1776616469616142000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616469819800000,1776616469813461000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616469923231000,1776616469919655000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616470528648000,1776616470524260000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616470699999000,1776616470693084000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616470925832000,1776616470921822000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616471047545000,1776616471039993000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616471258100000,1776616471252067000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616471370444000,1776616471366486000,24,Insert,n,25,"Dnes je vonku pekne, iden"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616472371986000,1776616472368374000,25,Delete,n,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616472594348000,1776616472587608000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616473022183000,1776616473011614000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616473337967000,1776616473333170000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616473584465000,1776616473578021000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616473813041000,1776616473804693000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616474286728000,1776616474275186000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616474844157000,1776616474833269000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616474956550000,1776616474952092000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616475208503000,1776616475204373000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616475510505000,1776616475502881000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616475639862000,1776616475634934000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616475856563000,1776616475850971000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616476047162000,1776616476042949000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616476650693000,1776616476642303000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616476859544000,1776616476851213000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616476943242000,1776616476939261000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616477157279000,1776616477150858000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616477341293000,1776616477336491000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616477545495000,1776616477541370000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616477700905000,1776616477695132000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616477813540000,1776616477809336000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616478238210000,1776616478231836000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616478381603000,1776616478377618000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616478495387000,1776616478490156000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616478720335000,1776616478713687000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616478906301000,1776616478899623000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616479005632000,1776616479002180000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616479213903000,1776616479209166000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616479294795000,1776616479290745000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616479537939000,1776616479530101000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616479853019000,1776616479845932000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616479994236000,1776616479990116000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616480131570000,1776616480127570000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616480358137000,1776616480350046000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616480531611000,1776616480526770000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616480703846000,1776616480699521000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616480869205000,1776616480862908000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616481086270000,1776616481079521000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616481270972000,1776616481266837000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616481492890000,1776616481486788000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616481599787000,1776616481595656000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616481770051000,1776616481765503000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616481992717000,1776616481987147000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616482163513000,1776616482159498000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616482331886000,1776616482327574000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616482561600000,1776616482556771000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616482765127000,1776616482755177000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616482962461000,1776616482954681000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616483065510000,1776616483060275000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616483256525000,1776616483248760000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,13,1776616483391489000,1776616483382721000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616486101095000,1776616486096413000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616486279972000,1776616486271163000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616486367321000,1776616486364008000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616486601401000,1776616486594580000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616486708459000,1776616486705012000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616486908112000,1776616486904265000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616487052228000,1776616487047980000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616487209204000,1776616487205434000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616487453523000,1776616487447848000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616487736122000,1776616487730606000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616487941216000,1776616487935332000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616488153500000,1776616488147103000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616488285058000,1776616488281468000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616488512636000,1776616488504988000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616488756564000,1776616488750946000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616488879629000,1776616488875943000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616488990624000,1776616488987316000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616489194594000,1776616489190874000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616489303213000,1776616489298601000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616489864493000,1776616489855621000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616490077230000,1776616490071589000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616490280387000,1776616490274813000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616490387002000,1776616490381171000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616490615122000,1776616490608406000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616490775724000,1776616490771880000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616491021200000,1776616491015034000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616491420637000,1776616491414858000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616491563316000,1776616491558282000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616491765977000,1776616491760114000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616491962310000,1776616491958441000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616492135741000,1776616492130220000,30,Insert,a,31,"Dnes je vonku pekne, idem von a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616492227423000,1776616492223299000,31,Insert,o,32,"Dnes je vonku pekne, idem von ao"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616492460748000,1776616492453045000,32,Insert, ,33,"Dnes je vonku pekne, idem von ao "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616492704343000,1776616492696268000,33,Insert,p,34,"Dnes je vonku pekne, idem von ao p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616493050821000,1776616493046662000,34,Delete,p,33,"Dnes je vonku pekne, idem von ao "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616493234453000,1776616493231639000,33,Delete, ,32,"Dnes je vonku pekne, idem von ao"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616493420208000,1776616493417583000,32,Delete,o,31,"Dnes je vonku pekne, idem von a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616493727355000,1776616493723860000,31,Delete,a,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616494019299000,1776616494010628000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616494177297000,1776616494171827000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616494397322000,1776616494389226000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616494664605000,1776616494654946000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616494803832000,1776616494799500000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616494984429000,1776616494977936000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616495198922000,1776616495192840000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616495442272000,1776616495435855000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616495642461000,1776616495635072000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616495755919000,1776616495751130000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616495916162000,1776616495912125000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616495985557000,1776616495981344000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616496182019000,1776616496177345000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616496307948000,1776616496304080000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616496422065000,1776616496417875000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616497076941000,1776616497067246000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616497181474000,1776616497177703000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616497326995000,1776616497318177000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616497536491000,1776616497529260000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616497731931000,1776616497726853000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616497843286000,1776616497838806000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616498039181000,1776616498033707000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616498163416000,1776616498159604000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616498432496000,1776616498426874000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616498540591000,1776616498536662000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616498778522000,1776616498768464000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616498850481000,1776616498846790000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616499064800000,1776616499056754000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616499166146000,1776616499158069000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616499341442000,1776616499337548000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616499449712000,1776616499445368000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616499683985000,1776616499676857000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616499871078000,1776616499867506000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616500102092000,1776616500093763000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616500215014000,1776616500209797000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616500380299000,1776616500370844000,65,Insert,n,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodn"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616500538321000,1776616500533534000,66,Insert,u,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodnu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616500848878000,1776616500841274000,67,Insert,",",68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodnu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616501083670000,1776616501077222000,68,Insert, ,69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodnu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616501754854000,1776616501748580000,69,Delete, ,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodnu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616501927048000,1776616501924326000,68,Delete,",",67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodnu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616502137534000,1776616502133701000,67,Delete,u,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodn"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616502587695000,1776616502583989000,66,Delete,n,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616502843615000,1776616502837410000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616503080981000,1776616503074704000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616503284533000,1776616503278651000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616503559039000,1776616503552109000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616503752689000,1776616503744707000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616503948652000,1776616503943334000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616504140454000,1776616504133753000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616504218780000,1776616504214456000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616504412257000,1776616504407941000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,14,1776616504558827000,1776616504551544000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616506728573000,1776616506723309000,0,Insert,D,1,D
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616506908813000,1776616506903621000,1,Insert,n,2,Dn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616506995141000,1776616506991654000,2,Insert,e,3,Dne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616507214119000,1776616507210509000,3,Insert,s,4,Dnes
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616507357121000,1776616507351929000,4,Insert, ,5,Dnes 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616507556055000,1776616507552084000,5,Insert,j,6,Dnes j
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616507677312000,1776616507673275000,6,Insert,e,7,Dnes je
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616507830212000,1776616507825669000,7,Insert, ,8,Dnes je 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616508015994000,1776616508012146000,8,Insert,v,9,Dnes je v
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616508250229000,1776616508244182000,9,Insert,o,10,Dnes je vo
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616508462355000,1776616508455562000,10,Insert,n,11,Dnes je von
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616508653118000,1776616508648402000,11,Insert,k,12,Dnes je vonk
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616508807763000,1776616508803521000,12,Insert,u,13,Dnes je vonku
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616509052499000,1776616509044224000,13,Insert, ,14,Dnes je vonku 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616509311020000,1776616509303457000,14,Insert,p,15,Dnes je vonku p
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616509469945000,1776616509463654000,15,Insert,e,16,Dnes je vonku pe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616509544485000,1776616509541109000,16,Insert,k,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616509740821000,1776616509736772000,17,Insert, ,18,Dnes je vonku pek 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616509868071000,1776616509864639000,18,Insert,e,19,Dnes je vonku pek e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616510447790000,1776616510441619000,19,Insert,l,20,Dnes je vonku pek el
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616510660807000,1776616510657025000,20,Delete,l,19,Dnes je vonku pek e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616510860624000,1776616510853073000,19,Insert,n,20,Dnes je vonku pek en
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616510923684000,1776616510917113000,20,Insert,e,21,Dnes je vonku pek ene
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616511456266000,1776616511446295000,21,Insert, ,22,Dnes je vonku pek ene 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616512154570000,1776616512150007000,22,Delete, ,21,Dnes je vonku pek ene
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616512344751000,1776616512335003000,21,Delete,e,20,Dnes je vonku pek en
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616512516044000,1776616512512050000,20,Delete,n,19,Dnes je vonku pek e
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616512696075000,1776616512692138000,19,Delete,e,18,Dnes je vonku pek 
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616512884372000,1776616512881432000,18,Delete, ,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616513470773000,1776616513466696000,17,Insert,b,18,Dnes je vonku pekb
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616513540529000,1776616513536317000,18,Insert,e,19,Dnes je vonku pekbe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616513830300000,1776616513825100000,19,Insert,",",20,"Dnes je vonku pekbe,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616514372500000,1776616514368493000,20,Delete,",",19,Dnes je vonku pekbe
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616514570846000,1776616514568046000,19,Delete,e,18,Dnes je vonku pekb
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616515305566000,1776616515297889000,18,Delete,b,17,Dnes je vonku pek
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616515749068000,1776616515740127000,17,Insert,n,18,Dnes je vonku pekn
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616515818768000,1776616515815657000,18,Insert,e,19,Dnes je vonku pekne
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616516152061000,1776616516145438000,19,Insert,",",20,"Dnes je vonku pekne,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616516392083000,1776616516386814000,20,Insert, ,21,"Dnes je vonku pekne, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616516605353000,1776616516599348000,21,Insert,i,22,"Dnes je vonku pekne, i"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616516719773000,1776616516714561000,22,Insert,d,23,"Dnes je vonku pekne, id"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616516935785000,1776616516931948000,23,Insert,e,24,"Dnes je vonku pekne, ide"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616517045471000,1776616517041395000,24,Insert,m,25,"Dnes je vonku pekne, idem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616517274179000,1776616517267787000,25,Insert, ,26,"Dnes je vonku pekne, idem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616517459171000,1776616517455507000,26,Insert,v,27,"Dnes je vonku pekne, idem v"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616517706041000,1776616517700114000,27,Insert,o,28,"Dnes je vonku pekne, idem vo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616517887986000,1776616517884425000,28,Insert,n,29,"Dnes je vonku pekne, idem von"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616518087613000,1776616518082387000,29,Insert, ,30,"Dnes je vonku pekne, idem von "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616518191347000,1776616518186512000,30,Insert,s,31,"Dnes je vonku pekne, idem von s"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616518330665000,1776616518326316000,31,Insert,o,32,"Dnes je vonku pekne, idem von so"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616518560577000,1776616518556869000,32,Insert, ,33,"Dnes je vonku pekne, idem von so "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616518819400000,1776616518810218000,33,Insert,p,34,"Dnes je vonku pekne, idem von so p"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616518955078000,1776616518947463000,34,Insert,s,35,"Dnes je vonku pekne, idem von so ps"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616519048352000,1776616519044137000,35,Insert,o,36,"Dnes je vonku pekne, idem von so pso"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616519257127000,1776616519251174000,36,Insert,m,37,"Dnes je vonku pekne, idem von so psom"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616519470098000,1776616519464505000,37,Insert, ,38,"Dnes je vonku pekne, idem von so psom "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616519671768000,1776616519665818000,38,Insert,n,39,"Dnes je vonku pekne, idem von so psom n"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616519777308000,1776616519770820000,39,Insert,a,40,"Dnes je vonku pekne, idem von so psom na"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616519934777000,1776616519930716000,40,Insert, ,41,"Dnes je vonku pekne, idem von so psom na "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616520031969000,1776616520027286000,41,Insert,d,42,"Dnes je vonku pekne, idem von so psom na d"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616520219294000,1776616520215448000,42,Insert,v,43,"Dnes je vonku pekne, idem von so psom na dv"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616520346997000,1776616520343053000,43,Insert,o,44,"Dnes je vonku pekne, idem von so psom na dvo"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616520465407000,1776616520461492000,44,Insert,r,45,"Dnes je vonku pekne, idem von so psom na dvor"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616520717571000,1776616520708460000,45,Insert, ,46,"Dnes je vonku pekne, idem von so psom na dvor "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616520829132000,1776616520822928000,46,Insert,a,47,"Dnes je vonku pekne, idem von so psom na dvor a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616520952066000,1776616520945253000,47,Insert, ,48,"Dnes je vonku pekne, idem von so psom na dvor a "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616521168664000,1776616521162101000,48,Insert,b,49,"Dnes je vonku pekne, idem von so psom na dvor a b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616521347759000,1776616521343155000,49,Insert,u,50,"Dnes je vonku pekne, idem von so psom na dvor a bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616521419344000,1776616521415333000,50,Insert,d,51,"Dnes je vonku pekne, idem von so psom na dvor a bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616521648897000,1776616521642868000,51,Insert,e,52,"Dnes je vonku pekne, idem von so psom na dvor a bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616521768164000,1776616521761889000,52,Insert,m,53,"Dnes je vonku pekne, idem von so psom na dvor a budem"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616521983647000,1776616521979557000,53,Insert, ,54,"Dnes je vonku pekne, idem von so psom na dvor a budem "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616522081522000,1776616522072999000,54,Insert,t,55,"Dnes je vonku pekne, idem von so psom na dvor a budem t"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616522380386000,1776616522373611000,55,Insert,a,56,"Dnes je vonku pekne, idem von so psom na dvor a budem ta"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616522470313000,1776616522466155000,56,Insert,m,57,"Dnes je vonku pekne, idem von so psom na dvor a budem tam"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616522656774000,1776616522651578000,57,Insert, ,58,"Dnes je vonku pekne, idem von so psom na dvor a budem tam "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616522774134000,1776616522770368000,58,Insert,a,59,"Dnes je vonku pekne, idem von so psom na dvor a budem tam a"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616522957001000,1776616522949370000,59,Insert,s,60,"Dnes je vonku pekne, idem von so psom na dvor a budem tam as"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616523052591000,1776616523048773000,60,Insert,i,61,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616523262628000,1776616523257751000,61,Insert, ,62,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616523456089000,1776616523452498000,62,Insert,h,63,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi h"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616523674886000,1776616523668942000,63,Insert,o,64,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi ho"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616523775278000,1776616523771479000,64,Insert,d,65,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hod"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616523865616000,1776616523861446000,65,Insert,i,66,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodi"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616524117677000,1776616524111295000,66,Insert,n,67,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodin"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616524282882000,1776616524278772000,67,Insert,u,68,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616524905456000,1776616524894144000,68,Insert,",",69,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu,"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616525083635000,1776616525078954000,69,Insert, ,70,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, "
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616525302617000,1776616525296691000,70,Insert,b,71,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, b"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616525499004000,1776616525493879000,71,Insert,u,72,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bu"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616525613607000,1776616525609475000,72,Insert,d,73,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bud"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616525838968000,1776616525833026000,73,Insert,e,74,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude"
+A2SsgxEqJLY9Avf3vCgly0OIQux1,15,1776616525981323000,1776616525976086000,74,Insert, ,75,"Dnes je vonku pekne, idem von so psom na dvor a budem tam asi hodinu, bude "

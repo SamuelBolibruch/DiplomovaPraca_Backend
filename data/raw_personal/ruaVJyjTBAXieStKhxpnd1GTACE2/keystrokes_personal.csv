@@ -1,0 +1,1240 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338930405974000,1771338930393966000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338930711981000,1771338930704132000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338930782243000,1771338930778539000,2,Insert,o,3,Voo
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338931199222000,1771338931191499000,3,Insert,l,4,Vool
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338931720098000,1771338931711896000,4,Insert,a,5,Voola
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338932372932000,1771338932367879000,5,Delete,a,4,Vool
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338933904300000,1771338933899478000,4,Delete,l,3,Voo
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338934167390000,1771338934163826000,3,Delete,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338935061727000,1771338935054658000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338935623094000,1771338935614671000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338936329744000,1771338936322044000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338936727244000,1771338936721687000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338937248886000,1771338937241062000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338937518632000,1771338937515137000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338938066025000,1771338938058217000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338938448564000,1771338938442190000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338938980901000,1771338938977463000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338939636661000,1771338939628834000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338939911124000,1771338939905631000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338940437627000,1771338940430930000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338941206328000,1771338941199270000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338941637699000,1771338941633643000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338942213726000,1771338942209614000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338942520431000,1771338942514057000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338943015482000,1771338943009918000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338943368771000,1771338943360156000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338943700489000,1771338943697290000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338943966838000,1771338943963163000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338944462474000,1771338944450721000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338945399619000,1771338945388139000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338947812174000,1771338947805921000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338948407475000,1771338948402688000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338949171800000,1771338949163888000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338949456300000,1771338949450552000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338949914154000,1771338949910044000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338950442063000,1771338950434207000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338950934729000,1771338950930393000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338951371062000,1771338951363011000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338951674678000,1771338951669130000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338952251919000,1771338952246438000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338952791187000,1771338952786848000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338953252597000,1771338953248127000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338953554637000,1771338953549053000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338953954467000,1771338953948815000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338954288148000,1771338954282270000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338955194501000,1771338955186117000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338955635891000,1771338955628940000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338956959887000,1771338956952702000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338958720986000,1771338958712447000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338959198432000,1771338959192563000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338959694902000,1771338959688530000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338960006627000,1771338959999414000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338960503945000,1771338960495768000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338961306701000,1771338961296649000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338961701168000,1771338961695018000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338962759895000,1771338962751838000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338965341591000,1771338965333882000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338965835954000,1771338965831462000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338966362872000,1771338966354727000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338966732075000,1771338966724562000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338967161573000,1771338967155810000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338967920776000,1771338967909404000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338968294496000,1771338968288022000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338968706438000,1771338968702243000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338969180125000,1771338969173463000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338969659173000,1771338969649746000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338970120961000,1771338970115119000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338970471866000,1771338970465624000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338972604483000,1771338972590688000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338973135352000,1771338973131557000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338973889090000,1771338973877024000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338974467446000,1771338974457517000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338974824658000,1771338974819044000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338975200532000,1771338975194479000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338975642751000,1771338975636766000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338976449232000,1771338976438521000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338976848687000,1771338976842729000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338977194066000,1771338977187787000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338977564443000,1771338977558585000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338978182574000,1771338978178009000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,1,1771338978809506000,1771338978798570000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338981770690000,1771338981760940000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338982143119000,1771338982135056000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338982695656000,1771338982691617000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338983366911000,1771338983358079000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338984111907000,1771338984103653000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338984533797000,1771338984529650000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338985062172000,1771338985058437000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338985315789000,1771338985310248000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338985953476000,1771338985946522000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338986620693000,1771338986613063000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338987080124000,1771338987070547000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338987762353000,1771338987755883000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338988053321000,1771338988045713000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338988552824000,1771338988549068000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338989595522000,1771338989588028000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338990049903000,1771338990042469000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338990673631000,1771338990669706000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338990930373000,1771338990925697000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338991476926000,1771338991473172000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338991795365000,1771338991791391000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338992207358000,1771338992199056000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338992496278000,1771338992490866000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338993745966000,1771338993737878000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338994312395000,1771338994308693000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338995325046000,1771338995318030000,24,Insert, ,25,Volam sa janka slovikova 
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338997168025000,1771338997162613000,25,Delete, ,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338997835639000,1771338997827980000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338998579176000,1771338998572285000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338999118146000,1771338999114175000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338999392602000,1771338999386563000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771338999979236000,1771338999971254000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339000485780000,1771339000477640000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339000985492000,1771339000979726000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339001493287000,1771339001488125000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339002370917000,1771339002362287000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339002922462000,1771339002913037000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339003504845000,1771339003495232000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339003939565000,1771339003931612000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339004255948000,1771339004250188000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339004661645000,1771339004655838000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339005021283000,1771339005015246000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339005865635000,1771339005858100000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339006340330000,1771339006334251000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339006920482000,1771339006913622000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339008189259000,1771339008178000000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339008639424000,1771339008629817000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339009071870000,1771339009067863000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339009378569000,1771339009370991000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339009863931000,1771339009858177000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339010730978000,1771339010722636000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339011101273000,1771339011095365000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339011774493000,1771339011762716000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339014006985000,1771339013992658000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339014539646000,1771339014530100000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339015068260000,1771339015062845000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339015428466000,1771339015422058000,53,Insert,k,54,"Volam sa janka slovikova, sedim na sedacke u babky a k"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339015851238000,1771339015845375000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a ke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339016524156000,1771339016513854000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a kem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339016907407000,1771339016901285000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a kem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339017367694000,1771339017361199000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a kem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339017958654000,1771339017954473000,58,Insert,o,59,"Volam sa janka slovikova, sedim na sedacke u babky a kem so"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339018390198000,1771339018384265000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a kem sos"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339018914143000,1771339018905348000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339019482945000,1771339019478361000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339020948941000,1771339020937516000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339021409719000,1771339021404073000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339021970532000,1771339021962533000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339022586568000,1771339022574460000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339023063619000,1771339023055441000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339023370152000,1771339023364063000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339023822473000,1771339023816286000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339024540263000,1771339024529157000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339024968848000,1771339024962666000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339025291711000,1771339025285876000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339025659738000,1771339025653899000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339026344600000,1771339026334634000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339026922357000,1771339026913277000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a kem sosku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339029984297000,1771339029969207000,75,Delete,o,74,"Volam sa janka slovikova, sedim na sedacke u babky a kem ssku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339030421149000,1771339030412546000,74,Insert,i,75,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339034976486000,1771339034952482000,75,Delete,k,74,"Volam sa janka slovikova, sedim na sedacke u babky a em sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,2,1771339035599468000,1771339035594005000,74,Insert,j,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339038948206000,1771339038941569000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339039323585000,1771339039317461000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339039791569000,1771339039785657000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339040466000000,1771339040457194000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339041148936000,1771339041140607000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339041598727000,1771339041592062000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339042115796000,1771339042111712000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339042403531000,1771339042398818000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339042999026000,1771339042990004000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339044110625000,1771339044098472000,9,Insert,K,10,Volam sa K
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339044678066000,1771339044673686000,10,Insert,a,11,Volam sa Ka
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339045526390000,1771339045520765000,11,Delete,a,10,Volam sa K
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339045998953000,1771339045995855000,10,Delete,K,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339046916421000,1771339046906993000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339047413815000,1771339047406895000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339048119885000,1771339048116125000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339048394657000,1771339048388246000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339049103706000,1771339049096030000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339049664973000,1771339049654663000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339050140275000,1771339050134252000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339050703251000,1771339050699112000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339050994189000,1771339050989720000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339051438393000,1771339051431436000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339051836314000,1771339051827566000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339052201595000,1771339052191699000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339052524457000,1771339052516015000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339053007401000,1771339052998015000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339053535706000,1771339053530887000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339054895666000,1771339054883015000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339055433860000,1771339055429885000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339055948676000,1771339055938770000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339056238991000,1771339056234651000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339056643810000,1771339056637663000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339057197744000,1771339057193736000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339057720836000,1771339057712627000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339058165988000,1771339058159187000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339058539001000,1771339058534659000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339059064079000,1771339059056241000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339059700686000,1771339059688645000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339060146749000,1771339060140984000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339060496838000,1771339060488383000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339060947702000,1771339060941751000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339061281470000,1771339061275243000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339062023966000,1771339062010323000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339062464965000,1771339062456838000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339063025280000,1771339063017169000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339063970744000,1771339063961062000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339064525964000,1771339064521839000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339065026078000,1771339065016265000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339065342765000,1771339065332779000,45,Insert,n,46,"Volam sa janka slovikova, sedim na sedacke u n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339065828727000,1771339065823001000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339066585506000,1771339066574200000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u nab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339066971937000,1771339066964367000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u nabk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339067807019000,1771339067792589000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u nabky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339070087846000,1771339070077995000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u nabky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339070618744000,1771339070611054000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u nabky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339071251711000,1771339071246171000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u nabky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339071644208000,1771339071638659000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u nabky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339074448536000,1771339074424020000,54,Delete,n,53,"Volam sa janka slovikova, sedim na sedacke u abky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339074962081000,1771339074954866000,53,Insert,b,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339081191023000,1771339081183448000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339081947133000,1771339081941203000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339082392541000,1771339082383864000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339082978140000,1771339082973834000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339083526976000,1771339083518597000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339083993781000,1771339083986518000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339084631394000,1771339084615019000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339085017881000,1771339085012235000,61,Insert,i,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339086015370000,1771339086006704000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339086522568000,1771339086514185000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339087061153000,1771339087056652000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339087687204000,1771339087682791000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339088121912000,1771339088115204000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339088475425000,1771339088466479000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339088957328000,1771339088950022000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339089653487000,1771339089644567000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339090079929000,1771339090071834000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339090481930000,1771339090472235000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339090958069000,1771339090951410000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339091986014000,1771339091980393000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339094401818000,1771339094391718000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem siski a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339113502213000,1771339113473243000,75,Delete,i,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,3,1771339114087890000,1771339114081527000,74,Insert,u,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339117588803000,1771339117580966000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339118092381000,1771339118085669000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339118531398000,1771339118523852000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339119179437000,1771339119176617000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339119891206000,1771339119879483000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339120288954000,1771339120282287000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339120863194000,1771339120855401000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339121173016000,1771339121166726000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339121800271000,1771339121793350000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339122241596000,1771339122234267000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339122823194000,1771339122818779000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339123725247000,1771339123717565000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339124050805000,1771339124046595000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339125109700000,1771339125105576000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339125899576000,1771339125893661000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339126392670000,1771339126387598000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339127074607000,1771339127067827000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339127416384000,1771339127411956000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339127963178000,1771339127955918000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339128321744000,1771339128311110000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339128766512000,1771339128756423000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339129046188000,1771339129037821000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339129536649000,1771339129532907000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339130298959000,1771339130291502000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339133950596000,1771339133940720000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339134593528000,1771339134583737000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339135261708000,1771339135253294000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339135620200000,1771339135615806000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339136152059000,1771339136144956000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339136744198000,1771339136740294000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339137264932000,1771339137254975000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339137960423000,1771339137947457000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339138408601000,1771339138398182000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339138945415000,1771339138939866000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339139539040000,1771339139530879000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339139940661000,1771339139937043000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339140179493000,1771339140175441000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339140843365000,1771339140834971000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339141157379000,1771339141150593000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339141871613000,1771339141864945000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339142449660000,1771339142444016000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339143336104000,1771339143326415000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339143962864000,1771339143956526000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339144338436000,1771339144330948000,43,Insert,i,44,"Volam sa janka slovikova, sedim na sedacke i"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339144778698000,1771339144771900000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke i "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339145080809000,1771339145074909000,45,Insert,n,46,"Volam sa janka slovikova, sedim na sedacke i n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339145546766000,1771339145540812000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke i na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339146335008000,1771339146328920000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke i nab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339146692246000,1771339146685212000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke i nabk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339147220139000,1771339147212030000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke i nabky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339150693359000,1771339150669491000,50,Delete,a,49,"Volam sa janka slovikova, sedim na sedacke i nbky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339150942835000,1771339150937198000,49,Delete,n,48,"Volam sa janka slovikova, sedim na sedacke i bky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339151839483000,1771339151830438000,48,Insert,b,49,"Volam sa janka slovikova, sedim na sedacke i bbky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339152306972000,1771339152299782000,49,Insert,a,50,"Volam sa janka slovikova, sedim na sedacke i babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339157554699000,1771339157546245000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke i babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339158021583000,1771339158015115000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke i babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339158614553000,1771339158603138000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke i babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339159094772000,1771339159088012000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke i babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339159779947000,1771339159774785000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke i babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339160494030000,1771339160489434000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke i babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339160982190000,1771339160975577000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke i babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339161509750000,1771339161502945000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke i babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339162098258000,1771339162090225000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke i babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339162580856000,1771339162576363000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke i babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339163180878000,1771339163176457000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339163642562000,1771339163635104000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339165213773000,1771339165202856000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339165799632000,1771339165794515000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339166348587000,1771339166343682000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339167020704000,1771339167013383000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339167417087000,1771339167409517000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339167833347000,1771339167826706000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339168361986000,1771339168355603000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339169269795000,1771339169261251000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339169738539000,1771339169726017000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339170058072000,1771339170052980000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339170490289000,1771339170479435000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339171134730000,1771339171128132000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339171664741000,1771339171660241000,74,Insert, ,75,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem caj "
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339174704363000,1771339174696562000,75,Delete, ,74,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339175170988000,1771339175164226000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339186310657000,1771339186292094000,75,Delete,i,74,"Volam sa janka slovikova, sedim na sedacke  babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,4,1771339186893431000,1771339186887769000,74,Insert,u,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339190529811000,1771339190523686000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339191003678000,1771339190997389000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339191529953000,1771339191520560000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339192092173000,1771339192088460000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339192944584000,1771339192937469000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339193472520000,1771339193464927000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339194052210000,1771339194044652000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339194392705000,1771339194381343000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339195186804000,1771339195177744000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339195704312000,1771339195700337000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339196276588000,1771339196272202000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339197043459000,1771339197032788000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339197388276000,1771339197380417000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339197942726000,1771339197935497000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339198724107000,1771339198712505000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339199267180000,1771339199263252000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339199894103000,1771339199890241000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339200198381000,1771339200192425000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339200720302000,1771339200713177000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339201118881000,1771339201112854000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339201636131000,1771339201625575000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339201947556000,1771339201938800000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339202505641000,1771339202498521000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339203014275000,1771339203004761000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339211036890000,1771339211026723000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339211623507000,1771339211614070000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339212172677000,1771339212168491000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339212468772000,1771339212461332000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339212848527000,1771339212842814000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339213434356000,1771339213424686000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339213965524000,1771339213955502000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339214394241000,1771339214385245000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339215103623000,1771339215097384000,32,Insert,u,33,"Volam sa janka slovikova, sedim u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339215612267000,1771339215602171000,33,Insert, ,34,"Volam sa janka slovikova, sedim u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339215885468000,1771339215878606000,34,Insert,b,35,"Volam sa janka slovikova, sedim u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339216377778000,1771339216371180000,35,Insert,a,36,"Volam sa janka slovikova, sedim u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339217067479000,1771339217058248000,36,Insert,b,37,"Volam sa janka slovikova, sedim u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339217501464000,1771339217492839000,37,Insert,k,38,"Volam sa janka slovikova, sedim u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339218869548000,1771339218862991000,38,Insert,y,39,"Volam sa janka slovikova, sedim u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339219512346000,1771339219503858000,39,Insert, ,40,"Volam sa janka slovikova, sedim u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339219944180000,1771339219937614000,40,Insert,n,41,"Volam sa janka slovikova, sedim u babky n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339220492186000,1771339220487457000,41,Insert,a,42,"Volam sa janka slovikova, sedim u babky na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339221736754000,1771339221728555000,42,Insert, ,43,"Volam sa janka slovikova, sedim u babky na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339222311680000,1771339222307222000,43,Insert,s,44,"Volam sa janka slovikova, sedim u babky na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339222614141000,1771339222609767000,44,Insert,e,45,"Volam sa janka slovikova, sedim u babky na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339223065209000,1771339223056481000,45,Insert,d,46,"Volam sa janka slovikova, sedim u babky na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339224165244000,1771339224158453000,46,Insert,a,47,"Volam sa janka slovikova, sedim u babky na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339224867936000,1771339224861392000,47,Insert,c,48,"Volam sa janka slovikova, sedim u babky na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339225571853000,1771339225562681000,48,Insert,k,49,"Volam sa janka slovikova, sedim u babky na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339226374244000,1771339226364864000,49,Insert,e,50,"Volam sa janka slovikova, sedim u babky na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339239538059000,1771339239496458000,50,Delete,y,49,"Volam sa janka slovikova, sedim u babk na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339239746304000,1771339239740663000,49,Delete,k,48,"Volam sa janka slovikova, sedim u bab na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339240247268000,1771339240241779000,48,Delete,b,47,"Volam sa janka slovikova, sedim u ba na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339240523432000,1771339240519577000,47,Delete,a,46,"Volam sa janka slovikova, sedim u b na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339240820691000,1771339240816523000,46,Delete,b,45,"Volam sa janka slovikova, sedim u  na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339241178798000,1771339241173309000,45,Delete, ,44,"Volam sa janka slovikova, sedim u na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339241917158000,1771339241909832000,44,Delete,u,43,"Volam sa janka slovikova, sedim  na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339243868392000,1771339243847587000,43,Insert, ,44,"Volam sa janka slovikova, sedim  na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339244400010000,1771339244391472000,44,Insert,u,45,"Volam sa janka slovikova, sedim  na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339246996226000,1771339246976863000,45,Delete, ,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339250829671000,1771339250806147000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339251294708000,1771339251287573000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339251886545000,1771339251880619000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339252643394000,1771339252630879000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339253045394000,1771339253038619000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339254085368000,1771339254072465000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339257497345000,1771339257487800000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339257936090000,1771339257932228000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339258681006000,1771339258670108000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339259091756000,1771339259087129000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339259569280000,1771339259564844000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339260278524000,1771339260268053000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339260686363000,1771339260679590000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339261180176000,1771339261175247000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339261715352000,1771339261710730000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339262219672000,1771339262213105000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339262896491000,1771339262887140000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339263225002000,1771339263217854000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339264165175000,1771339264154529000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339264735342000,1771339264730639000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339265285221000,1771339265272971000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339265817402000,1771339265809044000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339266262058000,1771339266254863000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339266726570000,1771339266717251000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339267182409000,1771339267176046000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339267888380000,1771339267874020000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339268643424000,1771339268623991000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339269215034000,1771339269209133000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339269620618000,1771339269613838000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339270341716000,1771339270331411000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,5,1771339271169681000,1771339271158678000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339276481744000,1771339276471929000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339277040152000,1771339277034144000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339277566687000,1771339277562194000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339278140116000,1771339278130019000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339278912104000,1771339278903551000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339279873089000,1771339279865025000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339280405543000,1771339280400489000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339280729528000,1771339280723808000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339281358978000,1771339281349217000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339281895684000,1771339281891792000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339282454712000,1771339282448611000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339283219977000,1771339283207953000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339283525619000,1771339283521370000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339284101266000,1771339284097547000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339284681041000,1771339284670455000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339285417896000,1771339285409298000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339286380945000,1771339286373295000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339286733063000,1771339286723775000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339287186008000,1771339287178205000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339287566248000,1771339287555811000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339287957570000,1771339287953706000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339288247325000,1771339288236220000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339288689107000,1771339288684738000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339289172628000,1771339289168470000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339290838024000,1771339290829078000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339291454869000,1771339291445625000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339292589689000,1771339292582979000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339292899561000,1771339292893145000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339293319636000,1771339293313507000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339294004676000,1771339293995511000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339294621302000,1771339294616019000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339296045272000,1771339296031379000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339296596410000,1771339296591613000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339297132532000,1771339297127869000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339297745896000,1771339297736862000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339298284403000,1771339298277275000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339298601582000,1771339298595690000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339299247209000,1771339299239564000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339299601452000,1771339299596461000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339300345295000,1771339300337496000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339301074837000,1771339301067501000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339301638200000,1771339301629337000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339303096694000,1771339303089890000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339303608707000,1771339303600079000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339304140090000,1771339304133276000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339304481392000,1771339304472800000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339304938216000,1771339304931968000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339305603023000,1771339305598441000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339305978520000,1771339305968074000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339306664363000,1771339306654030000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339307188481000,1771339307180522000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339307719625000,1771339307713663000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339309740504000,1771339309728270000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339311505621000,1771339311495104000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339311990306000,1771339311981839000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339312642732000,1771339312633739000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339313100913000,1771339313093856000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339313541864000,1771339313532940000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339314081758000,1771339314067099000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339314554329000,1771339314547984000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339315204831000,1771339315198214000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339315550655000,1771339315543952000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339316009643000,1771339316004258000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339316493062000,1771339316487637000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339317078694000,1771339317067812000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339318688041000,1771339318680508000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339319186057000,1771339319180581000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339319597412000,1771339319589558000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339320099446000,1771339320091951000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339321085911000,1771339321071821000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339321565020000,1771339321557871000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339322271265000,1771339322262480000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339322685276000,1771339322678097000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339323448809000,1771339323440654000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,6,1771339324695853000,1771339324676008000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339327575765000,1771339327564498000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339328137606000,1771339328133215000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339328547006000,1771339328540729000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339329095641000,1771339329091600000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339329927090000,1771339329913953000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339330742925000,1771339330730628000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339331279221000,1771339331274142000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339331583027000,1771339331576544000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339332197986000,1771339332186085000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339332736706000,1771339332732519000,9,Insert,k,10,Volam sa k
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339333230877000,1771339333224159000,10,Insert,a,11,Volam sa ka
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339334143946000,1771339334131173000,11,Insert,n,12,Volam sa kan
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339334460189000,1771339334450052000,12,Insert,k,13,Volam sa kank
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339334986182000,1771339334981446000,13,Insert,a,14,Volam sa kanka
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339336144504000,1771339336136644000,14,Delete,a,13,Volam sa kank
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339336440973000,1771339336437069000,13,Delete,k,12,Volam sa kan
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339336736436000,1771339336730553000,12,Delete,n,11,Volam sa ka
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339336987348000,1771339336984727000,11,Delete,a,10,Volam sa k
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339337309530000,1771339337299123000,10,Delete,k,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339338142123000,1771339338132767000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339338691017000,1771339338686323000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339339375976000,1771339339369707000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339339708885000,1771339339701924000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339340428853000,1771339340420954000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339347299646000,1771339347286298000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339347927037000,1771339347917695000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339348684215000,1771339348675538000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339348930652000,1771339348923642000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339349404820000,1771339349399592000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339349885598000,1771339349878805000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339350289485000,1771339350281580000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339350580841000,1771339350568161000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339351037041000,1771339351029989000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339351803712000,1771339351793279000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339353969934000,1771339353963114000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339354580185000,1771339354570471000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339355234393000,1771339355228226000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339355524664000,1771339355518488000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339356011675000,1771339356004734000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339356505128000,1771339356500719000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339357094089000,1771339357086681000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339357625563000,1771339357617573000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339358409632000,1771339358401606000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339358963409000,1771339358950186000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339360474128000,1771339360467126000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339361034257000,1771339361025842000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339361398536000,1771339361386856000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339361787584000,1771339361781798000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339362145379000,1771339362138978000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339362818442000,1771339362808135000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339363273602000,1771339363266248000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339363853852000,1771339363849542000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339364896260000,1771339364888412000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339365722854000,1771339365714484000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339366246696000,1771339366241984000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339366544652000,1771339366537887000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339367052536000,1771339367043646000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339367950298000,1771339367941361000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339368340886000,1771339368334162000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339369014142000,1771339369003715000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339371049894000,1771339371034012000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339372029294000,1771339372016213000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339372629238000,1771339372624127000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339373002678000,1771339372996106000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339373507058000,1771339373499134000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339374180150000,1771339374170864000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339374574260000,1771339374565730000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339375180361000,1771339375169908000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339375716098000,1771339375708892000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339376236301000,1771339376232398000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339376784491000,1771339376779575000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339377081405000,1771339377074715000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339377558003000,1771339377553527000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339378079223000,1771339378074079000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339379112972000,1771339379108722000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339379743373000,1771339379735777000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339380315138000,1771339380309571000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339380674241000,1771339380666151000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339381145881000,1771339381139624000,68,Insert,w,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijw"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339381867241000,1771339381853179000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339382251591000,1771339382244687000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm "
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339382686084000,1771339382680053000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339383086972000,1771339383079066000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339383684216000,1771339383674258000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339386405357000,1771339386385071000,74,Delete,w,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijm caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339387094201000,1771339387087730000,73,Insert,e,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339388400329000,1771339388392886000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pije.m caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339389752258000,1771339389746509000,75,Delete,.,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,7,1771339393501731000,1771339393486883000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339398799917000,1771339398790604000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339399275020000,1771339399268826000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339399754000000,1771339399747697000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339400373603000,1771339400365311000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339401217380000,1771339401209534000,4,Insert, ,5,Vola 
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339403650093000,1771339403646211000,5,Delete, ,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339404128698000,1771339404122578000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339404540358000,1771339404534773000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339405170702000,1771339405160022000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339405456136000,1771339405450141000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339406125957000,1771339406113718000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339406588339000,1771339406582572000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339407156534000,1771339407152787000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339408116449000,1771339408108343000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339408439549000,1771339408431659000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339409048655000,1771339409037150000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339409680640000,1771339409670327000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339410105064000,1771339410098305000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339411022664000,1771339411017595000,16,Insert,o,17,Volam sa janka so
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339412054545000,1771339412049076000,17,Delete,o,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339412517654000,1771339412509319000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339412817936000,1771339412811582000,17,Insert,p,18,Volam sa janka slp
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339413275094000,1771339413270464000,18,Insert,v,19,Volam sa janka slpv
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339413662667000,1771339413656142000,19,Insert,i,20,Volam sa janka slpvi
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339414005772000,1771339413999470000,20,Insert,k,21,Volam sa janka slpvik
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339414264686000,1771339414260504000,21,Insert,p,22,Volam sa janka slpvikp
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339414734608000,1771339414726796000,22,Insert,v,23,Volam sa janka slpvikpv
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339415827799000,1771339415823627000,23,Delete,v,22,Volam sa janka slpvikp
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339416140166000,1771339416135124000,22,Delete,p,21,Volam sa janka slpvik
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339417669044000,1771339417662856000,21,Delete,k,20,Volam sa janka slpvi
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339417919949000,1771339417915412000,20,Delete,i,19,Volam sa janka slpv
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339418179553000,1771339418174680000,19,Delete,v,18,Volam sa janka slp
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339418402515000,1771339418397229000,18,Delete,p,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339419331191000,1771339419319849000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339419951812000,1771339419942440000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339420363696000,1771339420354416000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339420833151000,1771339420824739000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339421147075000,1771339421136869000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339421662058000,1771339421655185000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339422193363000,1771339422189686000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339423409647000,1771339423398042000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339424108433000,1771339424093419000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339425666932000,1771339425662657000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339426136230000,1771339426129674000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339426535148000,1771339426528528000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339427164248000,1771339427158841000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339427667765000,1771339427658740000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339428121620000,1771339428110943000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339428462814000,1771339428456522000,32,Insert,m,33,"Volam sa janka slovikova, sedim m"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339428991065000,1771339428982552000,33,Insert,a,34,"Volam sa janka slovikova, sedim ma"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339429590410000,1771339429578014000,34,Insert, ,35,"Volam sa janka slovikova, sedim ma "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339430080264000,1771339430073510000,35,Insert,s,36,"Volam sa janka slovikova, sedim ma s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339430581796000,1771339430574342000,36,Insert,e,37,"Volam sa janka slovikova, sedim ma se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339430964230000,1771339430954539000,37,Insert,d,38,"Volam sa janka slovikova, sedim ma sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339431321455000,1771339431315187000,38,Insert,a,39,"Volam sa janka slovikova, sedim ma seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339432146617000,1771339432135365000,39,Insert,c,40,"Volam sa janka slovikova, sedim ma sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339432707402000,1771339432703747000,40,Insert,k,41,"Volam sa janka slovikova, sedim ma sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339433243330000,1771339433238426000,41,Insert,e,42,"Volam sa janka slovikova, sedim ma sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339434252584000,1771339434245368000,42,Insert, ,43,"Volam sa janka slovikova, sedim ma sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339434718806000,1771339434710004000,43,Insert,u,44,"Volam sa janka slovikova, sedim ma sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339435195845000,1771339435186848000,44,Insert, ,45,"Volam sa janka slovikova, sedim ma sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339435485250000,1771339435479116000,45,Insert,b,46,"Volam sa janka slovikova, sedim ma sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339436046340000,1771339436034993000,46,Insert,a,47,"Volam sa janka slovikova, sedim ma sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339436754810000,1771339436749790000,47,Insert,b,48,"Volam sa janka slovikova, sedim ma sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339437134616000,1771339437125677000,48,Insert,k,49,"Volam sa janka slovikova, sedim ma sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339437574303000,1771339437568310000,49,Insert,y,50,"Volam sa janka slovikova, sedim ma sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339438191799000,1771339438181180000,50,Insert, ,51,"Volam sa janka slovikova, sedim ma sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339439225286000,1771339439216713000,51,Insert,a,52,"Volam sa janka slovikova, sedim ma sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339439785080000,1771339439774253000,52,Insert, ,53,"Volam sa janka slovikova, sedim ma sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339440411800000,1771339440405474000,53,Insert,j,54,"Volam sa janka slovikova, sedim ma sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339440908055000,1771339440902955000,54,Insert,e,55,"Volam sa janka slovikova, sedim ma sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339441612622000,1771339441603111000,55,Insert,m,56,"Volam sa janka slovikova, sedim ma sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339442061576000,1771339442056990000,56,Insert, ,57,"Volam sa janka slovikova, sedim ma sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339442527977000,1771339442517533000,57,Insert,s,58,"Volam sa janka slovikova, sedim ma sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339443073419000,1771339443064979000,58,Insert,i,59,"Volam sa janka slovikova, sedim ma sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339443648055000,1771339443639745000,59,Insert,s,60,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339444280712000,1771339444271735000,60,Insert,k,61,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339444630301000,1771339444624052000,61,Insert,u,62,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339446075212000,1771339446064346000,62,Insert, ,63,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339446674285000,1771339446665150000,63,Insert,a,64,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339447301710000,1771339447292108000,64,Insert, ,65,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339447919749000,1771339447909828000,65,Insert,p,66,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339448386348000,1771339448377908000,66,Insert,i,67,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339448921621000,1771339448912682000,67,Insert,j,68,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339449475607000,1771339449472813000,68,Insert,e,69,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339450408882000,1771339450397807000,69,Insert,m,70,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339450914535000,1771339450909176000,70,Insert, ,71,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339451303422000,1771339451294664000,71,Insert,c,72,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339451680866000,1771339451674749000,72,Insert,a,73,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339453006571000,1771339452994499000,73,Insert,j,74,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339454387972000,1771339454376222000,74,Insert,.,75,"Volam sa janka slovikova, sedim ma sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339489055744000,1771339489030336000,75,Delete,m,74,"Volam sa janka slovikova, sedim a sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,8,1771339489342523000,1771339489333862000,74,Insert,n,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339494643761000,1771339494637138000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339495125082000,1771339495119578000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339495576356000,1771339495570114000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339496323834000,1771339496312181000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339497122395000,1771339497111631000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339497558593000,1771339497551852000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339498098065000,1771339498094187000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339498441250000,1771339498434883000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339499278524000,1771339499268587000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339500574747000,1771339500564670000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339501128733000,1771339501120493000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339501914635000,1771339501909368000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339502215263000,1771339502208157000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339502937996000,1771339502927230000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339503546844000,1771339503535183000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339504050778000,1771339504044707000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339504790356000,1771339504779859000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339505057666000,1771339505050546000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339505575099000,1771339505571172000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339505934230000,1771339505926882000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339506365039000,1771339506358197000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339506667485000,1771339506661916000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339507135111000,1771339507127798000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339507605897000,1771339507597886000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339509753977000,1771339509744095000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339511084243000,1771339511074466000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339511676893000,1771339511670740000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339512033298000,1771339512023909000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339512481310000,1771339512474933000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339513016417000,1771339513008159000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339513548915000,1771339513541279000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339514370757000,1771339514362785000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339516251663000,1771339516243784000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339516837198000,1771339516833230000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339517470199000,1771339517461513000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339518010060000,1771339518002828000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339518339886000,1771339518330530000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339518860780000,1771339518856336000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339519191336000,1771339519184426000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339519821044000,1771339519811890000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339520365509000,1771339520361811000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339520957459000,1771339520949606000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339521513050000,1771339521504754000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339522053865000,1771339522044877000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339522535241000,1771339522527467000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339522814716000,1771339522808482000,45,Insert,n,46,"Volam sa janka slovikova, sedim na sedacke u n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339523267146000,1771339523263258000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339523992899000,1771339523984831000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u nab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339524379492000,1771339524372303000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u nabk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339524994524000,1771339524980994000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u nabky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339529257782000,1771339529234028000,50,Delete,a,49,"Volam sa janka slovikova, sedim na sedacke u nbky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339529637552000,1771339529632195000,49,Delete,n,48,"Volam sa janka slovikova, sedim na sedacke u bky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339531127793000,1771339531122375000,48,Insert,b,49,"Volam sa janka slovikova, sedim na sedacke u bbky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339531618661000,1771339531612406000,49,Insert,a,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339536605428000,1771339536599407000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339537111532000,1771339537104687000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339537756574000,1771339537745701000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339538177582000,1771339538171566000,53,Insert,k,54,"Volam sa janka slovikova, sedim na sedacke u babky a k"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339538657785000,1771339538649807000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a ke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339539430038000,1771339539421818000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a kem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339539859193000,1771339539852291000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a kem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339540326044000,1771339540318392000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a kem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339540868239000,1771339540863494000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a kem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339541383601000,1771339541376788000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a kem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339541991011000,1771339541984617000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339542360024000,1771339542353573000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339542867637000,1771339542861841000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339543361426000,1771339543354915000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339543892724000,1771339543882695000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339544424759000,1771339544420207000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339544850641000,1771339544844062000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339545268484000,1771339545261935000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339545717977000,1771339545710721000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339546925736000,1771339546911596000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a kem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339549564147000,1771339549549392000,70,Delete,k,69,"Volam sa janka slovikova, sedim na sedacke u babky a em sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339550115466000,1771339550107364000,69,Insert,j,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339554710595000,1771339554700592000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339556436866000,1771339556425011000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339556782061000,1771339556776487000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339557549201000,1771339557532179000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,9,1771339558124601000,1771339558110981000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339561280218000,1771339561271782000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339561704940000,1771339561698678000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339562236264000,1771339562227929000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339562770093000,1771339562760391000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339563546620000,1771339563533860000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339564000996000,1771339563997005000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339564642718000,1771339564635606000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339564920128000,1771339564916709000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339565527774000,1771339565516181000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339566071988000,1771339566065199000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339566521024000,1771339566516625000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339567206948000,1771339567203182000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339567518434000,1771339567512351000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339568244398000,1771339568236083000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339568887724000,1771339568879746000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339569484074000,1771339569474953000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339570166254000,1771339570157394000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339570450639000,1771339570443657000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339571020463000,1771339571014482000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339571416968000,1771339571408700000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339571835828000,1771339571830998000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339572108574000,1771339572099120000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339572561785000,1771339572555580000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339573171584000,1771339573167468000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339574138041000,1771339574124525000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339574792427000,1771339574781517000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339575432598000,1771339575422658000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339575720198000,1771339575713131000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339576149738000,1771339576143770000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339576697472000,1771339576688466000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339577287247000,1771339577282942000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339578168377000,1771339578154403000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339578722595000,1771339578718419000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339579281989000,1771339579276012000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339579909953000,1771339579897716000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339580462640000,1771339580457994000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339580789072000,1771339580779726000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339581292642000,1771339581286364000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339582591160000,1771339582581952000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339585042663000,1771339585034549000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339585605098000,1771339585600852000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339586291254000,1771339586282417000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339586825917000,1771339586820871000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339587254240000,1771339587247692000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339587787239000,1771339587776866000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339588115228000,1771339588109251000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339588676248000,1771339588672021000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339589414629000,1771339589407387000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339589916196000,1771339589909637000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339590532352000,1771339590525946000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339598445064000,1771339598436953000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339598901283000,1771339598894240000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339599551516000,1771339599540351000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339599942121000,1771339599937235000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339600417666000,1771339600409653000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339602131508000,1771339602122064000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339603761944000,1771339603752405000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339604233006000,1771339604226607000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339604739879000,1771339604731806000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339604842939000,1771339604838019000,59,Insert,i,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sii"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339605368730000,1771339605361300000,60,Insert,s,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem siis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339605918001000,1771339605906829000,61,Insert,k,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339606316025000,1771339606307436000,62,Insert,u,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339606873797000,1771339606867883000,63,Insert, ,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339607393381000,1771339607389165000,64,Insert,a,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339607893624000,1771339607886760000,65,Insert, ,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339608457048000,1771339608451779000,66,Insert,p,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339608984737000,1771339608977506000,67,Insert,i,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339609384402000,1771339609377111000,68,Insert,j,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339609924230000,1771339609916522000,69,Insert,e,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339610837921000,1771339610831367000,70,Insert,m,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339611505783000,1771339611498745000,71,Insert, ,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339612445827000,1771339612433824000,72,Insert,c,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339612884780000,1771339612877852000,73,Insert,a,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339613625846000,1771339613618739000,74,Insert,j,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339614553757000,1771339614543615000,75,Insert,.,76,"Volam sa janka slovikova, sedim na sedacke u babky a jem siisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,10,1771339618375648000,1771339618353453000,76,Delete,i,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339621121910000,1771339621116361000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339621620304000,1771339621614219000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339622088062000,1771339622082165000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339622881043000,1771339622870079000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339623644271000,1771339623637069000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339624130511000,1771339624124415000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339624717830000,1771339624713903000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339625027673000,1771339625021719000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339625634514000,1771339625624128000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339626082616000,1771339626076696000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339626585634000,1771339626578851000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339627421068000,1771339627412299000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339627732121000,1771339627722815000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339628296750000,1771339628288965000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339628929482000,1771339628921666000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339629362265000,1771339629355024000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339629999075000,1771339629988504000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339630275984000,1771339630263834000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339630776865000,1771339630772941000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339631150988000,1771339631145926000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339631615091000,1771339631607590000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339631970006000,1771339631961654000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339632509853000,1771339632503878000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339632937498000,1771339632930463000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339635144367000,1771339635136270000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339635803191000,1771339635793666000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339637645196000,1771339637628932000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339637988618000,1771339637981955000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339638417006000,1771339638410872000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339639044829000,1771339639035868000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339639634781000,1771339639630874000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339640517564000,1771339640503913000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339640906278000,1771339640901798000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339641385107000,1771339641380877000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339641979597000,1771339641970722000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339642452992000,1771339642446896000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339642829029000,1771339642821055000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339643281513000,1771339643274956000,37,Insert,f,38,"Volam sa janka slovikova, sedim na sef"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339643953834000,1771339643944247000,38,Insert,a,39,"Volam sa janka slovikova, sedim na sefa"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339644763037000,1771339644755420000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sefac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339645300178000,1771339645290591000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sefack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339645836565000,1771339645832443000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sefacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339648138900000,1771339648107929000,42,Delete,f,41,"Volam sa janka slovikova, sedim na seacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339648759679000,1771339648753284000,41,Insert,d,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339656702162000,1771339656692246000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339657191843000,1771339657185768000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339657696356000,1771339657689135000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339657970877000,1771339657965874000,45,Insert,n,46,"Volam sa janka slovikova, sedim na sedacke u n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339658440830000,1771339658434561000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339659184032000,1771339659179236000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u nab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339659595766000,1771339659591798000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u nabk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339660480390000,1771339660470433000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u nabky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339661092220000,1771339661077988000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u nabky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339661526647000,1771339661520810000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u nabky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339662418370000,1771339662409041000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u nabky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339662781045000,1771339662774450000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u nabky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339663355519000,1771339663346263000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u nabky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339665699233000,1771339665683553000,55,Delete,n,54,"Volam sa janka slovikova, sedim na sedacke u abky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339666185811000,1771339666176861000,54,Insert,b,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339669804164000,1771339669795712000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339670278968000,1771339670271910000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339670814714000,1771339670805421000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339671390511000,1771339671381840000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339671921936000,1771339671914194000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339672489156000,1771339672481527000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339672822407000,1771339672815962000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339673775090000,1771339673762666000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339674263973000,1771339674257297000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339674897389000,1771339674887242000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339675421031000,1771339675413593000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339675875966000,1771339675869561000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339676246812000,1771339676240306000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339676700473000,1771339676693246000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339677473579000,1771339677460926000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339677927044000,1771339677917972000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339678289734000,1771339678279238000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339678671734000,1771339678663399000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339679473654000,1771339679463969000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,11,1771339680926123000,1771339680911353000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339683093074000,1771339683078299000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339683510226000,1771339683502989000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339683995529000,1771339683989553000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339684564038000,1771339684554970000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339685372187000,1771339685361691000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339686092546000,1771339686081607000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339686602502000,1771339686593035000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339686895259000,1771339686889202000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339687518746000,1771339687511169000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339687930802000,1771339687924726000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339688563830000,1771339688559823000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339689294730000,1771339689285004000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339689702441000,1771339689693888000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339690267537000,1771339690258063000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339695275707000,1771339695262863000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339695803781000,1771339695799140000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339696524120000,1771339696512847000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339696817568000,1771339696810311000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339697378183000,1771339697370110000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339697775755000,1771339697769641000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339698253798000,1771339698250090000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339698570700000,1771339698558288000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339699158977000,1771339699150792000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339700188986000,1771339700180953000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339701542879000,1771339701532805000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339702840815000,1771339702828104000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339705694540000,1771339705687216000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339706005061000,1771339705998656000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339706497424000,1771339706489672000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339707148829000,1771339707144928000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339707700379000,1771339707696270000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339708373053000,1771339708364512000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339709012156000,1771339709003340000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339709574115000,1771339709569911000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339710187962000,1771339710178882000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339710682099000,1771339710671804000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339711038642000,1771339711024205000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339711529811000,1771339711525258000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339711885785000,1771339711879003000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339712694526000,1771339712685329000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339713173417000,1771339713164812000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339713947904000,1771339713937790000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339714554084000,1771339714545928000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339715083069000,1771339715078680000,43,Insert,i,44,"Volam sa janka slovikova, sedim na sedacke i"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339715591811000,1771339715585372000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke i "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339715903835000,1771339715897437000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke i b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339716434080000,1771339716429875000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke i ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339717159747000,1771339717155209000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke i bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339717666882000,1771339717658347000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke i babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339718541377000,1771339718533240000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke i babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339723220616000,1771339723190553000,50,Delete,i,49,"Volam sa janka slovikova, sedim na sedacke  babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339724434046000,1771339724424308000,49,Insert,u,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339731948248000,1771339731940228000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339732562913000,1771339732551127000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339733198668000,1771339733186371000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339733577051000,1771339733568467000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339734051759000,1771339734045042000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339734777371000,1771339734767363000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339736443128000,1771339736427032000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339736931094000,1771339736920344000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339737480025000,1771339737472795000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339738007036000,1771339738000748000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339738551636000,1771339738542377000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339738978194000,1771339738971768000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339739473279000,1771339739463256000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339740041243000,1771339740034930000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339740581948000,1771339740577561000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339741133559000,1771339741127638000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339741664818000,1771339741656119000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339741996518000,1771339741989925000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339742483006000,1771339742476700000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339743306129000,1771339743293568000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339743733947000,1771339743724268000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339744329354000,1771339744316177000,71,Insert,v,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem v"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339744724747000,1771339744717016000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem va"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339745986728000,1771339745976522000,73,Delete,a,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem v"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339746348537000,1771339746344223000,72,Delete,v,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339747277226000,1771339747269054000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339747755024000,1771339747748396000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339748652864000,1771339748646321000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,12,1771339750428667000,1771339750416997000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339759206248000,1771339759197490000,0,Insert,v,1,v
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339759674221000,1771339759668497000,1,Insert,o,2,vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339760176623000,1771339760172132000,2,Insert,l,3,vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339761518202000,1771339761511142000,3,Delete,l,2,vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339761797380000,1771339761791797000,2,Delete,o,1,v
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339762041737000,1771339762038629000,1,Delete,v,0,
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339763734854000,1771339763725998000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339764106187000,1771339764099539000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339764577810000,1771339764571631000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339765158679000,1771339765155049000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339765826750000,1771339765819467000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339766281206000,1771339766274099000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339766778971000,1771339766772692000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339767063465000,1771339767057154000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339767686561000,1771339767674962000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339768171256000,1771339768168035000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339768708142000,1771339768699941000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339769418285000,1771339769406411000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339769715676000,1771339769706173000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339770267690000,1771339770264021000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339774778888000,1771339774770831000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339775488083000,1771339775480493000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339776259265000,1771339776255219000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339776581589000,1771339776575358000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339777078255000,1771339777071630000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339777484101000,1771339777469478000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339777888933000,1771339777882227000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339778177223000,1771339778170524000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339778654045000,1771339778645615000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339779107078000,1771339779101128000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339779729842000,1771339779720654000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339780302799000,1771339780293232000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339780909734000,1771339780905676000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339781236486000,1771339781230181000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339782300469000,1771339782291198000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339782809640000,1771339782804235000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339783380564000,1771339783369953000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339783944578000,1771339783930949000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339784284743000,1771339784277513000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339785320178000,1771339785312548000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339786774776000,1771339786763708000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339787422838000,1771339787416709000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339787749588000,1771339787743924000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339788306777000,1771339788302665000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339788655349000,1771339788649135000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339790044142000,1771339790035491000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339790580898000,1771339790576913000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339791097353000,1771339791093306000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339791642805000,1771339791637485000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339792053415000,1771339792049371000,43,Insert,i,44,"Volam sa janka slovikova, sedim na sedacke i"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339792529568000,1771339792524931000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke i "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339792806045000,1771339792800584000,45,Insert,n,46,"Volam sa janka slovikova, sedim na sedacke i n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339793274208000,1771339793268288000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke i na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339793922153000,1771339793914100000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke i nab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339794270144000,1771339794261463000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke i nabk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339794997431000,1771339794987725000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke i nabky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339797739949000,1771339797708526000,50,Delete,a,49,"Volam sa janka slovikova, sedim na sedacke i nbky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339798011014000,1771339798001181000,49,Delete,n,48,"Volam sa janka slovikova, sedim na sedacke i bky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339798736066000,1771339798730623000,48,Insert,n,49,"Volam sa janka slovikova, sedim na sedacke i nbky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339799225268000,1771339799220006000,49,Insert,a,50,"Volam sa janka slovikova, sedim na sedacke i nabky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339800488869000,1771339800478038000,50,Delete,a,49,"Volam sa janka slovikova, sedim na sedacke i nbky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339801848198000,1771339801843002000,49,Delete,n,48,"Volam sa janka slovikova, sedim na sedacke i bky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339802387159000,1771339802378163000,48,Insert,b,49,"Volam sa janka slovikova, sedim na sedacke i bbky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339803020411000,1771339803007770000,49,Insert,a,50,"Volam sa janka slovikova, sedim na sedacke i babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339810006750000,1771339809997831000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke i babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339810546592000,1771339810541570000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke i babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339811890345000,1771339811879698000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke i babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339812413465000,1771339812407919000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke i babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339812873901000,1771339812867349000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke i babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339813565070000,1771339813554701000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke i babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339814025989000,1771339814019898000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke i babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339814495198000,1771339814485274000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke i babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339815053824000,1771339815045837000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke i babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339815607799000,1771339815602556000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke i babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339816204668000,1771339816196718000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339816594052000,1771339816589300000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339817519675000,1771339817503584000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339818009841000,1771339818001938000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339818589749000,1771339818580952000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339819169554000,1771339819162771000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339819920406000,1771339819916375000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339820405899000,1771339820396729000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339821541971000,1771339821532115000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339822398959000,1771339822387356000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339822860941000,1771339822849192000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339823365372000,1771339823358620000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339823812989000,1771339823802542000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339824854002000,1771339824846544000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339825530657000,1771339825521408000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke i babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339832754262000,1771339832734314000,75,Delete,i,74,"Volam sa janka slovikova, sedim na sedacke  babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,13,1771339833285301000,1771339833275701000,74,Insert,u,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339839363236000,1771339839356178000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339839881614000,1771339839874107000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339840344446000,1771339840337976000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339841020569000,1771339841013357000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339841854127000,1771339841844135000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339843354758000,1771339843344966000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339843893129000,1771339843888071000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339844195323000,1771339844190485000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339844803829000,1771339844794872000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339846645914000,1771339846637014000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339847368606000,1771339847360265000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339848148861000,1771339848141015000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339848471698000,1771339848464829000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339849167919000,1771339849160526000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339849757275000,1771339849747591000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339850369426000,1771339850364744000,15,Insert,s,16,Volam sa janka s
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339851403775000,1771339851390990000,16,Insert,l,17,Volam sa janka sl
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339851708707000,1771339851701283000,17,Insert,o,18,Volam sa janka slo
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339852420541000,1771339852408077000,18,Insert,v,19,Volam sa janka slov
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339852814640000,1771339852804990000,19,Insert,i,20,Volam sa janka slovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339853241078000,1771339853237407000,20,Insert,k,21,Volam sa janka slovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339853549249000,1771339853539222000,21,Insert,o,22,Volam sa janka sloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339854015148000,1771339854006171000,22,Insert,v,23,Volam sa janka slovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339854507088000,1771339854500429000,23,Insert,a,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339856852327000,1771339856841252000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339857454766000,1771339857446091000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339857993918000,1771339857981679000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339858335207000,1771339858325801000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339858787553000,1771339858781305000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339859461039000,1771339859453178000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339859986980000,1771339859974327000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339860785140000,1771339860772507000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339861246136000,1771339861241618000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339861839386000,1771339861834269000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339862507650000,1771339862498307000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339863048116000,1771339863037227000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339863394065000,1771339863386026000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339863757360000,1771339863748813000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339864064550000,1771339864057141000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339864787184000,1771339864776445000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339865323892000,1771339865313153000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339866269812000,1771339866264723000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339866860161000,1771339866855969000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339867279505000,1771339867274954000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339867805751000,1771339867794629000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339868131996000,1771339868127555000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339868673306000,1771339868668966000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339869436761000,1771339869427439000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339869836244000,1771339869826425000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339870670272000,1771339870659024000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339872126325000,1771339872120771000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339872700191000,1771339872696189000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339873298944000,1771339873288808000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339874110824000,1771339874099598000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339874614898000,1771339874608766000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339875596605000,1771339875585088000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339876036368000,1771339876028921000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339876520344000,1771339876513756000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339877205116000,1771339877198866000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339877819677000,1771339877810725000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339878459476000,1771339878453313000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339878851951000,1771339878843804000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339879907052000,1771339879893208000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339880479084000,1771339880474053000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339881054423000,1771339881046989000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339881685438000,1771339881680599000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339882130321000,1771339882122018000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339882531888000,1771339882522265000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339883050370000,1771339883046232000,68,Insert,e,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pije"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339883830652000,1771339883819123000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339884202266000,1771339884194671000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339884827349000,1771339884822931000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339885247620000,1771339885239556000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339886885167000,1771339886879876000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,14,1771339887415849000,1771339887409968000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339889990438000,1771339889983947000,0,Insert,V,1,V
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339890452104000,1771339890445987000,1,Insert,o,2,Vo
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339890921176000,1771339890913841000,2,Insert,l,3,Vol
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339891485385000,1771339891474506000,3,Insert,a,4,Vola
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339892227026000,1771339892214381000,4,Insert,m,5,Volam
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339892690082000,1771339892683449000,5,Insert, ,6,Volam 
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339893166964000,1771339893161527000,6,Insert,s,7,Volam s
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339893471106000,1771339893464911000,7,Insert,a,8,Volam sa
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339894117110000,1771339894109705000,8,Insert, ,9,Volam sa 
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339894613210000,1771339894608853000,9,Insert,j,10,Volam sa j
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339895278578000,1771339895271184000,10,Insert,a,11,Volam sa ja
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339895932326000,1771339895924501000,11,Insert,n,12,Volam sa jan
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339896219576000,1771339896215102000,12,Insert,k,13,Volam sa jank
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339896857806000,1771339896852160000,13,Insert,a,14,Volam sa janka
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339897433840000,1771339897424587000,14,Insert, ,15,Volam sa janka 
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339897932135000,1771339897924514000,15,Insert,a,16,Volam sa janka a
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339898627009000,1771339898615409000,16,Insert,l,17,Volam sa janka al
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339898888397000,1771339898881860000,17,Insert,o,18,Volam sa janka alo
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339899384990000,1771339899377978000,18,Insert,v,19,Volam sa janka alov
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339899771247000,1771339899767528000,19,Insert,i,20,Volam sa janka alovi
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339900197406000,1771339900188033000,20,Insert,k,21,Volam sa janka alovik
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339900590050000,1771339900582573000,21,Insert,o,22,Volam sa janka aloviko
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339901025421000,1771339901017975000,22,Insert,v,23,Volam sa janka alovikov
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339901495197000,1771339901486080000,23,Insert,a,24,Volam sa janka alovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339906926875000,1771339906902238000,24,Delete,a,23,Volam sa janka lovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339909505759000,1771339909501127000,23,Insert,s,24,Volam sa janka slovikova
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339913274450000,1771339913269798000,24,Insert,",",25,"Volam sa janka slovikova,"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339914040823000,1771339914032467000,25,Insert, ,26,"Volam sa janka slovikova, "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339914590416000,1771339914583659000,26,Insert,s,27,"Volam sa janka slovikova, s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339914982627000,1771339914973101000,27,Insert,e,28,"Volam sa janka slovikova, se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339915498837000,1771339915491840000,28,Insert,d,29,"Volam sa janka slovikova, sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339916054067000,1771339916049779000,29,Insert,i,30,"Volam sa janka slovikova, sedi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339916648361000,1771339916644518000,30,Insert,m,31,"Volam sa janka slovikova, sedim"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339917170510000,1771339917162579000,31,Insert, ,32,"Volam sa janka slovikova, sedim "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339917526754000,1771339917516852000,32,Insert,n,33,"Volam sa janka slovikova, sedim n"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339918362824000,1771339918351264000,33,Insert,a,34,"Volam sa janka slovikova, sedim na"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339919336229000,1771339919325682000,34,Insert, ,35,"Volam sa janka slovikova, sedim na "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339920022303000,1771339920013567000,35,Insert,s,36,"Volam sa janka slovikova, sedim na s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339920429300000,1771339920421277000,36,Insert,e,37,"Volam sa janka slovikova, sedim na se"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339920795212000,1771339920784303000,37,Insert,d,38,"Volam sa janka slovikova, sedim na sed"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339921213751000,1771339921206311000,38,Insert,a,39,"Volam sa janka slovikova, sedim na seda"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339922010230000,1771339922001341000,39,Insert,c,40,"Volam sa janka slovikova, sedim na sedac"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339922532487000,1771339922527335000,40,Insert,k,41,"Volam sa janka slovikova, sedim na sedack"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339923370401000,1771339923360970000,41,Insert,e,42,"Volam sa janka slovikova, sedim na sedacke"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339923935356000,1771339923928521000,42,Insert, ,43,"Volam sa janka slovikova, sedim na sedacke "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339924371648000,1771339924365250000,43,Insert,u,44,"Volam sa janka slovikova, sedim na sedacke u"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339924876061000,1771339924866562000,44,Insert, ,45,"Volam sa janka slovikova, sedim na sedacke u "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339925182513000,1771339925171599000,45,Insert,b,46,"Volam sa janka slovikova, sedim na sedacke u b"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339925735507000,1771339925730905000,46,Insert,a,47,"Volam sa janka slovikova, sedim na sedacke u ba"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339926582830000,1771339926578116000,47,Insert,b,48,"Volam sa janka slovikova, sedim na sedacke u bab"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339927047942000,1771339927035911000,48,Insert,k,49,"Volam sa janka slovikova, sedim na sedacke u babk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339927661717000,1771339927656518000,49,Insert,y,50,"Volam sa janka slovikova, sedim na sedacke u babky"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339928420554000,1771339928405143000,50,Insert, ,51,"Volam sa janka slovikova, sedim na sedacke u babky "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339929052955000,1771339929043966000,51,Insert,a,52,"Volam sa janka slovikova, sedim na sedacke u babky a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339929707706000,1771339929700866000,52,Insert, ,53,"Volam sa janka slovikova, sedim na sedacke u babky a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339930274907000,1771339930268000000,53,Insert,j,54,"Volam sa janka slovikova, sedim na sedacke u babky a j"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339930954746000,1771339930948660000,54,Insert,e,55,"Volam sa janka slovikova, sedim na sedacke u babky a je"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339931723488000,1771339931713242000,55,Insert,m,56,"Volam sa janka slovikova, sedim na sedacke u babky a jem"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339932165953000,1771339932159560000,56,Insert, ,57,"Volam sa janka slovikova, sedim na sedacke u babky a jem "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339932710535000,1771339932705445000,57,Insert,s,58,"Volam sa janka slovikova, sedim na sedacke u babky a jem s"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339933344400000,1771339933334701000,58,Insert,i,59,"Volam sa janka slovikova, sedim na sedacke u babky a jem si"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339933903757000,1771339933897507000,59,Insert,s,60,"Volam sa janka slovikova, sedim na sedacke u babky a jem sis"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339934454605000,1771339934449636000,60,Insert,k,61,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisk"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339934783626000,1771339934777134000,61,Insert,u,62,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339935615735000,1771339935605491000,62,Insert, ,63,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339936279444000,1771339936268526000,63,Insert,a,64,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339936815381000,1771339936801851000,64,Insert, ,65,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339937332335000,1771339937327766000,65,Insert,p,66,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a p"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339937760514000,1771339937752958000,66,Insert,i,67,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pi"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339938286222000,1771339938278565000,67,Insert,j,68,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pij"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339938821085000,1771339938812773000,68,Insert,w,69,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijw"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339939568465000,1771339939556174000,69,Insert,m,70,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339940788925000,1771339940779108000,70,Insert, ,71,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm "
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339941304507000,1771339941300451000,71,Insert,c,72,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm c"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339941756085000,1771339941745722000,72,Insert,a,73,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm ca"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339942339038000,1771339942330952000,73,Insert,j,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm caj"
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339942874703000,1771339942868307000,74,Insert,.,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijwm caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339946332318000,1771339946312120000,75,Delete,w,74,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijm caj."
+ruaVJyjTBAXieStKhxpnd1GTACE2,15,1771339946861422000,1771339946853196000,74,Insert,e,75,"Volam sa janka slovikova, sedim na sedacke u babky a jem sisku a pijem caj."

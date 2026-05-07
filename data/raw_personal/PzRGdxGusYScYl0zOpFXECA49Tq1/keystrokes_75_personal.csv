@@ -1,0 +1,1134 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014312565879000,1770014312551625000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014312826651000,1770014312818989000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014313112148000,1770014313108630000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014313338023000,1770014313331459000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014313513929000,1770014313509812000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014313760920000,1770014313753570000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014313939196000,1770014313935345000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014314170894000,1770014314164303000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014314380920000,1770014314377520000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014314830454000,1770014314824558000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014315060135000,1770014315054424000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014315254611000,1770014315246951000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014315684582000,1770014315678066000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014315909813000,1770014315906186000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014316410980000,1770014316404898000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014316672872000,1770014316664215000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014317807694000,1770014317800651000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014318829503000,1770014318825655000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014319200618000,1770014319195035000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014320215053000,1770014320202468000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014320585574000,1770014320579124000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014320954494000,1770014320948449000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014321532873000,1770014321522062000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014322366999000,1770014322357771000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014322767683000,1770014322761338000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014323266957000,1770014323260456000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014323517258000,1770014323508039000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014324262786000,1770014324255124000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014324453239000,1770014324448344000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014324697206000,1770014324686943000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014325280845000,1770014325277412000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014325496022000,1770014325489143000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014325658660000,1770014325654583000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014326082912000,1770014326076115000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014326408505000,1770014326404754000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014326682518000,1770014326675854000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014326920486000,1770014326914305000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014327094606000,1770014327090478000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014327477918000,1770014327469942000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014327679741000,1770014327671003000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014327916660000,1770014327908043000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014328221847000,1770014328215662000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014329642313000,1770014329634214000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014330158637000,1770014330149517000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014330538468000,1770014330533492000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014330782869000,1770014330776829000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014330973708000,1770014330969729000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014331242484000,1770014331236040000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014331601626000,1770014331593557000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014331940259000,1770014331934229000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014332278659000,1770014332270523000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014332501110000,1770014332494144000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014332964703000,1770014332957998000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014333225490000,1770014333219166000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014334051242000,1770014334043773000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014334286006000,1770014334279642000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014334605768000,1770014334599916000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014335008004000,1770014335000651000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014335359069000,1770014335354818000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014335776045000,1770014335768758000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014335973368000,1770014335967261000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014336468156000,1770014336462154000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014336843944000,1770014336837725000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014337306920000,1770014337300371000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014337514505000,1770014337508063000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014337742792000,1770014337735423000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014338105996000,1770014338101611000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014338688425000,1770014338682242000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014338913825000,1770014338907311000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014339526783000,1770014339522665000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014339867390000,1770014339861635000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014340230953000,1770014340224430000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014340510670000,1770014340503110000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014340905202000,1770014340898354000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,1,1770014341314883000,1770014341306542000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014347119019000,1770014347112084000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014347563876000,1770014347559110000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014347878065000,1770014347871002000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014348104848000,1770014348098813000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014348452459000,1770014348448912000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014348861710000,1770014348855008000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014349047114000,1770014349043056000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014349275552000,1770014349268878000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014349480933000,1770014349477377000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014349832395000,1770014349823966000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014350122624000,1770014350115382000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014350563616000,1770014350558148000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014350873318000,1770014350869484000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014351292220000,1770014351286390000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014351885130000,1770014351875724000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014352300482000,1770014352294636000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014352830142000,1770014352825372000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014353116016000,1770014353110481000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014353890409000,1770014353881736000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014354417977000,1770014354413265000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014354698038000,1770014354691850000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014355038276000,1770014355032658000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014355452796000,1770014355446644000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014355821880000,1770014355815639000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014356242440000,1770014356236439000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014356571628000,1770014356565669000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014357002937000,1770014356999033000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014357325154000,1770014357319504000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014357670787000,1770014357663343000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014357954215000,1770014357947356000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014360393838000,1770014360390069000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014360684240000,1770014360678390000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014361026670000,1770014361017945000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014361477787000,1770014361471802000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014361844801000,1770014361838703000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014362094663000,1770014362087418000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014362507242000,1770014362501406000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014362701080000,1770014362696248000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014363133850000,1770014363127272000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014363423694000,1770014363417838000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014364005932000,1770014364002124000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014364386212000,1770014364375762000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014364771675000,1770014364764402000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014365174183000,1770014365167566000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014365600727000,1770014365593497000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014365849820000,1770014365843983000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014366065875000,1770014366061245000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014366364316000,1770014366356672000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014367022186000,1770014367011876000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014367381400000,1770014367374503000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014367705618000,1770014367699063000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014367939462000,1770014367931733000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014368495610000,1770014368490186000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014368769586000,1770014368762754000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014369489818000,1770014369483131000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014369750345000,1770014369744732000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014370107563000,1770014370103063000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014370492790000,1770014370486814000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014370833628000,1770014370827398000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014371259960000,1770014371253809000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014371468773000,1770014371464409000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014371770851000,1770014371764549000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014372650075000,1770014372646702000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014373203919000,1770014373198670000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014373430684000,1770014373424647000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014373688864000,1770014373682152000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014374054431000,1770014374047247000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014374478196000,1770014374472404000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014374729471000,1770014374721441000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014375234698000,1770014375228844000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014375576416000,1770014375570068000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014375874086000,1770014375867928000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014376158843000,1770014376151975000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014376489505000,1770014376484405000,73,Insert,r,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,2,1770014377045969000,1770014377038133000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostarn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014390683358000,1770014390677624000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014391102781000,1770014391098428000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014391434213000,1770014391427450000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014391638440000,1770014391631520000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014391988947000,1770014391983359000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014392425874000,1770014392418612000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014392644006000,1770014392638245000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014393425530000,1770014393418392000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014393669676000,1770014393663778000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014394045765000,1770014394038367000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014394311506000,1770014394304721000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014394727712000,1770014394722231000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014395049205000,1770014395043366000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014395436711000,1770014395430151000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014396019737000,1770014396012350000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014396283007000,1770014396275603000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014398024021000,1770014398014192000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014398302380000,1770014398294692000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014398687952000,1770014398682241000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014399168443000,1770014399160896000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014399562048000,1770014399553446000,20,Insert,k,21,"Som spolocensky tym,k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014399943447000,1770014399934738000,21,Insert,t,22,"Som spolocensky tym,kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014400335085000,1770014400327359000,22,Insert,o,23,"Som spolocensky tym,kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014400770264000,1770014400761848000,23,Insert,r,24,"Som spolocensky tym,ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014401047217000,1770014401041023000,24,Insert,y,25,"Som spolocensky tym,ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014401328577000,1770014401322223000,25,Insert, ,26,"Som spolocensky tym,ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014402097679000,1770014402093789000,26,Insert,m,27,"Som spolocensky tym,ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014402489523000,1770014402482564000,27,Insert,a,28,"Som spolocensky tym,ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014402795070000,1770014402791089000,28,Insert, ,29,"Som spolocensky tym,ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014403654842000,1770014403650535000,29,Insert,z,30,"Som spolocensky tym,ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014403944660000,1770014403940334000,30,Insert,a,31,"Som spolocensky tym,ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014404328233000,1770014404321628000,31,Insert,r,32,"Som spolocensky tym,ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014404755154000,1770014404748669000,32,Insert,o,33,"Som spolocensky tym,ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014405106825000,1770014405100300000,33,Insert,v,34,"Som spolocensky tym,ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014405387970000,1770014405378762000,34,Insert,e,35,"Som spolocensky tym,ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014405791832000,1770014405785400000,35,Insert,n,36,"Som spolocensky tym,ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014405970849000,1770014405966669000,36,Insert, ,37,"Som spolocensky tym,ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014406369216000,1770014406361877000,37,Insert,r,38,"Som spolocensky tym,ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014406668126000,1770014406661589000,38,Insert,a,39,"Som spolocensky tym,ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014407536236000,1770014407527624000,39,Insert,d,40,"Som spolocensky tym,ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014408263138000,1770014408252950000,40,Insert, ,41,"Som spolocensky tym,ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014408739630000,1770014408730862000,41,Insert,s,42,"Som spolocensky tym,ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014409166573000,1770014409160631000,42,Insert,v,43,"Som spolocensky tym,ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014409548595000,1770014409541744000,43,Insert,o,44,"Som spolocensky tym,ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014409784367000,1770014409777725000,44,Insert,j,45,"Som spolocensky tym,ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014409980054000,1770014409975914000,45,Insert, ,46,"Som spolocensky tym,ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014410314165000,1770014410307813000,46,Insert,o,47,"Som spolocensky tym,ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014410676227000,1770014410672772000,47,Insert,s,48,"Som spolocensky tym,ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014411037245000,1770014411030652000,48,Insert,o,49,"Som spolocensky tym,ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014411385143000,1770014411378992000,49,Insert,b,50,"Som spolocensky tym,ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014411634977000,1770014411628738000,50,Insert,n,51,"Som spolocensky tym,ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014412734943000,1770014412727032000,51,Insert,y,52,"Som spolocensky tym,ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014413045536000,1770014413037516000,52,Insert, ,53,"Som spolocensky tym,ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014413504147000,1770014413497284000,53,Insert,k,54,"Som spolocensky tym,ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014413730919000,1770014413724357000,54,Insert,o,55,"Som spolocensky tym,ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014414002937000,1770014413994450000,55,Insert,n,56,"Som spolocensky tym,ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014414428863000,1770014414422919000,56,Insert,f,57,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014414752201000,1770014414743722000,57,Insert,o,58,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014415194881000,1770014415190365000,58,Insert,r,59,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014415810126000,1770014415805293000,59,Insert,t,60,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014416112783000,1770014416104968000,60,Insert, ,61,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014416543092000,1770014416533668000,61,Insert,a,62,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014416945229000,1770014416936465000,62,Insert,j,63,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014417155574000,1770014417147571000,63,Insert, ,64,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014417415778000,1770014417409157000,64,Insert,b,65,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014417765198000,1770014417758748000,65,Insert,e,66,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014418417720000,1770014418409533000,66,Insert,z,67,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014418616518000,1770014418610242000,67,Insert, ,68,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014418987668000,1770014418979891000,68,Insert,o,69,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014419342870000,1770014419335562000,69,Insert,s,70,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014419705233000,1770014419698031000,70,Insert,t,71,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014419965153000,1770014419957694000,71,Insert,a,72,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014420337281000,1770014420330225000,72,Insert,t,73,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014420782751000,1770014420775546000,73,Insert,n,74,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,3,1770014421447563000,1770014421438388000,74,Insert,y,75,"Som spolocensky tym,ktory ma zaroven rad svoj osobny konfort aj bez ostatny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014441829133000,1770014441819439000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014442221492000,1770014442214358000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014442522999000,1770014442516240000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014442719533000,1770014442713362000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014443058083000,1770014443050643000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014443431921000,1770014443424961000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014443646295000,1770014443639879000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014443890455000,1770014443882599000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014444129325000,1770014444122317000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014444907190000,1770014444896710000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014445452622000,1770014445443203000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014445880781000,1770014445874470000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014446235314000,1770014446226849000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014446623423000,1770014446617322000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014447247670000,1770014447239830000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014447475260000,1770014447468318000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014447923959000,1770014447918022000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014448220261000,1770014448213889000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014449312231000,1770014449305450000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014450557558000,1770014450547906000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014451409381000,1770014451399474000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014451819971000,1770014451812451000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014452265165000,1770014452258072000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014452642013000,1770014452635589000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014453050093000,1770014453042440000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014453333684000,1770014453329530000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014453567082000,1770014453559090000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014453835459000,1770014453826440000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014454208206000,1770014454202338000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014454420927000,1770014454413366000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014454841952000,1770014454837392000,30,Insert,r,31,"Som spolocensky tym, ktory ma r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014455114969000,1770014455107610000,31,Insert,a,32,"Som spolocensky tym, ktory ma ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014455856123000,1770014455851352000,32,Insert,d,33,"Som spolocensky tym, ktory ma rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014456163118000,1770014456156295000,33,Insert, ,34,"Som spolocensky tym, ktory ma rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014456547949000,1770014456543133000,34,Insert,s,35,"Som spolocensky tym, ktory ma rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014456964690000,1770014456957231000,35,Insert,v,36,"Som spolocensky tym, ktory ma rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014457343510000,1770014457335744000,36,Insert,o,37,"Som spolocensky tym, ktory ma rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014457623589000,1770014457616111000,37,Insert,j,38,"Som spolocensky tym, ktory ma rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014457816333000,1770014457812166000,38,Insert, ,39,"Som spolocensky tym, ktory ma rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014458129122000,1770014458122919000,39,Insert,o,40,"Som spolocensky tym, ktory ma rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014458565767000,1770014458558039000,40,Insert,s,41,"Som spolocensky tym, ktory ma rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014458974463000,1770014458967553000,41,Insert,o,42,"Som spolocensky tym, ktory ma rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014459333906000,1770014459325636000,42,Insert,b,43,"Som spolocensky tym, ktory ma rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014459558273000,1770014459551760000,43,Insert,n,44,"Som spolocensky tym, ktory ma rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014460135980000,1770014460127922000,44,Insert,y,45,"Som spolocensky tym, ktory ma rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014460387405000,1770014460380171000,45,Insert, ,46,"Som spolocensky tym, ktory ma rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014461681465000,1770014461671260000,46,Insert,k,47,"Som spolocensky tym, ktory ma rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014461916806000,1770014461910428000,47,Insert,o,48,"Som spolocensky tym, ktory ma rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014462242320000,1770014462234020000,48,Insert,n,49,"Som spolocensky tym, ktory ma rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014462674734000,1770014462668294000,49,Insert,f,50,"Som spolocensky tym, ktory ma rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014463011938000,1770014463004920000,50,Insert,o,51,"Som spolocensky tym, ktory ma rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014463433797000,1770014463426967000,51,Insert,r,52,"Som spolocensky tym, ktory ma rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014463643657000,1770014463639273000,52,Insert,t,53,"Som spolocensky tym, ktory ma rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014463957566000,1770014463950311000,53,Insert, ,54,"Som spolocensky tym, ktory ma rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014464320596000,1770014464314059000,54,Insert,a,55,"Som spolocensky tym, ktory ma rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014464746643000,1770014464739781000,55,Insert,j,56,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014464950955000,1770014464945991000,56,Insert, ,57,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014465208336000,1770014465204322000,57,Insert,b,58,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014465579520000,1770014465573207000,58,Insert,e,59,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014466294723000,1770014466290072000,59,Insert,z,60,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014466730527000,1770014466722189000,60,Insert, ,61,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014467267107000,1770014467256582000,61,Insert,o,62,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014467667043000,1770014467658338000,62,Insert,s,63,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014468016420000,1770014468007710000,63,Insert,t,64,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014468315484000,1770014468308814000,64,Insert,a,65,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014468689830000,1770014468681649000,65,Insert,t,66,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014469136938000,1770014469132456000,66,Insert,n,67,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014469514439000,1770014469509750000,67,Insert,y,68,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014469977828000,1770014469969521000,68,Insert,c,69,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatnyc"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014470262815000,1770014470256037000,69,Insert,h,70,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatnych"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014470503269000,1770014470496119000,70,Insert, ,71,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatnych "
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014470839135000,1770014470832661000,71,Insert,l,72,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatnych l"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014471220155000,1770014471213552000,72,Insert,u,73,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatnych lu"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014471534063000,1770014471527414000,73,Insert,d,74,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatnych lud"
+PzRGdxGusYScYl0zOpFXECA49Tq1,4,1770014471949420000,1770014471939480000,74,Insert,i,75,"Som spolocensky tym, ktory ma rad svoj osobny konfort aj bez ostatnych ludi"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014513162266000,1770014513158122000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014513549662000,1770014513542610000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014513873902000,1770014513866726000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014514060425000,1770014514056340000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014514385093000,1770014514378280000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014514781723000,1770014514773574000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014514999244000,1770014514989206000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014515242523000,1770014515236059000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014515481941000,1770014515473120000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014515973783000,1770014515967255000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014516236550000,1770014516229477000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014516637209000,1770014516630905000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014516952214000,1770014516944982000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014517329754000,1770014517322032000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014517903567000,1770014517894190000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014518140880000,1770014518123696000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014518508522000,1770014518504691000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014518793592000,1770014518787276000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014519191856000,1770014519184628000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014520237249000,1770014520228080000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014520506971000,1770014520500362000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014521012964000,1770014521008597000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014521467797000,1770014521461706000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014521866251000,1770014521859167000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014522314826000,1770014522308469000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014522594923000,1770014522588582000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014522861912000,1770014522853751000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014523484244000,1770014523479436000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014523869106000,1770014523861980000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014524119102000,1770014524111370000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014524828693000,1770014524824513000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014525104547000,1770014525094527000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014525414906000,1770014525408487000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014525871911000,1770014525865531000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014526191793000,1770014526184722000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014526445126000,1770014526438334000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014526807497000,1770014526801556000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014526993595000,1770014526988319000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014527338543000,1770014527332393000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014527596496000,1770014527592193000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014528168382000,1770014528163782000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014528491951000,1770014528484719000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014529131893000,1770014529125486000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014529601986000,1770014529596691000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014529979342000,1770014529975207000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014530282564000,1770014530275156000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014530523959000,1770014530517315000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014532591704000,1770014532580968000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014532953761000,1770014532946962000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014533331904000,1770014533324858000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014533671184000,1770014533664356000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014533883612000,1770014533876823000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014534353502000,1770014534346599000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014534580976000,1770014534574021000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014534887738000,1770014534881135000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014535124324000,1770014535117876000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014535392038000,1770014535387272000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014535793192000,1770014535787951000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014536119127000,1770014536111528000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014536592385000,1770014536587504000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014536774763000,1770014536770101000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014537269584000,1770014537262492000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014537678492000,1770014537671326000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014538077267000,1770014538070791000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014538269625000,1770014538265368000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014538485252000,1770014538479708000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014538829798000,1770014538824393000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014539591396000,1770014539583493000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014539785660000,1770014539781159000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014540140690000,1770014540133594000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014540503849000,1770014540496339000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014541001228000,1770014540993544000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014541266717000,1770014541260384000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014541626444000,1770014541620475000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,5,1770014542059876000,1770014542053365000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014547134024000,1770014547126354000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014547548057000,1770014547542586000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014547847316000,1770014547841950000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014548042136000,1770014548036445000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014548397924000,1770014548392022000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014549327212000,1770014549318497000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014549600155000,1770014549593563000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014549834075000,1770014549827946000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014550030271000,1770014550024819000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014550391659000,1770014550385416000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014550644504000,1770014550638279000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014551066562000,1770014551060503000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014551375705000,1770014551371803000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014551734900000,1770014551728341000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014552433306000,1770014552425601000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014553003926000,1770014552994698000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014553438395000,1770014553433726000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014553709485000,1770014553705405000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014554152820000,1770014554146636000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014554625828000,1770014554618663000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014554852947000,1770014554846167000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014555180705000,1770014555176809000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014555567938000,1770014555561757000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014555895367000,1770014555891354000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014556294461000,1770014556287262000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014556583340000,1770014556576346000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014556820138000,1770014556812617000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014557151481000,1770014557147639000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014557541365000,1770014557534564000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014557854548000,1770014557848434000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014558971418000,1770014558962008000,30,Insert,y,31,"Som spolocensky tym, ktory ma y"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014559488913000,1770014559484251000,31,Delete,y,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014559894492000,1770014559887653000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014560161463000,1770014560154836000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014560465132000,1770014560458018000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014560899100000,1770014560892842000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014561581793000,1770014561573899000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014561842704000,1770014561833433000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014562267242000,1770014562263251000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014562463603000,1770014562458268000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014562810650000,1770014562806439000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014563083088000,1770014563074342000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014563405229000,1770014563398127000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014563658205000,1770014563650685000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014564603686000,1770014564594649000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014565042050000,1770014565035329000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014565458540000,1770014565452109000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014565719486000,1770014565712169000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014565909360000,1770014565905283000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014566234849000,1770014566228463000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014566591860000,1770014566587271000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014566994084000,1770014566988898000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014567319607000,1770014567314753000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014567550054000,1770014567542362000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014568018439000,1770014568010304000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014568309476000,1770014568301734000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014569382091000,1770014569377508000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014569619659000,1770014569613142000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014569915279000,1770014569907382000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014570302654000,1770014570296232000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014570630491000,1770014570621410000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014571067083000,1770014571060480000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014571281718000,1770014571275204000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014571733632000,1770014571724624000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014572793574000,1770014572785331000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014573192411000,1770014573183458000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014573372748000,1770014573367598000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014573600552000,1770014573595507000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014573958304000,1770014573953689000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014574546134000,1770014574539807000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014574927978000,1770014574919923000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014575708729000,1770014575699067000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014576091237000,1770014576084340000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014576433747000,1770014576426821000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014576736497000,1770014576729657000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014577090438000,1770014577082720000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,6,1770014577493841000,1770014577489478000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014582177522000,1770014582167853000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014582597623000,1770014582581451000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014582852730000,1770014582846185000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014583041507000,1770014583034012000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014583377990000,1770014583371223000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014583734258000,1770014583727560000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014583930779000,1770014583926146000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014584153109000,1770014584145448000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014584335223000,1770014584331799000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014584675557000,1770014584667927000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014584923419000,1770014584916483000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014585312941000,1770014585306038000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014585589953000,1770014585583308000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014585930166000,1770014585923179000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014586383147000,1770014586376027000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014586588991000,1770014586584833000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014586970153000,1770014586965874000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014587213198000,1770014587209081000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014587585248000,1770014587576985000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014588044313000,1770014588034395000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014588261503000,1770014588252830000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014588615646000,1770014588609581000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014588973759000,1770014588967637000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014590342415000,1770014590331595000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014590759164000,1770014590751358000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014591082102000,1770014591078120000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014591318266000,1770014591309711000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014592175414000,1770014592168230000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014592551710000,1770014592546938000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014592805962000,1770014592798249000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014593408094000,1770014593400314000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014593656985000,1770014593648473000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014593959301000,1770014593953310000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014594314427000,1770014594307778000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014594627561000,1770014594623003000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014594881520000,1770014594874619000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014595269942000,1770014595264372000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014595459694000,1770014595453848000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014595812209000,1770014595807159000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014596075745000,1770014596067809000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014596338292000,1770014596331605000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014596630445000,1770014596623615000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014597920314000,1770014597912081000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014598856051000,1770014598850156000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014599196170000,1770014599189570000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014599478425000,1770014599470883000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014599682920000,1770014599674786000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014600008365000,1770014600002722000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014611918808000,1770014611909121000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014612286477000,1770014612279280000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014612646428000,1770014612640555000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014612878345000,1770014612869912000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014613351286000,1770014613346386000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014613550091000,1770014613540939000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014613859646000,1770014613853471000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014614103056000,1770014614096686000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014614364636000,1770014614357499000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014614711750000,1770014614705375000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014615056074000,1770014615049441000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014615422856000,1770014615414684000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014615709144000,1770014615703272000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014615947214000,1770014615940201000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014616608061000,1770014616601486000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014617005127000,1770014616997151000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014617250053000,1770014617242168000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014619169766000,1770014619161772000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014619510066000,1770014619502588000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014619886919000,1770014619879161000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014620100205000,1770014620092915000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014620452230000,1770014620447917000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014620809217000,1770014620804689000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014621134030000,1770014621129872000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014621424255000,1770014621418581000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014621703060000,1770014621694413000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,7,1770014622103819000,1770014622095961000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014626904122000,1770014626898502000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014627267692000,1770014627259844000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014627565991000,1770014627560063000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014627767678000,1770014627763767000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014628061787000,1770014628055549000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014628422668000,1770014628416690000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014628615951000,1770014628610828000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014628835365000,1770014628829548000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014629023932000,1770014629020067000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014629362636000,1770014629356333000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014629617394000,1770014629609323000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014629974072000,1770014629967502000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014630262146000,1770014630254101000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014630587108000,1770014630580157000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014631112847000,1770014631104783000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014631309007000,1770014631303853000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014631807757000,1770014631799715000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014632139022000,1770014632134928000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014632700201000,1770014632693214000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014633075579000,1770014633068137000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014633307372000,1770014633299950000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014633619742000,1770014633613750000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014634058148000,1770014634052209000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014634364221000,1770014634356696000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014634732177000,1770014634724848000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014634982945000,1770014634976488000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014635252614000,1770014635244994000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014635988975000,1770014635978846000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014636348608000,1770014636341845000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014636625263000,1770014636618912000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014637584470000,1770014637579129000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014637844075000,1770014637839642000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014638152918000,1770014638146385000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014638567851000,1770014638561443000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014638894036000,1770014638886539000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014639134854000,1770014639126071000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014639482424000,1770014639475215000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014639684135000,1770014639677854000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014640081744000,1770014640072296000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014640345280000,1770014640339073000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014640917365000,1770014640907027000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014641183232000,1770014641175996000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014641525793000,1770014641519504000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014641915747000,1770014641907857000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014642268391000,1770014642260781000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014642482464000,1770014642476003000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014642689430000,1770014642685200000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014642993796000,1770014642985327000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014643411978000,1770014643404419000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014644630682000,1770014644621740000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014644954743000,1770014644947270000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014645167677000,1770014645161289000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014645541159000,1770014645533779000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014645755510000,1770014645749211000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014646072443000,1770014646064975000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014646312388000,1770014646306024000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014646555378000,1770014646549210000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014646917819000,1770014646910709000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014647206682000,1770014647200705000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014647583045000,1770014647573943000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014647818274000,1770014647810725000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014648150434000,1770014648140718000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014649396402000,1770014649388061000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014649782639000,1770014649775855000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014649985000000,1770014649975165000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014650207305000,1770014650201490000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014650530819000,1770014650524464000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014651218539000,1770014651209273000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014651455164000,1770014651447048000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014651887208000,1770014651879848000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014652243124000,1770014652235377000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014652561794000,1770014652549097000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014652839659000,1770014652832559000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014653167792000,1770014653162188000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,8,1770014653613532000,1770014653605007000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014659799405000,1770014659790902000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014660171138000,1770014660164384000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014660991659000,1770014660982617000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014661170369000,1770014661166347000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014661471318000,1770014661464650000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014661799852000,1770014661792862000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014662005389000,1770014662001471000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014662233917000,1770014662227010000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014662422104000,1770014662418436000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014663071194000,1770014663060958000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014663304489000,1770014663295953000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014663706008000,1770014663699894000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014663989915000,1770014663983786000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014664355063000,1770014664344508000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014664741334000,1770014664735257000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014664959263000,1770014664952654000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014665290056000,1770014665283792000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014665558620000,1770014665553605000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014666558865000,1770014666548681000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014666971840000,1770014666964203000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014667206896000,1770014667199265000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014667529311000,1770014667523506000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014667903053000,1770014667899292000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014668272983000,1770014668266388000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014668653856000,1770014668645598000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014668896973000,1770014668888908000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014669124352000,1770014669117566000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014669395371000,1770014669387788000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014669735771000,1770014669728246000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014670032530000,1770014670024748000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014671568782000,1770014671560186000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014671848088000,1770014671842358000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014672159400000,1770014672150565000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014672602802000,1770014672596809000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014672923130000,1770014672916864000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014673170179000,1770014673163429000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014673524691000,1770014673518276000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014673709367000,1770014673700738000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014674053878000,1770014674047408000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014674291375000,1770014674282681000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014675483440000,1770014675471617000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014675699322000,1770014675691116000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014675959087000,1770014675953562000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014676438545000,1770014676431394000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014676794849000,1770014676788627000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014677026245000,1770014677020361000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014677218372000,1770014677213751000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014677523913000,1770014677517322000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014677865485000,1770014677857259000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014678227042000,1770014678223179000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014678549934000,1770014678543830000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014678773871000,1770014678767376000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014679627858000,1770014679619544000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014679914091000,1770014679907759000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014680314767000,1770014680308106000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014680559131000,1770014680552753000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014681144897000,1770014681140328000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014681918627000,1770014681905021000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014682245248000,1770014682236730000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014682641394000,1770014682633807000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014682874113000,1770014682866118000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014683556502000,1770014683542566000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014683853885000,1770014683846900000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014684210505000,1770014684204364000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014684415022000,1770014684407744000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014684644974000,1770014684637707000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014684992493000,1770014684986975000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014685474845000,1770014685466049000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014685675895000,1770014685667047000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014685983192000,1770014685976598000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014686329358000,1770014686321730000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014686637734000,1770014686630349000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014686962170000,1770014686955854000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014687269154000,1770014687262667000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,9,1770014687701416000,1770014687694501000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014692001429000,1770014691993649000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014692392624000,1770014692388905000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014692686902000,1770014692680868000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014693455854000,1770014693447175000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014694030433000,1770014694022542000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014694400761000,1770014694394761000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014694586418000,1770014694581664000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014694784114000,1770014694779777000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014694979294000,1770014694975476000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014695381732000,1770014695372255000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014695618915000,1770014695614627000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014696026777000,1770014696022522000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014696316765000,1770014696312095000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014696689439000,1770014696685288000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014697065612000,1770014697058752000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014697287506000,1770014697279207000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014697589979000,1770014697583992000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014697847187000,1770014697840345000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014698217390000,1770014698208757000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014698707413000,1770014698700580000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014698963373000,1770014698955957000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014699261465000,1770014699257618000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014699854749000,1770014699846685000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014700164652000,1770014700159269000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014700557837000,1770014700547789000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014700906164000,1770014700896546000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014701243144000,1770014701237920000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014701781843000,1770014701777892000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014702197763000,1770014702189857000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014702447727000,1770014702441562000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014703180724000,1770014703175755000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014703459687000,1770014703453077000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014703792656000,1770014703786169000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014704186086000,1770014704179646000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014704491930000,1770014704485520000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014704742650000,1770014704735161000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014705143418000,1770014705135041000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014705324028000,1770014705319721000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014705687144000,1770014705681118000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014705939976000,1770014705931323000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014706352133000,1770014706344338000,40,Insert,s,41,"Som spolocensky tym, ktory ma zaroven ras"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014707378526000,1770014707372200000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven ras "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014707763326000,1770014707757111000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven ras s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014708160882000,1770014708152673000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven ras sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014708517439000,1770014708512201000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven ras svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014708757821000,1770014708749941000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven ras svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014708980407000,1770014708970280000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven ras svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014709515008000,1770014709510683000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven ras svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014709883734000,1770014709877372000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven ras svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014710252648000,1770014710246034000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven ras svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014710521584000,1770014710514156000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven ras svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014710748971000,1770014710743277000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven ras svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014711142232000,1770014711138245000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven ras svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014711365828000,1770014711358461000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven ras svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014711694179000,1770014711687800000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven ras svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014711915123000,1770014711908738000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven ras svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014712175978000,1770014712169792000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven ras svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014712526231000,1770014712518897000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014712897244000,1770014712890063000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014713305014000,1770014713298446000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014713606393000,1770014713599599000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014713858317000,1770014713849555000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014714647559000,1770014714641199000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014714999825000,1770014714991368000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014715200131000,1770014715195126000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014715430877000,1770014715424567000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014715785480000,1770014715779522000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014716398317000,1770014716392944000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014716619208000,1770014716612063000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014716975325000,1770014716968271000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014717319001000,1770014717313280000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014717617507000,1770014717608600000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014717902819000,1770014717892036000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014718246028000,1770014718237710000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,10,1770014718643152000,1770014718638984000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven ras svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014739690911000,1770014739684349000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014740091367000,1770014740086482000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014740396783000,1770014740389624000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014741197823000,1770014741190130000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014741531230000,1770014741525387000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014741922028000,1770014741913567000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014742112656000,1770014742108720000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014742345831000,1770014742339482000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014742546848000,1770014742542969000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014743212781000,1770014743202954000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014743468224000,1770014743459285000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014743860696000,1770014743855406000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014744171478000,1770014744166827000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014744531804000,1770014744525967000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014745023820000,1770014745017270000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014745252385000,1770014745243657000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014745675750000,1770014745669555000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014745950882000,1770014745944395000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014746861869000,1770014746853110000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014747319540000,1770014747315321000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014747584282000,1770014747575893000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014747948027000,1770014747941377000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014748341621000,1770014748333737000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014748722602000,1770014748713701000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014749086474000,1770014749079568000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014749337848000,1770014749330534000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014749619360000,1770014749611718000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014750465880000,1770014750454109000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014750804764000,1770014750797553000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014751055980000,1770014751049220000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014751440642000,1770014751434381000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014751716629000,1770014751709450000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014752044358000,1770014752037010000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014752450005000,1770014752445936000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014752756789000,1770014752749123000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014753008019000,1770014753003677000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014753401221000,1770014753394595000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014753578453000,1770014753573717000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014753954994000,1770014753950881000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014754197613000,1770014754192491000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014754637403000,1770014754628432000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014754931168000,1770014754923829000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014755724940000,1770014755716212000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014756153848000,1770014756146205000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014756520579000,1770014756514014000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014756762571000,1770014756755498000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014756977836000,1770014756970006000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014757279619000,1770014757273489000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014757661497000,1770014757657125000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014758006208000,1770014757999935000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014758378508000,1770014758370516000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014758578093000,1770014758572612000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014759003047000,1770014758996316000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014759318736000,1770014759310452000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014760122290000,1770014760110883000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014760378262000,1770014760371861000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014760681440000,1770014760674878000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014761024720000,1770014761017002000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014761347786000,1770014761343439000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014761742648000,1770014761733627000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014761917170000,1770014761911549000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014762208308000,1770014762203356000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014762905144000,1770014762894699000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014763287156000,1770014763280498000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014763493146000,1770014763483804000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014763748441000,1770014763742443000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014764175791000,1770014764167953000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014765874932000,1770014765869020000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014766215865000,1770014766208268000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014766950924000,1770014766941974000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014767264746000,1770014767258115000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014767588096000,1770014767583171000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014767850932000,1770014767843864000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014768184795000,1770014768178128000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,11,1770014768636276000,1770014768629099000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014773384739000,1770014773371704000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014773803225000,1770014773796505000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014774060040000,1770014774053860000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014774250248000,1770014774243746000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014774597100000,1770014774591015000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014775070788000,1770014775063966000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014775499589000,1770014775495290000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014777032929000,1770014777025156000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014777265747000,1770014777259365000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014777643802000,1770014777635239000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014777910689000,1770014777904900000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014778292918000,1770014778289004000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014778586796000,1770014778580476000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014778919846000,1770014778913840000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014779276788000,1770014779271733000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014779485168000,1770014779480634000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014779833341000,1770014779829359000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014780058081000,1770014780054114000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014780425777000,1770014780418837000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014781124064000,1770014781114334000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014781362810000,1770014781356045000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014781702894000,1770014781696316000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014782091803000,1770014782084845000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014782413933000,1770014782410172000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014782788668000,1770014782781963000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014783038538000,1770014783031977000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014783264629000,1770014783257095000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014783536979000,1770014783530548000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014784247982000,1770014784240290000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014784473099000,1770014784464016000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014785134876000,1770014785126119000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014785373154000,1770014785365388000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014785680379000,1770014785674195000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014786118619000,1770014786111632000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014786455098000,1770014786447505000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014786720741000,1770014786717089000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014787091839000,1770014787083678000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014787273333000,1770014787267021000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014787635333000,1770014787628295000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014787899532000,1770014787890999000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014788453410000,1770014788447874000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014788807240000,1770014788800746000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014789274531000,1770014789264650000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014789688789000,1770014789677003000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014790066464000,1770014790060336000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014790647907000,1770014790640294000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014790848806000,1770014790843469000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014791313838000,1770014791306059000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014791666543000,1770014791660779000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014792003480000,1770014791997189000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014792411622000,1770014792405477000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014792674916000,1770014792668322000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014793020213000,1770014793016570000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014793229194000,1770014793217780000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014793523564000,1770014793517367000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014793802926000,1770014793795809000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014794058073000,1770014794050091000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014794394605000,1770014794388112000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014794742902000,1770014794736750000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014795129611000,1770014795122913000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014795306603000,1770014795301570000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014796464816000,1770014796450913000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014796797695000,1770014796791972000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014797167132000,1770014797161841000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014797353112000,1770014797348000000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014797560689000,1770014797555908000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014797918684000,1770014797910404000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014798447700000,1770014798443524000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014798623848000,1770014798615232000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014798957706000,1770014798951447000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014799294423000,1770014799288187000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014799574848000,1770014799566975000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014799855561000,1770014799847136000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014800174270000,1770014800166833000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,12,1770014800582157000,1770014800572956000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014805184951000,1770014805180481000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014805614937000,1770014805608983000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014805919210000,1770014805913426000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014806144497000,1770014806136845000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014806463376000,1770014806456789000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014806830116000,1770014806826131000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014807031483000,1770014807027419000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014807250563000,1770014807244099000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014807461132000,1770014807454597000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014807810413000,1770014807806206000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014808052842000,1770014808045932000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014808431812000,1770014808427977000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014808712731000,1770014808705871000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014809037464000,1770014809031058000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014809439411000,1770014809432999000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014809666332000,1770014809661593000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014810495130000,1770014810486458000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014810757690000,1770014810750632000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014811111526000,1770014811104996000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014811594769000,1770014811590562000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014811833266000,1770014811826869000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014812161541000,1770014812155283000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014812538739000,1770014812533932000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014812960758000,1770014812954317000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014813330318000,1770014813323382000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014813606252000,1770014813599453000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014820645385000,1770014820637602000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014820888053000,1770014820884012000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014821247193000,1770014821240397000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014821492287000,1770014821487686000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014821933834000,1770014821925802000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014822205619000,1770014822201517000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014822541377000,1770014822535916000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014822939817000,1770014822936847000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014823278171000,1770014823273099000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014823522967000,1770014823515834000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014823880217000,1770014823873141000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014824061928000,1770014824056550000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014824388536000,1770014824380989000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014824653322000,1770014824644817000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014825089810000,1770014825082216000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014825387112000,1770014825380017000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014826607336000,1770014826599306000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014826986476000,1770014826980295000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014827369972000,1770014827363781000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014828009715000,1770014828000459000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014828196943000,1770014828192139000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014828597687000,1770014828589825000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014828936711000,1770014828927567000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014829312164000,1770014829304477000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014829673622000,1770014829666076000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014829894303000,1770014829887889000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014830246763000,1770014830240753000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014830481247000,1770014830473492000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014830795567000,1770014830788427000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014831022990000,1770014831014729000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014831285912000,1770014831277907000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014831626450000,1770014831619194000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014831948987000,1770014831942783000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014832346287000,1770014832338621000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014832578861000,1770014832571586000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014832815042000,1770014832807883000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014833265905000,1770014833259213000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014833995707000,1770014833986935000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014834187331000,1770014834182569000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014834414158000,1770014834407310000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014834726795000,1770014834719928000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014835261701000,1770014835255714000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014835469153000,1770014835463683000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014835778774000,1770014835770228000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014836115361000,1770014836106928000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014836444638000,1770014836435641000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014836714861000,1770014836707548000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014837077837000,1770014837069553000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,13,1770014837468521000,1770014837461489000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014842854388000,1770014842846946000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014843206593000,1770014843200674000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014843462667000,1770014843456283000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014843653580000,1770014843649405000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014843953337000,1770014843947241000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014844331133000,1770014844323750000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014844536080000,1770014844532279000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014844753247000,1770014844746632000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014844930317000,1770014844926665000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014845275618000,1770014845269578000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014845502443000,1770014845495508000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014845860752000,1770014845852974000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014846188030000,1770014846180604000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014846526391000,1770014846516880000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014846995586000,1770014846989310000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014847244533000,1770014847237887000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014847580100000,1770014847573915000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014847841784000,1770014847834468000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014848185938000,1770014848178930000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014853766249000,1770014853758596000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014854018051000,1770014854009809000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014854473190000,1770014854463729000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014854859187000,1770014854851300000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014855172950000,1770014855166818000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014855555316000,1770014855546689000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014855818032000,1770014855811374000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014856063522000,1770014856055320000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014856740302000,1770014856729931000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014857116249000,1770014857108102000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014857360131000,1770014857351422000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014857703458000,1770014857697259000,30,Insert,z,31,"Som spolocensky tym, ktory ma z"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014857968787000,1770014857959557000,31,Insert,a,32,"Som spolocensky tym, ktory ma za"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014858271774000,1770014858264390000,32,Insert,r,33,"Som spolocensky tym, ktory ma zar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014858635843000,1770014858628058000,33,Insert,o,34,"Som spolocensky tym, ktory ma zaro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014858946915000,1770014858939944000,34,Insert,v,35,"Som spolocensky tym, ktory ma zarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014859213474000,1770014859207122000,35,Insert,e,36,"Som spolocensky tym, ktory ma zarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014859562119000,1770014859553836000,36,Insert,n,37,"Som spolocensky tym, ktory ma zaroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014859764408000,1770014859757967000,37,Insert, ,38,"Som spolocensky tym, ktory ma zaroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014860090851000,1770014860083853000,38,Insert,r,39,"Som spolocensky tym, ktory ma zaroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014860346091000,1770014860339774000,39,Insert,a,40,"Som spolocensky tym, ktory ma zaroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014860747835000,1770014860741603000,40,Insert,d,41,"Som spolocensky tym, ktory ma zaroven rad"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014861008887000,1770014861001210000,41,Insert, ,42,"Som spolocensky tym, ktory ma zaroven rad "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014861907358000,1770014861900853000,42,Insert,s,43,"Som spolocensky tym, ktory ma zaroven rad s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014862370430000,1770014862364506000,43,Insert,v,44,"Som spolocensky tym, ktory ma zaroven rad sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014862735214000,1770014862729001000,44,Insert,o,45,"Som spolocensky tym, ktory ma zaroven rad svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014862975342000,1770014862968050000,45,Insert,j,46,"Som spolocensky tym, ktory ma zaroven rad svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014863164501000,1770014863155419000,46,Insert, ,47,"Som spolocensky tym, ktory ma zaroven rad svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014863511614000,1770014863503874000,47,Insert,o,48,"Som spolocensky tym, ktory ma zaroven rad svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014864197233000,1770014864190532000,48,Insert,s,49,"Som spolocensky tym, ktory ma zaroven rad svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014864557626000,1770014864550891000,49,Insert,o,50,"Som spolocensky tym, ktory ma zaroven rad svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014864840998000,1770014864834813000,50,Insert,b,51,"Som spolocensky tym, ktory ma zaroven rad svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014865077005000,1770014865070905000,51,Insert,n,52,"Som spolocensky tym, ktory ma zaroven rad svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014865431059000,1770014865426180000,52,Insert,y,53,"Som spolocensky tym, ktory ma zaroven rad svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014865653218000,1770014865646085000,53,Insert, ,54,"Som spolocensky tym, ktory ma zaroven rad svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014865959277000,1770014865941938000,54,Insert,k,55,"Som spolocensky tym, ktory ma zaroven rad svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014866158378000,1770014866153197000,55,Insert,o,56,"Som spolocensky tym, ktory ma zaroven rad svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014866398739000,1770014866392460000,56,Insert,n,57,"Som spolocensky tym, ktory ma zaroven rad svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014866755591000,1770014866748987000,57,Insert,f,58,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014867052539000,1770014867046085000,58,Insert,o,59,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014867459318000,1770014867451283000,59,Insert,r,60,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014867662614000,1770014867654555000,60,Insert,t,61,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014867916220000,1770014867905776000,61,Insert, ,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014868235503000,1770014868227892000,62,Insert,b,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014868650964000,1770014868644521000,63,Insert,e,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014868963084000,1770014868952723000,64,Insert,y,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort bey"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014870202404000,1770014870195091000,65,Delete,y,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014870382865000,1770014870379750000,64,Delete,e,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014870743087000,1770014870738891000,63,Delete,b,62,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014871849347000,1770014871837331000,62,Insert,a,63,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014872201430000,1770014872196817000,63,Insert,j,64,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014872407552000,1770014872393541000,64,Insert, ,65,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014872619409000,1770014872611232000,65,Insert,b,66,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014873036017000,1770014873028187000,66,Insert,e,67,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014873487762000,1770014873479568000,67,Insert,z,68,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014873699389000,1770014873690472000,68,Insert, ,69,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014874016430000,1770014874009902000,69,Insert,o,70,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014874350000000,1770014874343369000,70,Insert,s,71,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014874665903000,1770014874652714000,71,Insert,t,72,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014874913787000,1770014874907080000,72,Insert,a,73,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014875246035000,1770014875237861000,73,Insert,t,74,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,14,1770014875666612000,1770014875660069000,74,Insert,n,75,"Som spolocensky tym, ktory ma zaroven rad svoj osobny konfort aj bez ostatn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014880278003000,1770014880270924000,0,Insert,S,1,S
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014882914091000,1770014882904153000,1,Insert,o,2,So
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014883216040000,1770014883208853000,2,Insert,m,3,Som
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014884001697000,1770014883992895000,3,Insert, ,4,Som 
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014884393843000,1770014884386054000,4,Insert,s,5,Som s
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014884776684000,1770014884769916000,5,Insert,p,6,Som sp
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014884967395000,1770014884960224000,6,Insert,o,7,Som spo
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014885181804000,1770014885176761000,7,Insert,l,8,Som spol
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014885372877000,1770014885366586000,8,Insert,o,9,Som spolo
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014885677138000,1770014885670624000,9,Insert,c,10,Som spoloc
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014885942725000,1770014885929704000,10,Insert,e,11,Som spoloce
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014886266276000,1770014886259316000,11,Insert,n,12,Som spolocen
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014886579507000,1770014886571285000,12,Insert,s,13,Som spolocens
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014886906152000,1770014886900991000,13,Insert,k,14,Som spolocensk
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014887295433000,1770014887286112000,14,Insert,y,15,Som spolocensky
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014887523195000,1770014887516134000,15,Insert, ,16,Som spolocensky 
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014887908544000,1770014887902676000,16,Insert,t,17,Som spolocensky t
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014888164589000,1770014888158573000,17,Insert,y,18,Som spolocensky ty
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014888481319000,1770014888477281000,18,Insert,m,19,Som spolocensky tym
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014888985775000,1770014888981809000,19,Insert,",",20,"Som spolocensky tym,"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014889236988000,1770014889228947000,20,Insert, ,21,"Som spolocensky tym, "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014889770673000,1770014889761093000,21,Insert,k,22,"Som spolocensky tym, k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014890167554000,1770014890160650000,22,Insert,t,23,"Som spolocensky tym, kt"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014890482554000,1770014890478180000,23,Insert,o,24,"Som spolocensky tym, kto"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014890840972000,1770014890834088000,24,Insert,r,25,"Som spolocensky tym, ktor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014891130899000,1770014891123810000,25,Insert,y,26,"Som spolocensky tym, ktory"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014891352664000,1770014891345840000,26,Insert, ,27,"Som spolocensky tym, ktory "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014891629587000,1770014891624423000,27,Insert,m,28,"Som spolocensky tym, ktory m"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014891973094000,1770014891969095000,28,Insert,a,29,"Som spolocensky tym, ktory ma"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014892236532000,1770014892229123000,29,Insert, ,30,"Som spolocensky tym, ktory ma "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014892663426000,1770014892655760000,30,Insert,t,31,"Som spolocensky tym, ktory ma t"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014892921151000,1770014892914419000,31,Insert,a,32,"Som spolocensky tym, ktory ma ta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014893243274000,1770014893234504000,32,Insert,r,33,"Som spolocensky tym, ktory ma tar"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014893629077000,1770014893622934000,33,Insert,o,34,"Som spolocensky tym, ktory ma taro"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014894472085000,1770014894464350000,34,Insert,v,35,"Som spolocensky tym, ktory ma tarov"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014894743837000,1770014894734800000,35,Insert,e,36,"Som spolocensky tym, ktory ma tarove"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014895570513000,1770014895563706000,36,Insert,n,37,"Som spolocensky tym, ktory ma taroven"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014895765640000,1770014895760726000,37,Insert, ,38,"Som spolocensky tym, ktory ma taroven "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014896124131000,1770014896117872000,38,Insert,r,39,"Som spolocensky tym, ktory ma taroven r"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014896394652000,1770014896388933000,39,Insert,a,40,"Som spolocensky tym, ktory ma taroven ra"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014896848823000,1770014896841729000,40,Insert,s,41,"Som spolocensky tym, ktory ma taroven ras"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014897150565000,1770014897144221000,41,Insert, ,42,"Som spolocensky tym, ktory ma taroven ras "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014899945585000,1770014899940984000,42,Insert,s,43,"Som spolocensky tym, ktory ma taroven ras s"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014900353509000,1770014900347079000,43,Insert,v,44,"Som spolocensky tym, ktory ma taroven ras sv"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014900742315000,1770014900737213000,44,Insert,o,45,"Som spolocensky tym, ktory ma taroven ras svo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014900984841000,1770014900977294000,45,Insert,j,46,"Som spolocensky tym, ktory ma taroven ras svoj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014901183774000,1770014901179567000,46,Insert, ,47,"Som spolocensky tym, ktory ma taroven ras svoj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014901462991000,1770014901458402000,47,Insert,o,48,"Som spolocensky tym, ktory ma taroven ras svoj o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014901829230000,1770014901820527000,48,Insert,s,49,"Som spolocensky tym, ktory ma taroven ras svoj os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014902163967000,1770014902156913000,49,Insert,o,50,"Som spolocensky tym, ktory ma taroven ras svoj oso"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014902496642000,1770014902490113000,50,Insert,b,51,"Som spolocensky tym, ktory ma taroven ras svoj osob"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014902731630000,1770014902725593000,51,Insert,n,52,"Som spolocensky tym, ktory ma taroven ras svoj osobn"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014903130011000,1770014903122409000,52,Insert,y,53,"Som spolocensky tym, ktory ma taroven ras svoj osobny"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014903358349000,1770014903350453000,53,Insert, ,54,"Som spolocensky tym, ktory ma taroven ras svoj osobny "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014903681972000,1770014903673314000,54,Insert,k,55,"Som spolocensky tym, ktory ma taroven ras svoj osobny k"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014903916471000,1770014903909132000,55,Insert,o,56,"Som spolocensky tym, ktory ma taroven ras svoj osobny ko"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014904156749000,1770014904149491000,56,Insert,n,57,"Som spolocensky tym, ktory ma taroven ras svoj osobny kon"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014904506767000,1770014904500110000,57,Insert,f,58,"Som spolocensky tym, ktory ma taroven ras svoj osobny konf"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014904823634000,1770014904816708000,58,Insert,o,59,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfo"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014905226694000,1770014905219091000,59,Insert,r,60,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfor"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014905433155000,1770014905426051000,60,Insert,t,61,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014905683468000,1770014905674393000,61,Insert, ,62,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014906287100000,1770014906282306000,62,Insert,a,63,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort a"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014906625457000,1770014906618647000,63,Insert,j,64,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014906829300000,1770014906824377000,64,Insert, ,65,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014907030429000,1770014907024967000,65,Insert,b,66,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj b"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014907360936000,1770014907353562000,66,Insert,e,67,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj be"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014907853438000,1770014907843857000,67,Insert,z,68,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj bez"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014909074531000,1770014909063989000,68,Insert, ,69,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj bez "
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014911520557000,1770014911512827000,69,Insert,o,70,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj bez o"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014911876253000,1770014911868483000,70,Insert,s,71,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj bez os"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014912150869000,1770014912144160000,71,Insert,t,72,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj bez ost"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014912415711000,1770014912408024000,72,Insert,a,73,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj bez osta"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014912704715000,1770014912692367000,73,Insert,t,74,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj bez ostat"
+PzRGdxGusYScYl0zOpFXECA49Tq1,15,1770014913095748000,1770014913087817000,74,Insert,n,75,"Som spolocensky tym, ktory ma taroven ras svoj osobny konfort aj bez ostatn"

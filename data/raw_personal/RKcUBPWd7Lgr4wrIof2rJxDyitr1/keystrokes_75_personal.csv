@@ -1,0 +1,1252 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189670432155000,1776189670422379000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189670779895000,1776189670773438000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189671071822000,1776189671064769000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189671654318000,1776189671645046000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189671907148000,1776189671900918000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189672351287000,1776189672345653000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189672739757000,1776189672731851000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189672956452000,1776189672950956000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189673208876000,1776189673203039000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189673406714000,1776189673403025000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189673935505000,1776189673931587000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189674097588000,1776189674093597000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189674394811000,1776189674388279000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189674573368000,1776189674569677000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189674896344000,1776189674890007000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189675043516000,1776189675039741000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189675242538000,1776189675235392000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189675565644000,1776189675559591000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189675894193000,1776189675888122000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189676173635000,1776189676167112000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189676432785000,1776189676426893000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189676647268000,1776189676641322000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189676881151000,1776189676876144000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189677054106000,1776189677049859000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189677823924000,1776189677813703000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189678013010000,1776189678008091000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189678789244000,1776189678782412000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189678962056000,1776189678952368000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189679916316000,1776189679909110000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189680310433000,1776189680303753000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189680501605000,1776189680496706000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189680757516000,1776189680751576000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189681117183000,1776189681111108000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189682689633000,1776189682681054000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189683043636000,1776189683036734000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189683410299000,1776189683404803000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189683710528000,1776189683706464000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189684013781000,1776189684011269000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189685013283000,1776189685008068000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189685307652000,1776189685299462000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189686014059000,1776189686009854000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189686283456000,1776189686276415000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189686725021000,1776189686718232000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189687080779000,1776189687074305000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189687247777000,1776189687239817000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189687512338000,1776189687506319000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189687868496000,1776189687861347000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189688710175000,1776189688702611000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189689072538000,1776189689066412000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189689299367000,1776189689291513000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189689633125000,1776189689625553000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189689810173000,1776189689806216000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189690431340000,1776189690422391000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189690578802000,1776189690574552000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189690973780000,1776189690966975000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189691449118000,1776189691442967000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189691725565000,1776189691719151000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189692019856000,1776189692014375000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189692304923000,1776189692298842000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189692653762000,1776189692647671000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189693074164000,1776189693068763000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189693268243000,1776189693264709000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189693529637000,1776189693523458000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189694078526000,1776189694072071000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189694299902000,1776189694291461000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189694515068000,1776189694506219000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189694804563000,1776189694798247000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189695421670000,1776189695417443000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189695653690000,1776189695647337000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189695903697000,1776189695896558000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189696187172000,1776189696176365000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189696559123000,1776189696552947000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189696740775000,1776189696735802000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189696928926000,1776189696924275000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,1,1776189697300361000,1776189697291997000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189698822305000,1776189698814782000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189699177654000,1776189699172470000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189699522280000,1776189699516683000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189699743461000,1776189699736036000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189700010645000,1776189700004928000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189700263526000,1776189700256001000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189700645272000,1776189700639281000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189700924170000,1776189700918073000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189701368636000,1776189701362114000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189701564909000,1776189701560535000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189701985409000,1776189701978583000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189702165426000,1776189702161459000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189702432013000,1776189702424328000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189702659321000,1776189702653456000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189703001611000,1776189702994118000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189703139421000,1776189703135696000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189703344236000,1776189703338577000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189703599860000,1776189703593739000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189704021284000,1776189704015944000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189704337922000,1776189704331260000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189704553478000,1776189704549480000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189704780955000,1776189704774848000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189705035971000,1776189705028540000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189705194980000,1776189705191268000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189706029092000,1776189706023280000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189706162742000,1776189706158811000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189706415700000,1776189706408732000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189706561023000,1776189706555278000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189706862286000,1776189706856591000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189707282226000,1776189707274369000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189708685051000,1776189708677033000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189708913102000,1776189708904797000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189709205496000,1776189709201516000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189709440083000,1776189709433053000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189709654834000,1776189709647823000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189709950096000,1776189709943576000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189710177119000,1776189710169974000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189710801514000,1776189710791748000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189711228327000,1776189711220894000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189711461159000,1776189711453661000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189711838148000,1776189711832203000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189712100920000,1776189712093595000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189712591651000,1776189712587776000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189712950434000,1776189712946138000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189713100875000,1776189713095687000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189713413714000,1776189713407465000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189713732565000,1776189713728048000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189714097508000,1776189714091407000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189714417079000,1776189714412673000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189714625271000,1776189714617429000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189714861933000,1776189714854569000,50,Insert,s,51,"Dnes si dam pizzu a budem pozerat film, zajtra si s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189715062325000,1776189715055249000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si sa"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189715666470000,1776189715660418000,52,Delete,a,51,"Dnes si dam pizzu a budem pozerat film, zajtra si s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189715801224000,1776189715798413000,51,Delete,s,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189716536627000,1776189716528625000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189716700652000,1776189716696234000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189717163009000,1776189717156814000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189717387486000,1776189717379443000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189718351738000,1776189718345719000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189718719615000,1776189718711580000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189718991404000,1776189718987142000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189719360125000,1776189719356060000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189719999839000,1776189719994040000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189720315395000,1776189720310502000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189720658683000,1776189720650362000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189721840549000,1776189721829824000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189722130868000,1776189722123005000,62,Insert,h,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva meloh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189722410640000,1776189722403645000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189722666864000,1776189722660077000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189722941758000,1776189722935656000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189723226823000,1776189723220139000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189723762793000,1776189723757032000,67,Insert,h,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy s h"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189724307001000,1776189724302694000,68,Delete,h,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189724785079000,1776189724780009000,67,Delete, ,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189724962104000,1776189724957234000,66,Delete,s,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189725108426000,1776189725105187000,65,Delete, ,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melohy"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189725269636000,1776189725261412000,64,Delete,y,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva meloh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189725644434000,1776189725640774000,63,Delete,h,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189726196807000,1776189726189863000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189726804705000,1776189726798108000,63,Insert, ,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189727035396000,1776189727029719000,64,Insert,s,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189727486682000,1776189727482465000,65,Delete,s,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189727627357000,1776189727623949000,64,Delete, ,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189728324393000,1776189728310845000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189728574647000,1776189728568382000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189728865149000,1776189728860291000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189729138160000,1776189729131149000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189729467400000,1776189729460989000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189729671330000,1776189729665009000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189729939941000,1776189729932476000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189730236920000,1776189730232909000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189730664841000,1776189730660712000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189730866010000,1776189730860141000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189731065490000,1776189731059840000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,2,1776189731418708000,1776189731409187000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189732923810000,1776189732916323000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189733363364000,1776189733357596000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189733740088000,1776189733731639000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189733929964000,1776189733926217000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189734473131000,1776189734464093000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189734866720000,1776189734860130000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189735221497000,1776189735217817000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189735447999000,1776189735441122000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189735988173000,1776189735984589000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189736186432000,1776189736182813000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189736633053000,1776189736627169000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189736868156000,1776189736858528000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189737315152000,1776189737308470000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189737627570000,1776189737620822000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189738066324000,1776189738058642000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189738188918000,1776189738185378000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189738939872000,1776189738933707000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189739444189000,1776189739440477000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189740754776000,1776189740745495000,18,Insert,b,19,Dnes si dam pizzu b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189741013019000,1776189741009276000,19,Insert,u,20,Dnes si dam pizzu bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189741443648000,1776189741434914000,20,Insert,d,21,Dnes si dam pizzu bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189742875907000,1776189742871430000,21,Delete,d,20,Dnes si dam pizzu bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189743042197000,1776189743039380000,20,Delete,u,19,Dnes si dam pizzu b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189743530901000,1776189743527528000,19,Delete,b,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189744305146000,1776189744296743000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189744610950000,1776189744604485000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189745438243000,1776189745432641000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189745710636000,1776189745705147000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189746424832000,1776189746415233000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189746586518000,1776189746582699000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189747145107000,1776189747141163000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189747336732000,1776189747331903000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189748322986000,1776189748315596000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189748490526000,1776189748486850000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189749516486000,1776189749512272000,28,Insert,r,29,Dnes si dam pizzu a budem por
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189749997252000,1776189749993439000,29,Delete,r,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189750835510000,1776189750828453000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189751159555000,1776189751153949000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189751315604000,1776189751311390000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189751620504000,1776189751612422000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189751931872000,1776189751927041000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189752687436000,1776189752677801000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189753124124000,1776189753115859000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189753471304000,1776189753464416000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189753707450000,1776189753701045000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189754056655000,1776189754049385000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189754897808000,1776189754890257000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189755199871000,1776189755193549000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189756076200000,1776189756068604000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189756372171000,1776189756366148000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189756785288000,1776189756776952000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189757179502000,1776189757173327000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189757331310000,1776189757326517000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189757635360000,1776189757629521000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189757940401000,1776189757936021000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189758208767000,1776189758201701000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189758584186000,1776189758576981000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189758890215000,1776189758885748000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189759481732000,1776189759476861000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189759988423000,1776189759980718000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189760585626000,1776189760578208000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189760741707000,1776189760737528000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189761017190000,1776189761012815000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189761344943000,1776189761338599000,55,Insert,n,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dn"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189761898232000,1776189761893334000,56,Delete,n,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189762201249000,1776189762194833000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189762487502000,1776189762481578000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189762822191000,1776189762815775000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189764650351000,1776189764641401000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189765055310000,1776189765043748000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189765421936000,1776189765416098000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189766096659000,1776189766090251000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189766365522000,1776189766359497000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189767566739000,1776189767559347000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189767817388000,1776189767804001000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189768067897000,1776189768061796000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189768373536000,1776189768366975000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189768786580000,1776189768780544000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189769003849000,1776189768997120000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189769283668000,1776189769276903000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189769612635000,1776189769605244000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189770008285000,1776189770002248000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189770214536000,1776189770208695000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189770446894000,1776189770437702000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,3,1776189770802945000,1776189770791352000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189772147196000,1776189772141273000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189772684120000,1776189772678155000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189773065353000,1776189773059207000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189773238363000,1776189773234259000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189773484336000,1776189773475949000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189773724657000,1776189773716159000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189774092602000,1776189774086852000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189774347815000,1776189774341723000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189774664936000,1776189774658341000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189774860117000,1776189774855338000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189775246651000,1776189775240693000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189775411734000,1776189775407860000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189775679343000,1776189775673088000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189775880932000,1776189775871735000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189776255511000,1776189776249564000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189776394065000,1776189776389819000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189776595399000,1776189776587916000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189776851772000,1776189776846187000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189777168035000,1776189777162196000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189777413740000,1776189777405925000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189777662000000,1776189777654184000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189777978433000,1776189777972323000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189778270021000,1776189778264565000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189778411841000,1776189778407782000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189778770271000,1776189778764039000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189778932700000,1776189778928661000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189779190945000,1776189779184427000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189779474296000,1776189779468452000,27,Insert,i,28,Dnes si dam pizzu a budem pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189779775928000,1776189779769364000,28,Insert,z,29,Dnes si dam pizzu a budem piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189780863968000,1776189780859310000,29,Delete,z,28,Dnes si dam pizzu a budem pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189781010443000,1776189781007572000,28,Delete,i,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189781741113000,1776189781731785000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189782061410000,1776189782054686000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189782599245000,1776189782590217000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189782855250000,1776189782850252000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189783129099000,1776189783119727000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189783405521000,1776189783398688000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189783682818000,1776189783673254000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189784042687000,1776189784035313000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189784429435000,1776189784423011000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189784615328000,1776189784605810000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189784834098000,1776189784828451000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189785201184000,1776189785193194000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189785466093000,1776189785459423000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189786338720000,1776189786331546000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189786601282000,1776189786597135000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189786983072000,1776189786977051000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189787324776000,1776189787318181000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189787487672000,1776189787482738000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189787745859000,1776189787740120000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189788039856000,1776189788033142000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189788358068000,1776189788352840000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189788751951000,1776189788744504000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189788954670000,1776189788946266000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189789198268000,1776189789192357000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189789374750000,1776189789369651000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189789765194000,1776189789758950000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189789951109000,1776189789945967000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189790196255000,1776189790188354000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189790937681000,1776189790931572000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189791222340000,1776189791216183000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189791503552000,1776189791497100000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189791778425000,1776189791772249000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189792102848000,1776189792095929000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189792465002000,1776189792460942000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189792651317000,1776189792641782000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189792902713000,1776189792896645000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189793198021000,1776189793189919000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189793477401000,1776189793472906000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189794079529000,1776189794075227000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189794348696000,1776189794341102000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189795010276000,1776189795006293000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189795195506000,1776189795190039000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189795459602000,1776189795453674000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189795778370000,1776189795770425000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189796525469000,1776189796516656000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189796717567000,1776189796713798000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189796882808000,1776189796878687000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,4,1776189797425429000,1776189797419791000,74,Insert, ,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189800616644000,1776189800612543000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189801104342000,1776189801095003000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189805509150000,1776189805502348000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189805648048000,1776189805644574000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189806639318000,1776189806628940000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189807395662000,1776189807389567000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189807883689000,1776189807875762000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189808994784000,1776189808984232000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189809547888000,1776189809542130000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189809757069000,1776189809749195000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189810297309000,1776189810293372000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189810657222000,1776189810651379000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189811332017000,1776189811324513000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189811514573000,1776189811510221000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189811944218000,1776189811937194000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189812090651000,1776189812086760000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189812288230000,1776189812284511000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189812550124000,1776189812544439000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189813763552000,1776189813759905000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189814075816000,1776189814067304000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189815451144000,1776189815442404000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189815721756000,1776189815715201000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189816060047000,1776189816054492000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189816270586000,1776189816262251000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189816922373000,1776189816914870000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189817197678000,1776189817190777000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189817823548000,1776189817813460000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189817965522000,1776189817960961000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189818370279000,1776189818364590000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189818750799000,1776189818744568000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189818930222000,1776189818926497000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189819141805000,1776189819135684000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189819406211000,1776189819400184000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189819918270000,1776189819908970000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189820202691000,1776189820198158000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189820534382000,1776189820527362000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189820752696000,1776189820746445000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189821224664000,1776189821220381000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189821553486000,1776189821546924000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189821778502000,1776189821771967000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189822203271000,1776189822195551000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189822444182000,1776189822437727000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189822886048000,1776189822879867000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189823143728000,1776189823136171000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189823544839000,1776189823540281000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189824266741000,1776189824259226000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189824604836000,1776189824598512000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189825241743000,1776189825234577000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189825575689000,1776189825568712000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189825837325000,1776189825833054000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189826103447000,1776189826096630000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189826283881000,1776189826277839000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189826838071000,1776189826833515000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189827036572000,1776189827027796000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189827987222000,1776189827982296000,54,Insert,m,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189828363462000,1776189828357310000,55,Insert,e,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189829090971000,1776189829087146000,56,Delete,e,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189829312529000,1776189829308895000,55,Delete,m,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189829564281000,1776189829560408000,54,Delete, ,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189831108963000,1776189831100662000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189831941177000,1776189831931289000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189832369819000,1776189832363722000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189832676228000,1776189832668895000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189832941253000,1776189832933864000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189833832423000,1776189833823169000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189834183975000,1776189834177821000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189834533294000,1776189834525861000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189834704559000,1776189834698567000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189834962633000,1776189834955783000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189835264367000,1776189835258576000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189835494334000,1776189835487449000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189835767703000,1776189835759859000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189836365157000,1776189836355374000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189836877300000,1776189836869628000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189837128449000,1776189837122714000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189837349615000,1776189837345566000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189837671603000,1776189837664539000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189838044504000,1776189838037844000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189838232197000,1776189838227670000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189838850298000,1776189838843735000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,5,1776189839199401000,1776189839191401000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189840818605000,1776189840813943000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189841216330000,1776189841210991000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189841559743000,1776189841554021000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189841735027000,1776189841730913000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189841979374000,1776189841972995000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189842467201000,1776189842461217000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189842795580000,1776189842789105000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189842986076000,1776189842978555000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189843207850000,1776189843200904000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189843385690000,1776189843379525000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189843724485000,1776189843719023000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189843890584000,1776189843880269000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189844142325000,1776189844134965000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189844352656000,1776189844348485000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189844684772000,1776189844678332000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189844821987000,1776189844816711000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189845019794000,1776189845013777000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189845229580000,1776189845221771000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189845501463000,1776189845495686000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189845772693000,1776189845766338000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189846013291000,1776189846007457000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189846246386000,1776189846239747000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189846464833000,1776189846458345000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189846627626000,1776189846623916000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189847035549000,1776189847029269000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189847194103000,1776189847190057000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189847454293000,1776189847447460000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189847612823000,1776189847608372000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189847859413000,1776189847855761000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189848164429000,1776189848156986000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189848467608000,1776189848460723000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189848720612000,1776189848714523000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189848991947000,1776189848985374000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189849248224000,1776189849241125000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189849863620000,1776189849856218000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189850101218000,1776189850095502000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189850317308000,1776189850311405000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189850537319000,1776189850529420000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189850858736000,1776189850851312000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189851121679000,1776189851115198000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189852911895000,1776189852905456000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189853207017000,1776189853199548000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189853616871000,1776189853605473000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189854058052000,1776189854052054000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189854211059000,1776189854204095000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189854474645000,1776189854468602000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189854736586000,1776189854728759000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189854967578000,1776189854959332000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189855262646000,1776189855255443000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189856220040000,1776189856210815000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189857092731000,1776189857085497000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189857228940000,1776189857225077000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189857602995000,1776189857596783000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189857821133000,1776189857813480000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189858480373000,1776189858474011000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189858825213000,1776189858818869000,55,Insert,n,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dn"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189859284355000,1776189859280234000,56,Delete,n,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189859583315000,1776189859576412000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189859834550000,1776189859831025000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189860081459000,1776189860072805000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189860346872000,1776189860340138000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189861120817000,1776189861115218000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189861477458000,1776189861471116000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189861639039000,1776189861636240000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189861895950000,1776189861889720000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189862147603000,1776189862139754000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189862349377000,1776189862343515000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189862556951000,1776189862551213000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189862771243000,1776189862767328000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189863040789000,1776189863034910000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189863208617000,1776189863203631000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189863424373000,1776189863418030000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189863707475000,1776189863701260000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189864041448000,1776189864033045000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189864209120000,1776189864205737000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189864360873000,1776189864355745000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,6,1776189864642600000,1776189864636474000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189865880970000,1776189865877175000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189866190679000,1776189866183215000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189866479679000,1776189866473808000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189866651941000,1776189866648538000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189866886668000,1776189866883249000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189867063146000,1776189867057167000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189867360365000,1776189867353203000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189867564842000,1776189867559160000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189867791781000,1776189867788022000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189867966656000,1776189867961906000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189868372361000,1776189868368934000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189868565686000,1776189868558849000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189868831756000,1776189868826594000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189869018497000,1776189869015030000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189869295218000,1776189869289324000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189869405189000,1776189869401430000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189869582854000,1776189869576085000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189869806578000,1776189869799471000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189870052895000,1776189870046018000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189870293147000,1776189870286431000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189870504555000,1776189870497737000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189870715986000,1776189870710245000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189870934874000,1776189870928120000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189871053540000,1776189871049818000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189871367608000,1776189871363802000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189871536414000,1776189871532324000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189871914326000,1776189871906257000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189872037971000,1776189872031261000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189872347835000,1776189872340359000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189872543292000,1776189872538346000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189872915824000,1776189872906963000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189873132707000,1776189873122621000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189873386945000,1776189873380349000,32,Insert,r,33,Dnes si dam pizzu a budem pozerar
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189873914252000,1776189873911331000,33,Delete,r,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189874183627000,1776189874178045000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189874550138000,1776189874544470000,33,Insert,f,34,Dnes si dam pizzu a budem pozeratf
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189875035523000,1776189875031403000,34,Delete,f,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189875257583000,1776189875251278000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189875622180000,1776189875613823000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189875965025000,1776189875958245000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189876237667000,1776189876234186000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189876688379000,1776189876680745000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189877053716000,1776189877050487000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189877292859000,1776189877286592000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189877887854000,1776189877883057000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189878125240000,1776189878116956000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189878503871000,1776189878496612000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189878831356000,1776189878825376000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189878975449000,1776189878967310000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189879173588000,1776189879167823000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189879403638000,1776189879397123000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189879611557000,1776189879607870000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189879938812000,1776189879932042000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189880154788000,1776189880147600000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189880384567000,1776189880377235000,50,Insert,s,51,"Dnes si dam pizzu a budem pozerat film, zajtra si s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189880523618000,1776189880515953000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si sa"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189880859087000,1776189880853086000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si sam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189881063883000,1776189881051556000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si sam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189881388610000,1776189881384629000,54,Delete, ,53,"Dnes si dam pizzu a budem pozerat film, zajtra si sam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189881563766000,1776189881560350000,53,Delete,m,52,"Dnes si dam pizzu a budem pozerat film, zajtra si sa"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189881717706000,1776189881712644000,52,Delete,a,51,"Dnes si dam pizzu a budem pozerat film, zajtra si s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189881872971000,1776189881868666000,51,Delete,s,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189882409528000,1776189882403946000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189882571997000,1776189882567204000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189882889071000,1776189882883717000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189883073302000,1776189883065170000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189883287548000,1776189883283732000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189883682158000,1776189883675609000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189883937245000,1776189883932225000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189884158643000,1776189884150402000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189884885183000,1776189884876616000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189885187155000,1776189885180014000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189885983933000,1776189885979271000,60,Delete,e,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189886667405000,1776189886661324000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189887078512000,1776189887072791000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189887260894000,1776189887251749000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189887464522000,1776189887459741000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189887735271000,1776189887728216000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189887932257000,1776189887926508000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189888162111000,1776189888155585000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189888369581000,1776189888363716000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189888732457000,1776189888723610000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189889051287000,1776189889045209000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189889303169000,1776189889296046000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189889587473000,1776189889579542000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189889945534000,1776189889939197000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189890142021000,1776189890137242000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189890308016000,1776189890302105000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,7,1776189890618122000,1776189890608694000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189891936457000,1776189891928880000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189892462443000,1776189892456515000,1,Insert,b,2,Db
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189892901411000,1776189892897425000,2,Delete,b,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189893153603000,1776189893148107000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189893431019000,1776189893425172000,2,Insert,r,3,Dnr
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189893611798000,1776189893608082000,3,Insert,s,4,Dnrs
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189893818826000,1776189893810925000,4,Insert, ,5,Dnrs 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189894314660000,1776189894310294000,5,Delete, ,4,Dnrs
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189894478387000,1776189894472840000,4,Delete,s,3,Dnr
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189894647523000,1776189894643361000,3,Delete,r,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189895134638000,1776189895131148000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189895350289000,1776189895343518000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189895581619000,1776189895574195000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189895827108000,1776189895820824000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189896106232000,1776189896098948000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189896462957000,1776189896456046000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189896759925000,1776189896754125000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189896919217000,1776189896915505000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189897249620000,1776189897243804000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189897394394000,1776189897390035000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189897647561000,1776189897644486000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189897824465000,1776189897817096000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189900330240000,1776189900324376000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189900445401000,1776189900441861000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189901061063000,1776189901053236000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189901273413000,1776189901269108000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189901513618000,1776189901509805000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189901724264000,1776189901718244000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189902727166000,1776189902721663000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189902969160000,1776189902963542000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189903266064000,1776189903259996000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189903451011000,1776189903445843000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189903990981000,1776189903986691000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189904188886000,1776189904184741000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189904597590000,1776189904591420000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189904758844000,1776189904752887000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189905082522000,1776189905076217000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189905488450000,1776189905482310000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189905672313000,1776189905668439000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189905895726000,1776189905889048000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189906145966000,1776189906140003000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189906372162000,1776189906365769000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189906574255000,1776189906567855000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189906835556000,1776189906830001000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189907061640000,1776189907055597000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189907260197000,1776189907250950000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189908156916000,1776189908149269000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189908378479000,1776189908372444000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189909079394000,1776189909070878000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189909328134000,1776189909324434000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189909759766000,1776189909753813000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189910084782000,1776189910080553000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189910274732000,1776189910272599000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189910502616000,1776189910496754000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189910750029000,1776189910743686000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189910988630000,1776189910980480000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189911273121000,1776189911267741000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189911498711000,1776189911492608000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189911734604000,1776189911727905000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189911939086000,1776189911932093000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189912329336000,1776189912323206000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189912528176000,1776189912523688000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189912807505000,1776189912800121000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189913037792000,1776189913030157000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189913323453000,1776189913315160000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189913596262000,1776189913587538000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189913857231000,1776189913850643000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189914137387000,1776189914130677000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189914468781000,1776189914462554000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189914623926000,1776189914617996000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189914866690000,1776189914860555000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189915146287000,1776189915136394000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189915353532000,1776189915348549000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189915590481000,1776189915586094000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189915778730000,1776189915774556000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189916052990000,1776189916044974000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189916199245000,1776189916190021000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189916416825000,1776189916410832000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189916733302000,1776189916729225000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189917079966000,1776189917069799000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189917236599000,1776189917232754000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189917445075000,1776189917440235000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,8,1776189917764064000,1776189917754739000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189919048365000,1776189919043392000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189919753251000,1776189919746373000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189920120779000,1776189920113954000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189920318918000,1776189920313326000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189920611670000,1776189920605037000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189921044761000,1776189921038799000,5,Insert,a,6,Dnes a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189922167435000,1776189922162412000,6,Delete,a,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189922617551000,1776189922611621000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189922936697000,1776189922930151000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189923149763000,1776189923144063000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189923388748000,1776189923383514000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189923595481000,1776189923589066000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189923905225000,1776189923899763000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189924110889000,1776189924106841000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189924600612000,1776189924592851000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189924776463000,1776189924772758000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189925125175000,1776189925118002000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189925276487000,1776189925272385000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189925435756000,1776189925432215000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189925685414000,1776189925678462000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189927051036000,1776189927043611000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189927302231000,1776189927295149000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189927615156000,1776189927611529000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189927868800000,1776189927862501000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189928424672000,1776189928417092000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189928562792000,1776189928558135000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189928926846000,1776189928919494000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189929084686000,1776189929080876000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189929367051000,1776189929360102000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189929514954000,1776189929510125000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189929815494000,1776189929809320000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189930097306000,1776189930089243000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189930272622000,1776189930268244000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189930517350000,1776189930511699000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189930790474000,1776189930784446000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189931036855000,1776189931031011000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189931316699000,1776189931309386000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189931632760000,1776189931626688000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189931866512000,1776189931860793000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189932421996000,1776189932416285000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189932791206000,1776189932784802000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189932999719000,1776189932992049000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189933612593000,1776189933607230000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189933883038000,1776189933876682000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189934278264000,1776189934271128000,42,Insert,h,43,"Dnes si dam pizzu a budem pozerat film, zah"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189934608164000,1776189934601281000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zaht"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189934759540000,1776189934755238000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zahtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189935039057000,1776189935036711000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zahtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189936429706000,1776189936414801000,46,Delete,a,45,"Dnes si dam pizzu a budem pozerat film, zahtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189936628204000,1776189936625234000,45,Delete,r,44,"Dnes si dam pizzu a budem pozerat film, zaht"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189936823945000,1776189936820583000,44,Delete,t,43,"Dnes si dam pizzu a budem pozerat film, zah"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189937043783000,1776189937039075000,43,Delete,h,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189937623719000,1776189937616253000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189938074603000,1776189938068282000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189938268337000,1776189938264070000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189938587179000,1776189938581197000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189940960856000,1776189940951155000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189941226666000,1776189941219364000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189941568021000,1776189941561237000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189941783915000,1776189941779362000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189942173122000,1776189942163956000,50,Insert,s,51,"Dnes si dam pizzu a budem pozerat film, zajtra si s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189942327639000,1776189942321979000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si sa"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189942792249000,1776189942787130000,52,Delete,a,51,"Dnes si dam pizzu a budem pozerat film, zajtra si s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189942942434000,1776189942939473000,51,Delete,s,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189943473430000,1776189943467233000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189943661199000,1776189943656803000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189944083085000,1776189944076381000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189944252528000,1776189944247360000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189944494351000,1776189944487527000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189944866813000,1776189944861194000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189945140378000,1776189945133218000,56,Insert,y,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dvy"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189945711149000,1776189945706371000,57,Delete,y,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189946154430000,1776189946147166000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189946941231000,1776189946933304000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189947879969000,1776189947873220000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189948186910000,1776189948179305000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189948554000000,1776189948547739000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189948730486000,1776189948723654000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189948960008000,1776189948952010000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189949336585000,1776189949330307000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189949597578000,1776189949589971000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189950106699000,1776189950099122000,65,Insert,a,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony a"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189950486496000,1776189950476335000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony a "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189953140114000,1776189953135076000,67,Delete, ,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony a"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189953299618000,1776189953295715000,66,Delete,a,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189953453528000,1776189953450252000,65,Delete, ,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189954247966000,1776189954237774000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189954508594000,1776189954502052000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189954771457000,1776189954765815000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189955041827000,1776189955035041000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189955243389000,1776189955239158000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189955465815000,1776189955459269000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189955770321000,1776189955763400000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189956238250000,1776189956231003000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189956430479000,1776189956425539000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189956618109000,1776189956613417000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,9,1776189957793463000,1776189957783640000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189959488522000,1776189959483348000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189959828105000,1776189959821621000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189960125335000,1776189960119885000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189960306446000,1776189960302804000,3,Insert,x,4,Dnex
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189960553293000,1776189960549462000,4,Insert, ,5,Dnex 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189960967190000,1776189960962926000,5,Delete, ,4,Dnex
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189961105778000,1776189961102113000,4,Delete,x,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189961693323000,1776189961688976000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189962030932000,1776189962024307000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189962454753000,1776189962448922000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189962792422000,1776189962786917000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189963004513000,1776189962997680000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189963260368000,1776189963253381000,8,Insert,f,9,Dnes si f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189963407923000,1776189963404157000,9,Insert,a,10,Dnes si fa
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189963917273000,1776189963910528000,10,Insert,m,11,Dnes si fam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189964839348000,1776189964835500000,11,Delete,m,10,Dnes si fa
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189965058913000,1776189965054409000,10,Delete,a,9,Dnes si f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189965298005000,1776189965294578000,9,Delete,f,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189965874777000,1776189965868384000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189966076699000,1776189966070697000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189966571530000,1776189966564733000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189966840593000,1776189966835540000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189967633501000,1776189967626350000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189967834226000,1776189967830618000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189968149529000,1776189968142424000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189968338656000,1776189968334004000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189968543586000,1776189968539955000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189968802218000,1776189968794677000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189969415448000,1776189969411506000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189970098027000,1776189970089578000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189970336871000,1776189970331036000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189970557166000,1776189970550564000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189970807385000,1776189970801226000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189970980337000,1776189970975594000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189971361678000,1776189971354130000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189971547873000,1776189971543323000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189971844190000,1776189971838358000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189972016348000,1776189972012611000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189972309667000,1776189972303499000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189972709319000,1776189972700629000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189972859007000,1776189972854757000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189973089818000,1776189973085852000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189973405192000,1776189973396479000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189973709370000,1776189973703146000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189977886045000,1776189977877593000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189978194756000,1776189978186572000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189978445019000,1776189978438731000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189978702135000,1776189978697355000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189979040739000,1776189979034143000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189979398964000,1776189979390060000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189980303510000,1776189980296810000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189980583070000,1776189980576356000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189981000153000,1776189980993574000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189981285165000,1776189981278956000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189981462666000,1776189981457528000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189981892827000,1776189981886841000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189982307548000,1776189982299082000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189982872131000,1776189982867075000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189983223834000,1776189983217291000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189983461132000,1776189983455864000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189983768333000,1776189983762555000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189983962095000,1776189983958150000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189984500924000,1776189984497494000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189984769581000,1776189984761154000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189987501505000,1776189987497408000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189988102675000,1776189988098276000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189988369004000,1776189988362307000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189988632098000,1776189988622217000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189989784152000,1776189989779808000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189990114168000,1776189990108287000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189990460357000,1776189990456268000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189990647177000,1776189990641962000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189990894879000,1776189990887831000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189991182242000,1776189991172338000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189991420543000,1776189991415055000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189991625407000,1776189991618275000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189991863784000,1776189991859983000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189992116157000,1776189992111916000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189992270132000,1776189992266205000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189992493636000,1776189992486283000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189992772141000,1776189992765343000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189993115974000,1776189993108708000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189993303715000,1776189993298695000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189993499785000,1776189993493519000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,10,1776189994190455000,1776189994176169000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776189996112558000,1776189996106350000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776189996452089000,1776189996445249000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776189996812149000,1776189996806939000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776189997029028000,1776189997023761000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776189997410278000,1776189997403964000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190000531303000,1776190000527857000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190000906512000,1776190000899446000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190001209810000,1776190001203773000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190001501017000,1776190001494319000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190001666677000,1776190001662474000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190002395207000,1776190002388332000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190002538862000,1776190002534890000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190002816682000,1776190002811142000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190003008619000,1776190003004282000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190003294849000,1776190003288562000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190003413800000,1776190003410062000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190003609366000,1776190003605324000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190003888325000,1776190003880879000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190005050447000,1776190005043727000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190005338900000,1776190005332390000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190009476227000,1776190009469683000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190009727365000,1776190009721356000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190010024805000,1776190010017276000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190010188742000,1776190010185104000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190011048312000,1776190011042754000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190011260835000,1776190011251477000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190011727812000,1776190011720878000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190011873379000,1776190011868238000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190012755074000,1776190012747658000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190013000638000,1776190012996882000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190013146987000,1776190013142698000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190013405051000,1776190013398649000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190013681302000,1776190013674987000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190014101034000,1776190014094979000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190021099550000,1776190021091851000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190021405653000,1776190021399484000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190021662967000,1776190021656196000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190021936556000,1776190021929218000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190023208868000,1776190023203286000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190023464802000,1776190023458031000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190026229099000,1776190026223385000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190026494098000,1776190026485395000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190026933944000,1776190026928266000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190027232771000,1776190027228975000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190027403393000,1776190027398767000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190027640242000,1776190027633221000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190027960451000,1776190027953665000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190034272012000,1776190034263895000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190034717266000,1776190034712850000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190035136859000,1776190035128805000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190035717808000,1776190035709528000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190035890434000,1776190035886057000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190036463769000,1776190036458521000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190036724415000,1776190036717987000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190039240002000,1776190039232867000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190039653780000,1776190039647760000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190039975612000,1776190039968811000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190040294915000,1776190040284268000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190040627097000,1776190040621246000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190040997006000,1776190040991308000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190041399696000,1776190041393335000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190041615498000,1776190041608191000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190041939060000,1776190041932695000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190042275985000,1776190042268096000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190043391073000,1776190043381122000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190043717741000,1776190043711625000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190044080864000,1776190044074551000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190044714269000,1776190044707835000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190044962238000,1776190044955089000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190045332295000,1776190045326322000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190045699724000,1776190045691847000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190046155065000,1776190046148641000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190046394326000,1776190046388009000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190046603914000,1776190046596947000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,11,1776190047452976000,1776190047444686000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190048764620000,1776190048756573000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190049165071000,1776190049158907000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190049557718000,1776190049549697000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190049774598000,1776190049768016000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190051553192000,1776190051545547000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190052226222000,1776190052219620000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190052650826000,1776190052644598000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190052952624000,1776190052948154000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190053275732000,1776190053267414000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190053507532000,1776190053501525000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190053993602000,1776190053988199000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190054242837000,1776190054236292000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190054668661000,1776190054663185000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190054895559000,1776190054888147000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190055204366000,1776190055198159000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190055344875000,1776190055338608000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190055556951000,1776190055550957000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190055922602000,1776190055916192000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190056668167000,1776190056657024000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190057056791000,1776190057050677000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190057793386000,1776190057785191000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190058065850000,1776190058057825000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190058372416000,1776190058366624000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190058575066000,1776190058569156000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190059436056000,1776190059430730000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190059663798000,1776190059660175000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190060399963000,1776190060392007000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190060578483000,1776190060573277000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190060932420000,1776190060926746000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190061355841000,1776190061351424000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190061596202000,1776190061590986000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190061852673000,1776190061847197000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190062224563000,1776190062217193000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190063389279000,1776190063382610000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190063929349000,1776190063924294000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190064270612000,1776190064264437000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190064581039000,1776190064576207000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190064876994000,1776190064869000000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190065320056000,1776190065317197000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190065660963000,1776190065656745000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190066470227000,1776190066464235000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190066819444000,1776190066813401000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190067259609000,1776190067253411000,42,Insert,k,43,"Dnes si dam pizzu a budem pozerat film, zak"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190067599704000,1776190067593763000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zakt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190067810623000,1776190067803317000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zaktr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190068728938000,1776190068720895000,45,Delete,r,44,"Dnes si dam pizzu a budem pozerat film, zakt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190068958761000,1776190068955310000,44,Delete,t,43,"Dnes si dam pizzu a budem pozerat film, zak"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190069158394000,1776190069154716000,43,Delete,k,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190069782380000,1776190069773920000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190070107930000,1776190070101807000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190070266994000,1776190070262958000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190070523764000,1776190070517806000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190070788536000,1776190070782285000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190072451108000,1776190072444101000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190072845413000,1776190072839396000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190073137286000,1776190073130083000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190073427765000,1776190073421512000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190073648284000,1776190073643931000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190074126224000,1776190074117652000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190074364322000,1776190074358261000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190075168929000,1776190075160937000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190075465040000,1776190075455600000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190075728425000,1776190075722425000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190076023047000,1776190076015994000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190076277259000,1776190076272095000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190076608737000,1776190076600979000,59,Insert,r,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190076900657000,1776190076894726000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mrl"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190077104410000,1776190077098502000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mrlo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190077555258000,1776190077551380000,62,Delete,o,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mrl"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190077772455000,1776190077768509000,61,Delete,l,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190077945501000,1776190077942574000,60,Delete,r,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190078728158000,1776190078719369000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190079127200000,1776190079121225000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190079335657000,1776190079329437000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190079606304000,1776190079596674000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190079967056000,1776190079960926000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190081410613000,1776190081402192000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190081731973000,1776190081726316000,65,Insert,d,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190082409603000,1776190082403259000,66,Delete,d,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190082965842000,1776190082954897000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190083316244000,1776190083309660000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190087019935000,1776190087012971000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190087218494000,1776190087212736000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190087509423000,1776190087502289000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190087844333000,1776190087833657000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190088250438000,1776190088244139000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190088428108000,1776190088418049000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190088600270000,1776190088595987000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,12,1776190089126109000,1776190089118839000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190090980021000,1776190090974923000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190091574368000,1776190091570237000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190091960000000,1776190091953688000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190092123851000,1776190092119620000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190093103826000,1776190093095892000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190093465204000,1776190093459630000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190093800827000,1776190093793337000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190094034075000,1776190094027662000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190094287703000,1776190094281598000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190094480166000,1776190094476609000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190095214245000,1776190095207506000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190095468298000,1776190095462068000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190096286492000,1776190096276966000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190096491898000,1776190096486083000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190096773743000,1776190096767983000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190096902684000,1776190096899227000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190097088149000,1776190097084460000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190097460108000,1776190097453540000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190101766987000,1776190101759116000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190102074852000,1776190102067827000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190102324910000,1776190102318117000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190102560542000,1776190102556429000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190102815856000,1776190102810340000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190102991914000,1776190102987820000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190103608462000,1776190103603415000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190103799947000,1776190103787116000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190104088621000,1776190104082344000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190104854250000,1776190104847671000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190105138533000,1776190105133072000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190105416457000,1776190105412513000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190105676835000,1776190105670007000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190105934907000,1776190105927763000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190106206660000,1776190106200547000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190106539830000,1776190106533929000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190107229712000,1776190107223030000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190107622576000,1776190107616812000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190107974077000,1776190107967287000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190108911424000,1776190108904428000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190109881718000,1776190109870638000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190110076817000,1776190110069763000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190112585961000,1776190112579337000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190112874221000,1776190112867620000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190113344838000,1776190113338976000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190113804914000,1776190113796598000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190113984662000,1776190113978923000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190114222658000,1776190114215520000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190116166739000,1776190116157713000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190116527559000,1776190116518688000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190116864327000,1776190116858718000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190117207989000,1776190117201328000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190117594441000,1776190117588272000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190117807354000,1776190117803560000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190119169243000,1776190119159842000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190119592011000,1776190119585766000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190120341773000,1776190120334439000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190120689989000,1776190120681700000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190121038247000,1776190121029831000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190121958236000,1776190121948988000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190122249320000,1776190122245487000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190122620065000,1776190122612748000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190123090018000,1776190123083088000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190123278966000,1776190123274808000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190123571743000,1776190123565063000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190123959977000,1776190123954184000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190124247144000,1776190124240201000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190124572599000,1776190124565665000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190124972240000,1776190124966177000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190125458987000,1776190125454799000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190125700138000,1776190125691237000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190126023158000,1776190126016260000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190126368547000,1776190126359831000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190126740943000,1776190126734250000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190126920084000,1776190126914078000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190127116744000,1776190127111898000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,13,1776190127644591000,1776190127639930000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190129247688000,1776190129233746000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190129608947000,1776190129602044000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190129908256000,1776190129902580000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190130097254000,1776190130093792000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190130368272000,1776190130362063000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190130873121000,1776190130867172000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190131226845000,1776190131219693000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190131496227000,1776190131486975000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190131856077000,1776190131850848000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190132059129000,1776190132052834000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190132957071000,1776190132952969000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190133510011000,1776190133506142000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190134055687000,1776190134045148000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190134277792000,1776190134272320000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190134689824000,1776190134684717000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190134854951000,1776190134847978000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190135112775000,1776190135107107000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190135490247000,1776190135484388000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190136161588000,1776190136151407000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190136969069000,1776190136963664000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190137801008000,1776190137794519000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190138037074000,1776190138033611000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190138581083000,1776190138577428000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190138797710000,1776190138791753000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190139425661000,1776190139419598000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190139628732000,1776190139624281000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190140121652000,1776190140115475000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190140281319000,1776190140277819000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190140604335000,1776190140598170000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190141023030000,1776190141016782000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190141239945000,1776190141232982000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190141526940000,1776190141520232000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190141855810000,1776190141848932000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190142226176000,1776190142219582000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190142529927000,1776190142523802000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190142835875000,1776190142830227000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190143062811000,1776190143057218000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190143288492000,1776190143284029000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190145323022000,1776190145314502000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190146709326000,1776190146701369000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190148360293000,1776190148355367000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190148708146000,1776190148702420000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190149062160000,1776190149058295000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190149434510000,1776190149428493000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190149610487000,1776190149606681000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190149849385000,1776190149842811000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190150114492000,1776190150108059000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190151016960000,1776190151011380000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190151532927000,1776190151526495000,48,Insert,p,49,"Dnes si dam pizzu a budem pozerat film, zajtra sp"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190151724941000,1776190151718455000,49,Insert,i,50,"Dnes si dam pizzu a budem pozerat film, zajtra spi"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190152249798000,1776190152245380000,50,Delete,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra sp"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190152362111000,1776190152359613000,49,Delete,p,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190153516049000,1776190153511655000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190153799065000,1776190153791859000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190154392224000,1776190154387807000,50,Insert,s,51,"Dnes si dam pizzu a budem pozerat film, zajtra si s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190155594324000,1776190155588705000,51,Delete,s,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190155999854000,1776190155994054000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190156201843000,1776190156197628000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190156662040000,1776190156655347000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190156914397000,1776190156907846000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190158244863000,1776190158233850000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190158637969000,1776190158631440000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190158938705000,1776190158931856000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190159255791000,1776190159250841000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190159509734000,1776190159502727000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190159835935000,1776190159828508000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190160196526000,1776190160190654000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190160374670000,1776190160370852000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190160637041000,1776190160630269000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190160963579000,1776190160957165000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190161253256000,1776190161244691000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190161927586000,1776190161919504000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190162188274000,1776190162181032000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190162581572000,1776190162575070000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190162776975000,1776190162773135000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190163066622000,1776190163060644000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190165337511000,1776190165329067000,70,Insert,t,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhot"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190165763179000,1776190165759549000,71,Delete,t,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190166119027000,1776190166112386000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190166557053000,1776190166550256000,71,Insert,j,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190166747602000,1776190166742241000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorjo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190166946000000,1776190166939290000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorjou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190168147337000,1776190168141071000,74,Delete,u,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorjo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190168292811000,1776190168290146000,73,Delete,o,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190168443233000,1776190168431072000,72,Delete,j,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190168724275000,1776190168720290000,71,Delete,r,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190169782186000,1776190169776760000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190170185768000,1776190170178457000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190170390817000,1776190170386023000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190170595827000,1776190170589287000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,14,1776190170971664000,1776190170962260000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190172148269000,1776190172144523000,0,Insert,D,1,D
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190172515525000,1776190172508779000,1,Insert,n,2,Dn
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190172882611000,1776190172877176000,2,Insert,e,3,Dne
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190173077815000,1776190173071660000,3,Insert,s,4,Dnes
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190173397259000,1776190173388778000,4,Insert, ,5,Dnes 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190173919011000,1776190173915509000,5,Insert,s,6,Dnes s
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190174262765000,1776190174257945000,6,Insert,i,7,Dnes si
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190174518414000,1776190174511755000,7,Insert, ,8,Dnes si 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190174792440000,1776190174786955000,8,Insert,d,9,Dnes si d
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190174984357000,1776190174980835000,9,Insert,a,10,Dnes si da
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190175681216000,1776190175673297000,10,Insert,m,11,Dnes si dam
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190175827672000,1776190175823320000,11,Insert, ,12,Dnes si dam 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190176147112000,1776190176141247000,12,Insert,p,13,Dnes si dam p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190176382994000,1776190176377477000,13,Insert,i,14,Dnes si dam pi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190176678766000,1776190176672473000,14,Insert,z,15,Dnes si dam piz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190176830760000,1776190176826532000,15,Insert,z,16,Dnes si dam pizz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190177108345000,1776190177102974000,16,Insert,u,17,Dnes si dam pizzu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190177926525000,1776190177916099000,17,Insert, ,18,Dnes si dam pizzu 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190178250400000,1776190178244397000,18,Insert,a,19,Dnes si dam pizzu a
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190178548020000,1776190178540620000,19,Insert, ,20,Dnes si dam pizzu a 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190178964031000,1776190178955979000,20,Insert,b,21,Dnes si dam pizzu a b
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190179191519000,1776190179185281000,21,Insert,u,22,Dnes si dam pizzu a bu
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190179449939000,1776190179445199000,22,Insert,d,23,Dnes si dam pizzu a bud
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190179615697000,1776190179611988000,23,Insert,e,24,Dnes si dam pizzu a bude
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190180236600000,1776190180229670000,24,Insert,m,25,Dnes si dam pizzu a budem
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190180397593000,1776190180390344000,25,Insert, ,26,Dnes si dam pizzu a budem 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190180695975000,1776190180685821000,26,Insert,p,27,Dnes si dam pizzu a budem p
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190180853505000,1776190180847820000,27,Insert,o,28,Dnes si dam pizzu a budem po
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190181270655000,1776190181265340000,28,Insert,z,29,Dnes si dam pizzu a budem poz
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190181608230000,1776190181602601000,29,Insert,e,30,Dnes si dam pizzu a budem poze
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190181782654000,1776190181776734000,30,Insert,r,31,Dnes si dam pizzu a budem pozer
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190182057552000,1776190182051376000,31,Insert,a,32,Dnes si dam pizzu a budem pozera
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190182398359000,1776190182394233000,32,Insert,t,33,Dnes si dam pizzu a budem pozerat
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190183689577000,1776190183682012000,33,Insert, ,34,Dnes si dam pizzu a budem pozerat 
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190184018867000,1776190184011981000,34,Insert,f,35,Dnes si dam pizzu a budem pozerat f
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190184338394000,1776190184332491000,35,Insert,i,36,Dnes si dam pizzu a budem pozerat fi
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190184606246000,1776190184599997000,36,Insert,l,37,Dnes si dam pizzu a budem pozerat fil
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190185043355000,1776190185037307000,37,Insert,m,38,Dnes si dam pizzu a budem pozerat film
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190185865085000,1776190185856779000,38,Insert,",",39,"Dnes si dam pizzu a budem pozerat film,"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190186315561000,1776190186307767000,39,Insert, ,40,"Dnes si dam pizzu a budem pozerat film, "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190187816796000,1776190187811355000,40,Insert,z,41,"Dnes si dam pizzu a budem pozerat film, z"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190189131792000,1776190189123646000,41,Insert,a,42,"Dnes si dam pizzu a budem pozerat film, za"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190189926440000,1776190189923861000,42,Insert,j,43,"Dnes si dam pizzu a budem pozerat film, zaj"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190190253592000,1776190190247660000,43,Insert,t,44,"Dnes si dam pizzu a budem pozerat film, zajt"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190190446978000,1776190190439916000,44,Insert,r,45,"Dnes si dam pizzu a budem pozerat film, zajtr"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190190724445000,1776190190717443000,45,Insert,a,46,"Dnes si dam pizzu a budem pozerat film, zajtra"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190191217704000,1776190191211488000,46,Insert, ,47,"Dnes si dam pizzu a budem pozerat film, zajtra "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190191550238000,1776190191545973000,47,Insert,s,48,"Dnes si dam pizzu a budem pozerat film, zajtra s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190191900958000,1776190191896046000,48,Insert,i,49,"Dnes si dam pizzu a budem pozerat film, zajtra si"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190192144777000,1776190192138764000,49,Insert, ,50,"Dnes si dam pizzu a budem pozerat film, zajtra si "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190192448307000,1776190192442462000,50,Insert,d,51,"Dnes si dam pizzu a budem pozerat film, zajtra si d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190192645944000,1776190192642027000,51,Insert,a,52,"Dnes si dam pizzu a budem pozerat film, zajtra si da"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190193169112000,1776190193159757000,52,Insert,m,53,"Dnes si dam pizzu a budem pozerat film, zajtra si dam"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190193456839000,1776190193449461000,53,Insert, ,54,"Dnes si dam pizzu a budem pozerat film, zajtra si dam "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190195056602000,1776190195050266000,54,Insert,d,55,"Dnes si dam pizzu a budem pozerat film, zajtra si dam d"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190195520164000,1776190195514050000,55,Insert,v,56,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dv"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190195858437000,1776190195851631000,56,Insert,a,57,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190197117730000,1776190197106558000,57,Insert, ,58,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190197379699000,1776190197374713000,58,Insert,m,59,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva m"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190197699932000,1776190197692579000,59,Insert,e,60,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva me"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190198042039000,1776190198034650000,60,Insert,l,61,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva mel"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190198228876000,1776190198224215000,61,Insert,o,62,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melo"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190198530140000,1776190198524124000,62,Insert,n,63,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melon"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190198832952000,1776190198826463000,63,Insert,y,64,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190200444693000,1776190200435705000,64,Insert, ,65,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190200988474000,1776190200984331000,65,Insert,s,66,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190201282941000,1776190201275613000,66,Insert, ,67,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s "
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190201625538000,1776190201619496000,67,Insert,u,68,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s u"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190201823035000,1776190201818661000,68,Insert,h,69,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uh"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190202108883000,1776190202103351000,69,Insert,o,70,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uho"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190202447133000,1776190202439953000,70,Insert,r,71,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhor"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190202851079000,1776190202845719000,71,Insert,k,72,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhork"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190203039621000,1776190203035897000,72,Insert,o,73,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorko"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190203238858000,1776190203232012000,73,Insert,u,74,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou"
+RKcUBPWd7Lgr4wrIof2rJxDyitr1,15,1776190204032352000,1776190204023578000,74,Insert,.,75,"Dnes si dam pizzu a budem pozerat film, zajtra si dam dva melony s uhorkou."

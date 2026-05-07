@@ -1,0 +1,1388 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895047720774000,1774895047709612000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895047796144000,1774895047792425000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895047864220000,1774895047860331000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895047983912000,1774895047980148000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895048355725000,1774895048351918000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895048683218000,1774895048672557000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895048739113000,1774895048734835000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895048853172000,1774895048849947000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895049001515000,1774895048996410000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895049071545000,1774895049067672000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895049973281000,1774895049966427000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895050117179000,1774895050113328000,11,Insert,y,12,Dnes neni ay
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895050565487000,1774895050561021000,12,Delete,y,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895050780941000,1774895050774150000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895050953513000,1774895050949276000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895051144457000,1774895051139461000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895051322756000,1774895051319257000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895051403159000,1774895051398058000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895051461161000,1774895051458035000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895051666618000,1774895051660262000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895052745809000,1774895052742490000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895052820138000,1774895052816112000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895052937439000,1774895052932249000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895053096564000,1774895053092584000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895053159903000,1774895053156003000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895053347153000,1774895053343145000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895053667830000,1774895053662232000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895053792279000,1774895053787355000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895053860476000,1774895053856378000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895054141792000,1774895054135937000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895054285689000,1774895054281701000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895054368851000,1774895054364246000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895054437110000,1774895054433188000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895055737293000,1774895055729698000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895056024175000,1774895056018623000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895056207471000,1774895056202713000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895056305458000,1774895056300730000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895056532678000,1774895056526131000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895056640715000,1774895056636883000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895056989736000,1774895056980944000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895057709039000,1774895057700743000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895057764577000,1774895057760277000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895057962930000,1774895057957058000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895058086481000,1774895058082208000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895058222586000,1774895058218476000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895058307103000,1774895058303842000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895058402399000,1774895058395806000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895058456756000,1774895058453443000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895059193411000,1774895059186508000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895059464022000,1774895059458504000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895059566311000,1774895059562573000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895059762207000,1774895059751783000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895059804238000,1774895059799099000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895060048943000,1774895060043049000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895060132936000,1774895060128122000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895060255482000,1774895060249676000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895060798364000,1774895060793839000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895060926627000,1774895060915466000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895060979809000,1774895060975814000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895061200083000,1774895061192222000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895061282237000,1774895061277677000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895062065484000,1774895062051416000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895062136236000,1774895062131797000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895062226026000,1774895062220481000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895063100251000,1774895063093229000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895063336524000,1774895063329672000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895063423019000,1774895063417837000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895063502158000,1774895063498229000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895063690763000,1774895063686216000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895064133638000,1774895064128060000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895064235426000,1774895064225989000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895064495176000,1774895064486734000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895064545605000,1774895064541794000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895064856280000,1774895064849962000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895064988933000,1774895064984347000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895065085312000,1774895065081567000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,1,1774895065209524000,1774895065204647000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895079608765000,1774895079602150000,0,Insert,d,1,d
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895080235424000,1774895080232460000,1,Delete,d,0,
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895080610623000,1774895080606903000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895080711086000,1774895080705835000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895080783204000,1774895080777303000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895080902900000,1774895080899639000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895081154614000,1774895081149771000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895081529350000,1774895081521075000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895081610543000,1774895081602550000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895081716188000,1774895081711935000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895081866677000,1774895081862135000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895081941748000,1774895081937680000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895082273457000,1774895082266135000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895082663282000,1774895082656915000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895082847166000,1774895082835899000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895083079269000,1774895083074052000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895083232071000,1774895083224042000,14,Insert,s,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895083322095000,1774895083316815000,15,Insert,k,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895083359659000,1774895083356163000,16,Insert,e,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895083576771000,1774895083566617000,17,Insert, ,18,Dnes neni az tske 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895083833599000,1774895083828732000,18,Delete, ,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895083983243000,1774895083973768000,17,Delete,e,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895084095743000,1774895084088783000,16,Delete,k,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895084220793000,1774895084216423000,15,Delete,s,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895084791171000,1774895084786726000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895084923044000,1774895084917036000,15,Insert,o,16,Dnes neni az tao
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895084954232000,1774895084951192000,16,Insert,e,17,Dnes neni az taoe
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895085188944000,1774895085182040000,17,Insert, ,18,Dnes neni az taoe 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895085507126000,1774895085503076000,18,Delete, ,17,Dnes neni az taoe
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895085737160000,1774895085733652000,17,Delete,e,16,Dnes neni az tao
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895085997575000,1774895085994146000,16,Delete,o,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895086427651000,1774895086421448000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895086476676000,1774895086473055000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895086692591000,1774895086685769000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895087457820000,1774895087444403000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895087500687000,1774895087496324000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895087695532000,1774895087690470000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895087866834000,1774895087862102000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895087926798000,1774895087923113000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895088131655000,1774895088125443000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895088391694000,1774895088386203000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895088527662000,1774895088523608000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895088597371000,1774895088593748000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895088769336000,1774895088765298000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895088903215000,1774895088899182000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895088994436000,1774895088989246000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895089050538000,1774895089046802000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895089329174000,1774895089323065000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895090576333000,1774895090569482000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895090758590000,1774895090751926000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895090833939000,1774895090829747000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895090902816000,1774895090897892000,35,Insert,y,36,Dnes neni az take pekne pocasie taky
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895091290829000,1774895091286069000,36,Delete,y,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895091722234000,1774895091716516000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895091852839000,1774895091848577000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895092076439000,1774895092060962000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895092637152000,1774895092625262000,38,Insert,b,39,Dnes neni az take pekne pocasie takze b
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895092697680000,1774895092693673000,39,Insert,e,40,Dnes neni az take pekne pocasie takze be
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895092895282000,1774895092890530000,40,Insert,p,41,Dnes neni az take pekne pocasie takze bep
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895093043106000,1774895093039331000,41,Insert,i,42,Dnes neni az take pekne pocasie takze bepi
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895093304610000,1774895093299100000,42,Delete,i,41,Dnes neni az take pekne pocasie takze bep
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895093431548000,1774895093428988000,41,Delete,p,40,Dnes neni az take pekne pocasie takze be
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895093542548000,1774895093540095000,40,Delete,e,39,Dnes neni az take pekne pocasie takze b
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895093685874000,1774895093682906000,39,Delete,b,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895094255175000,1774895094247916000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895094326809000,1774895094322987000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895094601687000,1774895094596618000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895094769147000,1774895094765165000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895095128120000,1774895095122140000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895095248894000,1774895095245137000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895095393107000,1774895095389177000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895095460179000,1774895095455974000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895095657096000,1774895095652650000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895096813804000,1774895096804878000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895096917511000,1774895096913462000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895097141175000,1774895097132789000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895097203613000,1774895097199703000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895097468975000,1774895097461158000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895097550305000,1774895097546154000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895097671615000,1774895097667331000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895098995012000,1774895098987540000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895099103438000,1774895099097796000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895099240535000,1774895099233635000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895099433053000,1774895099427051000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895099523426000,1774895099518986000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895100350687000,1774895100342352000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895100437881000,1774895100432143000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895100544690000,1774895100539744000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895100795096000,1774895100789003000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895101026620000,1774895101020390000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895101110878000,1774895101099524000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895101203036000,1774895101198637000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895101425395000,1774895101417988000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895102257340000,1774895102249608000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895102333831000,1774895102328053000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895102827095000,1774895102812394000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895102879728000,1774895102874932000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895103132774000,1774895103126897000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895103228786000,1774895103219307000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895103328798000,1774895103324875000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,2,1774895103457124000,1774895103450563000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895118504183000,1774895118497307000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895118581650000,1774895118578061000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895118655628000,1774895118651663000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895118768343000,1774895118764888000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895118990653000,1774895118984262000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895119463904000,1774895119456081000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895119537150000,1774895119532325000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895119650673000,1774895119646608000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895119830902000,1774895119827281000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895119907209000,1774895119903451000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895120791767000,1774895120783392000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895121122792000,1774895121119228000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895121347220000,1774895121339764000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895121576137000,1774895121572005000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895121732383000,1774895121728778000,14,Insert,s,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895121823606000,1774895121819982000,15,Insert,k,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895121879319000,1774895121876212000,16,Insert,e,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895122080301000,1774895122074616000,17,Insert, ,18,Dnes neni az tske 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895122332047000,1774895122328223000,18,Delete, ,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895122467431000,1774895122464690000,17,Delete,e,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895122597183000,1774895122594630000,16,Delete,k,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895122699026000,1774895122696603000,15,Delete,s,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895122907963000,1774895122902362000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895123523864000,1774895123520225000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895123584626000,1774895123581009000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895123775835000,1774895123770291000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895124116045000,1774895124113432000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895124184863000,1774895124180783000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895124303180000,1774895124297916000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895124545008000,1774895124537693000,21,Insert,e,22,Dnes neni az take peke
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895125220466000,1774895125215188000,22,Delete,e,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895125892050000,1774895125884796000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895126110041000,1774895126104216000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895128699132000,1774895128694208000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895128969213000,1774895128964399000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895129091725000,1774895129087152000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895129163977000,1774895129159779000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895129331159000,1774895129322492000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895129453626000,1774895129448549000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895129519473000,1774895129514966000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895129589362000,1774895129584042000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895129801052000,1774895129793129000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895130701531000,1774895130691729000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895130870763000,1774895130864905000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895130961987000,1774895130953911000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895131035867000,1774895131031228000,35,Insert,y,36,Dnes neni az take pekne pocasie taky
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895131491774000,1774895131487210000,36,Delete,y,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895131699297000,1774895131691636000,35,Insert,t,36,Dnes neni az take pekne pocasie takt
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895131839494000,1774895131833668000,36,Insert,e,37,Dnes neni az take pekne pocasie takte
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895132096995000,1774895132090599000,37,Insert, ,38,Dnes neni az take pekne pocasie takte 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895132301695000,1774895132297308000,38,Delete, ,37,Dnes neni az take pekne pocasie takte
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895132447512000,1774895132441046000,37,Delete,e,36,Dnes neni az take pekne pocasie takt
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895132575365000,1774895132572457000,36,Delete,t,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895133282429000,1774895133274996000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895133468491000,1774895133460885000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895133672146000,1774895133668032000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895134042582000,1774895134033980000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895134075480000,1774895134071920000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895134314972000,1774895134309055000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895134452239000,1774895134448072000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895134606527000,1774895134602785000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895134705716000,1774895134702572000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895134791590000,1774895134786113000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895134846863000,1774895134842805000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895135730765000,1774895135722881000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895136916484000,1774895136910555000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895137009448000,1774895137005554000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895137199171000,1774895137194975000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895137262063000,1774895137258097000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895137464295000,1774895137456790000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895137567584000,1774895137563951000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895137664421000,1774895137660176000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895138152426000,1774895138146691000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895138254183000,1774895138249734000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895138360064000,1774895138356164000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895138552106000,1774895138547981000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895138631105000,1774895138626295000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895138857842000,1774895138850211000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895138930523000,1774895138926059000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895139011056000,1774895139006182000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895139406516000,1774895139399937000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895139602427000,1774895139597080000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895139679612000,1774895139675064000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895139773930000,1774895139770156000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895140472956000,1774895140464812000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895141274703000,1774895141267226000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895141346300000,1774895141341075000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895141655846000,1774895141643478000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895141709000000,1774895141703443000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895141955511000,1774895141948233000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895142069003000,1774895142061187000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895142167474000,1774895142163983000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,3,1774895142279405000,1774895142274816000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895153063942000,1774895153058707000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895153166865000,1774895153156442000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895153226334000,1774895153222221000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895153340818000,1774895153337306000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895153600150000,1774895153592383000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895154003914000,1774895154000143000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895154047743000,1774895154042454000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895154163635000,1774895154158027000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895154420922000,1774895154416812000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895154505269000,1774895154501543000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895155000054000,1774895154993887000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895155240823000,1774895155233328000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895155407574000,1774895155403907000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895155592653000,1774895155589081000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895155754495000,1774895155750881000,14,Insert,s,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895155847163000,1774895155843433000,15,Insert,k,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895155906043000,1774895155902498000,16,Insert,e,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895156105890000,1774895156098829000,17,Insert, ,18,Dnes neni az tske 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895156373168000,1774895156369373000,18,Delete, ,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895156490652000,1774895156487730000,17,Delete,e,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895156614695000,1774895156611923000,16,Delete,k,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895156760861000,1774895156758321000,15,Delete,s,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895157011081000,1774895157005028000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895157359283000,1774895157345953000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895157433680000,1774895157417948000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895157613915000,1774895157606819000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895157896332000,1774895157888408000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895157976673000,1774895157972163000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895158089391000,1774895158083710000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895158255378000,1774895158251176000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895158328167000,1774895158321453000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895158543850000,1774895158536931000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895159272890000,1774895159267095000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895159440014000,1774895159435621000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895159502535000,1774895159498556000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895159692702000,1774895159688393000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895159824871000,1774895159820368000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895159900715000,1774895159897230000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895159945898000,1774895159941002000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895160232532000,1774895160224519000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895161033434000,1774895161025555000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895161196150000,1774895161192278000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895161277863000,1774895161273965000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895161406834000,1774895161402559000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895161529574000,1774895161523865000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895161877140000,1774895161871167000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895162641208000,1774895162625564000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895162680281000,1774895162675313000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895162927475000,1774895162920719000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895163074326000,1774895163064537000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895163195759000,1774895163191509000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895163271615000,1774895163267652000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895163346187000,1774895163342751000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895163419632000,1774895163416345000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895164614618000,1774895164603315000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895164797667000,1774895164792732000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895164877174000,1774895164873219000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895165076720000,1774895165070328000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895165122472000,1774895165118094000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895165329715000,1774895165326558000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895165450542000,1774895165444462000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895165525770000,1774895165520315000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895165998907000,1774895165992638000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895166159389000,1774895166155265000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895166256446000,1774895166252088000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895166432141000,1774895166422870000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895166511742000,1774895166507052000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895166679439000,1774895166675674000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895166767022000,1774895166761409000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895166825876000,1774895166821362000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895167216585000,1774895167209372000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895167383538000,1774895167377337000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895167464389000,1774895167460169000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895167545547000,1774895167539780000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895168783377000,1774895168775831000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895169171290000,1774895169164315000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895169244230000,1774895169239560000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895169431642000,1774895169424947000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895169468532000,1774895169464151000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895169695893000,1774895169689842000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895169756043000,1774895169747068000,72,Insert,i,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebi
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895169873057000,1774895169869439000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebid
+my57RUXuMdcCABGumWAajjhxjgi2,4,1774895169982090000,1774895169976891000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebide
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895195234467000,1774895195228751000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895195311616000,1774895195307712000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895195379550000,1774895195376060000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895196271524000,1774895196266572000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895196473648000,1774895196469915000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895196654942000,1774895196651177000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895196717444000,1774895196714014000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895196911353000,1774895196907761000,7,Insert,p,8,Dnes nep
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895197053004000,1774895197049347000,8,Insert,o,9,Dnes nepo
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895197241067000,1774895197234368000,9,Insert,d,10,Dnes nepod
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895197594055000,1774895197590180000,10,Delete,d,9,Dnes nepo
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895197723328000,1774895197720231000,9,Delete,o,8,Dnes nep
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895197819435000,1774895197814594000,8,Delete,p,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895198464765000,1774895198456905000,7,Insert,p,8,Dnes nep
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895198584888000,1774895198581126000,8,Insert,o,9,Dnes nepo
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895198759248000,1774895198754566000,9,Insert,j,10,Dnes nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895198829561000,1774895198826537000,10,Insert,d,11,Dnes nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895198937825000,1774895198933743000,11,Insert,e,12,Dnes nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895199005587000,1774895199002059000,12,Insert,m,13,Dnes nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895199655867000,1774895199651094000,13,Delete,m,12,Dnes nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895199783355000,1774895199780394000,12,Delete,e,11,Dnes nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895199913420000,1774895199910822000,11,Delete,d,10,Dnes nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895200042367000,1774895200037951000,10,Delete,j,9,Dnes nepo
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895200180392000,1774895200176569000,9,Delete,o,8,Dnes nep
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895200316804000,1774895200312682000,8,Delete,p,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895200448618000,1774895200445400000,7,Delete,e,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895201189152000,1774895201182600000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895201317280000,1774895201311775000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895201504334000,1774895201500080000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895201567878000,1774895201563948000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895202136079000,1774895202132341000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895202426452000,1774895202420705000,11,Insert,t,12,Dnes neni at
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895202617498000,1774895202608818000,12,Insert, ,13,Dnes neni at 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895203007548000,1774895203003871000,13,Delete, ,12,Dnes neni at
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895203127675000,1774895203123788000,12,Delete,t,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895203411798000,1774895203406973000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895203643098000,1774895203639147000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895203831855000,1774895203827993000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895204002978000,1774895203997843000,14,Insert,s,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895204097891000,1774895204091489000,15,Insert,k,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895204148687000,1774895204144913000,16,Insert,e,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895204376237000,1774895204370496000,17,Insert, ,18,Dnes neni az tske 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895204664141000,1774895204660688000,18,Delete, ,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895204829711000,1774895204826375000,17,Delete,e,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895204947789000,1774895204945038000,16,Delete,k,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895205057704000,1774895205052983000,15,Delete,s,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895205357571000,1774895205351105000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895205590874000,1774895205582396000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895205646953000,1774895205643069000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895205840852000,1774895205836908000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895206979424000,1774895206972346000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895207064949000,1774895207060960000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895207220507000,1774895207216134000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895207414490000,1774895207399995000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895207473263000,1774895207467565000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895207680803000,1774895207675107000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895208126566000,1774895208119885000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895208287769000,1774895208284121000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895208365093000,1774895208360881000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895208579558000,1774895208573605000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895208700849000,1774895208696745000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895208792787000,1774895208788899000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895208860290000,1774895208855201000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895209335017000,1774895209328739000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895209692689000,1774895209687131000,32,Insert,a,33,Dnes neni az take pekne pocasie a
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895210120937000,1774895210117168000,33,Delete,a,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895210588402000,1774895210580872000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895210772599000,1774895210768493000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895210834401000,1774895210830056000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895210992941000,1774895210988058000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895211115849000,1774895211112035000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895211694779000,1774895211689898000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895211975832000,1774895211969962000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895212651409000,1774895212646337000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895213112288000,1774895213101963000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895213232245000,1774895213228511000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895213408756000,1774895213404965000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895213552862000,1774895213549431000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895213606579000,1774895213600777000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895213674849000,1774895213671088000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895213902128000,1774895213893646000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895214643210000,1774895214636501000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895214715542000,1774895214710927000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895214913224000,1774895214909275000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895214967598000,1774895214963665000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895215212099000,1774895215205168000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895215295628000,1774895215291340000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895215417203000,1774895215410060000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895216407075000,1774895216392850000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895216453676000,1774895216449267000,55,Insert,r,56,Dnes neni az take pekne pocasie takze nepojdem von so pr
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895216873267000,1774895216869121000,56,Delete,r,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895217161909000,1774895217156260000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895217278582000,1774895217274794000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895217483113000,1774895217477273000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895217555059000,1774895217547758000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895218303688000,1774895218295758000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895218389290000,1774895218385277000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895218456800000,1774895218451728000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895218864819000,1774895218859123000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895219047223000,1774895219042356000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895219558347000,1774895219551738000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895219679723000,1774895219673486000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895220228109000,1774895220218352000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895220511950000,1774895220504897000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895220576622000,1774895220571372000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895220906853000,1774895220899061000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895220982060000,1774895220977922000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895221193124000,1774895221186983000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895221277319000,1774895221273473000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895221380425000,1774895221376577000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,5,1774895221479395000,1774895221472456000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895232144577000,1774895232140026000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895232221244000,1774895232216259000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895232295723000,1774895232291567000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895232405804000,1774895232397278000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895232628043000,1774895232622132000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895232967325000,1774895232958696000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895233023308000,1774895233019575000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895233137720000,1774895233132254000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895233292239000,1774895233288312000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895233364336000,1774895233360446000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895233717645000,1774895233709398000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895233949841000,1774895233944185000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895234167183000,1774895234161117000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895234414335000,1774895234408622000,13,Insert,z,14,Dnes neni az z
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895234594555000,1774895234590141000,14,Insert,a,15,Dnes neni az za
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895234673591000,1774895234668942000,15,Insert,k,16,Dnes neni az zak
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895234739108000,1774895234734219000,16,Insert,e,17,Dnes neni az zake
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895235105915000,1774895235102365000,17,Delete,e,16,Dnes neni az zak
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895235243211000,1774895235240008000,16,Delete,k,15,Dnes neni az za
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895235382468000,1774895235379827000,15,Delete,a,14,Dnes neni az z
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895236550946000,1774895236545593000,14,Delete,z,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895237673575000,1774895237668948000,13,Delete, ,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895237929838000,1774895237923433000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895238273907000,1774895238268226000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895238581024000,1774895238575077000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895238672134000,1774895238668454000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895238745907000,1774895238742758000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895238986295000,1774895238979114000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895239369896000,1774895239366403000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895239718916000,1774895239712976000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895239911874000,1774895239907761000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895240128467000,1774895240122984000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895240188689000,1774895240184936000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895240424365000,1774895240417287000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895240861315000,1774895240857787000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895240999131000,1774895240995404000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895241086529000,1774895241083354000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895241244413000,1774895241240419000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895241363683000,1774895241359987000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895241447522000,1774895241442786000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895241512666000,1774895241508474000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895242204321000,1774895242198422000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895242619766000,1774895242613969000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895242791041000,1774895242787034000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895242844329000,1774895242839580000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895242987786000,1774895242984138000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895243165950000,1774895243161939000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895243665427000,1774895243658332000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895244035261000,1774895244024767000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895244100726000,1774895244094293000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895244320205000,1774895244313977000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895244487038000,1774895244481195000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895244993444000,1774895244987936000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895245127570000,1774895245121086000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895245238377000,1774895245232071000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895245301020000,1774895245298858000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895245982956000,1774895245975762000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895246509642000,1774895246505322000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895246580453000,1774895246575450000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895246776000000,1774895246768684000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895246815167000,1774895246811730000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895247033184000,1774895247026472000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895247110581000,1774895247104830000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895247226815000,1774895247222644000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895247649148000,1774895247638983000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895247759923000,1774895247754422000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895247877191000,1774895247867697000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895248053401000,1774895248048738000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895248161102000,1774895248156861000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895249936996000,1774895249928475000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895249999265000,1774895249993804000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895250092163000,1774895250086459000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895250245797000,1774895250241655000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895250417671000,1774895250413298000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895250528975000,1774895250523240000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895250595996000,1774895250592285000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895251259318000,1774895251255858000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895251751308000,1774895251746869000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895251817634000,1774895251813620000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895252071397000,1774895252064931000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895252130510000,1774895252126980000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895252434509000,1774895252425704000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895252490523000,1774895252486715000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895252633048000,1774895252625291000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,6,1774895252738779000,1774895252733195000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895264070200000,1774895264064923000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895264165982000,1774895264161137000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895264228067000,1774895264225114000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895264356031000,1774895264352218000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895264511768000,1774895264506169000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895264884855000,1774895264877374000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895264937188000,1774895264933606000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895265061352000,1774895265057918000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895265344291000,1774895265337214000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895265420351000,1774895265411330000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895265882842000,1774895265877828000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895266083328000,1774895266077573000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895266260749000,1774895266257019000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895266429867000,1774895266425917000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895266597807000,1774895266592674000,14,Insert,s,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895266684307000,1774895266680126000,15,Insert,k,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895266720469000,1774895266715556000,16,Insert,e,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895266934756000,1774895266928949000,17,Insert, ,18,Dnes neni az tske 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895267267253000,1774895267263691000,18,Delete, ,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895267403261000,1774895267399673000,17,Delete,e,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895267523790000,1774895267519631000,16,Delete,k,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895267649502000,1774895267645475000,15,Delete,s,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895268093937000,1774895268088593000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895268327772000,1774895268319505000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895268378071000,1774895268375040000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895268614805000,1774895268608169000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895268865159000,1774895268856649000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895268924656000,1774895268920823000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895269045927000,1774895269041985000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895269217160000,1774895269213249000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895269303730000,1774895269299624000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895269533809000,1774895269526814000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895269793382000,1774895269788151000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895269904742000,1774895269900809000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895269955221000,1774895269951847000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895270112494000,1774895270106685000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895270232650000,1774895270228789000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895270315328000,1774895270310606000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895270428528000,1774895270424015000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895271180981000,1774895271172084000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895272845222000,1774895272839595000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895273049540000,1774895273040917000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895273143209000,1774895273139149000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895273237489000,1774895273233269000,35,Insert,g,36,Dnes neni az take pekne pocasie takg
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895273379576000,1774895273374915000,36,Insert,e,37,Dnes neni az take pekne pocasie takge
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895273647063000,1774895273642530000,37,Insert, ,38,Dnes neni az take pekne pocasie takge 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895273975395000,1774895273971818000,38,Delete, ,37,Dnes neni az take pekne pocasie takge
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895274118827000,1774895274112268000,37,Delete,e,36,Dnes neni az take pekne pocasie takg
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895274261068000,1774895274257084000,36,Delete,g,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895274393155000,1774895274388490000,35,Delete,k,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895274517955000,1774895274512621000,34,Delete,a,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895274910306000,1774895274905386000,33,Delete,t,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895276978823000,1774895276974179000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895277272432000,1774895277264870000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895277328044000,1774895277324761000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895277482183000,1774895277476487000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895277605352000,1774895277595550000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895278288149000,1774895278282028000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895278589901000,1774895278584830000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895278654915000,1774895278650189000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895278898993000,1774895278893448000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895279056313000,1774895279051288000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895279222857000,1774895279217051000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895279298197000,1774895279294198000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895279391404000,1774895279386303000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895279467706000,1774895279464542000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895280282008000,1774895280274110000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895280558628000,1774895280550751000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895280612601000,1774895280607802000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895280796145000,1774895280792113000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895280852282000,1774895280847569000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895281065142000,1774895281058668000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895281161251000,1774895281157392000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895281262829000,1774895281258159000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895281580314000,1774895281572988000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895281664654000,1774895281659684000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895281756796000,1774895281752319000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895281952975000,1774895281949173000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895282026395000,1774895282021411000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895282429823000,1774895282421690000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895282507148000,1774895282503190000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895282599123000,1774895282594604000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895283052498000,1774895283048583000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895283252852000,1774895283247969000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895283340250000,1774895283335819000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895283421922000,1774895283417929000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895283651300000,1774895283644331000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895284337738000,1774895284330578000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895284401230000,1774895284397062000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895284633654000,1774895284629538000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895284692452000,1774895284688364000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895284925493000,1774895284921395000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895285046859000,1774895285042769000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895285166966000,1774895285163384000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,7,1774895285277565000,1774895285272917000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895298344304000,1774895298339000000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895298428934000,1774895298424995000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895298498582000,1774895298495642000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895298635557000,1774895298632162000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895298855227000,1774895298848841000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895299161044000,1774895299152567000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895299225853000,1774895299222033000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895299348169000,1774895299342948000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895299503489000,1774895299499090000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895299587025000,1774895299583707000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895300071972000,1774895300065902000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895300325791000,1774895300320331000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895300493212000,1774895300488090000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895300704214000,1774895300698736000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895300867403000,1774895300862341000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895300964328000,1774895300960198000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895301012431000,1774895301008432000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895301207799000,1774895301202734000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895301794617000,1774895301788641000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895302027790000,1774895302021743000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895302204124000,1774895302200550000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895302402320000,1774895302398813000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895302469383000,1774895302464742000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895302673751000,1774895302667251000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895303238170000,1774895303234211000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895303643945000,1774895303637392000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895303738786000,1774895303733554000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895303951731000,1774895303946709000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895304099159000,1774895304095205000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895304236138000,1774895304230545000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895304320814000,1774895304317058000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895304903776000,1774895304893046000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895305448689000,1774895305444126000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895305619840000,1774895305614409000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895305697743000,1774895305691342000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895305807920000,1774895305802947000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895305966138000,1774895305962298000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895306215054000,1774895306208384000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895306742468000,1774895306738007000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895306788062000,1774895306784144000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895307004360000,1774895306998208000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895307152261000,1774895307146675000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895307300548000,1774895307296142000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895307370052000,1774895307365880000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895307470086000,1774895307465821000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895307533523000,1774895307530364000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895307842223000,1774895307833735000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895308502196000,1774895308495258000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895308597301000,1774895308592870000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895308748311000,1774895308744324000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895308810563000,1774895308807023000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895309009074000,1774895309004972000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895309115048000,1774895309109949000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895309241968000,1774895309237110000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895309735173000,1774895309729340000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895309861855000,1774895309857869000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895309983056000,1774895309977945000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895310159171000,1774895310151374000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895310216146000,1774895310211820000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895310431910000,1774895310423624000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895310538163000,1774895310531487000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895310599933000,1774895310588612000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895310992550000,1774895310986292000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895311193638000,1774895311185095000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895311293638000,1774895311285156000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895311371759000,1774895311367491000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895313449590000,1774895313439224000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895313698602000,1774895313691880000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895313787575000,1774895313779728000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895314042542000,1774895314034544000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895314108637000,1774895314094812000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895314408262000,1774895314402066000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895314529816000,1774895314526024000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895314614147000,1774895314610817000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,8,1774895314734196000,1774895314730092000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895334737693000,1774895334730711000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895334817589000,1774895334814089000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895334884381000,1774895334880963000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895335006064000,1774895335002338000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895335491985000,1774895335486015000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895335992197000,1774895335979995000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895336054288000,1774895336047260000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895336144522000,1774895336140741000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895336300336000,1774895336296878000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895336369051000,1774895336365267000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895336767168000,1774895336761434000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895336971615000,1774895336965363000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895337133295000,1774895337129619000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895337317072000,1774895337313469000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895337481741000,1774895337478039000,14,Insert,s,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895337557332000,1774895337552968000,15,Insert,k,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895337614781000,1774895337611255000,16,Insert,e,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895337826133000,1774895337819421000,17,Insert, ,18,Dnes neni az tske 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895338073146000,1774895338069007000,18,Delete, ,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895338189393000,1774895338185175000,17,Delete,e,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895338314587000,1774895338311792000,16,Delete,k,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895338431379000,1774895338428536000,15,Delete,s,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895339177517000,1774895339173329000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895339415295000,1774895339406472000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895339479103000,1774895339472626000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895339665560000,1774895339661555000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895339912912000,1774895339905523000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895339966106000,1774895339961571000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895340104369000,1774895340096965000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895340415462000,1774895340405712000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895340455040000,1774895340451407000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895340650614000,1774895340646805000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895340914434000,1774895340907762000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895341026357000,1774895341022364000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895341084625000,1774895341080333000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895341263581000,1774895341257369000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895341400871000,1774895341397101000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895341479708000,1774895341475390000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895341536236000,1774895341531910000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895341749787000,1774895341743404000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895342509774000,1774895342503544000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895342677291000,1774895342673718000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895342763978000,1774895342760092000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895342913630000,1774895342910200000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895343041920000,1774895343037945000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895343279226000,1774895343271226000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895344277010000,1774895344266073000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895344326648000,1774895344323498000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895344534129000,1774895344528113000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895344676990000,1774895344671452000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895344850930000,1774895344846771000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895344924817000,1774895344920395000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895345007706000,1774895345000825000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895345085608000,1774895345081748000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895345363908000,1774895345353863000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895346339251000,1774895346328811000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895346401500000,1774895346396652000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895346559683000,1774895346554208000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895346625460000,1774895346620783000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895346839369000,1774895346833460000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895346942980000,1774895346937980000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895347072624000,1774895347068347000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895348008555000,1774895347998908000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895348070796000,1774895348068068000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895348249222000,1774895348244952000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895348449099000,1774895348444720000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895348525552000,1774895348520846000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895348962699000,1774895348952695000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895349047599000,1774895349042338000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895349154099000,1774895349145732000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895349520730000,1774895349514395000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895350259780000,1774895350252797000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895350380630000,1774895350373671000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895350439640000,1774895350435559000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895350729359000,1774895350721422000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895351816018000,1774895351810566000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895351937572000,1774895351933289000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895352316089000,1774895352311706000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895352371493000,1774895352366987000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895352609237000,1774895352601876000,71,Insert,v,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nev
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895352675538000,1774895352669250000,72,Insert,i,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nevi
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895352852103000,1774895352844094000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nevid
+my57RUXuMdcCABGumWAajjhxjgi2,9,1774895352961549000,1774895352956902000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nevide
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895362464172000,1774895362460109000,0,Insert, ,1, 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895363812534000,1774895363806300000,1,Insert,D,2, D
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895363903125000,1774895363899568000,2,Insert,n,3, Dn
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895363957737000,1774895363954605000,3,Insert,e,4, Dne
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895364090922000,1774895364087322000,4,Insert,s,5, Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895364480652000,1774895364476707000,5,Delete,s,4, Dne
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895364597754000,1774895364595485000,4,Delete,e,3, Dn
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895364720821000,1774895364716292000,3,Delete,n,2, D
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895364840849000,1774895364838520000,2,Delete,D,1, 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895364964943000,1774895364962986000,1,Delete, ,0,
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895365635606000,1774895365624647000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895365715717000,1774895365711770000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895365766323000,1774895365763346000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895365891476000,1774895365884335000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895366150347000,1774895366144723000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895366775822000,1774895366766221000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895366812327000,1774895366809444000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895366931070000,1774895366926771000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895367171840000,1774895367165971000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895367258188000,1774895367252169000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895367712772000,1774895367706182000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895367886668000,1774895367882630000,11,Insert,t,12,Dnes neni at
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895368060054000,1774895368055826000,12,Insert, ,13,Dnes neni at 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895368345951000,1774895368341388000,13,Delete, ,12,Dnes neni at
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895368513750000,1774895368509988000,12,Delete,t,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895368720937000,1774895368716661000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895368906400000,1774895368902638000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895369136419000,1774895369129062000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895369293027000,1774895369289222000,14,Insert,s,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895369372089000,1774895369368231000,15,Insert,k,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895369439076000,1774895369435684000,16,Insert,w,17,Dnes neni az tskw
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895369677751000,1774895369670734000,17,Insert, ,18,Dnes neni az tskw 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895369890874000,1774895369887118000,18,Delete, ,17,Dnes neni az tskw
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895370028730000,1774895370024488000,17,Delete,w,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895370133123000,1774895370127990000,16,Delete,k,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895370259083000,1774895370255101000,15,Delete,s,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895370900385000,1774895370894586000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895371076013000,1774895371061778000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895371125821000,1774895371122881000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895371329335000,1774895371321182000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895371635789000,1774895371629942000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895371710592000,1774895371707543000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895371829690000,1774895371825658000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895371991559000,1774895371981101000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895372054045000,1774895372050596000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895372243736000,1774895372239725000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895372550090000,1774895372543759000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895372677272000,1774895372672979000,25,Insert,p,26,Dnes neni az take pekne pp
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895372738547000,1774895372734919000,26,Insert,c,27,Dnes neni az take pekne ppc
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895372895498000,1774895372891899000,27,Insert,a,28,Dnes neni az take pekne ppca
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895373022610000,1774895373017508000,28,Insert,s,29,Dnes neni az take pekne ppcas
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895373097036000,1774895373089807000,29,Insert,i,30,Dnes neni az take pekne ppcasi
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895373155195000,1774895373151725000,30,Insert,e,31,Dnes neni az take pekne ppcasie
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895373399542000,1774895373394340000,31,Delete,e,30,Dnes neni az take pekne ppcasi
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895373512049000,1774895373508304000,30,Delete,i,29,Dnes neni az take pekne ppcas
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895373632652000,1774895373630096000,29,Delete,s,28,Dnes neni az take pekne ppca
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895373778759000,1774895373776176000,28,Delete,a,27,Dnes neni az take pekne ppc
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895373927091000,1774895373924588000,27,Delete,c,26,Dnes neni az take pekne pp
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895374192855000,1774895374188398000,26,Delete,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895374730593000,1774895374722147000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895375003808000,1774895374998065000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895375250945000,1774895375243317000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895375387483000,1774895375383439000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895375503390000,1774895375496357000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895375568659000,1774895375565402000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895375817472000,1774895375809349000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895376216615000,1774895376211164000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895376380240000,1774895376376686000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895376462714000,1774895376458719000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895376556020000,1774895376551719000,35,Insert,y,36,Dnes neni az take pekne pocasie taky
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895376710817000,1774895376707197000,36,Insert,e,37,Dnes neni az take pekne pocasie takye
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895377139147000,1774895377134167000,37,Delete,e,36,Dnes neni az take pekne pocasie taky
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895377254605000,1774895377251990000,36,Delete,y,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895377387346000,1774895377384145000,35,Delete,k,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895378334642000,1774895378327617000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895378594040000,1774895378587622000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895378731613000,1774895378728840000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895378951180000,1774895378944959000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895379312633000,1774895379293686000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895379359964000,1774895379356986000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895379641314000,1774895379636703000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895379782902000,1774895379773600000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895379964435000,1774895379960463000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895380060905000,1774895380057773000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895380148608000,1774895380141640000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895380216123000,1774895380212340000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895380444157000,1774895380435174000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895381696741000,1774895381689829000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895381790812000,1774895381785714000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895381984752000,1774895381979257000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895382056621000,1774895382051706000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895382311135000,1774895382304602000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895382456929000,1774895382452282000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895382551103000,1774895382545806000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895382825938000,1774895382819180000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895382896911000,1774895382892730000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895383028744000,1774895383023235000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895383199464000,1774895383194629000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895383277081000,1774895383272240000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895383446612000,1774895383442227000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895383536950000,1774895383532734000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895383613555000,1774895383609103000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895384020499000,1774895384014917000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895384227843000,1774895384222982000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895384354854000,1774895384348218000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895384416978000,1774895384412748000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895384609269000,1774895384595149000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895384833738000,1774895384829431000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895384899670000,1774895384894969000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895385193393000,1774895385183996000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895385245163000,1774895385241197000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895385485189000,1774895385477223000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895385547542000,1774895385542943000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895385659353000,1774895385653013000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,10,1774895385778003000,1774895385773657000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895392106159000,1774895392104094000,0,Insert, ,1, 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895393388826000,1774895393385365000,1,Delete, ,0,
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895394238471000,1774895394234612000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895394323246000,1774895394319334000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895394383442000,1774895394379447000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895394501989000,1774895394498466000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895394742799000,1774895394737248000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895395317022000,1774895395302949000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895395360397000,1774895395356273000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895395515317000,1774895395509358000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895395645461000,1774895395639253000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895395711817000,1774895395708204000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895396106779000,1774895396099143000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895396266183000,1774895396261618000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895396449018000,1774895396444074000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895396646979000,1774895396639492000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895396809600000,1774895396805542000,14,Insert,s,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895396919229000,1774895396913328000,15,Insert,k,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895396976866000,1774895396973212000,16,Insert,e,17,Dnes neni az tske
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895397576667000,1774895397574025000,17,Delete,e,16,Dnes neni az tsk
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895397734790000,1774895397731834000,16,Delete,k,15,Dnes neni az ts
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895398292627000,1774895398286931000,15,Delete,s,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895398471887000,1774895398466292000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895398594947000,1774895398591406000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895398653303000,1774895398649290000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895398863375000,1774895398856035000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895399089145000,1774895399082502000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895399164056000,1774895399160299000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895399270769000,1774895399264464000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895399428115000,1774895399424518000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895399467579000,1774895399464531000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895399666562000,1774895399662620000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895399973875000,1774895399968534000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895400074065000,1774895400070346000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895400147132000,1774895400143927000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895400308739000,1774895400302670000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895400431421000,1774895400427606000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895400498322000,1774895400494440000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895400575142000,1774895400571534000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895401297460000,1774895401288549000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895401530852000,1774895401525187000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895402071068000,1774895402065371000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895402386846000,1774895402379721000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895402450055000,1774895402444269000,35,Insert,y,36,Dnes neni az take pekne pocasie taky
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895402611392000,1774895402604063000,36,Insert,e,37,Dnes neni az take pekne pocasie takye
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895402973258000,1774895402969012000,37,Delete,e,36,Dnes neni az take pekne pocasie taky
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895403117238000,1774895403114527000,36,Delete,y,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895403604641000,1774895403598939000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895404181172000,1774895404175676000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895404417429000,1774895404409854000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895404686655000,1774895404679224000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895404756187000,1774895404752233000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895404924491000,1774895404919951000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895405069631000,1774895405064599000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895405184269000,1774895405178237000,42,Insert,d,43,Dnes neni az take pekne pocasie takze nepod
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895405255339000,1774895405251350000,43,Insert,m,44,Dnes neni az take pekne pocasie takze nepodm
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895405339197000,1774895405335231000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepodme
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895405451510000,1774895405446433000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepodmem
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895405780069000,1774895405776187000,46,Delete,m,45,Dnes neni az take pekne pocasie takze nepodme
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895405897212000,1774895405894730000,45,Delete,e,44,Dnes neni az take pekne pocasie takze nepodm
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895406024504000,1774895406022028000,44,Delete,m,43,Dnes neni az take pekne pocasie takze nepod
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895406164100000,1774895406161684000,43,Delete,d,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895406834691000,1774895406828468000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895406952270000,1774895406948996000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895407069672000,1774895407065275000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895407153504000,1774895407149667000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895407288668000,1774895407284387000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895407753154000,1774895407746643000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895408201334000,1774895408193618000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895408415104000,1774895408412130000,49,Insert,j,50,Dnes neni az take pekne pocasie takze nepojdem voj
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895408473410000,1774895408469010000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem voj 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895408701703000,1774895408693873000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem voj s
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895408834844000,1774895408829681000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem voj so
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895408918186000,1774895408912113000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem voj so 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895409136224000,1774895409132509000,54,Delete, ,53,Dnes neni az take pekne pocasie takze nepojdem voj so
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895409248743000,1774895409245963000,53,Delete,o,52,Dnes neni az take pekne pocasie takze nepojdem voj s
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895409381915000,1774895409378624000,52,Delete,s,51,Dnes neni az take pekne pocasie takze nepojdem voj 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895409527295000,1774895409524505000,51,Delete, ,50,Dnes neni az take pekne pocasie takze nepojdem voj
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895409922079000,1774895409917885000,50,Delete,j,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895410211520000,1774895410204548000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895410267562000,1774895410261340000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895410590501000,1774895410584723000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895410701418000,1774895410692045000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895410777102000,1774895410772302000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895411154836000,1774895411150844000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895411238175000,1774895411234389000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895411349220000,1774895411344296000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895411523449000,1774895411519292000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895411587328000,1774895411583942000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895411822549000,1774895411813925000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895411887815000,1774895411884619000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895412004269000,1774895411997934000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895412383735000,1774895412377199000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895412594227000,1774895412588601000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895412687057000,1774895412683154000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895412777642000,1774895412771924000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895412979248000,1774895412971421000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895416202168000,1774895416195495000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895416324343000,1774895416318779000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895416782444000,1774895416775339000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895416830819000,1774895416823058000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895417048424000,1774895417041415000,71,Insert,v,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nev
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895417119372000,1774895417115060000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nevu
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895417241567000,1774895417235344000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nevud
+my57RUXuMdcCABGumWAajjhxjgi2,11,1774895417332338000,1774895417326521000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nevude
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895427734224000,1774895427730949000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895427814922000,1774895427811514000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895427879640000,1774895427876419000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895427989457000,1774895427986310000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895428252291000,1774895428245371000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895428539300000,1774895428531899000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895428593481000,1774895428585932000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895428711617000,1774895428708289000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895428866406000,1774895428862431000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895428923034000,1774895428918823000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895429201145000,1774895429197233000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895429382651000,1774895429379011000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895429562481000,1774895429558871000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895429760938000,1774895429756927000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895429928279000,1774895429924111000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895430017687000,1774895430013703000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895430066944000,1774895430062509000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895430265669000,1774895430260009000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895430548497000,1774895430541438000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895430630037000,1774895430621950000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895430745847000,1774895430738473000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895430897395000,1774895430889298000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895430999230000,1774895430995047000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895431201383000,1774895431196722000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895431488574000,1774895431482225000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895431635643000,1774895431630387000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895431683721000,1774895431679522000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895431872042000,1774895431865166000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895432004340000,1774895432000145000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895432085934000,1774895432081696000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895432160469000,1774895432156124000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895432792508000,1774895432788165000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895435768170000,1774895435759520000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895435931059000,1774895435926517000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895436004195000,1774895436000056000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895436134421000,1774895436128711000,35,Insert,s,36,Dnes neni az take pekne pocasie taks
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895436589968000,1774895436586422000,36,Delete,s,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895437066773000,1774895437060243000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895437220572000,1774895437216386000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895437396650000,1774895437392017000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895437642515000,1774895437635282000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895437704727000,1774895437700089000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895437915372000,1774895437907679000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895438046817000,1774895438040897000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895438187094000,1774895438183373000,42,Insert,d,43,Dnes neni az take pekne pocasie takze nepod
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895438294006000,1774895438288592000,43,Insert,e,44,Dnes neni az take pekne pocasie takze nepode
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895438385171000,1774895438378485000,44,Insert,m,45,Dnes neni az take pekne pocasie takze nepodem
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895438759719000,1774895438755520000,45,Delete,m,44,Dnes neni az take pekne pocasie takze nepode
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895438872078000,1774895438869235000,44,Delete,e,43,Dnes neni az take pekne pocasie takze nepod
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895438998684000,1774895438993649000,43,Delete,d,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895439576202000,1774895439571573000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895439636069000,1774895439632799000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895439757988000,1774895439754177000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895439843971000,1774895439840254000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895439969235000,1774895439965205000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895440405930000,1774895440393744000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895440564906000,1774895440560733000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895440798076000,1774895440790017000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895440838458000,1774895440834409000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895441096013000,1774895441090387000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895441203645000,1774895441196862000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895441290084000,1774895441285717000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895441652953000,1774895441646730000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895441731209000,1774895441727243000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895441847994000,1774895441844092000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895442044476000,1774895442040857000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895442126747000,1774895442122099000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895442590991000,1774895442584588000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895442677851000,1774895442669273000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895442770163000,1774895442766094000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895442918819000,1774895442913075000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895443095817000,1774895443090950000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895443204749000,1774895443200519000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895443261486000,1774895443257554000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895443433247000,1774895443427188000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895443675901000,1774895443669245000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895443759417000,1774895443753842000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895444000594000,1774895443989641000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895444063877000,1774895444053761000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895444261476000,1774895444257699000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895444319128000,1774895444315239000,72,Insert,i,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebi
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895444465068000,1774895444459357000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebid
+my57RUXuMdcCABGumWAajjhxjgi2,12,1774895444550187000,1774895444546507000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebide
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895456027221000,1774895456020515000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895456100017000,1774895456096294000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895456184311000,1774895456180646000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895456297299000,1774895456293810000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895456543858000,1774895456537864000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895457058020000,1774895457048495000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895457132014000,1774895457128255000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895457238563000,1774895457232759000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895457416562000,1774895457412629000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895457501063000,1774895457497170000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895457870783000,1774895457863865000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895458063363000,1774895458059673000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895458237484000,1774895458232588000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895458470507000,1774895458463452000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895458666968000,1774895458662465000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895458756417000,1774895458752286000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895458840144000,1774895458835734000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895459068252000,1774895459060907000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895462481982000,1774895462465221000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895462525566000,1774895462517982000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895462717430000,1774895462712241000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895462864949000,1774895462859952000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895462936429000,1774895462932393000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895463127076000,1774895463119710000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895463327429000,1774895463322121000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895463438875000,1774895463433666000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895463502779000,1774895463498967000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895463692542000,1774895463688797000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895463753842000,1774895463749815000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895463842694000,1774895463839419000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895463959894000,1774895463951893000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895464419725000,1774895464414032000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895467174290000,1774895467168767000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895467536307000,1774895467528717000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895467625732000,1774895467620697000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895467802776000,1774895467797228000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895467931329000,1774895467926535000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895468203995000,1774895468199906000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895468810497000,1774895468804057000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895468879133000,1774895468875166000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895469081529000,1774895469076070000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895469208515000,1774895469202512000,41,Insert,i,42,Dnes neni az take pekne pocasie takze nepi
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895469363592000,1774895469359154000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepij
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895469480419000,1774895469475177000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepijd
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895469604012000,1774895469600209000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepijde
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895469916210000,1774895469913083000,45,Delete,e,44,Dnes neni az take pekne pocasie takze nepijd
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895470044679000,1774895470040651000,44,Delete,d,43,Dnes neni az take pekne pocasie takze nepij
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895470167925000,1774895470164906000,43,Delete,j,42,Dnes neni az take pekne pocasie takze nepi
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895472896231000,1774895472864316000,42,Delete,i,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895473158528000,1774895473152310000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895473363739000,1774895473353175000,42,Insert,k,43,Dnes neni az take pekne pocasie takze nepok
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895473440272000,1774895473436793000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepokd
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895473534328000,1774895473529320000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepokde
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895473598600000,1774895473594165000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepokdem
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895473791869000,1774895473782859000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepokdem 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895474023391000,1774895474017781000,47,Delete, ,46,Dnes neni az take pekne pocasie takze nepokdem
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895474139962000,1774895474137057000,46,Delete,m,45,Dnes neni az take pekne pocasie takze nepokde
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895474258525000,1774895474254673000,45,Delete,e,44,Dnes neni az take pekne pocasie takze nepokd
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895474392084000,1774895474388601000,44,Delete,d,43,Dnes neni az take pekne pocasie takze nepok
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895474515559000,1774895474512060000,43,Delete,k,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895475072161000,1774895475066955000,42,Insert,i,43,Dnes neni az take pekne pocasie takze nepoi
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895475252652000,1774895475245410000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepoid
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895475352932000,1774895475347897000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepoide
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895475440760000,1774895475436640000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepoidem
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895475718357000,1774895475713234000,46,Delete,m,45,Dnes neni az take pekne pocasie takze nepoide
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895475841767000,1774895475838695000,45,Delete,e,44,Dnes neni az take pekne pocasie takze nepoid
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895475939432000,1774895475935558000,44,Delete,d,43,Dnes neni az take pekne pocasie takze nepoi
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895476089879000,1774895476086963000,43,Delete,i,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895476650194000,1774895476645109000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895476850611000,1774895476842926000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895476970755000,1774895476965909000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895477057539000,1774895477054852000,45,Delete,e,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895477202394000,1774895477193554000,44,Insert, ,45,Dnes neni az take pekne pocasie takze nepojd 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895477556704000,1774895477552230000,45,Insert,v,46,Dnes neni az take pekne pocasie takze nepojd v
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895477927921000,1774895477924024000,46,Delete,v,45,Dnes neni az take pekne pocasie takze nepojd 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895478140133000,1774895478136328000,45,Delete, ,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895478755739000,1774895478750809000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895479307622000,1774895479302880000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895479385123000,1774895479380932000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895479850999000,1774895479844158000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895480002809000,1774895479998989000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895480208321000,1774895480204279000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895480272468000,1774895480268287000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895480529949000,1774895480523504000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895480642589000,1774895480638792000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895480735220000,1774895480731056000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895481178173000,1774895481172132000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895481299155000,1774895481294997000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895481409479000,1774895481405232000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895481592090000,1774895481588010000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895481665055000,1774895481660673000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895484319725000,1774895484301192000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895484379182000,1774895484375521000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895484534392000,1774895484529682000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895484826656000,1774895484820090000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895485074231000,1774895485067030000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895485160368000,1774895485152649000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895485238988000,1774895485234908000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895485408893000,1774895485403504000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895485628759000,1774895485617235000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895485683147000,1774895485680069000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895486140305000,1774895486132966000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895486235636000,1774895486228739000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895486484226000,1774895486476150000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895486644016000,1774895486635246000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895486798062000,1774895486792413000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,13,1774895486893887000,1774895486887016000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895497955777000,1774895497947656000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895498061407000,1774895498056707000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895498131562000,1774895498128267000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895498265296000,1774895498261678000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895498505060000,1774895498498938000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895498811911000,1774895498804500000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895498881842000,1774895498877378000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895498992328000,1774895498988825000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895499138832000,1774895499133505000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895499186308000,1774895499182005000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895499619901000,1774895499613208000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895499853087000,1774895499847662000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895500023296000,1774895500018043000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895500351987000,1774895500345029000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895500578042000,1774895500571970000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895500688585000,1774895500684749000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895500758652000,1774895500754796000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895500968785000,1774895500961443000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895501234076000,1774895501231498000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895501296089000,1774895501291878000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895501422049000,1774895501417922000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895501585210000,1774895501581069000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895501644302000,1774895501639597000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895501858919000,1774895501852383000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895502140495000,1774895502134671000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895502267386000,1774895502262882000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895502340006000,1774895502335244000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895502512013000,1774895502508392000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895502650749000,1774895502645911000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895502729555000,1774895502725778000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895502819841000,1774895502815708000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895503045596000,1774895503040834000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895503754550000,1774895503745038000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895503898028000,1774895503893262000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895503993490000,1774895503988754000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895504065619000,1774895504061186000,35,Insert,y,36,Dnes neni az take pekne pocasie taky
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895504523516000,1774895504518528000,36,Delete,y,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895504887065000,1774895504880690000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895505048273000,1774895505039125000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895505258390000,1774895505249273000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895505552501000,1774895505547862000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895505625639000,1774895505620694000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895505847107000,1774895505840892000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895505995969000,1774895505990865000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895506173966000,1774895506170022000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895506253269000,1774895506249784000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895506337530000,1774895506333387000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895506410435000,1774895506406362000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895506624227000,1774895506616484000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895507443749000,1774895507428966000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895507505656000,1774895507497926000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895507693184000,1774895507687680000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895507738168000,1774895507733755000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895507960754000,1774895507954649000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895508062603000,1774895508057697000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895508172779000,1774895508167027000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895508401796000,1774895508394366000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895508484551000,1774895508479088000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895508614126000,1774895508608988000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895508804772000,1774895508795775000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895508880329000,1774895508876154000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895509051500000,1774895509047313000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895509147275000,1774895509143059000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895509200376000,1774895509193327000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895509654683000,1774895509648136000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895509864814000,1774895509858483000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895509978285000,1774895509972533000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895510062096000,1774895510056234000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895510251810000,1774895510247464000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895511336755000,1774895511330940000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895511446894000,1774895511442397000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895511672210000,1774895511664904000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895511736629000,1774895511731200000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895511947004000,1774895511940343000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895512042110000,1774895512034132000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895512143217000,1774895512138352000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,14,1774895512247326000,1774895512242962000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895523889645000,1774895523885520000,0,Insert,D,1,D
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895523981427000,1774895523977385000,1,Insert,n,2,Dn
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895524049029000,1774895524045093000,2,Insert,e,3,Dne
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895524172404000,1774895524167224000,3,Insert,s,4,Dnes
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895524406133000,1774895524399688000,4,Insert, ,5,Dnes 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895524665281000,1774895524656963000,5,Insert,n,6,Dnes n
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895524702866000,1774895524699570000,6,Insert,e,7,Dnes ne
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895524818081000,1774895524811834000,7,Insert,n,8,Dnes nen
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895524980686000,1774895524976575000,8,Insert,i,9,Dnes neni
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895525025033000,1774895525020546000,9,Insert, ,10,Dnes neni 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895525410051000,1774895525401574000,10,Insert,a,11,Dnes neni a
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895525605430000,1774895525601327000,11,Insert,z,12,Dnes neni az
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895525782521000,1774895525774954000,12,Insert, ,13,Dnes neni az 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895525982633000,1774895525976163000,13,Insert,t,14,Dnes neni az t
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895526141829000,1774895526137804000,14,Insert,a,15,Dnes neni az ta
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895526224525000,1774895526218547000,15,Insert,k,16,Dnes neni az tak
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895526278993000,1774895526274858000,16,Insert,e,17,Dnes neni az take
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895526512682000,1774895526504550000,17,Insert, ,18,Dnes neni az take 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895526823922000,1774895526819287000,18,Insert,p,19,Dnes neni az take p
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895526889850000,1774895526884691000,19,Insert,e,20,Dnes neni az take pe
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895526995388000,1774895526991328000,20,Insert,k,21,Dnes neni az take pek
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895527161425000,1774895527155687000,21,Insert,n,22,Dnes neni az take pekn
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895527215782000,1774895527211228000,22,Insert,e,23,Dnes neni az take pekne
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895527410974000,1774895527404072000,23,Insert, ,24,Dnes neni az take pekne 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895527764271000,1774895527760144000,24,Insert,p,25,Dnes neni az take pekne p
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895527904511000,1774895527899363000,25,Insert,o,26,Dnes neni az take pekne po
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895527967439000,1774895527963776000,26,Insert,c,27,Dnes neni az take pekne poc
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895528118678000,1774895528115230000,27,Insert,a,28,Dnes neni az take pekne poca
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895528240699000,1774895528236696000,28,Insert,s,29,Dnes neni az take pekne pocas
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895528315954000,1774895528310703000,29,Insert,i,30,Dnes neni az take pekne pocasi
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895528359805000,1774895528355846000,30,Insert,e,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895528894725000,1774895528883663000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895529037819000,1774895529033567000,32,Insert,l,33,Dnes neni az take pekne pocasie l
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895529095804000,1774895529091888000,33,Insert,e,34,Dnes neni az take pekne pocasie le
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895529289557000,1774895529285104000,34,Insert,b,35,Dnes neni az take pekne pocasie leb
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895529397575000,1774895529391857000,35,Insert,o,36,Dnes neni az take pekne pocasie lebo
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895529468789000,1774895529464588000,36,Insert, ,37,Dnes neni az take pekne pocasie lebo 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895529956212000,1774895529949940000,37,Delete, ,36,Dnes neni az take pekne pocasie lebo
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895530087517000,1774895530083462000,36,Delete,o,35,Dnes neni az take pekne pocasie leb
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895530217892000,1774895530214355000,35,Delete,b,34,Dnes neni az take pekne pocasie le
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895530345536000,1774895530342694000,34,Delete,e,33,Dnes neni az take pekne pocasie l
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895530477892000,1774895530474636000,33,Delete,l,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895530863425000,1774895530859383000,32,Delete, ,31,Dnes neni az take pekne pocasie
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895532220827000,1774895532214113000,31,Insert, ,32,Dnes neni az take pekne pocasie 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895532463581000,1774895532459687000,32,Insert,t,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895532593575000,1774895532585201000,33,Insert,s,34,Dnes neni az take pekne pocasie ts
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895532667825000,1774895532664440000,34,Insert,k,35,Dnes neni az take pekne pocasie tsk
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895532797993000,1774895532794230000,35,Insert,z,36,Dnes neni az take pekne pocasie tskz
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895532932649000,1774895532928110000,36,Insert,e,37,Dnes neni az take pekne pocasie tskze
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895533270977000,1774895533265512000,37,Delete,e,36,Dnes neni az take pekne pocasie tskz
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895533383677000,1774895533380899000,36,Delete,z,35,Dnes neni az take pekne pocasie tsk
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895533512868000,1774895533509668000,35,Delete,k,34,Dnes neni az take pekne pocasie ts
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895533652023000,1774895533648974000,34,Delete,s,33,Dnes neni az take pekne pocasie t
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895534153894000,1774895534150141000,33,Insert,a,34,Dnes neni az take pekne pocasie ta
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895534414110000,1774895534409505000,34,Insert,k,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895534573009000,1774895534567902000,35,Insert,t,36,Dnes neni az take pekne pocasie takt
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895535073110000,1774895535068838000,36,Delete,t,35,Dnes neni az take pekne pocasie tak
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895535241299000,1774895535236260000,35,Insert,z,36,Dnes neni az take pekne pocasie takz
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895535383757000,1774895535379496000,36,Insert,e,37,Dnes neni az take pekne pocasie takze
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895535577530000,1774895535571113000,37,Insert, ,38,Dnes neni az take pekne pocasie takze 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895535888381000,1774895535884227000,38,Insert,n,39,Dnes neni az take pekne pocasie takze n
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895535941276000,1774895535932589000,39,Insert,e,40,Dnes neni az take pekne pocasie takze ne
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895536131126000,1774895536123271000,40,Insert,p,41,Dnes neni az take pekne pocasie takze nep
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895536285746000,1774895536276966000,41,Insert,o,42,Dnes neni az take pekne pocasie takze nepo
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895536411308000,1774895536407075000,42,Insert,j,43,Dnes neni az take pekne pocasie takze nepoj
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895536479980000,1774895536476455000,43,Insert,d,44,Dnes neni az take pekne pocasie takze nepojd
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895536573022000,1774895536569634000,44,Insert,e,45,Dnes neni az take pekne pocasie takze nepojde
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895536636452000,1774895536632522000,45,Insert,m,46,Dnes neni az take pekne pocasie takze nepojdem
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895536831806000,1774895536827503000,46,Insert, ,47,Dnes neni az take pekne pocasie takze nepojdem 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895537184389000,1774895537180659000,47,Insert,v,48,Dnes neni az take pekne pocasie takze nepojdem v
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895537260588000,1774895537254513000,48,Insert,o,49,Dnes neni az take pekne pocasie takze nepojdem vo
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895537472413000,1774895537465134000,49,Insert,n,50,Dnes neni az take pekne pocasie takze nepojdem von
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895537537329000,1774895537533214000,50,Insert, ,51,Dnes neni az take pekne pocasie takze nepojdem von 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895537821724000,1774895537815519000,51,Insert,s,52,Dnes neni az take pekne pocasie takze nepojdem von s
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895537915702000,1774895537911476000,52,Insert,o,53,Dnes neni az take pekne pocasie takze nepojdem von so
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895538112712000,1774895538107683000,53,Insert, ,54,Dnes neni az take pekne pocasie takze nepojdem von so 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895538460158000,1774895538456246000,54,Insert,p,55,Dnes neni az take pekne pocasie takze nepojdem von so p
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895538556130000,1774895538551871000,55,Insert,s,56,Dnes neni az take pekne pocasie takze nepojdem von so ps
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895538680603000,1774895538676359000,56,Insert,o,57,Dnes neni az take pekne pocasie takze nepojdem von so pso
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895538882920000,1774895538876473000,57,Insert,m,58,Dnes neni az take pekne pocasie takze nepojdem von so psom
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895538932997000,1774895538928919000,58,Insert, ,59,Dnes neni az take pekne pocasie takze nepojdem von so psom 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895539451119000,1774895539439102000,59,Insert,n,60,Dnes neni az take pekne pocasie takze nepojdem von so psom n
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895539514029000,1774895539509842000,60,Insert,a,61,Dnes neni az take pekne pocasie takze nepojdem von so psom na
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895539617349000,1774895539613012000,61,Insert, ,62,Dnes neni az take pekne pocasie takze nepojdem von so psom na 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895539941493000,1774895539934221000,62,Insert,d,63,Dnes neni az take pekne pocasie takze nepojdem von so psom na d
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895540120304000,1774895540114350000,63,Insert,v,64,Dnes neni az take pekne pocasie takze nepojdem von so psom na dv
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895540252536000,1774895540248058000,64,Insert,o,65,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvo
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895540309045000,1774895540304432000,65,Insert,r,66,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895540480458000,1774895540473518000,66,Insert, ,67,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895540825008000,1774895540817537000,67,Insert,a,68,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895541026216000,1774895541020073000,68,Insert, ,69,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a 
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895541615511000,1774895541611770000,69,Insert,n,70,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a n
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895541646549000,1774895541643487000,70,Insert,e,71,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a ne
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895541937895000,1774895541933851000,71,Insert,b,72,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a neb
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895542032528000,1774895542027020000,72,Insert,u,73,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebu
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895542124975000,1774895542118984000,73,Insert,d,74,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebud
+my57RUXuMdcCABGumWAajjhxjgi2,15,1774895542235498000,1774895542229847000,74,Insert,e,75,Dnes neni az take pekne pocasie takze nepojdem von so psom na dvor a nebude

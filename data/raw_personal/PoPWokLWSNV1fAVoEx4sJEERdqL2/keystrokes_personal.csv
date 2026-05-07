@@ -1,0 +1,1369 @@
+UserId,RoundId,TimestampAfterNs,TimestampBeforeNs,ContentLengthBefore,ActionType,KeyChar,CursorPosition,InputContent
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748345781682000,1773748345767134000,0,Insert,a,1,a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748345846189000,1773748345841934000,1,Insert,o,2,ao
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748346033205000,1773748346029432000,2,Insert,m,3,aom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748346255517000,1773748346248465000,3,Insert, ,4,aom 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748346382508000,1773748346376207000,4,Insert,s,5,aom s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748346643296000,1773748346625460000,5,Insert,a,6,aom sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748346962203000,1773748346958613000,6,Delete,a,5,aom s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748347180753000,1773748347176614000,5,Delete,s,4,aom 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748347354362000,1773748347351738000,4,Delete, ,3,aom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748347525586000,1773748347521047000,3,Delete,m,2,ao
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748347694516000,1773748347690092000,2,Delete,o,1,a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748347862744000,1773748347859464000,1,Delete,a,0,
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748348348072000,1773748348341988000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748348435217000,1773748348431589000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748348653001000,1773748348646455000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748348899393000,1773748348893018000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748349241160000,1773748349235537000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748349459242000,1773748349455508000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748349522567000,1773748349516486000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748349689423000,1773748349682836000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748349823602000,1773748349819901000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748349902267000,1773748349898466000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748350110914000,1773748350104440000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748350293930000,1773748350290300000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748350501404000,1773748350497458000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748350662003000,1773748350658454000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748350820473000,1773748350817283000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748351022234000,1773748351015918000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748351197221000,1773748351193578000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748351295623000,1773748351291887000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748351509277000,1773748351493697000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748351546784000,1773748351543099000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748351790363000,1773748351784396000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748352323391000,1773748352318865000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748352555235000,1773748352549868000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748352792024000,1773748352785636000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748353293139000,1773748353287887000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748353561198000,1773748353555536000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748353656162000,1773748353647811000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748353855114000,1773748353849595000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748354037529000,1773748354034010000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748354520695000,1773748354511904000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748355136766000,1773748355128291000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748355271743000,1773748355266497000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748355483866000,1773748355479740000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748355538075000,1773748355534367000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748357027940000,1773748357020567000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748357216215000,1773748357212275000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748357346562000,1773748357336021000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748357418870000,1773748357414588000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748357616578000,1773748357612647000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748357825561000,1773748357819868000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748357992265000,1773748357986143000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748358254908000,1773748358247068000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748358468496000,1773748358462132000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748358604602000,1773748358600804000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748358674265000,1773748358670349000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748358892095000,1773748358886960000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748359094502000,1773748359090054000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748359204335000,1773748359199521000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748359301510000,1773748359297372000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748359757232000,1773748359752877000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748359865940000,1773748359857709000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748360226915000,1773748360219862000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748360435823000,1773748360426940000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748360674706000,1773748360667642000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748360887619000,1773748360882146000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748361076200000,1773748361072023000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748362116112000,1773748362110075000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748362272780000,1773748362268213000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748362406791000,1773748362402358000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748362561274000,1773748362557570000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748362676177000,1773748362672184000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748362971128000,1773748362965174000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748363080720000,1773748363076616000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748363188237000,1773748363184292000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748363381366000,1773748363375993000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748363638283000,1773748363631557000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748363756816000,1773748363749258000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748363843317000,1773748363838720000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748364038755000,1773748364032757000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748364155488000,1773748364151129000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748364373035000,1773748364366599000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748364613009000,1773748364602858000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748364818121000,1773748364809609000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748364987457000,1773748364983547000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748365204332000,1773748365194842000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748365427187000,1773748365419631000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748365554886000,1773748365549867000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748366086699000,1773748366080691000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748366271792000,1773748366267057000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748366500554000,1773748366494277000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748366639864000,1773748366635312000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,1,1773748366809545000,1773748366803464000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748367802826000,1773748367792624000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748368021702000,1773748368011715000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748368255473000,1773748368247382000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748368492739000,1773748368486315000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748368652164000,1773748368648204000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748368850052000,1773748368846177000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748368922834000,1773748368918755000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748369087828000,1773748369083659000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748369219498000,1773748369215279000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748369295037000,1773748369291423000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748369518541000,1773748369509222000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748369715518000,1773748369711727000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748369911733000,1773748369905556000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748370068048000,1773748370063970000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748370240893000,1773748370237118000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748370432940000,1773748370428305000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748370582114000,1773748370578332000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748370692395000,1773748370688203000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748370862404000,1773748370858490000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748370914567000,1773748370910220000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748371118312000,1773748371112257000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748371617093000,1773748371611223000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748371832698000,1773748371829222000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748372076324000,1773748372069476000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748372167742000,1773748372163823000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748372347074000,1773748372336806000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748372410843000,1773748372407307000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748372601699000,1773748372597946000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748372781178000,1773748372777133000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748372985443000,1773748372981754000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748373178363000,1773748373174280000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748373287126000,1773748373283189000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748373496727000,1773748373488918000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748373564862000,1773748373560758000,33,Insert,m,34,som samuel bolibruch zachvilu idem
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748373792459000,1773748373787886000,34,Insert, ,35,som samuel bolibruch zachvilu idem 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748373974250000,1773748373970526000,35,Insert,n,36,som samuel bolibruch zachvilu idem n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748374321483000,1773748374316928000,36,Delete,n,35,som samuel bolibruch zachvilu idem 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748374617490000,1773748374612615000,35,Delete, ,34,som samuel bolibruch zachvilu idem
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748374954485000,1773748374950469000,34,Delete,m,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748375308450000,1773748375302278000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748375576435000,1773748375570445000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748375943454000,1773748375938740000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748376064924000,1773748376059339000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748376180735000,1773748376177576000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748376389009000,1773748376384639000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748376607896000,1773748376603214000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748376723692000,1773748376719779000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748376878373000,1773748376874711000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748377203342000,1773748377196252000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748377375768000,1773748377371792000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748377465565000,1773748377461752000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748377735773000,1773748377729664000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748378168720000,1773748378162938000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748378298621000,1773748378293864000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748378394646000,1773748378390416000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748378941291000,1773748378934865000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748379039234000,1773748379035401000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748379359673000,1773748379352325000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748379513863000,1773748379507506000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748379699445000,1773748379689464000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748379836451000,1773748379834070000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748380016824000,1773748380013127000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748380209790000,1773748380206889000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748380381939000,1773748380377095000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748380490997000,1773748380487253000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748380635970000,1773748380632546000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748380756064000,1773748380752555000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748381258778000,1773748381252479000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748381404585000,1773748381398921000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748381591728000,1773748381585790000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748381813038000,1773748381805151000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748382013006000,1773748382008886000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748382158806000,1773748382154179000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748382242303000,1773748382238752000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748382472641000,1773748382465586000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748382591207000,1773748382586591000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748382772371000,1773748382766850000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748382840562000,1773748382836432000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748383036956000,1773748383030129000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748383195278000,1773748383189867000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748383405168000,1773748383398638000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748383561076000,1773748383557266000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748383650916000,1773748383646524000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748383918667000,1773748383912400000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748384105401000,1773748384101114000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748384299234000,1773748384295201000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748384391625000,1773748384387266000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,2,1773748384576115000,1773748384571184000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748385429527000,1773748385422996000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748385567651000,1773748385563725000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748385755330000,1773748385751923000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748385971419000,1773748385967598000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748386129128000,1773748386126562000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748386384406000,1773748386379462000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748386617675000,1773748386611841000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748386783587000,1773748386780097000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748386905297000,1773748386902019000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748386990505000,1773748386987067000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748387199117000,1773748387191407000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748387385035000,1773748387381547000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748387595523000,1773748387589980000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748387758229000,1773748387754735000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748387924591000,1773748387920912000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748388122458000,1773748388119049000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748388272038000,1773748388268500000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748388394637000,1773748388390552000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748388567000000,1773748388563555000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748388628987000,1773748388624894000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748390623179000,1773748390616074000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748390810783000,1773748390807097000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748391025165000,1773748391019538000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748391265081000,1773748391259638000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748391332408000,1773748391327525000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748391526807000,1773748391522718000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748391600558000,1773748391597543000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748391796693000,1773748391790925000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748391957397000,1773748391953635000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748392176256000,1773748392172381000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748392397031000,1773748392388312000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748392502403000,1773748392498647000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748392725936000,1773748392720225000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748392814282000,1773748392810445000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748393039998000,1773748393033913000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748393274882000,1773748393268418000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748393446594000,1773748393442873000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748393557794000,1773748393552764000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748393762099000,1773748393758032000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748393997715000,1773748393990222000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748394114905000,1773748394108850000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748394236947000,1773748394233113000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748394446728000,1773748394440432000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748394591310000,1773748394586900000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748394669853000,1773748394665734000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748394884716000,1773748394878737000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748395097160000,1773748395090249000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748395217124000,1773748395212688000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748395299709000,1773748395295817000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748395558284000,1773748395552791000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748395703579000,1773748395699477000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748396010543000,1773748395997311000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748396249006000,1773748396239530000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748396454702000,1773748396450550000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748396832382000,1773748396826732000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748397014943000,1773748397011416000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748397230117000,1773748397224491000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748397487212000,1773748397481097000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748397597693000,1773748397593976000,58,Insert, ,59,som samuel bolibruch zachvilu iden na bicykel na magurku a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748397851736000,1773748397848031000,59,Insert,p,60,som samuel bolibruch zachvilu iden na bicykel na magurku a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748398033170000,1773748398029641000,60,Insert,o,61,som samuel bolibruch zachvilu iden na bicykel na magurku a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748398154855000,1773748398151178000,61,Insert,t,62,som samuel bolibruch zachvilu iden na bicykel na magurku a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748398215340000,1773748398211625000,62,Insert,o,63,som samuel bolibruch zachvilu iden na bicykel na magurku a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748398464946000,1773748398460867000,63,Delete,o,62,som samuel bolibruch zachvilu iden na bicykel na magurku a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748398662853000,1773748398660173000,62,Delete,t,61,som samuel bolibruch zachvilu iden na bicykel na magurku a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748398829672000,1773748398827218000,61,Delete,o,60,som samuel bolibruch zachvilu iden na bicykel na magurku a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748399064432000,1773748399060767000,60,Delete,p,59,som samuel bolibruch zachvilu iden na bicykel na magurku a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748399495530000,1773748399492574000,59,Delete, ,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748399709210000,1773748399703452000,58,Delete,a,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748400484422000,1773748400477386000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748400623853000,1773748400616770000,58,Insert, ,59,som samuel bolibruch zachvilu iden na bicykel na magurku a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748400882000000,1773748400877844000,59,Insert,p,60,som samuel bolibruch zachvilu iden na bicykel na magurku a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748401088304000,1773748401083669000,60,Insert,o,61,som samuel bolibruch zachvilu iden na bicykel na magurku a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748401595006000,1773748401591384000,61,Delete,o,60,som samuel bolibruch zachvilu iden na bicykel na magurku a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748401793665000,1773748401788982000,60,Delete,p,59,som samuel bolibruch zachvilu iden na bicykel na magurku a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748402220316000,1773748402215949000,59,Delete, ,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748403746693000,1773748403739185000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748403847434000,1773748403842456000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748403968632000,1773748403964444000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748404287677000,1773748404282620000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748404370692000,1773748404366673000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748404504627000,1773748404496660000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748404844066000,1773748404832940000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748405083607000,1773748405077661000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748405224670000,1773748405217234000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748405295563000,1773748405290072000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748405494949000,1773748405490563000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748405566180000,1773748405560554000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748405749085000,1773748405744983000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748405815414000,1773748405811371000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748405999765000,1773748405996234000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748406159808000,1773748406155929000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748406364541000,1773748406359779000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748406522524000,1773748406517988000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748406591383000,1773748406585598000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748406837450000,1773748406830267000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748407023344000,1773748407017141000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748407168472000,1773748407164209000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748407230449000,1773748407226441000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,3,1773748407407582000,1773748407401023000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748407611652000,1773748407607632000,0,Insert, ,1, 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748408138503000,1773748408136460000,1,Delete, ,0,
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748408567781000,1773748408560198000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748408872130000,1773748408866679000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748409053673000,1773748409048505000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748409258158000,1773748409250860000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748409396432000,1773748409392686000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748409586707000,1773748409580638000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748409639442000,1773748409636228000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748409810499000,1773748409806635000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748409927906000,1773748409924296000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748410009994000,1773748410006143000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748410223827000,1773748410215613000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748410381460000,1773748410377696000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748410563631000,1773748410559622000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748410740689000,1773748410734665000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748410912923000,1773748410909203000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748411133305000,1773748411127528000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748411261793000,1773748411258336000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748411401322000,1773748411396142000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748411604954000,1773748411599048000,18,Insert,h,19,som samuel bolibruh
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748412398595000,1773748412393979000,19,Delete,h,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748412904133000,1773748412898004000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748412980205000,1773748412976022000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748413435637000,1773748413430205000,20,Insert,z,21,som samuel bolibruchz
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748413949120000,1773748413944206000,21,Delete,z,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748414227592000,1773748414220188000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748414457009000,1773748414449253000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748414654547000,1773748414650384000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748414882158000,1773748414874596000,23,Insert,v,24,som samuel bolibruch zav
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748414956431000,1773748414951818000,24,Insert,h,25,som samuel bolibruch zavh
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748415145902000,1773748415141052000,25,Insert,v,26,som samuel bolibruch zavhv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748415219043000,1773748415215194000,26,Insert,i,27,som samuel bolibruch zavhvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748415400900000,1773748415396858000,27,Insert,l,28,som samuel bolibruch zavhvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748415556773000,1773748415553032000,28,Insert,u,29,som samuel bolibruch zavhvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748415757412000,1773748415753286000,29,Insert, ,30,som samuel bolibruch zavhvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748415984459000,1773748415979519000,30,Insert,i,31,som samuel bolibruch zavhvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748416068156000,1773748416063923000,31,Insert,d,32,som samuel bolibruch zavhvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748416272031000,1773748416267431000,32,Insert,e,33,som samuel bolibruch zavhvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748416327412000,1773748416323693000,33,Insert,m,34,som samuel bolibruch zavhvilu idem
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748418734223000,1773748418709996000,34,Delete,v,33,som samuel bolibruch zahvilu idem
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748418929285000,1773748418916803000,33,Insert,c,34,som samuel bolibruch zachvilu idem
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748422278883000,1773748422256221000,34,Delete,m,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748423007786000,1773748423001699000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748423233826000,1773748423226770000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748423452240000,1773748423446253000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748423583904000,1773748423571156000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748423653733000,1773748423646410000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748423840235000,1773748423834727000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748424031689000,1773748424024127000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748424125141000,1773748424121241000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748424278819000,1773748424274171000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748424491261000,1773748424484230000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748424611017000,1773748424606160000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748424680214000,1773748424675923000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748424909378000,1773748424902097000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748425111494000,1773748425105466000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748425226865000,1773748425222886000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748425317276000,1773748425312681000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748425534028000,1773748425527488000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748425850936000,1773748425844524000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748426086267000,1773748426079662000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748426292749000,1773748426283918000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748426440488000,1773748426432210000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748426545094000,1773748426540571000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748426728172000,1773748426723543000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748426940022000,1773748426934947000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748427069228000,1773748427065029000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748427189484000,1773748427184849000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748427322499000,1773748427318151000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748427510602000,1773748427500649000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748427834602000,1773748427826849000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748427949572000,1773748427945295000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748428082607000,1773748428068837000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748428279265000,1773748428271434000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748428482386000,1773748428470338000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748428565629000,1773748428558133000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748428674804000,1773748428670612000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748428848988000,1773748428843428000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748428941726000,1773748428937262000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748429103608000,1773748429098467000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748429200972000,1773748429196699000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748429411591000,1773748429403945000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748429587290000,1773748429582840000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748429841108000,1773748429831754000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748430041991000,1773748430037718000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748430149604000,1773748430145134000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748430410081000,1773748430405717000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748430600182000,1773748430592997000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748430752584000,1773748430747478000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748430808292000,1773748430804264000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,4,1773748430995150000,1773748430986997000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748431627708000,1773748431622783000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748431746450000,1773748431742422000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748431979486000,1773748431972985000,2,Insert,n,3,son
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748432209071000,1773748432201301000,3,Insert, ,4,son 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748432353841000,1773748432349498000,4,Insert,s,5,son s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748432607778000,1773748432602836000,5,Delete,s,4,son 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748432796012000,1773748432792884000,4,Delete, ,3,son
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748432973995000,1773748432970990000,3,Delete,n,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748433468777000,1773748433462589000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748433744930000,1773748433737656000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748433930333000,1773748433926399000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748434140474000,1773748434131978000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748434218836000,1773748434215162000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748434385859000,1773748434382031000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748434504436000,1773748434499965000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748434593633000,1773748434589289000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748434806973000,1773748434802774000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748434995834000,1773748434989262000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748435185811000,1773748435181638000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748435348243000,1773748435342969000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748435510408000,1773748435506357000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748435701667000,1773748435696591000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748435838169000,1773748435833253000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748435979670000,1773748435972348000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748436101734000,1773748436097907000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748436167753000,1773748436162893000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748436385404000,1773748436378421000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748436614277000,1773748436609178000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748436841266000,1773748436834973000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748437085774000,1773748437079052000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748437161609000,1773748437156617000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748437360515000,1773748437355292000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748437459426000,1773748437454912000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748437638766000,1773748437634672000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748437803162000,1773748437798343000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748438029257000,1773748438025464000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748438248215000,1773748438237969000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748438351602000,1773748438347276000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748438592792000,1773748438578659000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748438641384000,1773748438636854000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748438862428000,1773748438854640000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748439057868000,1773748439047915000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748439192421000,1773748439186482000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748439273251000,1773748439268005000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748439491868000,1773748439486668000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748439693538000,1773748439689206000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748439810726000,1773748439806648000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748439972475000,1773748439968277000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748440198139000,1773748440191900000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748440346106000,1773748440336843000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748440409924000,1773748440405846000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748440711019000,1773748440702937000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748440920996000,1773748440914505000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748441054271000,1773748441049585000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748441141492000,1773748441136474000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748441376157000,1773748441367861000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748441458197000,1773748441454026000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748441785479000,1773748441778351000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748441910660000,1773748441903833000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748442125532000,1773748442118582000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748442302024000,1773748442298001000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748442517840000,1773748442511023000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748446547276000,1773748446538379000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748446801282000,1773748446797177000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748447340381000,1773748447334346000,58,Insert, ,59,som samuel bolibruch zachvilu iden na bicykel na magurku a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748447635830000,1773748447631482000,59,Insert,p,60,som samuel bolibruch zachvilu iden na bicykel na magurku a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748447802284000,1773748447797952000,60,Insert,o,61,som samuel bolibruch zachvilu iden na bicykel na magurku a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748448148849000,1773748448145594000,61,Delete,o,60,som samuel bolibruch zachvilu iden na bicykel na magurku a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748448347959000,1773748448345296000,60,Delete,p,59,som samuel bolibruch zachvilu iden na bicykel na magurku a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748448934831000,1773748448929298000,59,Delete, ,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748449667223000,1773748449658251000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748449800573000,1773748449795447000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748449949161000,1773748449944854000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748450238837000,1773748450233702000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748450337322000,1773748450331842000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748450449423000,1773748450444942000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748450642497000,1773748450638258000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748450820180000,1773748450815631000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748450904310000,1773748450899492000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748451026618000,1773748451017037000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748451190086000,1773748451183968000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748451306221000,1773748451301023000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748451455949000,1773748451450400000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748451560566000,1773748451555414000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748451731927000,1773748451726452000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748451892930000,1773748451888936000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748452097974000,1773748452090987000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748452256667000,1773748452244410000,75,Insert,q,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748452314930000,1773748452310749000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748452554949000,1773748452552120000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748452737584000,1773748452729547000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748453044188000,1773748453039315000,79,Delete,o,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748453252055000,1773748453247414000,78,Delete,p,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748453429751000,1773748453426633000,77,Delete, ,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748453607715000,1773748453600695000,76,Delete,q,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748454208250000,1773748454202094000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748454470515000,1773748454466215000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748454753775000,1773748454746728000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748454938279000,1773748454931996000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748455116335000,1773748455105536000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748455184400000,1773748455180327000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,5,1773748455372811000,1773748455367145000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748455590155000,1773748455586061000,0,Insert, ,1, 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748456097225000,1773748456092676000,1,Delete, ,0,
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748456418680000,1773748456409481000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748456489097000,1773748456485746000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748456680566000,1773748456676540000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748456907410000,1773748456899881000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748457025703000,1773748457021366000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748457239175000,1773748457226365000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748457295709000,1773748457290836000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748457460828000,1773748457458029000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748457615388000,1773748457596884000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748457673243000,1773748457669262000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748457876266000,1773748457871641000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748458060700000,1773748458055441000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748458273438000,1773748458267150000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748458437042000,1773748458432790000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748458604223000,1773748458599760000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748458818005000,1773748458813864000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748459399336000,1773748459395064000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748459557062000,1773748459553110000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748459706116000,1773748459701133000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748459757280000,1773748459753007000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748459973548000,1773748459968276000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748460441644000,1773748460435581000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748460641493000,1773748460634312000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748460884210000,1773748460877585000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748460942792000,1773748460935559000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748461108440000,1773748461104470000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748461179140000,1773748461174861000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748461374120000,1773748461369619000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748461546363000,1773748461542380000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748461755054000,1773748461751198000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748461998482000,1773748461984286000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748462052023000,1773748462048901000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748462288909000,1773748462282499000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748462403788000,1773748462399521000,33,Insert,m,34,som samuel bolibruch zachvilu idem
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748462622044000,1773748462613413000,34,Insert, ,35,som samuel bolibruch zachvilu idem 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748462815263000,1773748462810423000,35,Insert,n,36,som samuel bolibruch zachvilu idem n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748463227307000,1773748463222193000,36,Delete,n,35,som samuel bolibruch zachvilu idem 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748463411538000,1773748463406558000,35,Delete, ,34,som samuel bolibruch zachvilu idem
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748463601976000,1773748463596905000,34,Delete,m,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748464121768000,1773748464117167000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748464308238000,1773748464303816000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748464501322000,1773748464495514000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748464626572000,1773748464620862000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748464713149000,1773748464709235000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748464931189000,1773748464927658000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748465123919000,1773748465119697000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748465222148000,1773748465217516000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748465446146000,1773748465438849000,41,Insert,e,42,som samuel bolibruch zachvilu iden na bice
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748465888727000,1773748465882992000,42,Delete,e,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748466178638000,1773748466171891000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748466353585000,1773748466348196000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748466634650000,1773748466628479000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748466756444000,1773748466749688000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748467015448000,1773748467001057000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748467212308000,1773748467204102000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748467310068000,1773748467305409000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748467403287000,1773748467398688000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748467644090000,1773748467639244000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748467747450000,1773748467741810000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748468051887000,1773748468047810000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748468244571000,1773748468240131000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748468394094000,1773748468389543000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748468520797000,1773748468516745000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748468709684000,1773748468705570000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748468929251000,1773748468922151000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748469963766000,1773748469947497000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748470026865000,1773748470021516000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748470182147000,1773748470177396000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748470271262000,1773748470266100000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748470527463000,1773748470518165000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748470596627000,1773748470592732000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748470741501000,1773748470735111000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748470938036000,1773748470933315000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748471128093000,1773748471123814000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748471218904000,1773748471214461000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748471336120000,1773748471331684000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748471507702000,1773748471500629000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748471624981000,1773748471619063000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748471770398000,1773748471765231000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748471888278000,1773748471883920000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748472082959000,1773748472077579000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748472252537000,1773748472247361000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748472453731000,1773748472449285000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748472621504000,1773748472610449000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748472689645000,1773748472685680000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748472953562000,1773748472946824000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748473152745000,1773748473146387000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748473325286000,1773748473318757000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748473380521000,1773748473376890000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,6,1773748473573194000,1773748473568273000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748474493299000,1773748474481989000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748474546533000,1773748474541749000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748474731686000,1773748474727670000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748474955790000,1773748474947800000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748475088706000,1773748475084656000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748475316157000,1773748475309129000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748475395764000,1773748475392350000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748475559248000,1773748475555335000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748475656975000,1773748475653056000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748475749414000,1773748475745682000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748475969824000,1773748475965699000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748476158885000,1773748476154878000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748476376803000,1773748476371893000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748476540661000,1773748476536661000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748476702868000,1773748476699401000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748476886621000,1773748476882569000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748477020792000,1773748477016774000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748477156710000,1773748477152528000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748477315888000,1773748477310636000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748477375844000,1773748477371115000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748477796772000,1773748477787205000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748478321193000,1773748478317065000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748478520745000,1773748478514858000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748478766827000,1773748478760348000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748478833988000,1773748478830018000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748479012447000,1773748479007338000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748479083059000,1773748479078897000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748479296140000,1773748479289924000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748479504213000,1773748479498085000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748479760843000,1773748479753693000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748479989632000,1773748479985674000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748480082504000,1773748480078597000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748480315222000,1773748480305753000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748480387049000,1773748480379396000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748480602460000,1773748480597802000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748480796639000,1773748480792625000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748480904555000,1773748480899157000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748481000060000,1773748480995694000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748481181013000,1773748481177154000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748481410386000,1773748481402614000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748481577523000,1773748481572548000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748481703779000,1773748481698914000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748481943976000,1773748481937545000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748482111831000,1773748482106023000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748482179139000,1773748482174903000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748482403920000,1773748482397054000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748482592622000,1773748482587826000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748482697970000,1773748482692184000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748482815510000,1773748482808917000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748483030350000,1773748483021504000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748483218259000,1773748483213846000,50,Insert,u,51,som samuel bolibruch zachvilu iden na bicykel na mu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748483554890000,1773748483550774000,51,Delete,u,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748483821968000,1773748483815305000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748483984414000,1773748483976748000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748484189433000,1773748484185387000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748484338816000,1773748484334244000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748484450858000,1773748484446687000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748484631366000,1773748484626873000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748484885538000,1773748484878721000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748485452408000,1773748485447745000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748485546031000,1773748485541765000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748485714755000,1773748485709546000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748485806966000,1773748485802236000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748486082109000,1773748486075589000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748486168336000,1773748486162142000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748486309405000,1773748486304594000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748486512752000,1773748486505753000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748486704678000,1773748486699933000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748486827763000,1773748486822783000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748486942187000,1773748486937079000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748487124588000,1773748487119132000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748487254856000,1773748487250138000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748487411863000,1773748487407819000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748487515906000,1773748487511204000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748487699876000,1773748487695682000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748487867351000,1773748487862963000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748488094580000,1773748488086851000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748488376555000,1773748488364708000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748488463661000,1773748488459677000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748488725984000,1773748488718527000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748488931640000,1773748488926413000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748489146852000,1773748489127488000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748489227937000,1773748489223113000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,7,1773748489414876000,1773748489403004000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748489843990000,1773748489836132000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748489970954000,1773748489966998000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748490172631000,1773748490165682000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748490394653000,1773748490387990000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748490585902000,1773748490582267000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748490808133000,1773748490800486000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748490874446000,1773748490871071000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748491054112000,1773748491050305000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748491146864000,1773748491142943000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748491257734000,1773748491251058000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748491462596000,1773748491454682000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748491639306000,1773748491633911000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748491841863000,1773748491837305000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748492002251000,1773748491998332000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748492177289000,1773748492173182000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748492381877000,1773748492375268000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748492512744000,1773748492508235000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748492649587000,1773748492645439000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748492792898000,1773748492787807000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748492875492000,1773748492870844000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748493100415000,1773748493092995000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748493285465000,1773748493279491000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748493496512000,1773748493490103000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748493742042000,1773748493732999000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748493812144000,1773748493808822000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748494009397000,1773748494003226000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748494077102000,1773748494072869000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748494262283000,1773748494258103000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748494443551000,1773748494433064000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748494670597000,1773748494663943000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748494894845000,1773748494886560000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748494999269000,1773748494994972000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748495228471000,1773748495221137000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748495287054000,1773748495283082000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748495500271000,1773748495495965000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748495682840000,1773748495678580000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748495785650000,1773748495781429000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748495898657000,1773748495893695000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748496128366000,1773748496120829000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748496322143000,1773748496316377000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748496441938000,1773748496437654000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748496601130000,1773748496596431000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748496842911000,1773748496836773000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748497044162000,1773748497036976000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748497239687000,1773748497235669000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748497522114000,1773748497517609000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748497732411000,1773748497726152000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748497837289000,1773748497831747000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748497954979000,1773748497944794000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748498153986000,1773748498146437000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748498238937000,1773748498235748000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748498433973000,1773748498429244000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748498604881000,1773748498600321000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748498760912000,1773748498756121000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748498856870000,1773748498852774000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748499054010000,1773748499049579000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748499294787000,1773748499290730000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748499569445000,1773748499565404000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748499666975000,1773748499662573000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748499805428000,1773748499800699000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748499911931000,1773748499907561000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748500180856000,1773748500173793000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748500287475000,1773748500283487000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748500410144000,1773748500405072000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748500623054000,1773748500615077000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748500812713000,1773748500808275000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748500892259000,1773748500888111000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748501015088000,1773748501010733000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748501173486000,1773748501168048000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748501285802000,1773748501279086000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748501469596000,1773748501465182000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748501542787000,1773748501538583000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748501732769000,1773748501728423000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748501911574000,1773748501899703000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748502120439000,1773748502112459000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748502259895000,1773748502254062000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748502480219000,1773748502472215000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748502811108000,1773748502804800000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748503018111000,1773748503011565000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748503562790000,1773748503558424000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748503646343000,1773748503638062000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,8,1773748503818276000,1773748503810838000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748504048666000,1773748504042572000,0,Insert, ,1, 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748504475758000,1773748504473059000,1,Delete, ,0,
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748504789256000,1773748504779513000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748504840341000,1773748504836047000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748505037832000,1773748505030287000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748505245209000,1773748505241007000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748505353970000,1773748505350168000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748505582816000,1773748505571322000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748505645883000,1773748505642548000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748505808272000,1773748505804260000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748505939510000,1773748505937231000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748506016203000,1773748506011926000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748506221618000,1773748506217069000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748506406911000,1773748506402540000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748506623159000,1773748506617615000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748506790871000,1773748506787088000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748506956314000,1773748506951968000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748507144024000,1773748507140029000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748507287028000,1773748507282926000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748507448946000,1773748507444778000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748507627737000,1773748507623543000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748507717820000,1773748507714026000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748507980444000,1773748507973186000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748508599179000,1773748508593321000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748508802927000,1773748508795599000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748509031665000,1773748509023613000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748509091585000,1773748509083516000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748509259592000,1773748509255093000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748509306346000,1773748509301717000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748509496375000,1773748509491061000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748509654387000,1773748509650429000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748509857819000,1773748509853541000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748510081907000,1773748510073423000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748510182729000,1773748510175456000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748510416088000,1773748510401149000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748510491919000,1773748510486663000,33,Insert,m,34,som samuel bolibruch zachvilu idem
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748510977926000,1773748510971826000,34,Delete,m,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748511194197000,1773748511183648000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748511389176000,1773748511382451000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748511581686000,1773748511572858000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748511711982000,1773748511706578000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748511792554000,1773748511788566000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748511981717000,1773748511977790000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748512175925000,1773748512171573000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748512251426000,1773748512244449000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748512387135000,1773748512380074000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748512587443000,1773748512583025000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748512754476000,1773748512748193000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748512819469000,1773748512814190000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748513050949000,1773748513042585000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748513234749000,1773748513229514000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748513339119000,1773748513335238000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748513435576000,1773748513431619000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748513608700000,1773748513604113000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748513699302000,1773748513693458000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748513958620000,1773748513951790000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748514159949000,1773748514155821000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748514340134000,1773748514334997000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748514440905000,1773748514434470000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748514605117000,1773748514598402000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748514810860000,1773748514803158000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748514970317000,1773748514964021000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748515087055000,1773748515081748000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748515220162000,1773748515215244000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748515325819000,1773748515321191000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748515598819000,1773748515592708000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748515880980000,1773748515874018000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748516025139000,1773748516020290000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748516232391000,1773748516224169000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748516424591000,1773748516419406000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748516525438000,1773748516520455000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748516630809000,1773748516625315000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748516811853000,1773748516807806000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748516915408000,1773748516910486000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748517079452000,1773748517068169000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748517140763000,1773748517136549000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748517327375000,1773748517323173000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748517495224000,1773748517490634000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748517715847000,1773748517707112000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748517901107000,1773748517896498000,75,Insert,q,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748517989105000,1773748517984290000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748518566376000,1773748518557853000,77,Delete, ,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu q
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748518750356000,1773748518746474000,76,Delete,q,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748518922166000,1773748518919089000,75,Delete, ,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748519507863000,1773748519499186000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748519786664000,1773748519777080000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748519892221000,1773748519888132000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748520152478000,1773748520145926000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748520335224000,1773748520330305000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748520476765000,1773748520472622000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748520560231000,1773748520556520000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,9,1773748520792989000,1773748520787698000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748521021972000,1773748521014948000,0,Insert, ,1, 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748521434292000,1773748521429210000,1,Delete, ,0,
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748521910622000,1773748521904064000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748521981211000,1773748521977424000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748522187082000,1773748522180089000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748522414584000,1773748522407724000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748522578410000,1773748522574755000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748522778683000,1773748522767403000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748522840496000,1773748522837100000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748523007545000,1773748523003361000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748523126116000,1773748523122189000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748523218454000,1773748523214898000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748523423686000,1773748523417160000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748523609197000,1773748523605480000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748523826821000,1773748523818709000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748523978606000,1773748523974098000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748524136704000,1773748524134178000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748524330714000,1773748524326719000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748524460936000,1773748524453221000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748524587265000,1773748524583113000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748524792674000,1773748524787990000,18,Insert,h,19,som samuel bolibruh
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748525625272000,1773748525621920000,19,Delete,h,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748525983522000,1773748525977531000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748526086430000,1773748526082301000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748526909786000,1773748526901146000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748527061262000,1773748527057411000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748527622353000,1773748527618563000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748527949918000,1773748527943779000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748528037183000,1773748528033215000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748528222549000,1773748528218356000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748528289678000,1773748528285737000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748528479497000,1773748528475209000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748528637501000,1773748528633547000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748528844518000,1773748528839022000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748529051783000,1773748529047086000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748529137023000,1773748529132710000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748529363850000,1773748529359777000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748529437239000,1773748529432796000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748529659630000,1773748529650739000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748529852467000,1773748529846672000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748529986101000,1773748529981087000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748530060891000,1773748530056432000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748530240781000,1773748530236575000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748530442661000,1773748530436199000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748530528226000,1773748530523726000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748530646452000,1773748530641537000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748530851981000,1773748530843623000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748530964765000,1773748530960026000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748531059054000,1773748531053305000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748531291495000,1773748531284970000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748531491329000,1773748531485286000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748531604712000,1773748531599437000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748531693557000,1773748531686909000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748531919922000,1773748531912640000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748531995723000,1773748531989637000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748532171679000,1773748532166805000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748532382168000,1773748532372734000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748532537776000,1773748532533080000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748532637393000,1773748532633393000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748532794457000,1773748532789259000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748532995645000,1773748532991038000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748533168728000,1773748533164191000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748533321088000,1773748533315902000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748533458730000,1773748533449493000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748533594695000,1773748533588054000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748533884048000,1773748533876010000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748534007021000,1773748534002197000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748534146316000,1773748534142047000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748534349380000,1773748534343768000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748534534473000,1773748534529944000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748534644985000,1773748534640913000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748534746479000,1773748534741748000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748534916338000,1773748534911673000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748535018123000,1773748535013384000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748535176312000,1773748535172046000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748535253648000,1773748535248696000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748535431186000,1773748535426978000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748535603254000,1773748535598640000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748535823218000,1773748535813284000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748535992100000,1773748535988039000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748536092755000,1773748536088434000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748536358467000,1773748536353407000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748536559932000,1773748536554583000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748536775981000,1773748536769500000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748536889318000,1773748536883150000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,10,1773748537071845000,1773748537066298000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748537864666000,1773748537854904000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748537926282000,1773748537922195000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748538105415000,1773748538100865000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748538326463000,1773748538319446000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748538457705000,1773748538453615000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748538670668000,1773748538661411000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748538747441000,1773748538739316000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748538914390000,1773748538910326000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748539024650000,1773748539020193000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748539122109000,1773748539118245000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748539336069000,1773748539330082000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748539520722000,1773748539514873000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748539718360000,1773748539713811000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748539887831000,1773748539883387000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748540075438000,1773748540067687000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748540254598000,1773748540250223000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748540389593000,1773748540385521000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748540513395000,1773748540509725000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748540659586000,1773748540654323000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748540708779000,1773748540705239000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748540925386000,1773748540921559000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748541042447000,1773748541038554000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748541295018000,1773748541290935000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748541562909000,1773748541557071000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748541667561000,1773748541660035000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748541849231000,1773748541843762000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748541924020000,1773748541915344000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748542105562000,1773748542101471000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748542284582000,1773748542280632000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748542515244000,1773748542502754000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748542735250000,1773748542727090000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748542831012000,1773748542827223000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748543083266000,1773748543076304000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748543237219000,1773748543233240000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748543441830000,1773748543433181000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748543625408000,1773748543616802000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748543730606000,1773748543725449000,36,Insert,q,37,som samuel bolibruch zachvilu iden nq
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748543821079000,1773748543816967000,37,Insert, ,38,som samuel bolibruch zachvilu iden nq 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748544000184000,1773748543995192000,38,Insert,b,39,som samuel bolibruch zachvilu iden nq b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748544198747000,1773748544194636000,39,Insert,i,40,som samuel bolibruch zachvilu iden nq bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748544296933000,1773748544291858000,40,Insert,c,41,som samuel bolibruch zachvilu iden nq bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748544584454000,1773748544580659000,41,Delete,c,40,som samuel bolibruch zachvilu iden nq bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748544779910000,1773748544776758000,40,Delete,i,39,som samuel bolibruch zachvilu iden nq b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748544968747000,1773748544965426000,39,Delete,b,38,som samuel bolibruch zachvilu iden nq 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748545148693000,1773748545145827000,38,Delete, ,37,som samuel bolibruch zachvilu iden nq
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748545310975000,1773748545308205000,37,Delete,q,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748545534334000,1773748545528222000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748546055195000,1773748546050971000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748546264180000,1773748546255467000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748546456714000,1773748546452874000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748546548812000,1773748546543983000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748546702563000,1773748546695828000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748546930066000,1773748546922136000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748547077968000,1773748547073954000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748547139926000,1773748547135923000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748547372406000,1773748547367584000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748547751783000,1773748547747110000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748547859725000,1773748547854664000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748547961259000,1773748547950616000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748548237614000,1773748548231202000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748548358533000,1773748548353676000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748549284778000,1773748549278504000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748549404314000,1773748549397121000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748549607184000,1773748549596032000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748549690689000,1773748549684321000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748549866220000,1773748549861840000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748550078098000,1773748550071794000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748550207281000,1773748550200144000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748550341195000,1773748550336974000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748550481973000,1773748550472923000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748550577667000,1773748550568854000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748551212719000,1773748551204526000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748551441532000,1773748551433604000,62,Insert,n,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale ln
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748551656163000,1773748551648950000,63,Insert, ,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale ln 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748552015511000,1773748552011498000,64,Delete, ,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale ln
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748552198102000,1773748552193135000,63,Delete,n,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748552373412000,1773748552367733000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748552733443000,1773748552726841000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748552933948000,1773748552925154000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748553140899000,1773748553135641000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748553249376000,1773748553245255000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748553374198000,1773748553367896000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748553545666000,1773748553541056000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748553655887000,1773748553651050000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748553804146000,1773748553798409000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748553883153000,1773748553879180000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748554059677000,1773748554049839000,72,Insert,k,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvik
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748554213246000,1773748554206932000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748554421999000,1773748554415082000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748554554778000,1773748554548703000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748555287201000,1773748555281529000,76,Delete,a,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748555469381000,1773748555466210000,75,Delete, ,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748555656121000,1773748555651446000,74,Delete,u,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvik
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748555856177000,1773748555846180000,73,Delete,k,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748556535662000,1773748556528518000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748556739831000,1773748556730386000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748556962110000,1773748556950230000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748557331743000,1773748557323793000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748557415801000,1773748557411956000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748557677675000,1773748557673129000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748557863877000,1773748557859692000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748558051765000,1773748558043474000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748558118598000,1773748558115416000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,11,1773748558315809000,1773748558307636000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748558985407000,1773748558978813000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748559058275000,1773748559052846000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748559245943000,1773748559242291000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748559465044000,1773748559458411000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748559620590000,1773748559616739000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748559826833000,1773748559819360000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748559883150000,1773748559879976000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748560058608000,1773748560054741000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748560164810000,1773748560160988000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748560260771000,1773748560257046000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748560477526000,1773748560468512000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748560655554000,1773748560650115000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748560875608000,1773748560868912000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748561017957000,1773748561014439000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748561188909000,1773748561184980000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748561412886000,1773748561403801000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748561550206000,1773748561545989000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748561656882000,1773748561652027000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748561828505000,1773748561824565000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748561880784000,1773748561875454000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748562123143000,1773748562119218000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748562476039000,1773748562470267000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748562684038000,1773748562677963000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748562943620000,1773748562935002000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748563009401000,1773748563005543000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748563175561000,1773748563171714000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748563242221000,1773748563238037000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748563432581000,1773748563428004000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748563595275000,1773748563590804000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748563807873000,1773748563802155000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748564053646000,1773748564042482000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748564127017000,1773748564123122000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748564369533000,1773748564362836000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748564441519000,1773748564436088000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748564633412000,1773748564629786000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748564825735000,1773748564821521000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748564922479000,1773748564917189000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748565016257000,1773748565012492000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748565212362000,1773748565206090000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748565406401000,1773748565402074000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748565515982000,1773748565511018000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748565648993000,1773748565645203000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748565883576000,1773748565876710000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748566022529000,1773748566018307000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748566114736000,1773748566110926000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748566539946000,1773748566532885000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748566796701000,1773748566792044000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748566939128000,1773748566935139000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748567029952000,1773748567023627000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748567289121000,1773748567281284000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748567377415000,1773748567372865000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748567554040000,1773748567544093000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748567766419000,1773748567758802000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748567936042000,1773748567930770000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748568052636000,1773748568047801000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748568227167000,1773748568222415000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748568436224000,1773748568432156000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748568580556000,1773748568576240000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748568689937000,1773748568685730000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748568836434000,1773748568832304000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748568926860000,1773748568922886000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748569176813000,1773748569172566000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748569314936000,1773748569310751000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748569479730000,1773748569474416000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748569704890000,1773748569697255000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748569901013000,1773748569895060000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748570042294000,1773748570036810000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748570150111000,1773748570145876000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748570385807000,1773748570378679000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748570487683000,1773748570483032000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748570654088000,1773748570645930000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748570744446000,1773748570739179000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748570926403000,1773748570922059000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748571098588000,1773748571094409000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748571330743000,1773748571326151000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748571544405000,1773748571536895000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748571660073000,1773748571650414000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748571944558000,1773748571938884000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748572140399000,1773748572133830000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748572365000000,1773748572357720000,79,Insert,l,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748572696297000,1773748572691913000,80,Delete,l,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748572958883000,1773748572952504000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748573047576000,1773748573043182000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,12,1773748573234708000,1773748573229718000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748574551255000,1773748574543970000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748574603798000,1773748574600220000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748574799455000,1773748574791638000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748575013911000,1773748575006444000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748575148749000,1773748575144981000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748575384575000,1773748575376874000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748575437429000,1773748575433698000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748575603834000,1773748575599264000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748575720817000,1773748575716134000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748575813933000,1773748575809919000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748576038464000,1773748576029577000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748576246000000,1773748576240448000,11,Insert,v,12,som samuel v
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748576635491000,1773748576631426000,12,Delete,v,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748577096938000,1773748577092641000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748577188618000,1773748577183306000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748577357073000,1773748577352260000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748577542687000,1773748577538718000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748577742197000,1773748577734447000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748577869608000,1773748577865190000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748577998151000,1773748577994239000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748578123457000,1773748578119492000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748578213773000,1773748578209940000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748578826816000,1773748578818168000,20,Insert,",",21,"som samuel bolibruch,"
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748578961221000,1773748578956721000,21,Insert, ,22,"som samuel bolibruch, "
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748579390932000,1773748579382428000,22,Insert,z,23,"som samuel bolibruch, z"
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748579611140000,1773748579604476000,23,Insert,a,24,"som samuel bolibruch, za"
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748580147911000,1773748580145168000,24,Delete,a,23,"som samuel bolibruch, z"
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748580337216000,1773748580334048000,23,Delete,z,22,"som samuel bolibruch, "
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748580523264000,1773748580520029000,22,Delete, ,21,"som samuel bolibruch,"
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748580699674000,1773748580696963000,21,Delete,",",20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748580980315000,1773748580972317000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748581252307000,1773748581245688000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748581456006000,1773748581449658000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748581732496000,1773748581724638000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748581818638000,1773748581814590000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748581981047000,1773748581977188000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748582058816000,1773748582055065000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748582251754000,1773748582244892000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748582419367000,1773748582415359000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748582623253000,1773748582619516000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748582816509000,1773748582811219000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748582899803000,1773748582895732000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748583150035000,1773748583145657000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748583587799000,1773748583579717000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748583796979000,1773748583790155000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748583979784000,1773748583975110000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748584092920000,1773748584088617000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748584172629000,1773748584168286000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748584352108000,1773748584346585000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748584540981000,1773748584536173000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748584626348000,1773748584622318000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748585086843000,1773748585078913000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748585304835000,1773748585298028000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748585478837000,1773748585473206000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748585553693000,1773748585549773000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748585783512000,1773748585776736000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748585978040000,1773748585973190000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748586105983000,1773748586100044000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748586192863000,1773748586183671000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748586418152000,1773748586413631000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748586548105000,1773748586544041000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748586750301000,1773748586742964000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748586929878000,1773748586924562000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748587068390000,1773748587064240000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748587160860000,1773748587155464000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748587323612000,1773748587319416000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748587539211000,1773748587532053000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748587691279000,1773748587686857000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748587821806000,1773748587817412000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748588073220000,1773748588068787000,59,Insert, ,60,som samuel bolibruch zachvilu iden na bicykel na magurku al 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748588646316000,1773748588643024000,60,Delete, ,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748589090368000,1773748589084548000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748589248287000,1773748589241509000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748589531867000,1773748589524742000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748589652535000,1773748589647222000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748589772971000,1773748589768421000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748589976601000,1773748589969125000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748590176273000,1773748590169815000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748590304088000,1773748590298026000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748590429127000,1773748590422469000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748590637419000,1773748590630015000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748590765039000,1773748590759468000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748590916786000,1773748590909058000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748590994010000,1773748590986052000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748591163059000,1773748591156443000,72,Insert,k,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvik
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748591329839000,1773748591323806000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748591537114000,1773748591529222000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748591696497000,1773748591691527000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748592024289000,1773748592019668000,76,Delete,a,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748592223743000,1773748592220711000,75,Delete, ,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chviku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748592417133000,1773748592410386000,74,Delete,u,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvik
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748592590233000,1773748592582107000,73,Delete,k,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748593124146000,1773748593116191000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748593318155000,1773748593312912000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748593592059000,1773748593581089000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748593897660000,1773748593890184000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748594012475000,1773748594007020000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748594301138000,1773748594296058000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748594489013000,1773748594484794000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748594666192000,1773748594660896000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748594742470000,1773748594737483000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,13,1773748594909382000,1773748594904267000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748595555356000,1773748595551040000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748595677478000,1773748595673113000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748595856136000,1773748595851111000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748596076349000,1773748596070145000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748596225021000,1773748596221220000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748596452115000,1773748596442663000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748596495585000,1773748596491851000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748596652639000,1773748596648494000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748596777778000,1773748596774005000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748596967001000,1773748596961150000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748597250681000,1773748597242344000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748597430709000,1773748597426710000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748597647203000,1773748597643361000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748597814188000,1773748597809604000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748597987518000,1773748597983749000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748598170364000,1773748598166555000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748598285262000,1773748598280926000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748598414771000,1773748598410997000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748598560728000,1773748598556996000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748598625190000,1773748598621387000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748598845136000,1773748598841488000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748599063725000,1773748599058438000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748599280623000,1773748599274154000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748599532000000,1773748599524200000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748599612192000,1773748599608214000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748599794957000,1773748599790304000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748599875475000,1773748599871267000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748600113972000,1773748600106845000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748600299937000,1773748600295879000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748600545424000,1773748600541237000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748600782165000,1773748600771868000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748600844239000,1773748600839032000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748601094334000,1773748601088075000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748601367621000,1773748601361808000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748601590754000,1773748601587675000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748601774060000,1773748601769831000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748601889310000,1773748601884604000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748601978137000,1773748601973726000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748602175146000,1773748602171404000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748602394576000,1773748602386940000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748602501596000,1773748602496269000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748602595300000,1773748602589460000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748602798365000,1773748602792814000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748602931467000,1773748602927287000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748603040474000,1773748603036544000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748603275409000,1773748603269543000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748603479805000,1773748603471521000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748603618403000,1773748603612687000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748603752951000,1773748603748090000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748604040724000,1773748604034581000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748604166704000,1773748604160753000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748604383603000,1773748604377285000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748604585989000,1773748604581695000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748604769709000,1773748604765615000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748604875577000,1773748604871617000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748605044381000,1773748605040476000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748605403528000,1773748605398190000,56,Insert,a,57,som samuel bolibruch zachvilu iden na bicykel na magurkua
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748605876088000,1773748605869192000,57,Delete,a,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748606148028000,1773748606142014000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748606412432000,1773748606404861000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748606567798000,1773748606563136000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748607323647000,1773748607314923000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748607588650000,1773748607582050000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748607907489000,1773748607902284000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748608020564000,1773748608015606000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748608146646000,1773748608138164000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748608364679000,1773748608358171000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748608561127000,1773748608553305000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748608686372000,1773748608681461000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748608811165000,1773748608804517000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748609113845000,1773748609106752000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748609238287000,1773748609233666000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748609398936000,1773748609394695000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748609503933000,1773748609496333000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748609679301000,1773748609673922000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748609837222000,1773748609832819000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748610108369000,1773748610101630000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748610492534000,1773748610487132000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748610677544000,1773748610673817000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748610957765000,1773748610951274000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748611145948000,1773748611140911000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748611252565000,1773748611248573000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748611357762000,1773748611354153000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,14,1773748611549973000,1773748611544785000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748612192189000,1773748612185210000,0,Insert,s,1,s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748612259713000,1773748612256522000,1,Insert,o,2,so
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748612451367000,1773748612445279000,2,Insert,m,3,som
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748612682388000,1773748612675977000,3,Insert, ,4,som 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748612807267000,1773748612803554000,4,Insert,s,5,som s
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748613032091000,1773748613021997000,5,Insert,a,6,som sa
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748613103103000,1773748613099482000,6,Insert,m,7,som sam
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748613267954000,1773748613263294000,7,Insert,u,8,som samu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748613370781000,1773748613366510000,8,Insert,e,9,som samue
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748613478452000,1773748613474347000,9,Insert,l,10,som samuel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748613681588000,1773748613677477000,10,Insert, ,11,som samuel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748613878983000,1773748613865924000,11,Insert,b,12,som samuel b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748614073264000,1773748614068874000,12,Insert,o,13,som samuel bo
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748614237125000,1773748614233610000,13,Insert,l,14,som samuel bol
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748614410584000,1773748614405680000,14,Insert,i,15,som samuel boli
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748614605456000,1773748614600996000,15,Insert,b,16,som samuel bolib
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748614702916000,1773748614699069000,16,Insert,r,17,som samuel bolibr
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748614827434000,1773748614823287000,17,Insert,u,18,som samuel bolibru
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748614966502000,1773748614962127000,18,Insert,c,19,som samuel bolibruc
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748615023988000,1773748615021167000,19,Insert,h,20,som samuel bolibruch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748615471209000,1773748615464615000,20,Insert, ,21,som samuel bolibruch 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748615670350000,1773748615666665000,21,Insert,z,22,som samuel bolibruch z
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748615898265000,1773748615894313000,22,Insert,a,23,som samuel bolibruch za
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748616166726000,1773748616153460000,23,Insert,c,24,som samuel bolibruch zac
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748616223061000,1773748616218470000,24,Insert,h,25,som samuel bolibruch zach
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748616415315000,1773748616410756000,25,Insert,v,26,som samuel bolibruch zachv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748616472622000,1773748616470124000,26,Insert,i,27,som samuel bolibruch zachvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748616664226000,1773748616658344000,27,Insert,l,28,som samuel bolibruch zachvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748616833159000,1773748616826891000,28,Insert,u,29,som samuel bolibruch zachvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748617053916000,1773748617049905000,29,Insert, ,30,som samuel bolibruch zachvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748617261932000,1773748617257783000,30,Insert,i,31,som samuel bolibruch zachvilu i
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748617372976000,1773748617368978000,31,Insert,d,32,som samuel bolibruch zachvilu id
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748617612952000,1773748617607017000,32,Insert,e,33,som samuel bolibruch zachvilu ide
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748617714953000,1773748617709016000,33,Insert,n,34,som samuel bolibruch zachvilu iden
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748617915416000,1773748617911016000,34,Insert, ,35,som samuel bolibruch zachvilu iden 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748618105235000,1773748618101494000,35,Insert,n,36,som samuel bolibruch zachvilu iden n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748618503571000,1773748618496539000,36,Insert,a,37,som samuel bolibruch zachvilu iden na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748618787098000,1773748618780506000,37,Insert, ,38,som samuel bolibruch zachvilu iden na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748619028074000,1773748619022367000,38,Insert,b,39,som samuel bolibruch zachvilu iden na b
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748619221203000,1773748619217122000,39,Insert,i,40,som samuel bolibruch zachvilu iden na bi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748619328104000,1773748619323321000,40,Insert,c,41,som samuel bolibruch zachvilu iden na bic
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748619475700000,1773748619470668000,41,Insert,y,42,som samuel bolibruch zachvilu iden na bicy
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748619707251000,1773748619700406000,42,Insert,k,43,som samuel bolibruch zachvilu iden na bicyk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748619820817000,1773748619815409000,43,Insert,e,44,som samuel bolibruch zachvilu iden na bicyke
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748619910218000,1773748619904050000,44,Insert,l,45,som samuel bolibruch zachvilu iden na bicykel
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748620132236000,1773748620127141000,45,Insert, ,46,som samuel bolibruch zachvilu iden na bicykel 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748620357195000,1773748620348340000,46,Insert,n,47,som samuel bolibruch zachvilu iden na bicykel n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748620477101000,1773748620468228000,47,Insert,a,48,som samuel bolibruch zachvilu iden na bicykel na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748620597080000,1773748620592448000,48,Insert, ,49,som samuel bolibruch zachvilu iden na bicykel na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748620949546000,1773748620943290000,49,Insert,m,50,som samuel bolibruch zachvilu iden na bicykel na m
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748621050131000,1773748621045632000,50,Insert,a,51,som samuel bolibruch zachvilu iden na bicykel na ma
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748621259458000,1773748621252129000,51,Insert,g,52,som samuel bolibruch zachvilu iden na bicykel na mag
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748621461768000,1773748621457491000,52,Insert,u,53,som samuel bolibruch zachvilu iden na bicykel na magu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748621614048000,1773748621608253000,53,Insert,r,54,som samuel bolibruch zachvilu iden na bicykel na magur
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748621707802000,1773748621703388000,54,Insert,k,55,som samuel bolibruch zachvilu iden na bicykel na magurk
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748621874694000,1773748621868572000,55,Insert,u,56,som samuel bolibruch zachvilu iden na bicykel na magurku
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748622088462000,1773748622084042000,56,Insert, ,57,som samuel bolibruch zachvilu iden na bicykel na magurku 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748622258261000,1773748622254094000,57,Insert,a,58,som samuel bolibruch zachvilu iden na bicykel na magurku a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748622404842000,1773748622400661000,58,Insert,l,59,som samuel bolibruch zachvilu iden na bicykel na magurku al
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748622587618000,1773748622577937000,59,Insert,e,60,som samuel bolibruch zachvilu iden na bicykel na magurku ale
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748622724606000,1773748622721383000,60,Insert, ,61,som samuel bolibruch zachvilu iden na bicykel na magurku ale 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748622960470000,1773748622956033000,61,Insert,l,62,som samuel bolibruch zachvilu iden na bicykel na magurku ale l
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748623053424000,1773748623048790000,62,Insert,e,63,som samuel bolibruch zachvilu iden na bicykel na magurku ale le
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748623225157000,1773748623220816000,63,Insert,n,64,som samuel bolibruch zachvilu iden na bicykel na magurku ale len
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748623464798000,1773748623456353000,64,Insert, ,65,som samuel bolibruch zachvilu iden na bicykel na magurku ale len 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748624004306000,1773748623988304000,65,Insert,n,66,som samuel bolibruch zachvilu iden na bicykel na magurku ale len n
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748624085983000,1773748624081610000,66,Insert,a,67,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748624208165000,1773748624202158000,67,Insert, ,68,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748624422427000,1773748624415545000,68,Insert,c,69,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na c
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748624566317000,1773748624559875000,69,Insert,h,70,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na ch
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748624753689000,1773748624747693000,70,Insert,v,71,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chv
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748624833888000,1773748624829095000,71,Insert,i,72,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvi
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748625027232000,1773748625023081000,72,Insert,l,73,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvil
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748625209144000,1773748625199760000,73,Insert,u,74,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748625427348000,1773748625422134000,74,Insert, ,75,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748625612938000,1773748625608184000,75,Insert,a,76,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748625679006000,1773748625674462000,76,Insert, ,77,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a 
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748625984785000,1773748625978406000,77,Insert,p,78,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a p
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748626179283000,1773748626174685000,78,Insert,o,79,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a po
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748626304015000,1773748626298043000,79,Insert,t,80,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a pot
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748626392658000,1773748626388311000,80,Insert,o,81,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a poto
+PoPWokLWSNV1fAVoEx4sJEERdqL2,15,1773748626575993000,1773748626570271000,81,Insert,m,82,som samuel bolibruch zachvilu iden na bicykel na magurku ale len na chvilu a potom
