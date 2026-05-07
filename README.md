@@ -113,7 +113,34 @@ Bez tohto súboru nie je možné spustiť sťahovanie dát z Firebase. Ostatné 
 
 > Tento súbor obsahuje citlivé prihlasovacie údaje – **nikdy ho nezdieľaj ani nepridávaj do gitu.**
 
-### 6. Spustenie skriptov
+### 6. Autentifikačný server
+
+Server beží lokálne na porte `8000` a vystavuje dva endpointy:
+
+| Endpoint | Metóda | Popis |
+|---|---|---|
+| `/register` | POST | Spustí tréningový pipeline pre daného používateľa (`uid`) |
+| `/authenticate` | POST | Stiahne autentifikačné dáta, vytvorí vektor a vráti rozhodnutie ACCEPT/REJECT |
+
+```bash
+uvicorn auth_server:app --reload
+```
+
+Po spustení je server dostupný na `http://localhost:8000`. Dokumentácia endpointov je automaticky dostupná na `http://localhost:8000/docs`.
+
+**Sprístupnenie servera na internete (napr. pre mobilnú aplikáciu):**
+
+Lokálny server je možné vystaviť navonok napríklad cez [ngrok](https://ngrok.com):
+
+```bash
+ngrok http 8000
+```
+
+Ngrok vygeneruje verejnú URL (napr. `https://xxxx.ngrok-free.app`), ktorú je možné použiť ako adresu servera v mobilnej aplikácii.
+
+---
+
+### 7. Spustenie skriptov
 
 Po aktivácii prostredia a inštalácii závislostí je možné spúšťať jednotlivé skripty priamo z koreňového priečinka projektu.
 
