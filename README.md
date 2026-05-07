@@ -15,7 +15,21 @@
 ## Priečinky
 
 ### `data/`
-Trénovacie a autentifikačné dáta – vektory rozdelené podľa scenárov (general / personal).
+Trénovacie a autentifikačné dáta rozdelené podľa fázy spracovania a scenára (common / personal). Každý podpriečinok používateľa je pomenovaný jeho UID z Firebase.
+
+| Priečinok | Popis |
+|---|---|
+| `authentication/{uid}/` | Dáta z autentifikačnej požiadavky – surové súbory (keystrokes, senzory) aj vypočítaný feature vektor (`vector_authentication.csv`). |
+| `raw_common/{uid}/` | Surové keystroke súbory pre spoločný text po stiahnutí z Firebase, vrátane celých aj čiastkových súborov orezaných na prvých N znakov vstupu (`_10`, `_20`, `_25`, `_50`, `_75`) pripravených na experimenty. |
+| `raw_personal/{uid}/` | To isté ako `raw_common`, ale pre osobný (personal) text. |
+| `vectors/` | Čisté vektory bez label stĺpca pre každého používateľa (spoločný text, plný vstup) – **nie sú pripravené na tréning**. |
+| `vectors_{N}/` | Čisté vektory bez labelu pre spoločný text orezaný na prvých N znakov. |
+| `vectors_personal/` | Čisté vektory bez labelu pre osobný text (plný vstup). |
+| `vectors_personal_{N}/` | Čisté vektory bez labelu pre osobný text orezaný na prvých N znakov. |
+| `training/` | Vektory s label stĺpcom pre každého používateľa (spoločný text, plný vstup) – **pripravené na tréning modelov**. |
+| `training_{N}/` | Tréningové súbory pre spoločný text orezaný na prvých N znakov. |
+| `training_personal/` | Tréningové súbory s labelmi pre osobný text (plný vstup). |
+| `training_personal_{N}/` | Tréningové súbory pre osobný text orezaný na prvých N znakov. |
 
 ### `RandomForrest/`
 - `RF_train_models_final.py` – tréning Random Forest modelov pre všetkých používateľov
