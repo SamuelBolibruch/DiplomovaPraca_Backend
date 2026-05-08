@@ -1,6 +1,7 @@
 import subprocess
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
+import sys
 
 from load_auth_data import download_latest_authentication_attempt
 from auth_vector_creation import build_auth_vector_for_user
@@ -21,7 +22,7 @@ class RegisterRequest(BaseModel):
 @app.post("/register")
 def register(req: RegisterRequest):
     result = subprocess.run(
-        ["python3", "run_models_creation_pipeline.py", "--uid", req.uid]
+        [sys.executable, "run_models_creation_pipeline.py", "--uid", req.uid]
     )
     if result.returncode != 0:
         raise HTTPException(status_code=500, detail=f"Pipeline zlyhala pre používateľa {req.uid}.")

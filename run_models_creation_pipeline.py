@@ -1,5 +1,6 @@
 import argparse
 import subprocess
+import sys  
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--uid", type=str, default=None, help="Pridaj iba nového používateľa (UID)")
@@ -26,7 +27,7 @@ for script_args in scripts:
     label = " ".join(script_args)
     print(f"\n🚀 Spúšťam {label}...\n")
 
-    result = subprocess.run(["python3"] + script_args)
+    result = subprocess.run([sys.executable] + script_args)
 
     if result.returncode != 0:
         print(f"❌ Chyba v {label}, pipeline sa zastavuje.")
