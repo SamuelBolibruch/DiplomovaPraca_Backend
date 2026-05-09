@@ -104,14 +104,24 @@ Súbor `serviceAccountKey.json` je potrebný pre skripty, ktoré komunikujú pri
 
 Bez tohto súboru nie je možné spustiť sťahovanie dát z Firebase. Ostatné skripty (tvorba vektorov, tréning modelov, experimenty, autentifikačný server) tento súbor **nepotrebujú** – pracujú len s lokálne uloženými dátami.
 
-**Ako získať `serviceAccountKey.json`:**
+**Možnosť A – prístup k pôvodnému Firebase projektu**
 
-1. V [Firebase Console](https://console.firebase.google.com) otvor svoj projekt.
+1. V [Firebase Console](https://console.firebase.google.com) otvor pôvodný projekt.
 2. Prejdi do **Project settings → Service accounts**.
 3. Klikni na **Generate new private key** a stiahni JSON súbor.
 4. Premenuj ho na `serviceAccountKey.json` a umiestni ho do koreňového priečinka projektu (vedľa `get_all_users.py`).
 
+**Možnosť B – vlastný Firebase projekt**
+
+1. V [Firebase Console](https://console.firebase.google.com) vytvor nový projekt.
+2. Aktivuj služby **Authentication**, **Firestore** a **Storage**.
+3. Prejdi do **Project settings → Service accounts**.
+4. Klikni na **Generate new private key** a stiahni JSON súbor.
+5. Premenuj ho na `serviceAccountKey.json` a umiestni ho do koreňového priečinka projektu (vedľa `get_all_users.py`).
+
 > Tento súbor obsahuje citlivé prihlasovacie údaje – **nikdy ho nezdieľaj ani nepridávaj do gitu.**
+
+> Prístup k pôvodnému Firebase projektu je možné získať na požiadanie od autora práce.
 
 ### 6. Autentifikačný server
 

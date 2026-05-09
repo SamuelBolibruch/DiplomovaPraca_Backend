@@ -1,4 +1,5 @@
 import os
+import json
 import argparse
 import logging
 import pandas as pd
@@ -10,7 +11,6 @@ import fix_data
 logger = logging.getLogger(__name__)
 
 SERVICE_ACCOUNT_KEY = "serviceAccountKey.json"
-STORAGE_BUCKET = "dp-project-4970a.firebasestorage.app"
 
 AUTH_OUTPUT_DIR = "data/authentication"
 
@@ -31,8 +31,10 @@ SENSOR_FILES = [
 ]
 
 if not firebase_admin._apps:
+    with open(SERVICE_ACCOUNT_KEY) as f:
+        _sa = json.load(f)
     cred = credentials.Certificate(SERVICE_ACCOUNT_KEY)
-    firebase_admin.initialize_app(cred, {"storageBucket": STORAGE_BUCKET})
+    firebase_admin.initialize_app(cred, {"storageBucket": f"{_sa['project_id']}.firebasestorage.app"})
 
 bucket = storage.bucket()
 

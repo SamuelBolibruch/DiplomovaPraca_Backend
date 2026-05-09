@@ -1,4 +1,5 @@
 import argparse
+import json
 import os
 import pandas as pd
 import firebase_admin
@@ -11,7 +12,6 @@ parser.add_argument("--uid", type=str, default=None, help="Spracuj iba tohto pou
 args = parser.parse_args()
 
 SERVICE_ACCOUNT_KEY = "serviceAccountKey.json"
-STORAGE_BUCKET = "dp-project-4970a.firebasestorage.app"
 
 TRAINING_CONFIGS = [
     {
@@ -31,8 +31,11 @@ SENSOR_FILES = [
     "sensor_gyroscope.csv",
 ]
 
+with open(SERVICE_ACCOUNT_KEY) as f:
+    _sa = json.load(f)
+
 cred = credentials.Certificate(SERVICE_ACCOUNT_KEY)
-firebase_admin.initialize_app(cred, {"storageBucket": STORAGE_BUCKET})
+firebase_admin.initialize_app(cred, {"storageBucket": f"{_sa['project_id']}.firebasestorage.app"})
 
 bucket = storage.bucket()
 
