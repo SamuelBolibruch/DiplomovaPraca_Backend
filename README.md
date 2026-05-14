@@ -82,7 +82,7 @@ Tréning a uložené modely Random Forest pre biometrickú autentifikáciu. Pred
 ### 1. Klonovanie repozitára
 
 ```bash
-git clone <url-repozitara>
+git clone git@github.com:SamuelBolibruch/DiplomovaPraca_Backend.git
 cd DiplomovaPraca_Backend
 ```
 
